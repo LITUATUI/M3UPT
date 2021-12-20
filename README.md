@@ -1,3 +1,3 @@
 # M3UPT - https://m3upt.com
 
-List of channels and programs in Portuguese in M3U format
+M3U list of TV and radio channels in Portuguese. Public and official streams only.
