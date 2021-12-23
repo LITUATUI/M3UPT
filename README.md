@@ -6,4 +6,4 @@ M3U: https://m3upt.com/iptv
 
 EPG https://m3upt.com/epg
 
-Use Perfect Player or ProgTV.
+Use Perfect Player or ProgTV. RTP channels don't open in most other players.
