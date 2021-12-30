@@ -25,14 +25,6 @@ M3U list of TV and radio channels in Portuguese. Public and official streams onl
 
 ---
 
-## Links to use in your IPTV player
-
-M3U: <https://m3upt.com/iptv>
-
-EPG: <https://m3upt.com/epg>
-
----
-
 ## Recommended IPTV players (Android)
 
 ### [Perfect Player](http://niklabs.com/downloads/)
@@ -57,6 +49,14 @@ EPG: <https://m3upt.com/epg>
 ---
 
 RTP channels don't open in most players. Perfect Player and ProgTV (configured with MediaPlayer engine) were the only ones that worked for me. If you know more players that can open them, let me know :)
+
+---
+
+## Links to use in your IPTV player
+
+M3U: <https://m3upt.com/iptv>
+
+EPG: <https://m3upt.com/epg>
 
 ---
 
