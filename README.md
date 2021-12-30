@@ -31,7 +31,7 @@ EPG https://m3upt.com/epg
 
 ---
 
-## Recommended IPTV players
+## Recommended IPTV players (Android)
 
 * [Perfect Player](https://www.progdvb.com/progtva_download.html)
 * [ProgTV](https://play.google.com/store/apps/details?id=com.niklabs.pp) 
