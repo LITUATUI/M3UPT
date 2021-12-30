@@ -27,9 +27,9 @@ M3U list of TV and radio channels in Portuguese. Public and official streams onl
 
 ## Links to use in your IPTV player
 
-M3U: https://m3upt.com/iptv
+M3U: <https://m3upt.com/iptv>
 
-EPG https://m3upt.com/epg
+EPG <https://m3upt.com/epg>
 
 ---
 
@@ -37,7 +37,7 @@ EPG https://m3upt.com/epg
 
 ### [Perfect Player](http://niklabs.com/downloads/)
 
-![Perfect Player screenshot!](https://github.com/LITUATUI/M3UPT/raw/main/Perfect-Player-Euronews.avif "Perfect Player screenshot")
+![Perfect Player screenshot](https://github.com/LITUATUI/M3UPT/raw/main/Perfect-Player-Euronews.avif "Perfect Player screenshot")
 
 **Recommended settings:**
 
@@ -48,7 +48,7 @@ EPG https://m3upt.com/epg
 
 ### [ProgTV](https://www.progdvb.com/progtva_download.html) 
 
-![PprogTV screenshot!](https://github.com/LITUATUI/M3UPT/raw/main/ProgTV-RTP1.avif "ProgTV screenshot")
+![PprogTV screenshot](https://github.com/LITUATUI/M3UPT/raw/main/ProgTV-RTP1.avif "ProgTV screenshot")
 
 **Recommended settings:**
 
