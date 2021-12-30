@@ -35,7 +35,7 @@ EPG: <https://m3upt.com/epg>
 
 ## Recommended IPTV players (Android)
 
-### [Perfect Player](http://niklabs.com/downloads/)
+### <a href="http://niklabs.com/downloads/" target="_blank">Perfect Player</a>
 
 ![Perfect Player screenshot](https://github.com/LITUATUI/M3UPT/raw/main/Perfect-Player-Euronews.avif "Perfect Player screenshot")
 
