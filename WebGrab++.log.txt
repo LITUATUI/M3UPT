@@ -1,0 +1,32 @@
+﻿[        ] 
+[        ]             WebGrab+Plus/w MDB & REX Postprocess -- version V3.2.2.0            
+[        ] 
+[        ]                                 Jan van Straaten                                
+[        ]                              Francis De Paemeleere                              
+[        ] 
+[        ]             thanks to Paul Weterings and all the contributing users             
+[        ] --------------------------------------------------------------------------------
+[        ] 
+[        ] Job started at 29/12/2021 19:22:49
+[  Debug ] 
+[  Debug ] Running  on: Unix 5.10.0.0
+[  Debug ] Environment: 4.0.30319.42000
+[  Debug ] Mono version: 5.18.0.240 (Debian 5.18.0.240+dfsg-3 Wed Apr 17 16:37:36 UTC 2019)
+[  Debug ] 
+[  Debug ] Loading timezone data
+[  Debug ] Embedded timezones source: timezone.timezonesdata.txt
+[  Debug ] Reading config file: /home/pedro/projects/M3UPT/WebGrab++.config.xml
+[        ] Job finished at 29/12/2021 19:22:50 done in 0s
+[Critical] 
+[Error   ] WG.Common.InvalidConfigException: [Error   ] Doesn't exist
+  at  . ..ctor (System.String ) [0x000b6] in <dbc8abb986f1459491b3d3a8a8141c6d>:0 
+[Critical] 
+  at  . ..ctor (System.String ) [0x0137c] in <dbc8abb986f1459491b3d3a8a8141c6d>:0 
+  at  .―.  (System.String[] ) [0x00351] in <dbc8abb986f1459491b3d3a8a8141c6d>:0 
+[Critical] Config syntax exception:
+[Critical]       file: /home/pedro/projects/M3UPT/WebGrab++.config.xml
+[Critical]    message: 
+[Error   ] WG.Common.InvalidConfigException: [Error   ] Doesn't exist
+  at  . ..ctor (System.String ) [0x000b6] in <dbc8abb986f1459491b3d3a8a8141c6d>:0 
+[Critical] For detailed info, see log file /home/pedro/projects/M3UPT/WebGrab++.log.txt
+[Critical] Execution stopped
