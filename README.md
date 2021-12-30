@@ -35,7 +35,7 @@ EPG https://m3upt.com/epg
 
 ## Recommended IPTV players (Android)
 
-### [Perfect Player](https://www.progdvb.com/progtva_download.html)
+### [Perfect Player](http://niklabs.com/downloads/)
 
 ![Perfect Player screenshot!](https://github.com/LITUATUI/M3UPT/raw/main/Perfect-Player-Euronews.avif "Perfect Player screenshot")
 
@@ -46,7 +46,7 @@ EPG https://m3upt.com/epg
 * Playback - Buffer size: 4
 
 
-### [ProgTV](http://niklabs.com/downloads/) 
+### [ProgTV](https://www.progdvb.com/progtva_download.html) 
 
 ![PprogTV screenshot!](https://github.com/LITUATUI/M3UPT/raw/main/ProgTV-RTP1.avif "ProgTV screenshot")
 
