@@ -48,7 +48,7 @@ EPG: <https://m3upt.com/epg>
 
 ### [ProgTV](https://www.progdvb.com/progtva_download.html) 
 
-![PprogTV screenshot](https://github.com/LITUATUI/M3UPT/raw/main/ProgTV-RTP1.avif "ProgTV screenshot")
+![ProgTV screenshot](https://github.com/LITUATUI/M3UPT/raw/main/ProgTV-RTP1.avif "ProgTV screenshot")
 
 **Recommended settings:**
 
