@@ -62,11 +62,13 @@ RTP channels don't open in most players. Perfect Player and ProgTV (configured w
 
 ## Recommended specs for Android TV boxes
 
+For a good experience you need a decent CPU and enough RAM. As a general rule avoid CPUs made by Rockchip and Allwinner.
+
 * CPU: Amlogic S905X4, S905Y4 or S905W2 (all these support the latest AV1 video codec)
 * RAM: 4 GB
 
 Affordable Android TV boxes with Amlogic CPUs are usually much better supported than the ones powered by Rockchip or Allwinner. 
-You can buy a decent device with the Amlogic S905W2 CPU and 4 GB of RAM for around 50 euros. Visit the recommended shopping websites if you want to get one.
+You can buy a decent device with the Amlogic S905W2 CPU and 4 GB of RAM for around 50 euros. Visit the recommended shopping websites below if you want to get one.
 
 ## Recommended shopping websites
 
