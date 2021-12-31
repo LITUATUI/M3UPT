@@ -70,11 +70,11 @@ You can buy a decent device with the Amlogic S905W2 CPU and 4 GB of RAM for arou
 
 ## Recommended shopping websites
 
+* [Banggood](https://m3upt.com/banggood)
+* [Geekbuying](https://m3upt.com/geekbuying)
 * [AliExpress](https://m3upt.com/aliexpress)
 * [eBay](https://m3upt.com/ebay)
 * [Amazon](https://m3upt.com/amazon)
-* [Banggood](https://m3upt.com/banggood)
-* [Geekbuying](https://m3upt.com/geekbuying)
 * [DHGate](https://m3upt.com/dhgate)
 
 These are affiliate links which means that if you click on them and buy something, I might get a small commission. It doesn’t cost you extra and helps this project.
