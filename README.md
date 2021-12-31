@@ -65,7 +65,8 @@ RTP channels don't open in most players. Perfect Player and ProgTV (configured w
 * CPU: Amlogic S905X4, S905Y4 or S905W2 (all these support the latest AV1 video codec)
 * RAM: 4 GB
 
-Affordable Android TV boxes with Amlogic CPUs are usually much better supported than the ones powered by Rockchip or Allwinner. You can buy a decent device with the Amlogic S905W2 CPU and 4 GB of RAM for around 50 euros.
+Affordable Android TV boxes with Amlogic CPUs are usually much better supported than the ones powered by Rockchip or Allwinner. 
+You can buy a decent device with the Amlogic S905W2 CPU and 4 GB of RAM for around 50 euros. Visit the sponsors if you want to get one.
 
 ---
 
