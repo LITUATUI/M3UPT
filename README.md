@@ -54,9 +54,9 @@ RTP channels don't open in most players. Perfect Player and ProgTV (configured w
 
 ## Links to use in your IPTV player
 
-M3U: <https://m3upt.com/iptv>
+* M3U: <https://m3upt.com/iptv>
 
-EPG: <https://m3upt.com/epg>
+* EPG: <https://m3upt.com/epg>
 
 ---
 
