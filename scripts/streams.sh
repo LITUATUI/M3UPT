@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# TVI - retrieve the stream URL, put it in a text file then insert it in the m3u list
+# TVI - delete the old stream URL, retrieve the new stream URL, put it in a text file then insert it in the m3u list
 
 sed -i '/live_tvi/d' m3upt.m3u
 
@@ -8,7 +8,7 @@ echo "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=$(w
 
 sed -i '/"TVI"/r TVI.txt' m3upt.m3u
 
-# CNN Portugal - retrieve the stream URL, put it in a text file then insert it in the m3u list
+# CNN Portugal - delete the old stream URL, retrieve the new stream URL, put it in a text file then insert it in the m3u list
 
 sed -i '/live_cnn/d' m3upt.m3u
 
@@ -16,7 +16,7 @@ echo "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=$(w
 
 sed -i '/"CNN-PT"/r CNN_Portugal.txt' m3upt.m3u
 
-# TVI Internacional - retrieve the stream URL, put it in a text file then insert it in the m3u list
+# TVI Internacional - delete the old stream URL, retrieve the new stream URL, put it in a text file then insert it in the m3u list
 
 sed -i '/live_tvi_internacional/d' m3upt.m3u
 
