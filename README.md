@@ -29,7 +29,7 @@ M3U list of TV and radio channels in Portuguese. Public and official streams onl
 
 ### [Perfect Player](http://niklabs.com/downloads/)
 
-![Perfect Player screenshot](https://github.com/LITUATUI/M3UPT/images/raw/main/Perfect-Player-Euronews.avif "Perfect Player screenshot")
+![Perfect Player screenshot](https://github.com/LITUATUI/M3UPT/raw/main/images/Perfect-Player-Euronews.avif "Perfect Player screenshot")
 
 **Recommended settings:**
 
@@ -40,7 +40,7 @@ M3U list of TV and radio channels in Portuguese. Public and official streams onl
 
 ### [ProgTV](https://www.progdvb.com/progtva_download.html) 
 
-![ProgTV screenshot](https://github.com/LITUATUI/M3UPT/images/raw/main/ProgTV-RTP1.avif "ProgTV screenshot")
+![ProgTV screenshot](https://github.com/LITUATUI/M3UPT/raw/main/images//ProgTV-RTP1.avif "ProgTV screenshot")
 
 **Recommended settings:**
 
