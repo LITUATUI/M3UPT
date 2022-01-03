@@ -22,6 +22,6 @@ sed -i '/live_tvi_internacional/d' m3upt.m3u
 
 echo "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=$(wget https://services.iol.pt/matrix?userId= -o /dev/null -O -)" > TVI_Internacional.txt
 
-sed -i '/"TVII"/r TVI_Internacional.txt' m3upt.m3u
+sed -i '/"TVI-I"/r TVI_Internacional.txt' m3upt.m3u
 
 exit 0
