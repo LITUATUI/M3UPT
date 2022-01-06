@@ -84,22 +84,22 @@ https://livefocamundo.com:8081/8162/index.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RUSSIA TODAY (RT)" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RT-News.png",RT News
-https://rt-news.secure.footprint.net/1103_2500Kb.m3u8
+https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="rt-america" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RT-America.png",RT America
-https://rt-usa.secure.footprint.net/1105_2500Kb.m3u8
+https://rt-usa.gcdn.co/live/rtusa/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RT HD" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RT-UK.png",RT UK
-https://rt-uk.secure.footprint.net/1106_2500Kb.m3u8
+https://rt-uk.gcdn.co/live/rtuk/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RT Francia HD" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RT-France.png",RT France
-https://rt-france.secure.footprint.net/1107_2500Kb.m3u8
+https://rt-fra.gcdn.co/live/rtfrance/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RT Español" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RT-Español.png",RT Español
-https://rt-esp.secure.footprint.net/1102_2500Kb.m3u8
+https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="rt-documentary" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RT-Documentary.png",RT Documentary
-https://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
+https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="CGTN HD" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CGTN.png",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
@@ -113,8 +113,14 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="CGTN-Documentary" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CGTN-Documentary.png",CGTN Documentary
 http://livedoc.cgtn.com/1000d/prog_index.m3u8
 
+#EXTINF:-1 group-title="TV" tvg-id="France 24 (A)" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/France-24.png",France 24 Arabic
+https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
+
 #EXTINF:-1 group-title="TV" tvg-id="France 24 (I)" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/France-24.png",France 24 English
 https://static.france24.com/live/F24_EN_LO_HLS/live_ios.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="France 24 (E)" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/France-24.png",France 24 Español
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="France 24 (F)" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/France-24.png",France 24 Français
 https://static.france24.com/live/F24_FR_LO_HLS/live_ios.m3u8
@@ -123,7 +129,7 @@ https://static.france24.com/live/F24_FR_LO_HLS/live_ios.m3u8
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="BBC World" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BBC-World-News.png",BBC World News
-http://ott-cdn.ucom.am/s24/index.m3u8
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="SKY News" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Sky-News.png",Sky News
 http://skynews-go-hls.ak-cdn.skydvn.com/skynews/1404/latest.m3u8
@@ -138,16 +144,19 @@ https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virgin
 http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="DW English" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Deutsche-Welle.png",Deutsche Welle
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="DW Espanol" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Deutsche-Welle.png",Deutsche Welle Español
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="DW Deutsch" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Deutsche-Welle.png",Deutsche Welle Deutsch
-http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-p.m3u8
+https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="DW Deutsch" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Deutsche-Welle.png",Deutsche Welle Deutsch+
-http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/index_1_av-p.m3u8
+https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="DW Deutsch" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Deutsche-Welle.png",Deutsche Welle Arabic
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="TV5 Monde" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TV5-Monde-Info.png",TV5 Monde Info
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
@@ -1224,47 +1233,59 @@ https://streaming-live.rtp.pt/liveradio/rdpint80a/playlist.m3u8
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://media.rtp.pt/institucional/wp-content/uploads/sites/31/2015/07/rdpAfrica_positivo_horiz_RGB.png",Rádio RDP África
 https://streaming-live.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8
 
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://cdn-radiotime-logos.tunein.com/s83943q.png",Rádio Oxigénio
+https://proic1.evspt.com/oxigenio_aac
+
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://cdn-profiles.tunein.com/s84192/images/logod.png",Rádio Radar
+https://proic1.evspt.com/radar_aac
+
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://cdn-profiles.tunein.com/s16311/images/logod.png",Rádio SBSR
+https://centova.radios.pt/proxy/435?mp=/stream
+
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://cdn-radiotime-logos.tunein.com/s25179d.png",Rádio Renascença
+https://25643.live.streamtheworld.com/RADIO_RENASCENCAAAC
+
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.tsf.pt/common/images/logo-tsf.png",Rádio TSF
 http://tsfdirecto.tsf.pt/tsfdirecto.mp3
 
-#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://mediaserver2.rr.pt/newrr/non_lgrr1734952d.png",Rádio Renascença
-https://20723.live.streamtheworld.com/RADIO_RENASCENCAAAC
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://observador.pt/wp-content/themes/observador-child/assets/build/img/apple-touch-icon.png",Rádio Observador
+https://playerservices.streamtheworld.com/api/livestream-redirect/OBSERVADOR_ADP.m3u8
 
-#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://dznmkb6al6kqz.cloudfront.net/sites/default/files/radio/logos/logo-cidade-fm_0.png",Rádio Cidade FM
-https://mcrwowza4.mcr.iol.pt/cidade/smil:cidade.smil/playlist.m3u8
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://cidade.iol.pt/images/logo_CIDADE_2020.png",Rádio Cidade FM
+https://media1.mcr.iol.pt/livefm/cidade/livefm/cidade_128k/chunks.m3u8
 
-#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://dznmkb6al6kqz.cloudfront.net/sites/default/files/radio/logos/logo-cidade-fm_0.png",Rádio Cidade Hip Hop
-https://mcrwowza7.mcr.iol.pt/cidhiphop/cidhiphop.stream/playlist.m3u8
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://cidade.iol.pt/images/logo_CIDADE_2020.png",Rádio Cidade Hip Hop
+https://media1.mcr.iol.pt/wrcidade/cidhiphop.stream/playlist.m3u8
+
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://cidade.iol.pt/images/logo_CIDADE_2020.png",Rádio Cidade Latina
+https://media1.mcr.iol.pt/wrcidade/cidlatina.stream/playlist.m3u8
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2007/07/logo_megafm_new.png",Rádio Mega Hits
 https://21313.live.streamtheworld.com/MEGA_HITSAAC
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://radiocomercial.iol.pt/images/logo_big.png",Rádio Comercial
-https://mcrwowza6.mcr.iol.pt/comercial/smil:comercial.smil/playlist.m3u8
+https://media1.mcr.iol.pt/livefm/comercial/livefm/comercial_128k/chunks.m3u8
 
-#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://mediaserver2.rr.pt/newrr/non_lgrfm7695d64b.png",Rádio RFM
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://cdn-radiotime-logos.tunein.com/s18720d.png",Rádio RFM
 https://21313.live.streamtheworld.com/RFMAAC
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.superfm.com/wp-content/uploads/2015/09/superfmlogo.png",Rádio Super FM
 http://95.217.75.38:9962/;&13202692901&duration=99999&id=scplayer&autostart=true
 
-#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://djnuno.com/wp-content/uploads/2011/05/Logo-Orbital-3D_2.png",Rádio Orbital
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://cdn-profiles.tunein.com/s15270/images/logod.png",Rádio Orbital
 http://stream.radio.com.pt:8401/;stream/1
 
-#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://cdn-radiotime-logos.tunein.com/s83943q.png",Rádio Oxigénio
-http://centova.radios.pt:9498
-
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://dznmkb6al6kqz.cloudfront.net/sites/default/files/radio/logos/logo-smooth-fm_0.png",Rádio Smooth FM
-http://mcrwowza5.mcr.iol.pt/smooth/ngrp:smooth.stream_all/playlist.m3u8
+https://media1.mcr.iol.pt/livefm/smooth/livefm/smooth_128k/chunks.m3u8
 
-#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2012/02/vodafone_logo-certo1.jpg",Rádio Vodafone FM
-http://mcrwowza4.mcr.iol.pt/vodafone/ngrp:vodafone.stream_all/playlist.m3u8
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2012/02/vodafone_logo-certo1.jpg",Vodafone.FM
+https://media1.mcr.iol.pt/livefm/vodafone/livefm/vodafone_128k/chunks.m3u8
 
-#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://cdn.nexttv.sapo.pt/user/channels/33/c5f/8623/logodf0f58d2e1b083cc1c467dc57b19130d-200x200.png",Rádio MEO Music
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://cdn-profiles.tunein.com/s81786/images/logod.png?t=155740",Rádio MEO Music
 http://centova.radios.pt:8495/;listen.pls
 
-#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/4/46/M80_Radio.svg/1200px-M80_Radio.svg.png",Rádio M80
-http://mcrwowza6.mcr.iol.pt/m80/ngrp:m80.stream_all/playlist.m3u8
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://cdn-profiles.tunein.com/s81784/images/logod.jpg",Rádio M80
+https://media1.mcr.iol.pt/livefm/m80/livefm/m80_128k/chunks.m3u8
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.radiot.fi/img/channel-logos/radio-nostalgia.png",Rádio Nostalgia
 http://centova.radios.pt:8435
@@ -1314,8 +1335,8 @@ http://213.136.92.8:8022/;
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://nove3cinco.pt/sv/wp-content/uploads/2015/05/Nove3Cinco-Menu-Logo.png",Nove3Cinco
 http://centova.radios.pt:9522/;
 
-#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.radiosines.com/wp-content/uploads/2015/02/logo-e1423149088399.png",Rádio Sines
-http://176.9.88.190:9580
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://radiosines.sapo.pt/assets/dist/img/logo.png",Rádio Sines
+https://ssl.evsportugal.net:7166/stream
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.radioregionaldearouca.com/site/wp-content/uploads/2015/06/logo-radio1.png",Rádio Regional Arouca
 http://centova.radio.com.pt:8485/;
