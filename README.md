@@ -85,4 +85,6 @@ These are affiliate links which means that if you click on them and buy somethin
 
 Visit the project page at <https://m3upt.com>
 
+Join the Telegram channel at <https://t.me/m3upt>
+
 Contact me at <info@m3upt.com>
