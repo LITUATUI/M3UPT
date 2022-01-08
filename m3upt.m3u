@@ -224,6 +224,9 @@ http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Cachipum-TV.png",Cachipum.TV
 https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8
 
+#EXTINF:-1 group-title="TV" tvg-logo="",Gulli
+https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
+
 #EXTINF:-1 group-title="TV" tvg-id="Trace Urban" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TRACE-Urban.png",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
