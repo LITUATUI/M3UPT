@@ -305,6 +305,9 @@ http://edge1.cl.grupoz.cl/cdofree/smil:cdn.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Red-Bull-TV.png",Red Bull TV 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
+#EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Fuel-TV.png",Fuel TV 
+https://fueltv-fueltv-9-br.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 group-title="TV" tvg-id="ARD" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Das-Erste.png",Das Erste
 https://mcdn.daserste.de/daserste/int/master.m3u8
 
