@@ -345,13 +345,13 @@ https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/playlist.m3u8
 https://alsace20.live-kd.com/live/alsace20/ngrp:alsace20_all/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Akaku-TV-1.png",Akaku TV 1
-https://akaku.vod.castus.tv/live/ch1.m3u8
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch1/video.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Akaku-TV-2.png",Akaku TV 2
-https://akaku.vod.castus.tv/live/ch2.m3u8
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Akaku-TV-3.png",Akaku TV 3
-https://akaku.vod.castus.tv/live/ch3.m3u8
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/D5-TV.png",D5 TV
 https://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8
