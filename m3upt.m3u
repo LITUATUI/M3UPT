@@ -80,19 +80,19 @@ http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVMI.png",TVM Internacional
 http://196.28.226.121:1935/live/smil:Channel2.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Euronews" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews (EN)
+#EXTINF:-1 group-title="TV" tvg-id="EURONEWS" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews (EN)
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Euronews" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews (ES)
+#EXTINF:-1 group-title="TV" tvg-id="EURONEWS" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews (ES)
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Euronews" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews (FR)
+#EXTINF:-1 group-title="TV" tvg-id="EURONEWS" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews (FR)
 https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Euronews" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews (IT)
+#EXTINF:-1 group-title="TV" tvg-id="EURONEWS" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews (IT)
 https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Euronews" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews (DE)
+#EXTINF:-1 group-title="TV" tvg-id="EURONEWS" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews (DE)
 https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="TeleSUR" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Telesur.png",TeleSUR
@@ -104,7 +104,7 @@ https://live1.presstv.ir/live/hispan.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Press-TV.png",Press TV
 https://live1.presstv.ir/live/presstv.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="RUSSIA TODAY (RT)" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RT-News.png",RT News
+#EXTINF:-1 group-title="TV" tvg-id="RT NEWS" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RT-News.png",RT News
 https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="rt-america" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RT-America.png",RT America
@@ -122,7 +122,7 @@ https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="rt-documentary" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RT-Documentary.png",RT Documentary
 https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="CGTN HD" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CGTN.png",CGTN
+#EXTINF:-1 group-title="TV" tvg-id="CGTN" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CGTN.png",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="CGTNFrancais.cn" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CGTN-Français.png",CGTN Français
@@ -134,7 +134,7 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="CGTN-Documentary" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CGTN-Documentary.png",CGTN Documentary
 http://livedoc.cgtn.com/1000d/prog_index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="AL JAZEERA ENGLISH HD" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Al-Jazeera.png",Al Jazeera English
+#EXTINF:-1 group-title="TV" tvg-id="AL JAZEERA ENGLISH" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Al-Jazeera.png",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="France 24 (I)" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/France-24.png",France 24 English
