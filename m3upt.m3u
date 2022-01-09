@@ -12,7 +12,7 @@ https://streaming-live.rtp.pt/liverepeater/rtpClean2HD.smil/playlist.m3u8
 https://live.impresa.pt/live/sic/sic.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="TVI" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS85LzIwMjIgMTI6MDozIFBNJmhhc2hfdmFsdWU9RjVITUpoZjRkck15c0M4bjl1WjBKUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTMzZDBhM2QyLTZjMTctNGM3YS1hYWUxLTA0MTE2MGMwMGQxMA==
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS85LzIwMjIgNzowOjMgUE0maGFzaF92YWx1ZT1lT1NmYndHU1RTeThnK1JEcGlpTnFnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NGQ1ZGJkMjUtYjA2ZC00MTZlLTk0NGItYjViMDJkNmRlNjMz
 
 #EXTINF:-1 group-title="TV" tvg-id="RTP 3" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP3.png",RTP 3
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
@@ -21,7 +21,7 @@ https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
 https://live.impresa.pt/live/sicnot/sicnot.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="CNN-PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS85LzIwMjIgMTI6MDo0IFBNJmhhc2hfdmFsdWU9MTRHV0F3Umx2dzhhWTJCcU9tVWpxZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTA5MDQ3YWJhLWVhZGEtNDE0MS1hNjFmLTJlYjY2NTRlM2MyYQ==
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS85LzIwMjIgNzowOjMgUE0maGFzaF92YWx1ZT1EWjhQb3ZwdEl4UTR3U2ljbTArdjFnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OTQ5MjNjZTEtMmFjOS00ODRjLWI2YzYtNjZjMmE5YmUxOTU1
 
 #EXTINF:-1 group-title="TV" tvg-id="Euronews" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews (PT)
 https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
@@ -48,7 +48,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 http://live.impresa.pt/live/sicint/sicint.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="TVI-INT" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",TVI Internacional
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS85LzIwMjIgMTI6MDo0IFBNJmhhc2hfdmFsdWU9QXBUVUVxcEFjK2IxdnlFcjQyb2kvUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTg3YWE1NTVjLWVlYzAtNDA1ZS1iNDE1LWNkZGM0MmFiNjc1ZQ==
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS85LzIwMjIgNzowOjQgUE0maGFzaF92YWx1ZT1tMXlQSkg2UUZ3TUZBaEo0Z2FieVVBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NmI0OGFkMDgtZDRiNS00ODUzLWI5YWQtNTQwMzA0MDg1OGRh
 
 #EXTINF:-1 group-title="TV" tvg-id="PORTO CANAL" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Porto-Canal.png",Porto Canal
 https://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8
@@ -60,7 +60,7 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Futura [Brazil]" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal-Futura.png",Canal Futura
-http://srv3.zoeweb.tv:1935/z01-live/stream/livestream.m3u8
+https://tv.unisc.br/hls/test.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="AgroBrasil TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/AgroBrasil-TV.png",AgroBrasil TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
@@ -101,7 +101,10 @@ https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="TeleSUR" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Telesur.png",TeleSUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",Press TV
+#EXTINF:-1 group-title="TV" tvg-id="HispanTV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/HispanTV.png",HispanTV
+https://live1.presstv.ir/live/hispan.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Press-TV.png",Press TV
 https://live1.presstv.ir/live/presstv.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RUSSIA TODAY (RT)" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RT-News.png",RT News
@@ -134,6 +137,9 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="CGTN-Documentary" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CGTN-Documentary.png",CGTN Documentary
 http://livedoc.cgtn.com/1000d/prog_index.m3u8
 
+#EXTINF:-1 group-title="TV" tvg-id="AL JAZEERA ENGLISH HD" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Al-Jazeera.png",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
 #EXTINF:-1 group-title="TV" tvg-id="France 24 (A)" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/France-24.png",France 24 Arabic
 https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
 
@@ -146,9 +152,6 @@ http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="France 24 (F)" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/France-24.png",France 24 Français
 https://static.france24.com/live/F24_FR_LO_HLS/live_ios.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="AL JAZEERA ENGLISH HD" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Al-Jazeera.png",Al Jazeera English
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-
 #EXTINF:-1 group-title="TV" tvg-id="BBC World" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BBC-World-News.png",BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
@@ -158,16 +161,16 @@ http://skynews-go-hls.ak-cdn.skydvn.com/skynews/1404/latest.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="CNN" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN.png",CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",Bloomberg TV Portugal
+#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Bloomberg.png",Bloomberg TV Portugal
 https://bloomberg-bloomberg-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",Bloomberg TV Brasil
+#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Bloomberg.png",Bloomberg TV Brasil
 https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="BloombergTVUS" tvg-logo="",Bloomberg TV Europe
+#EXTINF:-1 group-title="TV" tvg-id="BloombergTVUS" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Bloomberg.png",Bloomberg TV Europe
 https://dxszb7y0qye8h.cloudfront.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="BloombergTVUS" tvg-logo="",Bloomberg TV US
+#EXTINF:-1 group-title="TV" tvg-id="BloombergTVUS" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Bloomberg.png",Bloomberg TV US
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="NHK WORLD JAPAN HD" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NHK-World.png",NHK World
@@ -193,9 +196,6 @@ http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusin
 
 #EXTINF:-1 group-title="TV" tvg-id="BFM TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BFM-TV.png",BFM TV
 https://bfmtvalive1-a.akamaihd.net/316e573c8855429887f65feb189fb5a7/eu-central-1/876450610001/playlist.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="HispanTV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/HispanTV.png",HispanTV
-https://live1.presstv.ir/live/hispan.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="TVE 24H" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVE-24h.png",TVE 24h
 https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_0650_av-b.m3u8
