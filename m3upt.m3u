@@ -152,32 +152,29 @@ https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="CNN" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN.png",CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-name="ABC News Live" tvg-logo="https://i.imgur.com/7sJLzKi.png" group-title="USA",ABC News Live
+#EXTINF:-1 group-title="TV" tvg-id="ABC News Live" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/ABC-News.pngg",ABC News Live
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
-#EXTINF:-1 tvg-name="CBSN" tvg-logo="https://i.imgur.com/nki2HDQ.png" group-title="USA",CBSN
+#EXTINF:-1 group-title="TV" tvg-id="CBSN" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CBSN.png",CBSN
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
-#EXTINF:-1 tvg-name="NBC News Now" tvg-logo="https://i.imgur.com/v48mMRT.png" group-title="USA",NBC News Now
+#EXTINF:-1 group-title="TV" tvg-id="NBC News Now" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NBC-News-Now.png",NBC News Now
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Reuters TV" tvg-logo="https://i.imgur.com/AbvCnoH.png" group-title="USA",Reuters TV
+#EXTINF:-1 group-title="TV" tvg-id="Reuters TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Reuters-TV.png",Reuters TV
 https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-name="NASA TV Public" tvg-logo="https://i.imgur.com/rmyfoOI.png" group-title="USA",NASA TV Public
+#EXTINF:-1 group-title="TV" tvg-id="NASA TV Public" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NASA.png",NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
-#EXTINF:-1 tvg-name="NASA TV Media" tvg-logo="https://i.imgur.com/rmyfoOI.png" group-title="USA",NASA TV Media
+#EXTINF:-1 group-title="TV" tvg-id="NASA TV Media" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NASA.png",NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Bloomberg.png",Bloomberg TV Portugal
+#EXTINF:-1 group-title="TV" tvg-id="BloombergTVUS" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Bloomberg.png",Bloomberg TV Europe
 https://bloomberg-bloomberg-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Bloomberg.png",Bloomberg TV Brasil
 https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="BloombergTVUS" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Bloomberg.png",Bloomberg TV Europe
-https://dxszb7y0qye8h.cloudfront.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="BloombergTVUS" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Bloomberg.png",Bloomberg TV US
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
