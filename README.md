@@ -15,9 +15,9 @@ M3U list of TV and radio channels in Portuguese. Public and official streams onl
 * Euronews
 * ARTV
 * RTP Memória
-* RTP África
 * RTP Açores
 * RTP Madeira
+* RTP África
 * RTP Internacional
 * SIC Internacional
 * TVI Internacional
