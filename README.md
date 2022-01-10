@@ -3,7 +3,7 @@
 M3U list of TV and radio channels in Portuguese. Public and official streams only.
 
 
-## Main channels
+## Main Portuguese TV Channels
 
 * RTP 1
 * RTP 2
@@ -22,6 +22,21 @@ M3U list of TV and radio channels in Portuguese. Public and official streams onl
 * SIC Internacional
 * TVI Internacional
 * Porto Canal
+
+## Main Portuguese Radio Stations
+
+* Antena 1
+* Antena 2
+* Antena 3
+* Antena 1 Açores
+* Antena 1 Madeira
+* RDP Internacional
+* RDP África
+* Rádio Comercial
+* M80
+* Rádio Oxigénio
+* Rádio Renascença
+* TSF
 
 ---
 
