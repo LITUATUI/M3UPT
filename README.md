@@ -3,7 +3,7 @@
 M3U playlist of TV channels and radio stations in Portuguese. Public and official streams only.
 
 
-## Main Portuguese TV channels
+## 📺 Main Portuguese TV channels 🇵🇹
 
 * RTP 1
 * RTP 2
@@ -23,7 +23,7 @@ M3U playlist of TV channels and radio stations in Portuguese. Public and officia
 * TVI Internacional
 * Porto Canal
 
-## Main Portuguese radio stations
+## 📻 Main Portuguese radio stations 🇵🇹
 
 * Antena 1
 * Antena 2
