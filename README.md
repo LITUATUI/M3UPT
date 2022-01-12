@@ -40,7 +40,7 @@ M3U playlist of TV channels and radio stations in Portuguese. Public and officia
 
 ---
 
-## Recommended IPTV players (Android)
+## 🎬 Recommended IPTV players (Android)
 
 ### [Perfect Player](http://niklabs.com/downloads/)
 
@@ -67,7 +67,7 @@ RTP channels don't open in most players. Perfect Player and ProgTV (configured w
 
 ---
 
-## Links to use in your IPTV player
+## 🔗 Links to use in your IPTV player
 
 * **M3U**: <https://m3upt.com/iptv>
 
@@ -75,7 +75,7 @@ RTP channels don't open in most players. Perfect Player and ProgTV (configured w
 
 ---
 
-## Recommended specs for Android TV boxes
+## 👍 Recommended specs for Android TV boxes
 
 For a good experience you need a device with decent CPU and enough RAM. As a general rule avoid CPUs made by Rockchip and Allwinner.
 
@@ -85,7 +85,7 @@ For a good experience you need a device with decent CPU and enough RAM. As a gen
 Affordable Android TV boxes with Amlogic CPUs are usually much better supported than the ones powered by Rockchip or Allwinner. 
 You can buy a decent device with the Amlogic S905W2 CPU and 4 GB of RAM for around 50 euros. Visit the recommended shopping websites below if you want to get one.
 
-## Recommended shopping websites
+## 🛒 Recommended shopping websites
 
 * [Banggood](https://m3upt.com/banggood)
 * [Geekbuying](https://m3upt.com/geekbuying)
