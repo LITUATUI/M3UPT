@@ -10,7 +10,6 @@ https://streaming-live.rtp.pt/liverepeater/rtpClean2HD.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="SIC" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png",SIC
 #https://live.impresa.pt/live/sic/sic.m3u8
-https://alfr-bks-stp-02.cdnlab.vodafone.pt/bpk-token/2AA@1x2gplxls12n3b2nykhlyzn4w44fxz101l2yh4ca/shls_VTV_LIVE/LIVE$11/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="TVI" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI
 https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMi8yMDIyIDY6MDozIFBNJmhhc2hfdmFsdWU9emlOR3gybzJWVjNNUEJLUDJncmFEQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTkyNDRhYjE2LWIwNmItNGNjNy1iOTMwLTUxZDY5YjQyNzAxNQ==
@@ -19,7 +18,7 @@ https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="SIC NOTICIAS" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png",SIC Notícias
-https://live.impresa.pt/live/sicnot/sicnot.m3u8
+#https://live.impresa.pt/live/sicnot/sicnot.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="CNN-PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
 https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMi8yMDIyIDY6MDozIFBNJmhhc2hfdmFsdWU9NmMreWUwQXRKUjNGNnE1dFlPQmYyQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWRjNTAzMDMzLWIxMjktNGMzOS1iZDU3LTE0MWQyNzAyYThlMQ==
@@ -46,7 +45,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="SIC-INT" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/SIC-Internacional.png",SIC Internacional
-http://live.impresa.pt/live/sicint/sicint.m3u8
+#http://live.impresa.pt/live/sicint/sicint.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="TVI-INT" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",TVI Internacional
 https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMi8yMDIyIDY6MDozIFBNJmhhc2hfdmFsdWU9YnVGcVJva3NwNjY2S1RjK2tHOW9uZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTRiMzVhZmEwLTQwMmYtNDAyMi05YjBjLTFmZjY0ZjhlNGE5NA==
