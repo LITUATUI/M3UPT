@@ -93,11 +93,11 @@ https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="EURONEWS" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews (ES)
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="EURONEWS" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews (FR)
-https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 group-title="TV" tvg-id="EURONEWS" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews (IT)
 https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="EURONEWS" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews (FR)
+https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="EURONEWS" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews (DE)
 https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
@@ -120,11 +120,11 @@ https://rt-usa.gcdn.co/live/rtusa/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="RT HD" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RT-UK.png",RT UK
 https://rt-uk.gcdn.co/live/rtuk/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="RT Francia HD" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RT-France.png",RT France
-https://rt-fra.gcdn.co/live/rtfrance/playlist.m3u8
-
 #EXTINF:-1 group-title="TV" tvg-id="RT Español" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RT-Español.png",RT Español
 https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="RT Francia HD" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RT-France.png",RT France
+https://rt-fra.gcdn.co/live/rtfrance/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="rt-documentary" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RT-Documentary.png",RT Documentary
 https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8
@@ -132,11 +132,11 @@ https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="CGTN" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CGTN.png",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="CGTNFrancais.cn" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CGTN-Français.png",CGTN Français
-https://livefr.cgtn.com/1000f/prog_index.m3u8
-
 #EXTINF:-1 group-title="TV" tvg-id="CGTN Español" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CGTN-Español.png",CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="CGTNFrancais.cn" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CGTN-Français.png",CGTN Français
+https://livefr.cgtn.com/1000f/prog_index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="CGTN-Documentary" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CGTN-Documentary.png",CGTN Documentary
 http://livedoc.cgtn.com/1000d/prog_index.m3u8
@@ -244,10 +244,10 @@ https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_18
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Locomotion.png",Locomotion
-http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+#http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Cachipum-TV.png",Cachipum.TV
-https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8
+#https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Gulli.png",Gulli
 https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
