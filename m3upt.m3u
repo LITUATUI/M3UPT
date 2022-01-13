@@ -59,6 +59,12 @@ https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireali
 #EXTINF:-1 group-title="TV" tvg-id="PORTO CANAL" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Porto-Canal.png",Porto Canal
 https://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8
 
+#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Fama-TV.jpg",Fama TV
+https://streamer-b02.videos.sapo.pt/live/famatv/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Rádio-Clube-TV.jpg",Rádio Clube TV
+https://stmv1.srvsite.com/clubefmradio/clubefmradio/playlist.m3u8
+
 #EXTINF:-1 group-title="TV" tvg-id="CANAL 11" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal-11.png",Canal 11
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
 
