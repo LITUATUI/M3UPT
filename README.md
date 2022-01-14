@@ -46,7 +46,7 @@ M3U playlist of TV channels and radio stations in Portuguese. Public and officia
 
 ![Perfect Player screenshot](https://github.com/LITUATUI/M3UPT/raw/main/images/Perfect-Player-Euronews.avif "Perfect Player screenshot")
 
-**Recommended settings:**
+**Recommended settings (Android):**
 
 * GUI - Show channels groups as folders
 * Playback - Decoder: HW+
@@ -57,7 +57,7 @@ M3U playlist of TV channels and radio stations in Portuguese. Public and officia
 
 ![ProgTV screenshot](https://github.com/LITUATUI/M3UPT/raw/main/images//ProgTV-RTP1.avif "ProgTV screenshot")
 
-**Recommended settings:**
+**Recommended settings (Android):**
 
 * Options - Playback - Engine: ExoPlayer
 
