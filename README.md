@@ -53,7 +53,7 @@ M3U playlist of TV channels and radio stations in Portuguese. Public and officia
 * Playback - Buffer size: 4
 
 
-### [ProgTV](https://www.progdvb.com/progtva_download.html) (Android e Windows)
+### [ProgTV](https://www.progdvb.com/progtva_download.html) (Android and Windows)
 
 ![ProgTV screenshot](https://github.com/LITUATUI/M3UPT/raw/main/images//ProgTV-RTP1.avif "ProgTV screenshot")
 
