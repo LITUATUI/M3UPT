@@ -65,6 +65,8 @@ M3U playlist of TV channels and radio stations in Portuguese. Public and officia
 
 RTP channels don't open in most players. On Android, Perfect Player and ProgTV (configured with MediaPlayer engine) were the only ones that worked for me. If you know more players that can open them, let me know :)
 
+You can now also use Kodi with the addon PVR IPTV Simple Client.
+
 ---
 
 ## 🔗 Links to use in your IPTV player
