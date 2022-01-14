@@ -59,7 +59,7 @@ M3U playlist of TV channels and radio stations in Portuguese. Public and officia
 
 **Recommended settings:**
 
-* * Options - Playback - Engine: ExoPlayer
+* Options - Playback - Engine: ExoPlayer
 
 ---
 
