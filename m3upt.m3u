@@ -499,11 +499,6 @@ https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/master.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/D5Music.png",D5Music
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://stream-07.ix7.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKWwOOaKcuVtEu8zcXdowmxRU)/dm/3/x7zw8q9/s/live-1.m3u8
-
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-id="Sexy KPOP TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Sexy-KPOP-TV.png",Sexy KPOP TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -638,16 +633,6 @@ https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://alsace20.live-kd.com/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/D5-TV.png",D5tv
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://stream-04.dc3.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKWz7X8174yz_o7dRM30QBJXw)/dm/3/x7zw38l/s/live-1.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/MyComedy.png",MyComedy
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://stream-10.ix7.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKW64cIzsLNRfYu6R7IH40ApE)/dm/3/x7zw8t0/s/live-1.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="ARD" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Das-Erste.png",Das Erste
 #KODIPROP:inputstream=inputstream.adaptive
