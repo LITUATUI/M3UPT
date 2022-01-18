@@ -387,17 +387,17 @@ https://bfmtvalive1-a.akamaihd.net/316e573c8855429887f65feb189fb5a7/eu-central-1
 #EXTINF:-1 group-title="TV" tvg-id="TVE 24H" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVE-24h.png",TVE 24h
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_0650_av-b.m3u8
+https://rtvelivestreamv3.akamaized.net/24h/24h_main.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="LA 1" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/La1.png",La 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/index_1500_av-p.m3u8
+https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="LA 2" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/La2.png",La 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/index_1500_av-b.m3u8
+https://rtvelivestreamv3.akamaized.net/rtvesec/la2/la2_main.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="TV Galícia" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVG.png",TV Galícia
 #KODIPROP:inputstream=inputstream.adaptive
@@ -427,7 +427,7 @@ https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist
 #EXTINF:-1 group-title="TV" tvg-id="Sky TG24 HD" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Sky-TG24.png",Sky TG24
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://skyanywhere3-i.akamaihd.net/hls/live/751544/tg24ta/playlist.m3u8
+#https://skyanywhere3-i.akamaihd.net/hls/live/751544/tg24ta/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RaiNews24" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Rai-News-24.png",Rai News 24
 #KODIPROP:inputstream=inputstream.adaptive
