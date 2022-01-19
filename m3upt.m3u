@@ -469,6 +469,11 @@ https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 
+#EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Rádio-Sines.png",Rádio Sines
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://streamer-a01.videos.sapo.pt/live/radiosinesdireto/index.m3u8
+
 #EXTINF:-1 group-title="TV" tvg-id="Trace Urban" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TRACE-Urban.png",Trace Urban
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
