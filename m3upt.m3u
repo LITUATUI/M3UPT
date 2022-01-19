@@ -104,11 +104,6 @@ https://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://streamer-b02.videos.sapo.pt/live/famatv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Rádio-Clube-TV.jpg",Rádio Clube TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://stmv1.srvsite.com/clubefmradio/clubefmradio/playlist.m3u8
-
 #EXTINF:-1 group-title="TV" tvg-id="CANAL 11" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal-11.png",Canal 11
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -478,6 +473,11 @@ https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://streamer-a01.videos.sapo.pt/live/radiosinesdireto/index.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Rádio-Clube-TV.jpg",Rádio Clube TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://stmv1.srvsite.com/clubefmradio/clubefmradio/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Trace Urban" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TRACE-Urban.png",Trace Urban
 #KODIPROP:inputstream=inputstream.adaptive
