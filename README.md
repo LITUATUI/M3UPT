@@ -42,6 +42,16 @@ M3U playlist of TV channels and radio stations in Portuguese. Public and officia
 
 ## 🎬 Recommended IPTV players
 
+### [Kodi with PVR IPTV Simple Client](https://www.kodi.tv/) (Multiplatform)
+
+![Kodi screenshot](https://github.com/LITUATUI/M3UPT/raw/main/images/Kodi.avif "ProgTV screenshot")
+
+**Recommended settings:**
+
+* Default settings are fine.
+
+---
+
 ### [Perfect Player](http://niklabs.com/downloads/) (Android)
 
 ![Perfect Player screenshot](https://github.com/LITUATUI/M3UPT/raw/main/images/Perfect-Player-Euronews.avif "Perfect Player screenshot")
@@ -61,17 +71,6 @@ M3U playlist of TV channels and radio stations in Portuguese. Public and officia
 **Recommended settings:**
 
 * Options - Playback - Engine: ExoPlayer
-
----
-
-
-### [Kodi with PVR IPTV Simple Client](https://www.kodi.tv/) (Multiplatform)
-
-![Kodi screenshot](https://github.com/LITUATUI/M3UPT/raw/main/images/Kodi.avif "ProgTV screenshot")
-
-**Recommended settings:**
-
-* Default settings are fine.
 
 ---
 
