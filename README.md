@@ -42,24 +42,32 @@ M3U playlist of TV channels and radio stations in Portuguese. Public and officia
 
 ## 🎬 Recommended IPTV players
 
-### [Perfect Player](http://niklabs.com/downloads/) (Android version works - Windows version doesn't)
+### [Perfect Player](http://niklabs.com/downloads/) (Android)
 
 ![Perfect Player screenshot](https://github.com/LITUATUI/M3UPT/raw/main/images/Perfect-Player-Euronews.avif "Perfect Player screenshot")
 
-**Recommended settings (Android):**
+**Recommended settings:**
 
 * GUI - Show channels groups as folders
 * Playback - Decoder: HW+
 * Playback - Buffer size: 4
 
 
-### [ProgTV](https://www.progdvb.com/progtva_download.html) (Android version is better)
+### [ProgTV](https://www.progdvb.com/progtva_download.html) (Android)
 
 ![ProgTV screenshot](https://github.com/LITUATUI/M3UPT/raw/main/images//ProgTV-RTP1.avif "ProgTV screenshot")
 
-**Recommended settings (Android):**
+**Recommended settings:**
 
 * Options - Playback - Engine: ExoPlayer
+
+### [Kodi with PVR IPTV Simple Client](https://www.kodi.tv/) (Multiplatform)
+
+![Kodi screenshot](https://github.com/LITUATUI/M3UPT/raw/main/images/Kodi.avif "ProgTV screenshot")
+
+**Recommended settings:**
+
+* Default settings are fine.
 
 ---
 
