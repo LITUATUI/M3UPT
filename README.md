@@ -52,6 +52,7 @@ M3U playlist of TV channels and radio stations in Portuguese. Public and officia
 * Playback - Decoder: HW+
 * Playback - Buffer size: 4
 
+---
 
 ### [ProgTV](https://www.progdvb.com/progtva_download.html) (Android)
 
@@ -60,6 +61,9 @@ M3U playlist of TV channels and radio stations in Portuguese. Public and officia
 **Recommended settings:**
 
 * Options - Playback - Engine: ExoPlayer
+
+---
+
 
 ### [Kodi with PVR IPTV Simple Client](https://www.kodi.tv/) (Multiplatform)
 
