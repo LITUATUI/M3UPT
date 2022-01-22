@@ -1,5 +1,7 @@
 name: Update TVI stream URLs
 on: push
+schedule:
+    - cron: '0 * * * *'  # every hour
 jobs:
   date:
     runs-on: ubuntu-latest
