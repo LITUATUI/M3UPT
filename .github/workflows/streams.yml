@@ -8,7 +8,7 @@ name: Update TVI stream URLs
     - cron: "0 * * * *"
 
 jobs:
-  date:
+  Streams:
     runs-on: ubuntu-latest
     steps:
       # Checkout the branch
