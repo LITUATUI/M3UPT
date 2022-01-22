@@ -1,0 +1,24 @@
+# Publish GitHub workflow artifacts tutorial example
+name: Environment Variables List
+on:
+  push:
+    branches: [ change-to-master-or-main ]
+jobs:
+
+  github-actions-environment-variables-ubuntu:
+    runs-on: ubuntu-latest
+    steps:
+      - name: List of the GitHub Actions environment variables on Windows
+        run: env
+
+  github-actions-environment-variables-windows:
+    runs-on: windows-latest
+    steps:
+      - name: Ubuntu GitHub Actions environment variables List
+        run: env
+
+  github-actions-environment-variables-macos:
+    runs-on: macos-latest
+    steps:
+      - name: MacOs List of GitHub Actions environment variables
+        run: env
