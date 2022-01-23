@@ -4,27 +4,24 @@ on:
     - cron: "0 * * * *"
 
 jobs:
-  Streams:
+  Update-streams:
     runs-on: ubuntu-latest
     steps:
-      # Checkout the branch
+    
       - name: checkout
         uses: actions/checkout@v2
 
-      # TVI - update the stream URLs of TVI channels
-      - name: update TVI stream URLs
+      - name: update streams
         run: |
           sed -i "/live_tvi\/live_tvi/ c https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=$(wget https://services.iol.pt/matrix?userId= -o /dev/null -O -)/" m3upt.m3u
           sed -i "/live_cnn/ c https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=$(wget https://services.iol.pt/matrix?userId= -o /dev/null -O -)/" m3upt.m3u
           sed -i "/live_tvi_internacional/ c https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=$(wget https://services.iol.pt/matrix?userId= -o /dev/null -O -)/" m3upt.m3u
 
-      # setup the username and email
       - name: setup git config
         run: |
           git config user.name "M3UPT Bot"
           git config user.email "<>"
 
-      # Stage the file, commit and push
       - name: commit
         run: |
           git add m3upt.m3u
