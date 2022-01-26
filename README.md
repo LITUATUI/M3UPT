@@ -88,13 +88,13 @@ RTP channels don't open in most players. Kodi with the addon PVR IPTV Simple Cli
 
 ## 👍 Recommended specs for Android TV boxes
 
-For a good experience you need a device with decent CPU and enough RAM. As a general rule avoid CPUs made by Rockchip and Allwinner.
+For a good experience you need a device with decent SoC and enough RAM. As a general rule avoid SoCs made by Rockchip and Allwinner.
 
-* **CPU**: Amlogic S905W2 (cheap, energy efficient and supports the recent AV1 video codec)
+* **SoC**: Amlogic S905W2 (cheap, energy efficient and supports the recent AV1 video codec)
 * **RAM**: 4 GB
 
-Affordable Android TV boxes with Amlogic CPUs are usually much better supported than the ones powered by Rockchip or Allwinner. 
-You can buy a decent device with the Amlogic S905W2 CPU and 4 GB of RAM for around 50 euros. Visit the recommended shopping websites below if you want to get one.
+Affordable Android TV boxes with Amlogic SoCs are usually much better supported than the ones powered by Rockchip or Allwinner. 
+You can buy a decent device with the Amlogic S905W2 SoC and 4 GB of RAM for around 50 euros. Visit the recommended shopping websites below if you want to get one.
 
 ## 🛒 Recommended shopping websites
 
