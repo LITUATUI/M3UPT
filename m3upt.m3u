@@ -17,6 +17,7 @@ https://streaming-live.rtp.pt/liverepeater/rtpClean2HD.smil/playlist.m3u8|user-a
 #EXTINF:-1 group-title="TV" tvg-id="SIC" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png",SIC
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
+http://dspecg.tth.cl:6500/ponto/sic/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNi8yMDIyIDc6Mjc6MjAgUE0maGFzaF92YWx1ZT15bXNJRzErSCtGdnJWYW9oanc2RFZBPT0mdmFsaWRtaW51dGVzPTI=|User-Agent=stagefright%2F1.2+%28Linux%3BAndroid+7.1.2%29
 #https://live.impresa.pt/live/sic/sic.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="TVI" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI
