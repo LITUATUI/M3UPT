@@ -39,6 +39,11 @@ https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8|user-age
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xLzIwMjIgMzoxOToxOCBQTSZoYXNoX3ZhbHVlPXZMazhWSXVXZmV3S3p5NGhtSGxOYWc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1hZWM1MmJkYy1lZDgzLTRkZjktOWEzYi05M2ZhMWRmMWNiNTk=/
 
+#EXTINF:-1 group-title="TV" tvg-id="CNN Brasil" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Brasil.png",CNN Brasil
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+
 #EXTINF:-1 group-title="TV" tvg-id="EURONEWS" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews (PT)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
