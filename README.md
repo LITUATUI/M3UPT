@@ -1,6 +1,6 @@
 # 📺M3UPT🇵🇹
 
-M3U playlist of TV channels and radio stations in Portuguese. Public and official streams only.
+M3U playlist of TV channels and radio stations in Portuguese optimized for Kodi. Public and official streams only.
 
 
 ## 📺 Main Portuguese TV channels 🇵🇹
