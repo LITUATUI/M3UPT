@@ -86,7 +86,7 @@ Os canais da RTP não abrem em alguns leitores.
 
 ---
 
-## 👍 TV boxes Android recomendadas
+## 👍 Características recomendadas para TV boxes Android
 
 Para uma boa experiência de utilização o seu aparelho deverá ter um bom processador e memória RAM suficiente. Evite processadores da Rockchip e da Allwinner.
 
