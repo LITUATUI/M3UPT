@@ -105,7 +105,7 @@ Pode encontrar um aparelho com processador Amlogic S905W2 e 4 GB de RAM por pre�
 * [Amazon](https://m3upt.com/amazon)
 * [DHGate](https://m3upt.com/dhgate)
 
-Se clicar nestes links e comprar alguma coisa, eu poderei receber uma pequena comissão. Não lhe sai mais caro e assim ajuda a manter este projecto em funcionamento.
+Se clicar nestes links e comprar alguma coisa, eu poderei receber uma pequena comissão. Não lhe sai mais caro e assim ajuda a manter este projeto em funcionamento.
 
 ---
 
