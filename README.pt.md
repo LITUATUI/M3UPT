@@ -42,7 +42,7 @@ Lista em formato M3U de canais de TV e estações de rádio em Português optimi
 
 ## 🎬 Leitores de IPTV recomendados
 
-### [Kodi with PVR IPTV Simple Client](https://www.kodi.tv/) (Multiplataforma)
+### [Kodi com PVR IPTV Simple Client](https://www.kodi.tv/) (Multiplataforma)
 
 ![Kodi screenshot](https://github.com/LITUATUI/M3UPT/raw/main/images/Kodi.avif "ProgTV screenshot")
 
