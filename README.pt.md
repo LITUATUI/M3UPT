@@ -38,6 +38,53 @@ Lista em formato M3U de canais de TV e estações de rádio em Português optimi
 * Rádio Renascença
 * TSF
 
+## 📺 Principais canais de TV internacionais 🌍
+
+* Euronews (EN)
+* Euronews (ES)
+* Euronews (IT)
+* Euronews (FR)
+* Euronews (DE)
+* TeleSur
+* RT News
+* RT America
+* RT UK
+* RT Español
+* RT France
+* RT Documentary
+* CGTN
+* CGTN Español
+* CGTN Français
+* Al Jazeera English
+* France 24 English
+* France 24 Español
+* France 24 Français
+* CNN Brasil
+* CNN International
+* Reuters TV
+* NASA TV
+* NHK World
+* Deutsche Welle Espanõl
+* Deutsche Welle Deutsch
+* Deutsche Welle Arabic
+* TV5 Monde Info
+* TVE 24h
+* La 1
+* La 2
+* Gulli
+* Trace Urban
+* Fuel TV
+* Red Bull TV
+* Fashion TV
+
+## 📻 Principais estações de rádio internacionais 🌍
+
+* Venice Classic Radio
+
+## 🏖️ Beachcam
+
+* Mais de 100 cameras em praias portuguesas
+
 ---
 
 ## 🎬 Leitores de IPTV recomendados
