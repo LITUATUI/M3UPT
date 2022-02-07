@@ -74,7 +74,7 @@ M3U playlist of TV channels and radio stations in Portuguese optimized for Kodi.
 
 ---
 
-RTP channels don't open in most players. Kodi with the addon PVR IPTV Simple Client, Perfect Player (Android) and ProgTV (Android and Windows) were the only ones that worked for me. If you know more players that can open them, let me know :)
+RTP channels don't open in some players.
 
 ---
 
