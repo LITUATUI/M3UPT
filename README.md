@@ -81,7 +81,9 @@ M3U playlist of TV channels and radio stations in Portuguese optimized for Kodi.
 
 * Venice Classic Radio
 
-## 🏖️ Beachcam (Portuguese beaches)
+## 🏖️ Beachcam
+
+* Over 100 cameras in Portuguese beaches
 
 ---
 
