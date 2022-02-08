@@ -21,6 +21,6 @@ jobs:
 
       - name: commit
         run: |
-          git add meo.pt.epg.xml meo.pt.epg.xml.gz
+          git add ~/epg/meo.pt.epg.xml ~/epg/meo.pt.epg.xml.gz
           git commit -m "Update EPG"
           git push origin main
