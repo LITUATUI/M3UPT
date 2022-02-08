@@ -1,0 +1,30 @@
+name: Update EPG
+on:
+  schedule:
+    - cron: "0 * * * *"
+
+jobs:
+  Update-epg:
+    runs-on: ubuntu-latest
+    steps:
+    
+      - name: checkout
+        uses: actions/checkout@v2
+        
+      - name: Install XMLTV
+        run: sudo apt-get install -y xmltv
+        
+      - name: update EPG
+        run: |
+          sh ~/epg/epg.sh
+
+      - name: setup git config
+        run: |
+          git config user.name "M3UPT Bot"
+          git config user.email "<>"
+
+      - name: commit
+        run: |
+          git add epg.xml.gz
+          git commit -m "Update EPG"
+          git push origin main
