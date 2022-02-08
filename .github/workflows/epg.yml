@@ -1,7 +1,7 @@
 name: Update EPG
 on:
   schedule:
-    - cron: "0 5 * * *"
+    - cron: "0 * * * *"
 
 jobs:
   Update-epg:
@@ -10,9 +10,6 @@ jobs:
     
       - name: checkout
         uses: actions/checkout@v2
-        
-      - name: install XMLTV
-        run: sudo apt-get install -y xmltv
         
       - name: update EPG
         run: cd epg && sh epg.sh
@@ -24,6 +21,6 @@ jobs:
 
       - name: commit
         run: |
-          git add epg.xml epg.xml.gz
+          git add meo.pt.epg.xml meo.pt.epg.xml.gz
           git commit -m "Update EPG"
           git push origin main
