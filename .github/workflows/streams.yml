@@ -25,5 +25,5 @@ jobs:
       - name: commit
         run: |
           git add m3upt.m3u
-          git commit -m "Update TVI stream URLs"
+          git commit -m "Update streams"
           git push origin main
