@@ -1,4 +1,4 @@
-name: Update TVI stream URLs
+name: Update streams
 on:
   schedule:
     - cron: "0 * * * *"
