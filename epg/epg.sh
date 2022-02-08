@@ -1,9 +1,5 @@
 #!/bin/bash
 
-wget -N https://github.com/XMLTV/xmltv/raw/master/grab/pt_meo/tv_grab_pt_meo
-
-perl tv_grab_pt_meo --config-file meo.conf --output epg.xml
-
-gzip -c epg.xml > epg.xml.gz
+wget -N https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml && gzip -c meo.pt.epg.xml > meo.pt.epg.xml.gz
 
 exit 0
