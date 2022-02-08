@@ -24,6 +24,6 @@ jobs:
 
       - name: commit
         run: |
-          git add epg.xml.gz
+          git add epg.xml epg.xml.gz
           git commit -m "Update EPG"
           git push origin main
