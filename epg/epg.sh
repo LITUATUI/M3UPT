@@ -1,6 +1,6 @@
 #!/bin/bash
 
-wget https://github.com/XMLTV/xmltv/raw/master/grab/pt_meo/tv_grab_pt_meo
+wget -N https://github.com/XMLTV/xmltv/raw/master/grab/pt_meo/tv_grab_pt_meo
 
 perl tv_grab_pt_meo --config-file meo.conf --output epg.xml
 
