@@ -2,6 +2,7 @@
 
 M3U playlist of TV channels and radio stations in Portuguese optimized for Kodi. Public and official streams only.
 
+You can use the [Issues](https://github.com/LITUATUI/M3UPT/issues) section to report bugs or broken links and the [Discussions](https://github.com/LITUATUI/M3UPT/discussions) section for suggestions or general conversation.
 
 ## 📺 Main Portuguese TV channels 🇵🇹
 
