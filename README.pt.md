@@ -2,6 +2,8 @@
 
 Lista em formato M3U de canais de TV e estações de rádio em Português optimizada para o Kodi. Apenas com streams públicos e oficiais.
 
+Pode usar a seccção [Issues](https://github.com/LITUATUI/M3UPT/issues) para reportar bugs ou links inválidos e a secção [Discussions](https://github.com/LITUATUI/M3UPT/discussions) para sugestões ou assuntos diversos.
+
 
 ## 📺 Principais canais de TV portugueses 🇵🇹
 
