@@ -1,4 +1,4 @@
-name: Update EPG
+name: Update EPG (IPTV-ORG)
 on:
   schedule:
     - cron: "*/55 * * * *"
