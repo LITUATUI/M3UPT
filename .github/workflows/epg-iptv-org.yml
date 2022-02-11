@@ -12,7 +12,7 @@ jobs:
         uses: actions/checkout@v2
         
       - name: update EPG
-        run: cd epg && sh epg.sh
+        run: cd epg && sh epg_iptv-org.sh
 
       - name: setup git config
         run: |
@@ -22,6 +22,6 @@ jobs:
       - name: commit
         run: |
           cd epg
-          git add meo.pt.epg.xml meo.pt.epg.xml.gz
+          git add meo-epg.xml meo-epg.xml.gz
           git commit -m "Update EPG"
           git push origin main
