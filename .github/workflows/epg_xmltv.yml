@@ -24,6 +24,7 @@ jobs:
 
       - name: commit
         run: |
+          git pull
           cd epg
           git add meo-epg.xml meo-epg.xml.gz
           git commit -m "Update EPG"
