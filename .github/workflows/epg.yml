@@ -15,7 +15,7 @@ jobs:
         run: sudo apt-get install -y xmltv
         
       - name: update EPG
-        run: cd epg && sh epg_xmltv.sh
+        run: cd epg && sh epg.sh
 
       - name: setup git config
         run: |
