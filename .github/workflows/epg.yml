@@ -26,6 +26,6 @@ jobs:
         run: |
           git pull
           cd epg
-          git add meo-epg.xml meo-epg.xml.gz
+          git add tv_grab_pt_meo meo-epg.xml meo-epg.xml.gz
           git commit -m "Update EPG"
           git push origin main
