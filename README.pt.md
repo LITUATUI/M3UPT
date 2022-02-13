@@ -48,6 +48,7 @@ Pode usar a secção [Issues](https://github.com/LITUATUI/M3UPT/issues) para rep
 * Euronews (FR)
 * Euronews (DE)
 * teleSUR
+* teleSUR English
 * RT News
 * RT America
 * RT UK
