@@ -97,7 +97,7 @@ You can use the [Issues](https://github.com/LITUATUI/M3UPT/issues) section to re
 
 **Recommended settings:**
 
-* Default settings are fine.
+* You should install YouTube addon and configure its subtitles to pt-PT (No auto-generated).
 
 ---
 
