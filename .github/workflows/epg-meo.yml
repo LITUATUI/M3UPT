@@ -1,4 +1,4 @@
-name: Update EPG (XMLTV)
+name: Update EPG (MEO)
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -15,7 +15,7 @@ jobs:
         run: sudo apt-get install -y xmltv
         
       - name: update EPG
-        run: cd epg && sh epg.sh
+        run: cd epg && sh epg-meo.sh
 
       - name: setup git config
         run: |
@@ -26,6 +26,6 @@ jobs:
         run: |
           git pull
           cd epg
-          git add tv_grab_pt_meo meo-epg.xml meo-epg.xml.gz
+          git add tv_grab_pt_meo epg-meo.xml epg-meo.xml.gz
           git commit -m "Update EPG"
           git push origin main
