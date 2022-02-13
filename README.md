@@ -123,15 +123,18 @@ You can use the [Issues](https://github.com/LITUATUI/M3UPT/issues) section to re
 
 ---
 
-RTP channels don't open in some players.
-
----
-
 ## 🔗 Links to use in your IPTV player
 
 * **M3U**: <https://m3upt.com/iptv>
 
 * **EPG**: <https://m3upt.com/epg>
+
+---
+
+## 📓 Notes
+
+* RTP channels don't open in some players.
+* Some streams only work in Kodi with YouTube addon installed.
 
 ---
 
