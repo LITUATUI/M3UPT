@@ -1,0 +1,31 @@
+name: Update EPG (Vodafone)
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  Update-epg:
+    runs-on: ubuntu-latest
+    steps:
+    
+      - name: checkout
+        uses: actions/checkout@v2
+        
+      - name: install xmltv
+        run: sudo apt-get install -y xmltv
+        
+      - name: update EPG
+        run: cd epg && sh epg-vodafone.sh
+
+      - name: setup git config
+        run: |
+          git config user.name "M3UPT Bot"
+          git config user.email "<>"
+
+      - name: commit
+        run: |
+          git pull
+          cd epg
+          git add tv_grab_pt_vodafone epg-vodafone.xml epg-vodafone.xml.gz
+          git commit -m "Update EPG"
+          git push origin main
