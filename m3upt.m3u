@@ -1266,13 +1266,16 @@ https://video-auth1.iol.pt/beachcam/belem/playlist.m3u8
 
 # Sem Moderação
 
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 9/2/2022
+https://videos-cloudflare.jwpsrv.com/620a0510_1dedb8a3fd50a9d9c4482659342809e90b976cb2/content/conversions/i0kOV6po/videos/4S6xh8TD-34192116.mp4.m3u8
+
 #EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 26/1/2022
 https://videos-fms.jwpsrv.com/0_62072c6f_0xab556e591499ea595af912b6de5fa1ad2aac15ae/content/conversions/i0kOV6po/videos/yxthxJw8-34192116.mp4.m3u8
 
 # Eixo do Mal
 
 #EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 11/2/2022
-https://videos-cloudflare.jwpsrv.com/62072bbf_25ee78c59d6a2afd63e03dfa751816bbc820cbe8/content/conversions/i0kOV6po/videos/B4IgUajy-34192116.mp4.m3u8
+https://videos-cloudflare.jwpsrv.com/620a03ba_81d89f9ba2c3018badd1595bb32db069a9ab1ed5/content/conversions/i0kOV6po/videos/B4IgUajy-34192116.mp4.m3u8
 
 #EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 28/1/2022
 https://videos-fms.jwpsrv.com/0_61ff6bb5_0x357186ca1d4afb3d36f3293e4a9b1a36b0b07215/content/conversions/i0kOV6po/videos/SBRx9MFO-34192116.mp4.m3u8
@@ -1285,6 +1288,9 @@ https://videos-cloudflare.jwpsrv.com/61ee3fd3_ca801c1789563f947f163e2ef2831c116f
 
 
 # Programa Cujo Nome Estamos Legalmente Impedidos de Dizer
+
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 12/2/2022
+https://videos-fms.jwpsrv.com/0_620a0439_0xf3418a60fa4060fd2c7e4025630f8f9365141b25/content/conversions/i0kOV6po/videos/hN4MygGS-34192116.mp4.m3u8
 
 #EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 5/2/2022
 https://videos-fms.jwpsrv.com/0_62072cb5_0x6edbf4055e67c9efe12ae6437011773fb1ae2a65/content/conversions/i0kOV6po/videos/h3KYBtrB-34192116.mp4.m3u8
