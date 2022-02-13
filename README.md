@@ -13,7 +13,7 @@ You can use the [Issues](https://github.com/LITUATUI/M3UPT/issues) section to re
 * RTP 3
 * SIC Notícias
 * CNN Portugal
-* Euronews (PT)
+* Euronews PT
 * ARTV
 * RTP Memória
 * RTP Açores
@@ -26,11 +26,11 @@ You can use the [Issues](https://github.com/LITUATUI/M3UPT/issues) section to re
 
 ## 📺 Main International TV channels 🌍
 
-* Euronews (EN)
-* Euronews (ES)
-* Euronews (IT)
-* Euronews (FR)
-* Euronews (DE)
+* Euronews EN
+* Euronews ES
+* Euronews IT
+* Euronews FR
+* Euronews DE
 * teleSUR
 * teleSUR English
 * RT News
