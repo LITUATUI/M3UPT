@@ -98,7 +98,7 @@ Pode usar a secção [Issues](https://github.com/LITUATUI/M3UPT/issues) para rep
 
 **Configurações recomendadas:**
 
-* Configuração padrão funciona bem.
+* Deverá instalar o addon YouTube e configurar as suas legendas para pt-PT (Sem gerador automático).
 
 ---
 
