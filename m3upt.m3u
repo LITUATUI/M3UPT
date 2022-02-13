@@ -211,10 +211,15 @@ https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="TELESUR.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Telesur.png",TeleSUR
+#EXTINF:-1 group-title="TV" tvg-id="TELESUR.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Telesur.png",teleSUR
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="TELESUR.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Telesur.png",teleSUR English
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="HispanTV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/HispanTV.png",HispanTV
 #KODIPROP:inputstream=inputstream.adaptive
