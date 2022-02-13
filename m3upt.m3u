@@ -506,7 +506,7 @@ https://streamer-a01.videos.sapo.pt/live/radiosinesdireto/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://stmv1.srvsite.com/clubefmradio/clubefmradio/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="TRAHD.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TRACE-Urban.png",Trace Urban
+#EXTINF:-1 group-title="TV" tvg-id="tracehd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TRACE-Urban.png",Trace Urban
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
