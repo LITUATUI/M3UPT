@@ -32,6 +32,7 @@ You can use the [Issues](https://github.com/LITUATUI/M3UPT/issues) section to re
 * Euronews (FR)
 * Euronews (DE)
 * teleSUR
+* teleSUR English
 * RT News
 * RT America
 * RT UK
