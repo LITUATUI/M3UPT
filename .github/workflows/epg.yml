@@ -1,7 +1,7 @@
 name: Update EPG
 on:
   schedule:
-    - cron: "0 2 * * *"
+    - cron: "45 2 * * *"
 
 jobs:
   Update-epg:
@@ -18,7 +18,7 @@ jobs:
         run: cd epg && sh epg-vodafone.sh
         
       - name: update EPG (Meo)
-        run: sh epg-meo.sh
+        run: cd epg && sh epg-meo.sh
 
       - name: setup git config
         run: |
