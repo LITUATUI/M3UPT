@@ -1,7 +1,7 @@
-name: Update EPG (Vodafone)
+name: Update EPG
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 1 * * *"
 
 jobs:
   Update-epg:
@@ -11,11 +11,14 @@ jobs:
       - name: checkout
         uses: actions/checkout@v2
         
-      - name: install xmltv
-        run: sudo apt-get install -y xmltv
+      - name: install XMLTV and URI::Encode
+        run: sudo apt-get install -y xmltv liburi-encode-perl
         
-      - name: update EPG
+      - name: update EPG (Vodafone)
         run: cd epg && sh epg-vodafone.sh
+        
+      - name: update EPG (Meo)
+        run: sh epg-meo.sh
 
       - name: setup git config
         run: |
@@ -26,6 +29,6 @@ jobs:
         run: |
           git pull
           cd epg
-          git add tv_grab_pt_vodafone epg-vodafone.xml epg-vodafone.xml.gz
+          git add tv_grab_pt_vodafone epg-vodafone.xml epg-vodafone.xml.gz tv_grab_pt_meo epg-meo.xml epg-meo.xml.gz
           git commit -m "Update EPG"
           git push origin main
