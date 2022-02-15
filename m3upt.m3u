@@ -51,7 +51,7 @@ https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="euronw.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews PT (Kodi + YouTube addon) 
+#EXTINF:-1 group-title="TV" tvg-id="euronw.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews PT (Kodi) 
 plugin://plugin.video.youtube/play/?video_id=JyC8mwZqJao
 
 #EXTINF:-1 group-title="TV" tvg-id="artv.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ARTV.png",ARTV
@@ -1267,51 +1267,28 @@ https://video-auth1.iol.pt/beachcam/belem/playlist.m3u8
 # Sem Moderação
 
 #EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 9/2/2022
-https://videos-cloudflare.jwpsrv.com/620b27eb_8ab50c1d37e945b473b25a18836bc3efd3a9ee45/content/conversions/i0kOV6po/videos/4S6xh8TD-34192116.mp4.m3u8
+https://videos-cloudflare.jwpsrv.com/620c363e_fa1f887e7e0fade7d3fa22b513b5672412e5a129/content/conversions/i0kOV6po/videos/4S6xh8TD-34192116.mp4.m3u8
 
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 26/1/2022
-https://videos-fms.jwpsrv.com/0_62072c6f_0xab556e591499ea595af912b6de5fa1ad2aac15ae/content/conversions/i0kOV6po/videos/yxthxJw8-34192116.mp4.m3u8
 
 # Eixo do Mal
 
 #EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 11/2/2022
-https://videos-cloudflare.jwpsrv.com/620b279f_d91921117d8af33d6d977e119854a1280c77be8e/content/conversions/i0kOV6po/videos/B4IgUajy-34192116.mp4.m3u8
-
-#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 28/1/2022
-https://videos-fms.jwpsrv.com/0_61ff6bb5_0x357186ca1d4afb3d36f3293e4a9b1a36b0b07215/content/conversions/i0kOV6po/videos/SBRx9MFO-34192116.mp4.m3u8
-
-#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 21/1/2022
-https://videos-cloudflare.jwpsrv.com/61ee3efb_01932491ee2540b0d8163f55a1ea8d327179b707/content/conversions/i0kOV6po/videos/7aHwRaee-34192116.mp4.m3u8
-
-#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 15/1/2022
-https://videos-cloudflare.jwpsrv.com/61ee3fd3_ca801c1789563f947f163e2ef2831c116f516c3b/content/conversions/i0kOV6po/videos/BdwkCuEb-34192116.mp4.m3u8
+https://videos-cloudflare.jwpsrv.com/620c3642_6558a9d1fd69365418cbb86c348c79bba5671610/content/conversions/i0kOV6po/videos/B4IgUajy-34192116.mp4.m3u8
 
 
 # Programa Cujo Nome Estamos Legalmente Impedidos de Dizer
 
 #EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 12/2/2022
-https://videos-fms.jwpsrv.com/0_620b27ff_0x03ecd1526d32ef56fcb5f6e25386bf2dd0e549c2/content/conversions/i0kOV6po/videos/hN4MygGS-34192116.mp4.m3u8
-
-#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 5/2/2022
-https://videos-fms.jwpsrv.com/0_62072cb5_0x6edbf4055e67c9efe12ae6437011773fb1ae2a65/content/conversions/i0kOV6po/videos/h3KYBtrB-34192116.mp4.m3u8
-
-#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 28/1/2022
-https://videos-fms.jwpsrv.com/0_62072ccf_0xdc8a6cd1d84d5f3568711daaf3e5a77f9d446b8d/content/conversions/i0kOV6po/videos/oPDxPqM8-34192116.mp4.m3u8
-
-#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 22/1/2022
-https://videos-cloudflare.jwpsrv.com/62072d14_745465b70199fcd3a31103cd152c0cb04267d79b/content/conversions/i0kOV6po/videos/0SAK67Yi-34192116.mp4.m3u8
-
-#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 15/1/2022
-https://videos-fms.jwpsrv.com/0_62072cde_0x07ed0ac5d5833a3e8cac26811646214a88939e27/content/conversions/i0kOV6po/videos/QZNfYMnM-34192116.mp4.m3u8
+https://videos-fms.jwpsrv.com/0_620c36a6_0x87dca53fa25ed9a9d1bcad08369215b2515b1cae/content/conversions/i0kOV6po/videos/hN4MygGS-34192116.mp4.m3u8
 
 
 # Documentários (Kodi + YouTube addon)
 
-#EXTINF:-1 media="true" group-title="Docs" tvg-logo="",Zeitgeist: Moving Forward
+#EXTINF:-1 media="true" group-title="Docs (Kodi)" tvg-logo="",Zeitgeist: Moving Forward
 plugin://plugin.video.youtube/play/?video_id=4Z9WVZddH9w
 
-#EXTINF:-1 media="true" group-title="Docs" tvg-logo="",Mão Invisível - uma história do neoliberalismo em Portugal
+#EXTINF:-1 media="true" group-title="Docs (Kodi)" tvg-logo="",Mão Invisível - uma história do neoliberalismo em Portugal
 plugin://plugin.video.youtube/play/?video_id=ceTCzCptzEM
 
-#EXTINF:-1 media="true" group-title="Docs" tvg-logo="",How poor people survive in the USA | DW Documentary
+#EXTINF:-1 media="true" group-title="Docs (Kodi)" tvg-logo="",How poor people survive in the USA | DW Documentary
 plugin://plugin.video.youtube/play/?video_id=JHDkALRz5Rk
