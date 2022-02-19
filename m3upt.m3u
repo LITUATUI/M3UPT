@@ -1345,11 +1345,14 @@ https://videos-fms.jwpsrv.com/0_6210e1c7_0x5e7152a1e02887eb100c94c9d8458dae7a881
 
 # Documentários (Kodi + YouTube addon)
 
+#EXTINF:-1 media="true" group-title="Docs (Kodi)" tvg-logo="",Democracy at Work: Curing Capitalism | Richard Wolff | Talks at Google
+plugin://plugin.video.youtube/play/?video_id=ynbgMKclWWc
+
 #EXTINF:-1 media="true" group-title="Docs (Kodi)" tvg-logo="",Zeitgeist: Moving Forward
 plugin://plugin.video.youtube/play/?video_id=4Z9WVZddH9w
 
-#EXTINF:-1 media="true" group-title="Docs (Kodi)" tvg-logo="",Mão Invisível - uma história do neoliberalismo em Portugal
-plugin://plugin.video.youtube/play/?video_id=ceTCzCptzEM
-
 #EXTINF:-1 media="true" group-title="Docs (Kodi)" tvg-logo="",How poor people survive in the USA | DW Documentary
 plugin://plugin.video.youtube/play/?video_id=JHDkALRz5Rk
+
+#EXTINF:-1 media="true" group-title="Docs (Kodi)" tvg-logo="",Mão Invisível - uma história do neoliberalismo em Portugal
+plugin://plugin.video.youtube/play/?video_id=ceTCzCptzEM
