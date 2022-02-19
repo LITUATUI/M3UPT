@@ -1339,11 +1339,41 @@ https://videos-cloudflare.jwpsrv.com/6210e1d3_d52aba86f4d901cdd4964aada6aa877e80
 
 # Programa Cujo Nome Estamos Legalmente Impedidos de Dizer
 
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 19/2/2022
+https://videos-fms.jwpsrv.com/0_621117ea_0x1177fcd6d2e40fc144506f0d08028442383fdf27/content/conversions/i0kOV6po/videos/bjuXCnGn-34192116.mp4.m3u8
+
 #EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 12/2/2022
 https://videos-fms.jwpsrv.com/0_6210e1c7_0x5e7152a1e02887eb100c94c9d8458dae7a8818b3/content/conversions/i0kOV6po/videos/hN4MygGS-34192116.mp4.m3u8
 
 
+# Relatório DB (Kodi + YouTube addon)
+
+#EXTINF:-1 media="true" group-title="Relatório DB (Kodi)" tvg-logo="",RELATÓRIO DB - JANEIRO 2022
+plugin://plugin.video.youtube/play/?video_id=zuKIh2U2xfE
+
+#EXTINF:-1 media="true" group-title="Relatório DB (Kodi)" tvg-logo="",RELATÓRIO DB - DEZEMBRO 2021
+plugin://plugin.video.youtube/play/?video_id=14e1nGmSbJs
+
+#EXTINF:-1 media="true" group-title="Relatório DB (Kodi)" tvg-logo="",RELATÓRIO DB - NOVEMBRO 2021
+plugin://plugin.video.youtube/play/?video_id=FmVa6JyFLRk
+
+#EXTINF:-1 media="true" group-title="Relatório DB (Kodi)" tvg-logo="",RELATÓRIO DB - OUTUBRO 2021
+plugin://plugin.video.youtube/play/?video_id=2dGRTsLacoQ
+
+#EXTINF:-1 media="true" group-title="Relatório DB (Kodi)" tvg-logo="",RELATÓRIO DB - SETEMBRO 2021
+plugin://plugin.video.youtube/play/?video_id=wDl0fhOcI1E
+
+#EXTINF:-1 media="true" group-title="Relatório DB (Kodi)" tvg-logo="",RELATÓRIO DB - AGOSTO 2021
+plugin://plugin.video.youtube/play/?video_id=llvKcrvHt3w
+
+#EXTINF:-1 media="true" group-title="Relatório DB (Kodi)" tvg-logo="",RELATÓRIO DB - JULHO 2021
+plugin://plugin.video.youtube/play/?video_id=FHn2cZRIsAc
+
+
 # Documentários (Kodi + YouTube addon)
+
+#EXTINF:-1 media="true" group-title="Docs (Kodi)" tvg-logo="",Mão Invisível - uma história do neoliberalismo em Portugal
+plugin://plugin.video.youtube/play/?video_id=ceTCzCptzEM
 
 #EXTINF:-1 media="true" group-title="Docs (Kodi)" tvg-logo="",Banned TED Talk: Nick Hanauer "Rich people don't create jobs"
 plugin://plugin.video.youtube/play/?video_id=CKCvf8E7V1g
@@ -1359,6 +1389,3 @@ plugin://plugin.video.youtube/play/?video_id=4Z9WVZddH9w
 
 #EXTINF:-1 media="true" group-title="Docs (Kodi)" tvg-logo="",How poor people survive in the USA | DW Documentary
 plugin://plugin.video.youtube/play/?video_id=JHDkALRz5Rk
-
-#EXTINF:-1 media="true" group-title="Docs (Kodi)" tvg-logo="",Mão Invisível - uma história do neoliberalismo em Portugal
-plugin://plugin.video.youtube/play/?video_id=ceTCzCptzEM
