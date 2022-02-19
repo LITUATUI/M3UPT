@@ -241,6 +241,9 @@ https://live1.presstv.ir/live/hispan.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://live1.presstv.ir/live/presstv.m3u8
 
+#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Free-Speech-TV.webp",Free Speech TV
+https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/04.m3u8
+
 #EXTINF:-1 group-title="TV" tvg-id="russia.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RT-News.png",RT News
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
