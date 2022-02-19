@@ -1372,6 +1372,9 @@ plugin://plugin.video.youtube/play/?video_id=FHn2cZRIsAc
 
 # Documentários (Kodi + YouTube addon)
 
+#EXTINF:-1 media="true" group-title="Docs (Kodi)" tvg-logo="",Os Donos de Portugal
+plugin://plugin.video.youtube/play/?video_id=OuzxncV9l3M
+
 #EXTINF:-1 media="true" group-title="Docs (Kodi)" tvg-logo="",Mão Invisível - uma história do neoliberalismo em Portugal
 plugin://plugin.video.youtube/play/?video_id=ceTCzCptzEM
 
