@@ -103,7 +103,7 @@ You can use the [Issues](https://github.com/LITUATUI/M3UPT/issues) section to re
 
 ### [ProgTV](https://www.progdvb.com/progtva_download.html) (Android) - ★★★★ 4/5
 
-![ProgTV screenshot](https://github.com/LITUATUI/M3UPT/raw/main/images//ProgTV-RTP1.avif "ProgTV screenshot")
+![ProgTV screenshot](/images//ProgTV-RTP1.avif "ProgTV screenshot")
 
 **Recommended settings:**
 
@@ -113,7 +113,7 @@ You can use the [Issues](https://github.com/LITUATUI/M3UPT/issues) section to re
 
 ### [Perfect Player](http://niklabs.com/downloads/) (Android) - ★★★ 3/5
 
-![Perfect Player screenshot](https://github.com/LITUATUI/M3UPT/raw/main/images/Perfect-Player-Euronews.avif "Perfect Player screenshot")
+![Perfect Player screenshot](/images/Perfect-Player-Euronews.avif "Perfect Player screenshot")
 
 **Recommended settings:**
 
