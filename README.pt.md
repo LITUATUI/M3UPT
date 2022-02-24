@@ -94,7 +94,7 @@ Pode usar a secção [Issues](https://github.com/LITUATUI/M3UPT/issues) para rep
 
 ### [Kodi com PVR IPTV Simple Client](https://www.kodi.tv/) (Multiplataforma)  - ★★★★★ 5/5
 
-![Kodi screenshot](https://github.com/LITUATUI/M3UPT/raw/main/images/Kodi.avif "ProgTV screenshot")
+![Kodi screenshot](images/Kodi.avif "ProgTV screenshot")
 
 **Configurações recomendadas:**
 
@@ -104,7 +104,7 @@ Pode usar a secção [Issues](https://github.com/LITUATUI/M3UPT/issues) para rep
 
 ### [ProgTV](https://www.progdvb.com/progtva_download.html) (Android)  - ★★★★ 4/5
 
-![ProgTV screenshot](https://github.com/LITUATUI/M3UPT/raw/main/images//ProgTV-RTP1.avif "ProgTV screenshot")
+![ProgTV screenshot](images//ProgTV-RTP1.avif "ProgTV screenshot")
 
 **Configurações recomendadas:**
 
@@ -114,7 +114,7 @@ Pode usar a secção [Issues](https://github.com/LITUATUI/M3UPT/issues) para rep
 
 ### [Perfect Player](http://niklabs.com/downloads/) (Android)  - ★★★ 3/5
 
-![Perfect Player screenshot](https://github.com/LITUATUI/M3UPT/raw/main/images/Perfect-Player-Euronews.avif "Perfect Player screenshot")
+![Perfect Player screenshot](images/Perfect-Player-Euronews.avif "Perfect Player screenshot")
 
 **Configurações recomendadas:**
 
