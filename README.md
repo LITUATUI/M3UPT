@@ -161,10 +161,10 @@ These are affiliate links which means that if you click on them and buy somethin
 
 ---
 
-You can use the [Issues](https://github.com/LITUATUI/M3UPT/issues) section to report bugs or broken links and the [Discussions](https://github.com/LITUATUI/M3UPT/discussions) section for suggestions or general conversation.
+* You can use the [Issues](https://github.com/LITUATUI/M3UPT/issues) section to report bugs or broken links and the [Discussions](https://github.com/LITUATUI/M3UPT/discussions) section for suggestions or general conversation.
 
-Visit the project page at <https://m3upt.com>
+* Visit the project page at <https://m3upt.com>
 
-Join the Telegram channel at <https://t.me/m3upt>
+* Join the Telegram channel at <https://t.me/m3upt>
 
-Contact me at <info@m3upt.com>
+* Contact me at <info@m3upt.com>
