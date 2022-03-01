@@ -2,8 +2,6 @@
 
 M3U playlist of TV channels and radio stations in Portuguese optimized for Kodi. Public and official streams only.
 
-You can use the [Issues](https://github.com/LITUATUI/M3UPT/issues) section to report bugs or broken links and the [Discussions](https://github.com/LITUATUI/M3UPT/discussions) section for suggestions or general conversation.
-
 ## 📺 Main Portuguese TV channels 🇵🇹
 
 * RTP 1
@@ -162,6 +160,8 @@ You can buy a decent device with the Amlogic S905W2 SoC and 4 GB of RAM for arou
 These are affiliate links which means that if you click on them and buy something, I might get a small commission. It doesn’t cost you extra and helps this project.
 
 ---
+
+You can use the [Issues](https://github.com/LITUATUI/M3UPT/issues) section to report bugs or broken links and the [Discussions](https://github.com/LITUATUI/M3UPT/discussions) section for suggestions or general conversation.
 
 Visit the project page at <https://m3upt.com>
 

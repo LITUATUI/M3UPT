@@ -2,9 +2,6 @@
 
 Lista em formato M3U de canais de TV e estações de rádio em Português optimizada para o Kodi. Apenas com streams públicos e oficiais.
 
-Pode usar a secção [Issues](https://github.com/LITUATUI/M3UPT/issues) para reportar bugs ou links inválidos e a secção [Discussions](https://github.com/LITUATUI/M3UPT/discussions) para sugestões ou assuntos diversos.
-
-
 ## 📺 Principais canais de TV portugueses 🇵🇹
 
 * RTP 1
@@ -163,6 +160,8 @@ Pode encontrar um aparelho com processador Amlogic S905W2 e 4 GB de RAM por pre�
 Se clicar nestes links e comprar alguma coisa, eu poderei receber uma pequena comissão. Não lhe sai mais caro e assim ajuda a manter este projeto em funcionamento.
 
 ---
+
+Pode usar a secção [Issues](https://github.com/LITUATUI/M3UPT/issues) para reportar bugs ou links inválidos e a secção [Discussions](https://github.com/LITUATUI/M3UPT/discussions) para sugestões ou assuntos diversos.
 
 Visite a página do projeto em <https://m3upt.com>
 
