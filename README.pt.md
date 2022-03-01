@@ -94,7 +94,7 @@ Pode usar a secção [Issues](https://github.com/LITUATUI/M3UPT/issues) para rep
 
 ### [Kodi com PVR IPTV Simple Client](https://www.kodi.tv/) (Multiplataforma)  - ★★★★★ 5/5
 
-![Kodi screenshot](images/Kodi.avif "ProgTV screenshot")
+![Kodi screenshot](images/Kodi.avif "Kodi screenshot")
 
 **Configurações recomendadas:**
 
