@@ -22,6 +22,8 @@ M3U playlist of TV channels and radio stations in Portuguese optimized for Kodi.
 * TVI Internacional
 * Porto Canal
 
+<br>
+
 ## 📺 Main International TV channels 🌍
 
 * Euronews EN
@@ -62,6 +64,8 @@ M3U playlist of TV channels and radio stations in Portuguese optimized for Kodi.
 * Red Bull TV
 * Fashion TV
 
+<br>
+
 ## 📻 Main Portuguese radio stations 🇵🇹
 
 * Antena 1
@@ -77,9 +81,13 @@ M3U playlist of TV channels and radio stations in Portuguese optimized for Kodi.
 * Rádio Renascença
 * TSF
 
+<br>
+
 ## 📻 Main International radio stations 🌍
 
 * Venice Classic Radio
+
+<br>
 
 ## 🏖️ Beachcam
 
@@ -89,6 +97,8 @@ M3U playlist of TV channels and radio stations in Portuguese optimized for Kodi.
 
 ## 🎬 Recommended IPTV players
 
+<br>
+
 ### [Kodi with PVR IPTV Simple Client](https://www.kodi.tv/) (Multiplatform) - ★★★★★ 5/5
 
 ![Kodi screenshot](images/Kodi.avif "Kodi screenshot")
@@ -97,17 +107,17 @@ M3U playlist of TV channels and radio stations in Portuguese optimized for Kodi.
 
 * You should install YouTube addon and configure its subtitles to pt-PT (No auto-generated).
 
----
+<br>
 
 ### [ProgTV](https://www.progdvb.com/progtva_download.html) (Android) - ★★★★ 4/5
 
-![ProgTV screenshot](images//ProgTV-RTP1.avif "ProgTV screenshot")
+![ProgTV screenshot](images/ProgTV-RTP1.avif "ProgTV screenshot")
 
 **Recommended settings:**
 
 * Options - Playback - Engine: ExoPlayer
 
----
+<br>
 
 ### [Perfect Player](http://niklabs.com/downloads/) (Android) - ★★★ 3/5
 

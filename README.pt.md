@@ -22,6 +22,8 @@ Lista em formato M3U de canais de TV e estações de rádio em Português optimi
 * TVI Internacional
 * Porto Canal
 
+<br>
+
 ## 📻 Principais estações de rádio portuguesas 🇵🇹
 
 * Antena 1
@@ -36,6 +38,8 @@ Lista em formato M3U de canais de TV e estações de rádio em Português optimi
 * Rádio Oxigénio
 * Rádio Renascença
 * TSF
+
+<br>
 
 ## 📺 Principais canais de TV internacionais 🌍
 
@@ -77,9 +81,13 @@ Lista em formato M3U de canais de TV e estações de rádio em Português optimi
 * Red Bull TV
 * Fashion TV
 
+<br>
+
 ## 📻 Principais estações de rádio internacionais 🌍
 
 * Venice Classic Radio
+
+<br>
 
 ## 🏖️ Beachcam
 
@@ -89,6 +97,8 @@ Lista em formato M3U de canais de TV e estações de rádio em Português optimi
 
 ## 🎬 Leitores de IPTV recomendados
 
+<br>
+
 ### [Kodi com PVR IPTV Simple Client](https://www.kodi.tv/) (Multiplataforma)  - ★★★★★ 5/5
 
 ![Kodi screenshot](images/Kodi.avif "Kodi screenshot")
@@ -97,17 +107,17 @@ Lista em formato M3U de canais de TV e estações de rádio em Português optimi
 
 * Deverá instalar o addon YouTube e configurar as suas legendas para pt-PT (Sem gerador automático).
 
----
+<br>
 
 ### [ProgTV](https://www.progdvb.com/progtva_download.html) (Android)  - ★★★★ 4/5
 
-![ProgTV screenshot](images//ProgTV-RTP1.avif "ProgTV screenshot")
+![ProgTV screenshot](images/ProgTV-RTP1.avif "ProgTV screenshot")
 
 **Configurações recomendadas:**
 
 * Opções - Opções de reprodução - Motor: ExoPlayer
 
----
+<br>
 
 ### [Perfect Player](http://niklabs.com/downloads/) (Android)  - ★★★ 3/5
 
