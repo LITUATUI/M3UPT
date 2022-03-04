@@ -142,6 +142,7 @@ M3U playlist of TV channels and radio stations in Portuguese optimized for Kodi.
 ## 📓 Notes
 
 * RTP channels don't open in some players.
+* SIC channels only work with Portuguese IP, you need to use a [VPN](https://m3upt.com/vpn) if you live outside Portugal.
 * Some streams only work in Kodi with YouTube addon installed.
 
 ---

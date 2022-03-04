@@ -142,6 +142,7 @@ Lista em formato M3U de canais de TV e estações de rádio em Português optimi
 ## 📓 Notas
 
 * Os canais da RTP não abrem em alguns leitores.
+* Os canais da SIC só funcionam com IP português, quem vive fora de Portugal terá de usar uma [VPN](https://m3upt.com/vpn).
 * Alguns streams só funcionam no Kodi com o addon YouTube instalado.
 
 ---
