@@ -101,7 +101,7 @@ M3U playlist of TV channels and radio stations in Portuguese optimized for Kodi.
 
 ### [Kodi with PVR IPTV Simple Client](https://www.kodi.tv/) (Multiplatform) - ★★★★★ 5/5
 
-![Kodi screenshot](images/Kodi.avif "Kodi screenshot")
+![Kodi screenshot](/images/Kodi.avif "Kodi screenshot")
 
 **Recommended settings:**
 
@@ -111,7 +111,7 @@ M3U playlist of TV channels and radio stations in Portuguese optimized for Kodi.
 
 ### [ProgTV](https://www.progdvb.com/progtva_download.html) (Android) - ★★★★ 4/5
 
-![ProgTV screenshot](images/ProgTV-RTP1.avif "ProgTV screenshot")
+![ProgTV screenshot](/images/ProgTV-RTP1.avif "ProgTV screenshot")
 
 **Recommended settings:**
 
@@ -121,7 +121,7 @@ M3U playlist of TV channels and radio stations in Portuguese optimized for Kodi.
 
 ### [Perfect Player](http://niklabs.com/downloads/) (Android) - ★★★ 3/5
 
-![Perfect Player screenshot](images/Perfect-Player-Euronews.avif "Perfect Player screenshot")
+![Perfect Player screenshot](/images/Perfect-Player-Euronews.avif "Perfect Player screenshot")
 
 **Recommended settings:**
 

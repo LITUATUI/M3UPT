@@ -101,7 +101,7 @@ Lista em formato M3U de canais de TV e estações de rádio em Português optimi
 
 ### [Kodi com PVR IPTV Simple Client](https://www.kodi.tv/) (Multiplataforma)  - ★★★★★ 5/5
 
-![Kodi screenshot](images/Kodi.avif "Kodi screenshot")
+![Kodi screenshot](/images/Kodi.avif "Kodi screenshot")
 
 **Configurações recomendadas:**
 
@@ -111,7 +111,7 @@ Lista em formato M3U de canais de TV e estações de rádio em Português optimi
 
 ### [ProgTV](https://www.progdvb.com/progtva_download.html) (Android)  - ★★★★ 4/5
 
-![ProgTV screenshot](images/ProgTV-RTP1.avif "ProgTV screenshot")
+![ProgTV screenshot](/images/ProgTV-RTP1.avif "ProgTV screenshot")
 
 **Configurações recomendadas:**
 
@@ -121,7 +121,7 @@ Lista em formato M3U de canais de TV e estações de rádio em Português optimi
 
 ### [Perfect Player](http://niklabs.com/downloads/) (Android)  - ★★★ 3/5
 
-![Perfect Player screenshot](images/Perfect-Player-Euronews.avif "Perfect Player screenshot")
+![Perfect Player screenshot](/images/Perfect-Player-Euronews.avif "Perfect Player screenshot")
 
 **Configurações recomendadas:**
 
