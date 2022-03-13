@@ -151,11 +151,12 @@ Lista em formato M3U de canais de TV e estações de rádio em Português optimi
 
 Para uma boa experiência de utilização o seu aparelho deverá ter um bom processador e memória RAM suficiente. Evite processadores da Rockchip e da Allwinner.
 
-* **SoC**: Amlogic S905W2 (barato, eficiente e suporta o codec de vídeo moderno AV1)
+* **SoC**: Amlogic S905W2, S905Y4 ou S905X4 (barato, eficiente e suporta o codec de vídeo moderno AV1)
 * **RAM**: 4 GB
 
 Normalmente TV boxes Android com processadores Amlogic são melhores que aparelhos com processadores Rockchip ou Allwinner. 
-Pode encontrar um aparelho com processador Amlogic S905W2 e 4 GB de RAM por preços a rondar os 50 euros. Visite as lojas recomendadas abaixo se deseja comprar um.
+
+Pode encontrar um aparelho com processador Amlogic S905W2 e 4 GB de RAM por preços a rondar os 40 euros. Visite as lojas recomendadas abaixo se deseja comprar um.
 
 ---
 
