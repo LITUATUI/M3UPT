@@ -1,6 +1,8 @@
 # 📺M3UPT🇵🇹
 
-Lista em formato M3U de canais de TV e estações de rádio em Português optimizada para o Kodi. Apenas com streams públicos e oficiais.
+Lista de IPTV em formato M3U optimizada para o Kodi com canais de 📺 TV e estações de 📻 rádio em 🇵🇹 Português. Apenas com streams públicos e oficiais.
+
+<br>
 
 ## 📺 Principais canais de TV portugueses 🇵🇹
 
