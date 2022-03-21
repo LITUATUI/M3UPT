@@ -485,6 +485,36 @@ https://rtvelivestreamv3.akamaized.net/rtvesec/la2/la2_main.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://europa-crtvg.flumotion.com/crtvg/europa_high/playlist.m3u8
 
+#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",TV Galicia América
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://america-crtvg.flumotion.com/crtvg/america_high/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",TV Galicia Cultural
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://cultural-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",TV Galicia Infantil
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://infantil-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",TeleMadrid
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",Canal Málaga
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://canalmalaga-tv-live.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",Aragón TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+
 #EXTINF:-1 group-title="TV" tvg-id="ETB 1" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ETB-1.png",ETB 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
