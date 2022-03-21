@@ -500,10 +500,20 @@ https://cultural-crtvg.flumotion.com/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://infantil-crtvg.flumotion.com/playlist.m3u8
 
+#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",TV Galicia Musigal
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://musigal-crtvg.flumotion.com/playlist.m3u8
+
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",TeleMadrid
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",TV3 Catalunya
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://directes-tv-int.ccma.cat/int/ngrp:tvi_web/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",Canal Málaga
 #KODIPROP:inputstream=inputstream.adaptive
