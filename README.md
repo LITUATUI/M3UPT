@@ -53,7 +53,7 @@ IPTV playlist in M3U format optimized for Kodi with 📺 TV channels and 📻 ra
 * Reuters TV
 * NASA TV
 * NHK World
-* Deutsche Welle Espanõl
+* Deutsche Welle Español
 * Deutsche Welle Deutsch
 * Deutsche Welle Arabic
 * TV5 Monde Info

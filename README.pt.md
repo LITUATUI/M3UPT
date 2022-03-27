@@ -70,7 +70,7 @@ Lista de IPTV em formato M3U optimizada para o Kodi com canais de 📺 TV e esta
 * Reuters TV
 * NASA TV
 * NHK World
-* Deutsche Welle Espanõl
+* Deutsche Welle Español
 * Deutsche Welle Deutsch
 * Deutsche Welle Arabic
 * TV5 Monde Info
