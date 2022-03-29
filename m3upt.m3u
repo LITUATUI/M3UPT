@@ -851,7 +851,10 @@ https://media1.mcr.iol.pt/wrcidade/cidhiphop.stream/playlist.m3u8
 https://media1.mcr.iol.pt/wrcidade/cidlatina.stream/playlist.m3u8
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://radiocomercial.iol.pt/images/logo_big.png",Rádio Comercial
-https://media1.mcr.iol.pt/livefm/comercial/livefm/comercial_128k/chunks.m3u8
+https://media1.mcr.iol.pt/livefm/comercial/playlist.m3u8
+
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Comercial-Kids.png",Rádio Comercial Kids
+https://media1.mcr.iol.pt/wrcomercial/rckids.stream/playlist.m3u8
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://cdn-profiles.tunein.com/s81784/images/logod.jpg",Rádio M80
 https://media1.mcr.iol.pt/livefm/m80/livefm/m80_128k/chunks.m3u8
