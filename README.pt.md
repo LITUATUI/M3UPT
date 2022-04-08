@@ -181,4 +181,4 @@ Se clicar nestes links e comprar alguma coisa, eu poderei receber uma pequena co
 
 * No Telegram adira ao [canal](https://t.me/m3upt) para anúncios e ao [grupo](https://t.me/m3uptchat) para conversar.
 
-* Contate-me por [eMail](mailto:info@m3upt.com).
+* Contate-me por [e-mail](mailto:info@m3upt.com).

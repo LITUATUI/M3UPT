@@ -181,4 +181,4 @@ These are affiliate links which means that if you click on them and buy somethin
 
 * On Telegram join the [channel](https://t.me/m3upt) for announcements and the [group](https://t.me/m3uptchat) to chat.
 
-* Contact me by [eMail](mailto:info@m3upt.com).
+* Contact me by [e-mail](mailto:info@m3upt.com).
