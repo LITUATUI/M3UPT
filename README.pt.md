@@ -177,7 +177,7 @@ Se clicar nestes links e comprar alguma coisa, eu poderei receber uma pequena co
 
 * Pode usar a secção [Issues](https://github.com/LITUATUI/M3UPT/issues) para reportar bugs ou links inválidos e a secção [Discussions](https://github.com/LITUATUI/M3UPT/discussions) para sugestões ou assuntos diversos.
 
-* Visite a página do [projeto](https://m3upt.com).
+* Visite a [página oficial](https://m3upt.com).
 
 * No Telegram adira ao [canal](https://t.me/m3upt) para anúncios e ao [grupo](https://t.me/m3uptchat) para conversar.
 
