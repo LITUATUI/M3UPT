@@ -94,7 +94,6 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8|user-age
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #http://live.impresa.pt/live/sicint/sicint.m3u8
 #https://sicint.live.impresa.pt/sicint.m3u8
-http://200.4.96.59:8004/play/a0f4/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="TVIInt.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",TVI Internacional
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1371,14 +1370,15 @@ https://video-auth1.iol.pt/beachcam/belem/playlist.m3u8
 
 # Sem Moderação
 
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 6/4/2022
-https://videos-fms.jwpsrv.com/0_6250cb47_0xfb711356674e83381e802050fc4fb37797d7da41/content/conversions/i0kOV6po/videos/MKA8sOLA-34192111.mp4.m3u8
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 13/4/2022
+https://videos-cloudflare.jwpsrv.com/6258a697_921d5492924c3779a8709feb2e028e963485f2fe/content/conversions/i0kOV6po/videos/6ipev8fs-34192116.mp4.m3u8
 
 
 # Eixo do Mal
 
 #EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 8/4/2022
-https://videos-cloudflare.jwpsrv.com/6250ca9d_f59474610b41cc7da663904afd21036931ae3c12/content/conversions/i0kOV6po/videos/3OoSIoiT-34192111.mp4.m3u8
+https://videos-cloudflare.jwpsrv.com/6258a719_a4b22f4bfa7b923d6806d74792e097de754ebe7f/content/conversions/i0kOV6po/videos/3OoSIoiT-34192116.mp4.m3u8
+
 
 # Programa Cujo Nome Estamos Legalmente Impedidos de Dizer
 
@@ -1408,6 +1408,9 @@ https://sp.rmbl.ws/s8/2/6/n/b/p/6nbpd.haa.mp4
 
 
 # Relatório DB (Kodi + YouTube addon)
+
+#EXTINF:-1 media="true" group-title="Relatório DB (Kodi)" tvg-logo="",RELATÓRIO DB - MARÇO 2022
+plugin://plugin.video.youtube/play/?video_id=uzfbUV3aKU0
 
 #EXTINF:-1 media="true" group-title="Relatório DB (Kodi)" tvg-logo="",RELATÓRIO DB - FEVEREIRO 2022
 plugin://plugin.video.youtube/play/?video_id=SUmfwl-4lXA
