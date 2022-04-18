@@ -1368,6 +1368,12 @@ https://video-auth1.iol.pt/beachcam/caisdosodre/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/belem/playlist.m3u8
 
 
+# O Outro Lado
+
+#EXTINF:-1 group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T6E14 11/4/2022
+https://www.rtp.pt/services/rtpplay/?v=5&file=/nas2.share/h264/512x384/p9780/p9780_1_20220411000000e014t6348.mp4|user-agent=RTP Play/2.0.26 (Linux;Android 11) ExoPlayerLib/2.11.8
+#https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220411000000e014t6348.mp4
+
 # Sem Moderação
 
 #EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 13/4/2022
