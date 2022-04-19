@@ -2,7 +2,15 @@
 
 Lista de IPTV em formato M3U optimizada para o Kodi com canais de 📺 TV e estações de 📻 rádio em 🇵🇹 Português. Apenas com streams públicos e oficiais.
 
-<br>
+## Objectivo
+
+Disponibilizar uma lista de IPTV legal e gratuita em formato M3U optimizada para o Kodi, com canais de TV e estacões de rádio em Português.
+
+## Porquê?
+
+Não é fácil para falantes de português a viver no estrangeiro manter contacto com a sua cultura. Este projecto também ajuda qualquer pessoa que esteja a tentar aprender Português ou simplesmente curiosa sobre a língua.
+
+---
 
 ## 📺 Principais canais de TV portugueses 🇵🇹
 
