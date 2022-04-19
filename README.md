@@ -2,7 +2,7 @@
 
 IPTV playlist in M3U format optimized for Kodi with 📺 TV channels and 📻 radio stations in 🇵🇹 Portuguese. Public and official streams only.
 
-## The purpose
+## Purpose
 
 Offer a free and legal IPTV playlist in M3U format optimized for Kodi, with TV channels and radio stations in Portuguese.
 
