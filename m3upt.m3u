@@ -7,7 +7,7 @@
 #EXTINF:-1 group-title="TV" tvg-id="rtp1hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png",RTP 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-http://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8||user-agent=|user-agent=RTP Play/2.0.36 (Linux;Android 11) ExoPlayerLib/2.17.1
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8||user-agent=|user-agent=RTP Play/2.0.36 (Linux;Android 11) ExoPlayerLib/2.17.1
 
 #EXTINF:-1 group-title="TV" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",RTP 2
 #KODIPROP:inputstream=inputstream.adaptive
