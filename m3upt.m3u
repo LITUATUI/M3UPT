@@ -1397,6 +1397,9 @@ https://content.jwplatform.com/manifests/jL3dl5uq.m3u8
 
 # Programa Cujo Nome Estamos Legalmente Impedidos de Dizer
 
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 23/4/2022
+https://cdn.jwplayer.com/manifests/Mvuo738f.m3u8
+
 #EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 16/4/2022
 https://cdn.jwplayer.com/manifests/v8e6Ytdz.m3u8
 
@@ -1456,6 +1459,9 @@ plugin://plugin.video.youtube/play/?video_id=FHn2cZRIsAc
 
 #EXTINF:-1 media="true" group-title="Filmes" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/39879_60329_23725.jpg",Monty Python: A Vida de Brian
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p8088/p8088_1_20220415161005e000t6264d.mp4/master.m3u8|user-agent=RTP Play/2.0.26 (Linux;Android 11) ExoPlayerLib/2.11.8
+
+#EXTINF:-1 media="true" group-title="Filmes" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/39842_60253_93088.jpg",Monty Python e o Cálice Sagrado
+https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p8057/p8057_1_20220422161005e000t2754d/master.m3u8|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
 
 
 # Documentários (Kodi + YouTube addon)
