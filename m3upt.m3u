@@ -7,20 +7,12 @@
 #EXTINF:-1 group-title="TV" tvg-id="rtp1hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png",RTP 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8||user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
-
-#EXTINF:-1 group-title="TV" tvg-id="rtp1hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png",RTP 1 (B)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 http://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8||user-agent=|user-agent=RTP Play/2.0.36 (Linux;Android 11) ExoPlayerLib/2.17.1
-
-#EXTINF:-1 group-title="TV" tvg-id="rtp1hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png",RTP 1 (C)
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8||user-agent=||user-agent=RTP Play/2.0.36 (Linux;Android 11) ExoPlayerLib/2.17.1
 
 #EXTINF:-1 group-title="TV" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",RTP 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8|user-agent=RTP Play/2.0.26 (Linux;Android 11) ExoPlayerLib/2.11.8
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8|user-agent=RTP Play/2.0.36 (Linux;Android 11) ExoPlayerLib/2.17.1
 
 #EXTINF:-1 group-title="TV" tvg-id="sichd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png",SIC
 #KODIPROP:inputstream=inputstream.adaptive
@@ -41,7 +33,7 @@ https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX
 #EXTINF:-1 group-title="TV" tvg-id="rtp3hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP3.png",RTP 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8|user-agent=RTP Play/2.0.26 (Linux;Android 11) ExoPlayerLib/2.11.8
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8|user-agent=RTP Play/2.0.36 (Linux;Android 11) ExoPlayerLib/2.17.1
 
 #EXTINF:-1 group-title="TV" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png",SIC Notícias
 #KODIPROP:inputstream=inputstream.adaptive
@@ -75,27 +67,27 @@ https://playout175.livextend.cloud/livenlin4/2liveartvpub/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="rtpmem.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Memória.png",RTP Memória
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8|user-agent=RTP Play/2.0.26 (Linux;Android 11) ExoPlayerLib/2.11.8
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8|user-agent=RTP Play/2.0.36 (Linux;Android 11) ExoPlayerLib/2.17.1
 
 #EXTINF:-1 group-title="TV" tvg-id="rtpacorhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Açores.png",RTP Açores
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8|user-agent=RTP Play/2.0.26 (Linux;Android 11) ExoPlayerLib/2.11.8
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8|user-agent=RTP Play/2.0.36 (Linux;Android 11) ExoPlayerLib/2.17.1
 
 #EXTINF:-1 group-title="TV" tvg-id="rtpmad.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Madeira.png",RTP Madeira
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8|user-agent=RTP Play/2.0.26 (Linux;Android 11) ExoPlayerLib/2.11.8
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8|user-agent=RTP Play/2.0.36 (Linux;Android 11) ExoPlayerLib/2.17.1
 
 #EXTINF:-1 group-title="TV" tvg-id="rtpaf.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-África.png",RTP África
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8|user-agent=RTP Play/2.0.26 (Linux;Android 11) ExoPlayerLib/2.11.8
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8|user-agent=RTP Play/2.0.36 (Linux;Android 11) ExoPlayerLib/2.17.1
 
 #EXTINF:-1 group-title="TV" tvg-id="RTPInternacional.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Internacional.png",RTP Internacional
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8|user-agent=RTP Play/2.0.26 (Linux;Android 11) ExoPlayerLib/2.11.8
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8|user-agent=RTP Play/2.0.36 (Linux;Android 11) ExoPlayerLib/2.17.1
 
 #EXTINF:-1 group-title="TV" tvg-id="SICInt.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/SIC-Internacional.png",SIC Internacional
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1379,10 +1371,10 @@ https://video-auth1.iol.pt/beachcam/belem/playlist.m3u8
 # O Outro Lado
 
 #EXTINF:-1 group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E15 18/4/2022
-https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p9780/p9780_1_20220418235938e015t4728.m3u8|user-agent=RTP Play/2.0.26 (Linux;Android 11) ExoPlayerLib/2.11.8
+https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p9780/p9780_1_20220418235938e015t4728.m3u8|user-agent=RTP Play/2.0.36 (Linux;Android 11) ExoPlayerLib/2.17.1
 
 #EXTINF:-1 group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E14 11/4/2022
-https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p9780/p9780_1_20220411000000e014t6348.m3u8|user-agent=RTP Play/2.0.26 (Linux;Android 11) ExoPlayerLib/2.11.8
+https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p9780/p9780_1_20220411000000e014t6348.m3u8|user-agent=RTP Play/2.0.36 (Linux;Android 11) ExoPlayerLib/2.17.1
 
 
 # Sem Moderação
@@ -1466,7 +1458,7 @@ plugin://plugin.video.youtube/play/?video_id=FHn2cZRIsAc
 # Filmes
 
 #EXTINF:-1 media="true" group-title="Filmes" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/39879_60329_23725.jpg",Monty Python: A Vida de Brian
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p8088/p8088_1_20220415161005e000t6264d.mp4/master.m3u8|user-agent=RTP Play/2.0.26 (Linux;Android 11) ExoPlayerLib/2.11.8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p8088/p8088_1_20220415161005e000t6264d.mp4/master.m3u8|user-agent=RTP Play/2.0.36 (Linux;Android 11) ExoPlayerLib/2.17.1
 
 #EXTINF:-1 media="true" group-title="Filmes" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/39842_60253_93088.jpg",Monty Python e o Cálice Sagrado
 https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p8057/p8057_1_20220422161005e000t2754d/master.m3u8|user-agent=RTP Play/2.0.36 (Linux;Android 11) ExoPlayerLib/2.17.1
