@@ -1466,7 +1466,13 @@ https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p8057/p8057_1_20220422
 
 # Documentários (Kodi + YouTube addon)
 
-#EXTINF:-1 media="true" group-title="Docs (Kodi)" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/41369_63569_65641.jpg?w=275&auto=enhance&vib=52",Dentro do Antifa
+#EXTINF:-1 media="true" group-title="Docs (Kodi)" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/37415_54632_76335.jpg",Salgueiro Maia - Rumo à Eternidade
+https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p5993/p5993_201907011120221764d.m3u8|user-agent=RTP Play/2.0.36 (Linux;Android 11) ExoPlayerLib/2.17.1
+
+#EXTINF:-1 media="true" group-title="Docs (Kodi)" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/34223_49118_85354.png",A Voz e os Ouvidos do MFA
+https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p3438/p3438_1_201804251304182778.m3u8|user-agent=RTP Play/2.0.36 (Linux;Android 11) ExoPlayerLib/2.17.1
+
+#EXTINF:-1 media="true" group-title="Docs (Kodi)" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/41369_63569_65641.jpg",Dentro do Antifa
 https://streaming-ondemand.rtp.pt/nas2.share/pt/h264/512x384/p9407/p9407_1_20220423161006e000t2346d/master.m3u8|user-agent=RTP Play/2.0.36 (Linux;Android 11) ExoPlayerLib/2.17.1
 
 #EXTINF:-1 media="true" group-title="Docs (Kodi)" tvg-logo="",Os Donos de Portugal
