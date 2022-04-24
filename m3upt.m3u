@@ -1466,6 +1466,9 @@ https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p8057/p8057_1_20220422
 
 # Documentários (Kodi + YouTube addon)
 
+#EXTINF:-1 media="true" group-title="Docs (Kodi)" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/41369_63569_65641.jpg?w=275&auto=enhance&vib=52",Dentro do Antifa
+https://streaming-ondemand.rtp.pt/nas2.share/pt/h264/512x384/p9407/p9407_1_20220423161006e000t2346d/master.m3u8|user-agent=RTP Play/2.0.36 (Linux;Android 11) ExoPlayerLib/2.17.1
+
 #EXTINF:-1 media="true" group-title="Docs (Kodi)" tvg-logo="",Os Donos de Portugal
 plugin://plugin.video.youtube/play/?video_id=OuzxncV9l3M
 
