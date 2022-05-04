@@ -1370,6 +1370,9 @@ https://video-auth1.iol.pt/beachcam/belem/playlist.m3u8
 
 # O Outro Lado
 
+#EXTINF:-1 group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E16 2/5/2022
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220502000000e016t2439.mp4/master.m3u8
+
 #EXTINF:-1 group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E15 18/4/2022
 https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p9780/p9780_1_20220418235938e015t4728.m3u8|user-agent=RTP Play/2.0.36 (Linux;Android 11) ExoPlayerLib/2.17.1
 
@@ -1378,6 +1381,9 @@ https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p9780/p9780_1_20220411
 
 
 # Sem Moderação
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 4/5/2022
+https://cdn.jwplayer.com/manifests/w1ivoJC5.m3u8
 
 #EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 27/4/2022
 https://cdn.jwplayer.com/manifests/A5m2MNbl.m3u8
