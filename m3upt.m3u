@@ -857,6 +857,12 @@ https://media1.mcr.iol.pt/wrcidade/cidlatina.stream/playlist.m3u8
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://radiocomercial.iol.pt/images/logo_big.png",Rádio Comercial
 https://media1.mcr.iol.pt/livefm/comercial/playlist.m3u8
 
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/q6clfyhqvcg5.png",Rádio Comercial Rock
+https://media1.mcr.iol.pt/wrcomercial/rcrock.stream/playlist.m3u8
+
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ybykwjqku6rh.png",Rádio Comercial Dance
+https://media2.mcr.iol.pt/wrcomercial/rcdance.stream/playlist.m3u8
+
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Comercial-Kids.png",Rádio Comercial Kids
 https://media1.mcr.iol.pt/wrcomercial/rckids.stream/playlist.m3u8
 
@@ -892,6 +898,18 @@ https://25643.live.streamtheworld.com/RADIO_RENASCENCAAAC
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://cdn-radiotime-logos.tunein.com/s18720d.png",Rádio RFM
 https://21313.live.streamtheworld.com/RFMAAC
+
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://static.radiosdeportugal.pt/img/oitentas.jpg",Rádio RFM Oitentas
+https://22533.live.streamtheworld.com/GR80SRFMAAC
+
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://www.radio.pt/images/broadcasts/09/f1/110226/1/c300.png",Rádio RFM On The Rock
+https://20863.live.streamtheworld.com/RFMONTHEROCKAAC
+
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ggsggrtqba2b.png",Rádio RFM Dancefloor
+https://21273.live.streamtheworld.com/DANCEONTHEFLOORAAC
+
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/c4XS6cBFdq.png",Rádio RFM Oceano Pacífico
+https://25533.live.streamtheworld.com/OCEANPACIFICAAC
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://cdn-profiles.tunein.com/s16311/images/logod.png",Rádio SBSR
 https://centova.radios.pt/proxy/435?mp=/stream
@@ -1473,6 +1491,9 @@ https://content.jwplatform.com/manifests/jL3dl5uq.m3u8
 
 
 # Programa Cujo Nome Estamos Legalmente Impedidos de Dizer
+
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 14/5/2022
+https://cdn.jwplayer.com/manifests/bGgWcbW7.m3u8
 
 #EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 7/5/2022
 https://cdn.jwplayer.com/manifests/IVMUreOJ.m3u8
