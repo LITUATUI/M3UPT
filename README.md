@@ -79,6 +79,7 @@ M3U playlist of TV channels and radio stations in Portuguese optimized for Kodi.
 * M80
 * Rádio Oxigénio
 * Rádio Renascença
+* TSF
 
 <br>
 
