@@ -1467,7 +1467,7 @@ https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_202205232
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220516000000e018t0535.mp4/master.m3u8
 
 #EXTINF:-1 group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E17 9/5/2022
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220509000000e017t4281.mp4/master.m3u8|user-agent=Mozilla
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220509000000e017t4281.mp4/master.m3u8
 
 #EXTINF:-1 group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E16 2/5/2022
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220502000000e016t2439.mp4/master.m3u8
@@ -1623,10 +1623,10 @@ plugin://plugin.video.youtube/play/?video_id=FHn2cZRIsAc
 # Filmes
 
 #EXTINF:-1 media="true" group-title="Filmes" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/39879_60329_23725.jpg",Monty Python: A Vida de Brian
-#https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p8088/p8088_1_20220415161005e000t6264d.mp4/master.m3u8|user-agent=Mozilla
+#https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p8088/p8088_1_20220415161005e000t6264d.mp4/master.m3u8
 
 #EXTINF:-1 media="true" group-title="Filmes" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/39842_60253_93088.jpg",Monty Python e o Cálice Sagrado
-#https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p8057/p8057_1_20220422161005e000t2754d/master.m3u8|user-agent=Mozilla
+#https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p8057/p8057_1_20220422161005e000t2754d/master.m3u8
 
 
 # Documentários (Kodi + YouTube addon)
@@ -1644,7 +1644,7 @@ https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p10088/p10088_20220328
 https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p8770/p8770_1_20210428161005e004t9250d.m3u8|user-agent=Mozilla
 
 #EXTINF:-1 media="true" group-title="Docs (Kodi)" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/41369_63569_65641.jpg",Dentro do Antifa
-#https://streaming-ondemand.rtp.pt/nas2.share/pt/h264/512x384/p9407/p9407_1_20220423161006e000t2346d/master.m3u8|user-agent=Mozilla
+#https://streaming-ondemand.rtp.pt/nas2.share/pt/h264/512x384/p9407/p9407_1_20220423161006e000t2346d/master.m3u8
 
 #EXTINF:-1 media="true" group-title="Docs (Kodi)" tvg-logo="",Os Donos de Portugal
 plugin://plugin.video.youtube/play/?video_id=OuzxncV9l3M
