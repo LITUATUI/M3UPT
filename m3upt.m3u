@@ -1457,6 +1457,9 @@ https://video-auth1.iol.pt/beachcam/bcbugio2/playlist.m3u8
 
 # O Outro Lado
 
+#EXTINF:-1 group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E20 6/6/2022
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220606000000e021t7368.mp4/master.m3u8|user-agent=Mozilla
+
 #EXTINF:-1 group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E20 30/5/2022
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220530235952e020t0472.mp4/master.m3u8|user-agent=Mozilla
 
@@ -1480,6 +1483,9 @@ https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p9780/p9780_1_20220411
 
 
 # Sem Moderação
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 8/6/2022
+https://cdn.jwplayer.com/manifests/blBwHnnm.m3u8
 
 #EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 1/6/2022
 https://cdn.jwplayer.com/manifests/xO1sxiyG.m3u8
@@ -1591,6 +1597,9 @@ https://sp.rmbl.ws/s8/2/6/n/b/p/6nbpd.haa.mp4
 
 
 # Relatório DB (Kodi + YouTube addon)
+
+#EXTINF:-1 media="true" group-title="Relatório DB (Kodi)" tvg-logo="",RELATÓRIO DB - MAIO 2022
+plugin://plugin.video.youtube/play/?video_id=https://www.youtube.com/watch?v=NDz_owWuLx4
 
 #EXTINF:-1 media="true" group-title="Relatório DB (Kodi)" tvg-logo="",RELATÓRIO DB - ABRIL 2022
 plugin://plugin.video.youtube/play/?video_id=GxWI7r0UB_0
