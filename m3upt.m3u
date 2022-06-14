@@ -1466,6 +1466,9 @@ https://video-auth1.iol.pt/beachcam/bcbugio2/playlist.m3u8
 
 # O Outro Lado
 
+#EXTINF:-1 group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E21 13/6/2022
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220613235950e022t6667.mp4/master.m3u8|user-agent=Mozilla
+
 #EXTINF:-1 group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E20 6/6/2022
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220606000000e021t7368.mp4/master.m3u8|user-agent=Mozilla
 
@@ -1552,6 +1555,9 @@ https://content.jwplatform.com/manifests/jL3dl5uq.m3u8
 
 
 # Programa Cujo Nome Estamos Legalmente Impedidos de Dizer
+
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 11/6/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/06/11/e9f210fb-8982-42a1-b734-8a7aa2a73937/programa-cujo-nome-pgm-1006_22hv00230763.m3u8
 
 #EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 4/6/2022
 https://cdn.jwplayer.com/manifests/A0HsPe8E.m3u8
