@@ -473,7 +473,7 @@ https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="tve24.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVE-24h.png",TVE 24h
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://rtvelivestreamv3.akamaized.net/24h/24h_main.m3u8
+https://rtvelivestream.akamaized.net/segments/24h/24h_main.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="tve24.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVE-24h.png",TVE 24h (Kodi)
 plugin://plugin.video.youtube/play/?video_id=2CN2zI5v5eY
@@ -481,12 +481,12 @@ plugin://plugin.video.youtube/play/?video_id=2CN2zI5v5eY
 #EXTINF:-1 group-title="TV" tvg-id="LA 1" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/La1.png",La 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main.m3u8
+https://rtvelivestream.akamaized.net/segments/la1/la1_main.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="LA 2" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/La2.png",La 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://rtvelivestreamv3.akamaized.net/rtvesec/la2/la2_main.m3u8
+https://rtvelivestream.akamaized.net/segments/la2/la2_main.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="tvgalicia.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVG.png",TV Galicia
 #KODIPROP:inputstream=inputstream.adaptive
