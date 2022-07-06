@@ -524,7 +524,7 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Locomotion.png",Locomotion
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Cachipum-TV.png",Cachipum.TV
 #KODIPROP:inputstream=inputstream.adaptive
