@@ -1403,6 +1403,9 @@ https://video-auth1.iol.pt/beachcam/bcbugio2/playlist.m3u8
 
 # O Outro Lado
 
+#EXTINF:-1 group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E28 25/7/2022
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220725000000e028t6244.mp4/master.m3u8|user-agent=Opera
+
 #EXTINF:-1 group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E27 18/7/2022
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220718000000e027t0802.mp4/master.m3u8|user-agent=Opera
 
@@ -1585,6 +1588,15 @@ https://cdn.jwplayer.com/manifests/v8e6Ytdz.m3u8
 
 
 # The Jimmy Dore Show
+
+#EXTINF:-1 media="true" group-title="The Jimmy Dore Show" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/The-Jimmy-Dore-Show.png",The Jimmy Dore Show - Americans Are Fleeing The U.S. & Moving To Europe
+https://sp.rmbl.ws/s8/2/J/K/C/8/JKC8e.haa.mp4
+
+#EXTINF:-1 media="true" group-title="The Jimmy Dore Show" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/The-Jimmy-Dore-Show.png",The Jimmy Dore Show - CIA & FBI Brag About Throwing Elections At Home & Abroad
+https://sp.rmbl.ws/s8/2/7/J/C/8/7JC8e.haa.mp4
+
+#EXTINF:-1 media="true" group-title="The Jimmy Dore Show" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/The-Jimmy-Dore-Show.png",The Jimmy Dore Show - Zelensky’s Hidden Offshore Assets & Corruption Exposed!
+https://sp.rmbl.ws/s8/2/p/g/C/8/pgC8e.haa.mp4
 
 #EXTINF:-1 media="true" group-title="The Jimmy Dore Show" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/The-Jimmy-Dore-Show.png",The Jimmy Dore Show - Putin Drops 2 Minutes Of Truth About America & Ukraine
 https://sp.rmbl.ws/s8/2/P/c/C/8/PcC8e.haa.mp4
