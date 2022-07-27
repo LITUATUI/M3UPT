@@ -1451,6 +1451,9 @@ https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p9780/p9780_1_20220411
 
 # Sem Moderação
 
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 27/7/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/07/26/39857ab1-c026-412d-9662-4827b504b7b3/sem-moderacao.m3u8
+
 #EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 20/7/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/07/19/b3781633-dd29-46f0-a003-e6273d730bb0/sem-moderacao-pgm-1907_22hv00316274.m3u8
 
@@ -1588,6 +1591,9 @@ https://cdn.jwplayer.com/manifests/v8e6Ytdz.m3u8
 
 
 # The Jimmy Dore Show
+
+#EXTINF:-1 media="true" group-title="The Jimmy Dore Show" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/The-Jimmy-Dore-Show.png",The Jimmy Dore Show - Ukraine Gov Publishes Smear List Of “Bad” Journalists
+https://sp.rmbl.ws/s8/2/N/K/b/-/NKb-e.haa.mp4
 
 #EXTINF:-1 media="true" group-title="The Jimmy Dore Show" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/The-Jimmy-Dore-Show.png",The Jimmy Dore Show - Americans Are Fleeing The U.S. & Moving To Europe
 https://sp.rmbl.ws/s8/2/J/K/C/8/JKC8e.haa.mp4
