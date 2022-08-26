@@ -1593,6 +1593,12 @@ https://cdn.jwplayer.com/manifests/v8e6Ytdz.m3u8
 
 # The Jimmy Dore Show
 
+#EXTINF:-1 media="true" group-title="The Jimmy Dore Show" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/The-Jimmy-Dore-Show.png",The Jimmy Dore Show - Roger Waters’ Name Added To Ukrainian “Kill List”
+https://sp.rmbl.ws/s8/2/F/O/l/v/FOlvf.haa.mp4
+
+#EXTINF:-1 media="true" group-title="The Jimmy Dore Show" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/The-Jimmy-Dore-Show.png",The Jimmy Dore Show - Africa Chooses China Over The U.S. In Taiwan Dispute
+https://sp.rmbl.ws/s8/2/J/a/O/t/JaOtf.haa.mp4
+
 #EXTINF:-1 media="true" group-title="The Jimmy Dore Show" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/The-Jimmy-Dore-Show.png",The Jimmy Dore Show - Roger Waters Destroys CNN Host About Ukraine & Taiwan
 https://sp.rmbl.ws/s8/2/J/x/Q/i/JxQif.haa.mp4
 
@@ -1673,6 +1679,9 @@ https://sp.rmbl.ws/s8/2/Y/c/t/j/Yctjf.gaa.mp4
 
 
 # Relatório DB (Kodi + YouTube addon)
+
+#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - JULHO 2022
+plugin://plugin.video.youtube/play/?video_id=https://www.youtube.com/watch?v=hks6owUNxX0
 
 #EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - JUNHO 2022
 plugin://plugin.video.youtube/play/?video_id=https://www.youtube.com/watch?v=FVBrPa5__yA
