@@ -1398,6 +1398,9 @@ https://video-auth1.iol.pt/beachcam/bcbugio2/playlist.m3u8
 
 # O Outro Lado
 
+#EXTINF:-1 group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E29 5/9/2022
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220905000000e029t3055.mp4/master.m3u8
+
 #EXTINF:-1 group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E28 25/7/2022
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220725000000e028t6244.mp4/master.m3u8|user-agent=Opera
 
@@ -1445,6 +1448,9 @@ https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p9780/p9780_1_20220411
 
 
 # Sem Moderação
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 7/9/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/09/06/79e245c8-6a4b-4512-a13a-a92b4cb78d83/sem-moderacao.m3u8
 
 #EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 27/7/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/07/26/39857ab1-c026-412d-9662-4827b504b7b3/sem-moderacao.m3u8
@@ -1494,6 +1500,9 @@ https://cdn.jwplayer.com/manifests/6ipev8fs.m3u8
 
 # Eixo do Mal
 
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 2/9/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/09/02/b8b54d8b-bcd4-4a36-9369-0e3a88f2f039/eixo-do-mal--pgm-0109_22hv00399110.m3u8
+
 #EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 29/7/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/07/28/53a5e599-d8d7-4b20-b3d9-18cb270adeb2/eixo-do-mal.m3u8
 
@@ -1541,6 +1550,9 @@ https://content.jwplatform.com/manifests/jL3dl5uq.m3u8
 
 
 # Programa Cujo Nome Estamos Legalmente Impedidos de Dizer
+
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 3/9/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/09/02/1e614fca-e9f4-4171-8a86-6e19765a0e57/pgm-cujo-nome-pgm-0209_22hv00401340.m3u8
 
 #EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 30/7/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/07/29/fd24006e-de2f-43bd-aee3-b31e257d4c68/programa-cujo-nome-pgm-2907_22hv00335344.m3u8
@@ -1592,6 +1604,9 @@ https://cdn.jwplayer.com/manifests/v8e6Ytdz.m3u8
 
 
 # The Jimmy Dore Show
+
+#EXTINF:-1 media="true" group-title="The Jimmy Dore Show" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/The-Jimmy-Dore-Show.png",The Jimmy Dore Show - Revealed: U.K. SABOTAGED Russia/Ukraine Peace Deal In April!
+https://sp.rmbl.ws/s8/2/_/0/m/B/_0mBf.haa.mp4
 
 #EXTINF:-1 media="true" group-title="The Jimmy Dore Show" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/The-Jimmy-Dore-Show.png",The Jimmy Dore Show - Roger Waters’ Name Added To Ukrainian “Kill List”
 https://sp.rmbl.ws/s8/2/F/O/l/v/FOlvf.haa.mp4
@@ -1679,6 +1694,9 @@ https://sp.rmbl.ws/s8/2/Y/c/t/j/Yctjf.gaa.mp4
 
 
 # Relatório DB (Kodi + YouTube addon)
+
+#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - AGOSTO 2022
+plugin://plugin.video.youtube/play/?video_id=https://www.youtube.com/watch?v=q-E6ZeBGPJU
 
 #EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - JULHO 2022
 plugin://plugin.video.youtube/play/?video_id=https://www.youtube.com/watch?v=hks6owUNxX0
