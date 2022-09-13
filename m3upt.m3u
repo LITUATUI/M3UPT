@@ -521,6 +521,16 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e1
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 
+#EXTINF:-1 group-title="TV" tvg-id="Anime TV" tvg-logo="",Anime TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="AniTV" tvg-logo="",AniTV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://tv01.livemustv.com.br/livemustv1358/livemustv1358/playlist.m3u8
+
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Locomotion.png",Locomotion
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
