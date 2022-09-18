@@ -1408,8 +1408,11 @@ https://video-auth1.iol.pt/beachcam/bcbugio2/playlist.m3u8
 
 # O Outro Lado
 
+#EXTINF:-1 group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E29 12/9/2022
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220912235851e030t7021.mp4/master.m3u8|user-agent=Opera
+
 #EXTINF:-1 group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E29 5/9/2022
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220905000000e029t3055.mp4/master.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220905000000e029t3055.mp4/master.m3u8|user-agent=Opera
 
 #EXTINF:-1 group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E28 25/7/2022
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220725000000e028t6244.mp4/master.m3u8|user-agent=Opera
@@ -1458,6 +1461,9 @@ https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p9780/p9780_1_20220411
 
 
 # Sem Moderação
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 14/9/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/09/13/c26ca26f-b0c6-4a5f-8e59-dbafda57235a/sem-moderacao.1.m3u8
 
 #EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 7/9/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/09/06/79e245c8-6a4b-4512-a13a-a92b4cb78d83/sem-moderacao.m3u8
@@ -1510,6 +1516,9 @@ https://cdn.jwplayer.com/manifests/6ipev8fs.m3u8
 
 # Eixo do Mal
 
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 16/9/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/09/16/d2c8e2df-6a01-4b9f-bb1d-cd1ef23e37e6/eixo-de-mal-15-setembro-pgm_22hv00428220.m3u8
+
 #EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 2/9/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/09/02/b8b54d8b-bcd4-4a36-9369-0e3a88f2f039/eixo-do-mal--pgm-0109_22hv00399110.m3u8
 
@@ -1560,6 +1569,12 @@ https://content.jwplatform.com/manifests/jL3dl5uq.m3u8
 
 
 # Programa Cujo Nome Estamos Legalmente Impedidos de Dizer
+
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 17/9/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/09/16/380750c3-848c-4d67-a848-0ba7b33f18cf/programa-cujo-nome-pgm033-pgm_22hv00429991.m3u8
+
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 10/9/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/09/09/0b8b8250-7266-4031-bf43-905109838efe/ft_programa-cujo-nome-ep32-9-set-pgm.m3u8
 
 #EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 3/9/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/09/02/1e614fca-e9f4-4171-8a86-6e19765a0e57/pgm-cujo-nome-pgm-0209_22hv00401340.m3u8
