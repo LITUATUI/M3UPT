@@ -17,12 +17,6 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8|user-a
 #EXTINF:-1 group-title="TV" tvg-id="sichd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png",SIC
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#https://live.impresa.pt/live/sic/sic.m3u8
-https://sic.live.impresa.pt/sic.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="sichd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png",SIC (Estrangeiro)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="tvihd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI
@@ -1408,55 +1402,58 @@ https://video-auth1.iol.pt/beachcam/bcbugio2/playlist.m3u8
 
 # O Outro Lado
 
-#EXTINF:-1 group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E29 12/9/2022
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E31 19/9/2022
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220919235949e031t8705.mp4/master.m3u8|user-agent=Opera
+
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E30 12/9/2022
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220912235851e030t7021.mp4/master.m3u8|user-agent=Opera
 
-#EXTINF:-1 group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E29 5/9/2022
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E29 5/9/2022
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220905000000e029t3055.mp4/master.m3u8|user-agent=Opera
 
-#EXTINF:-1 group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E28 25/7/2022
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E28 25/7/2022
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220725000000e028t6244.mp4/master.m3u8|user-agent=Opera
 
-#EXTINF:-1 group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E27 18/7/2022
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E27 18/7/2022
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220718000000e027t0802.mp4/master.m3u8|user-agent=Opera
 
-#EXTINF:-1 group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E26 11/7/2022
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E26 11/7/2022
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220711235955e026t0988.mp4/master.m3u8|user-agent=Opera
 
-#EXTINF:-1 group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E25 4/7/2022
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E25 4/7/2022
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220704000000e025t6101.mp4/master.m3u8|user-agent=Opera
 
-#EXTINF:-1 group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E24 27/6/2022
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E24 27/6/2022
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220627000000e024t9179.mp4/master.m3u8|user-agent=Opera
 
-#EXTINF:-1 group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E23 20/6/2022
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E23 20/6/2022
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220620000000e023t6226.mp4/master.m3u8|user-agent=Opera
 
-#EXTINF:-1 group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E22 13/6/2022
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E22 13/6/2022
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220613235950e022t6667.mp4/master.m3u8|user-agent=Opera
 
-#EXTINF:-1 group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E21 6/6/2022
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E21 6/6/2022
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220606000000e021t7368.mp4/master.m3u8|user-agent=Opera
 
-#EXTINF:-1 group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E20 30/5/2022
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E20 30/5/2022
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220530235952e020t0472.mp4/master.m3u8|user-agent=Opera
 
-#EXTINF:-1 group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E19 23/5/2022
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E19 23/5/2022
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220523235949e019t8146.mp4/master.m3u8|user-agent=Opera
 
-#EXTINF:-1 group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E18 16/5/2022
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E18 16/5/2022
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220516000000e018t0535.mp4/master.m3u8|user-agent=Opera
 
-#EXTINF:-1 group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E17 9/5/2022
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E17 9/5/2022
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220509000000e017t4281.mp4/master.m3u8|user-agent=Opera
 
-#EXTINF:-1 group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E16 2/5/2022
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E16 2/5/2022
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220502000000e016t2439.mp4/master.m3u8|user-agent=Opera
 
-#EXTINF:-1 group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E15 18/4/2022
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E15 18/4/2022
 https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p9780/p9780_1_20220418235938e015t4728.m3u8|user-agent=Opera
 
-#EXTINF:-1 group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E14 11/4/2022
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E14 11/4/2022
 https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p9780/p9780_1_20220411000000e014t6348.m3u8|user-agent=Opera
 
 
