@@ -1459,6 +1459,9 @@ https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p9780/p9780_1_20220411
 
 # Sem Moderação
 
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 21/9/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/09/20/b8841d55-b224-4282-8be3-5fbcd009ae04/sem-moderacao.2.m3u8
+
 #EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 14/9/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/09/13/c26ca26f-b0c6-4a5f-8e59-dbafda57235a/sem-moderacao.1.m3u8
 
@@ -1513,6 +1516,9 @@ https://cdn.jwplayer.com/manifests/6ipev8fs.m3u8
 
 # Eixo do Mal
 
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 23/9/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/09/23/1b58d6e4-21d1-4731-8b26-38cf585c6924/eixo-do-mal-pgm-2209.m3u8
+
 #EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 16/9/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/09/16/d2c8e2df-6a01-4b9f-bb1d-cd1ef23e37e6/eixo-de-mal-15-setembro-pgm_22hv00428220.m3u8
 
@@ -1566,6 +1572,9 @@ https://content.jwplatform.com/manifests/jL3dl5uq.m3u8
 
 
 # Programa Cujo Nome Estamos Legalmente Impedidos de Dizer
+
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 24/9/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/09/23/152e7fde-352a-41d4-8947-ba44bf545e60/programa-cujo-nome-23-set-pgm.m3u8
 
 #EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 17/9/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/09/16/380750c3-848c-4d67-a848-0ba7b33f18cf/programa-cujo-nome-pgm033-pgm_22hv00429991.m3u8
