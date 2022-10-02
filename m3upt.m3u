@@ -40,6 +40,11 @@ https://sicnot.live.impresa.pt/sicnot.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMi8yMDIyIDM6MjU6NCBQTSZoYXNoX3ZhbHVlPVc0RGJUOERRUDBiOFRWNDdTc0p6dUE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD04YjM0ZmExZS05YzkxLTQ3NzgtYjQyMS00NjY2YjdlMmVhZTM=/
 
+#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Brasil.png",CNN Brasil
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://187.13.81.148:8000/play/a09b
+
 #EXTINF:-1 group-title="TV" tvg-id="euronw.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews PT
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
