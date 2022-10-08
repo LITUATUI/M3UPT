@@ -1407,6 +1407,12 @@ https://video-auth1.iol.pt/beachcam/bcbugio2/playlist.m3u8
 
 # O Outro Lado
 
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E33 3/10/2022
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20221003000000e033t8013.mp4/master.m3u8|user-agent=Opera
+
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E32 26/9/2022
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220926235914e032t3558.mp4/master.m3u8|user-agent=Opera
+
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E31 19/9/2022
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220919235949e031t8705.mp4/master.m3u8|user-agent=Opera
 
@@ -1463,6 +1469,12 @@ https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p9780/p9780_1_20220411
 
 
 # Sem Moderação
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 5/10/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/10/04/5fc7f845-03e9-45df-b963-444381a0f420/sem-moderacao.4.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 28/9/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/09/27/954b7c1e-814d-4c45-97a4-65f489209c87/sem-moderacao.3.m3u8
 
 #EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 21/9/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/09/20/b8841d55-b224-4282-8be3-5fbcd009ae04/sem-moderacao.2.m3u8
@@ -1521,6 +1533,12 @@ https://cdn.jwplayer.com/manifests/6ipev8fs.m3u8
 
 # Eixo do Mal
 
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 7/10/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/10/07/1492b49e-6525-45de-84b1-a26ebba57de5/eixo-do-mal-6-outubro-pgm_22hv00475330.m3u8
+
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 30/9/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/09/29/8cb50168-de63-45cd-896a-e167affa1c8f/ft_eixo-do-mal.m3u8
+
 #EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 23/9/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/09/23/1b58d6e4-21d1-4731-8b26-38cf585c6924/eixo-do-mal-pgm-2209.m3u8
 
@@ -1577,6 +1595,12 @@ https://content.jwplatform.com/manifests/jL3dl5uq.m3u8
 
 
 # Programa Cujo Nome Estamos Legalmente Impedidos de Dizer
+
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 7/10/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/10/07/f3cf12b0-fcea-4b1f-9288-41d437a653f9/programa-cujo-nome-pgm-7-out_22hv00477403.m3u8
+
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 1/10/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/09/30/d5f969db-0884-4b50-9da7-4b9016ce04f6/programa-cujo-nome-pgm-30-set_22hv00462070.m3u8
 
 #EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 24/9/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/09/23/152e7fde-352a-41d4-8947-ba44bf545e60/programa-cujo-nome-23-set-pgm.m3u8
@@ -1748,6 +1772,9 @@ https://sp.rmbl.ws/s8/2/Y/c/t/j/Yctjf.gaa.mp4
 
 
 # Relatório DB (Kodi + YouTube addon)
+
+#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - SETEMBRO 2022
+plugin://plugin.video.youtube/play/?video_id=https://www.youtube.com/watch?v=7JymLpRbBrk
 
 #EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - AGOSTO 2022
 plugin://plugin.video.youtube/play/?video_id=https://www.youtube.com/watch?v=q-E6ZeBGPJU
