@@ -1407,6 +1407,9 @@ https://video-auth1.iol.pt/beachcam/bcbugio2/playlist.m3u8
 
 # O Outro Lado
 
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E34 10/10/2022
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20221010000000e034t4090.mp4/master.m3u8|user-agent=Opera
+
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E33 3/10/2022
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20221003000000e033t8013.mp4/master.m3u8|user-agent=Opera
 
@@ -1469,6 +1472,9 @@ https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p9780/p9780_1_20220411
 
 
 # Sem Moderação
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 12/10/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/10/11/d96c6ae9-b8bd-4bb6-af1a-fa731be03a16/sem-moderacao.5.m3u8
 
 #EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 5/10/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/10/04/5fc7f845-03e9-45df-b963-444381a0f420/sem-moderacao.4.m3u8
