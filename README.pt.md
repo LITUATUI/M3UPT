@@ -175,7 +175,6 @@ Pode encontrar um aparelho com processador Amlogic S905X4 e 4 GB de RAM por pre√
 * [AliExpress](https://m3upt.com/aliexpress)
 * [Geekbuying](https://m3upt.com/geekbuying)
 * [Banggood](https://m3upt.com/banggood)
-* [AliExpress](https://m3upt.com/aliexpress)
 * [eBay](https://m3upt.com/ebay)
 * [Amazon](https://m3upt.com/amazon)
 * [DHGate](https://m3upt.com/dhgate)
