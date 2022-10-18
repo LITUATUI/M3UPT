@@ -166,14 +166,15 @@ Para uma boa experiência de utilização o seu aparelho deverá ter um bom proc
 
 Normalmente TV boxes Android com processadores Amlogic são melhores que aparelhos com processadores Rockchip ou Allwinner. 
 
-Pode encontrar um aparelho com processador Amlogic S905W2 e 4 GB de RAM por preços a rondar os 40 euros. Visite as lojas recomendadas abaixo se deseja comprar um.
+Pode encontrar um aparelho com processador Amlogic S905X4 e 4 GB de RAM por preços a rondar os 60 euros. Visite as lojas recomendadas abaixo se deseja comprar um.
 
 ---
 
 ## 🛒 Lojas recomendadas
 
-* [Banggood](https://m3upt.com/banggood)
+* [AliExpress](https://m3upt.com/aliexpress)
 * [Geekbuying](https://m3upt.com/geekbuying)
+* [Banggood](https://m3upt.com/banggood)
 * [AliExpress](https://m3upt.com/aliexpress)
 * [eBay](https://m3upt.com/ebay)
 * [Amazon](https://m3upt.com/amazon)
