@@ -172,8 +172,8 @@ You can buy a decent device with the Amlogic S905W2 SoC and 4 GB of RAM for arou
 
 ## 🛒 Recommended shopping websites
 
-* [Banggood](https://m3upt.com/banggood)
 * [Geekbuying](https://m3upt.com/geekbuying)
+* [Banggood](https://m3upt.com/banggood)
 * [AliExpress](https://m3upt.com/aliexpress)
 * [eBay](https://m3upt.com/ebay)
 * [Amazon](https://m3upt.com/amazon)
