@@ -43,7 +43,7 @@ https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Brasil.png",CNN Brasil
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-http://187.13.81.148:8000/play/a09b
+#http://187.13.81.148:8000/play/a09b
 
 #EXTINF:-1 group-title="TV" tvg-id="euronw.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews PT
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1407,6 +1407,9 @@ https://video-auth1.iol.pt/beachcam/bcbugio2/playlist.m3u8
 
 # O Outro Lado
 
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E35 24/10/2022
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20221024000000e036t1341.mp4/master.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
+
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E35 17/10/2022
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20221017000000e035t1180.mp4/master.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
 
@@ -1476,6 +1479,12 @@ https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p9780/p9780_1_20220411
 
 # Sem Moderação
 
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 26/10/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/10/25/c905f244-5a32-48a2-a9da-29c3cd9f3634/sem-moderacao-pgm-25-out.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 19/10/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/10/18/3df38bb9-fef4-430d-8ac2-fd2899f751fe/sem-moderacao.6.m3u8
+
 #EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 12/10/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/10/11/d96c6ae9-b8bd-4bb6-af1a-fa731be03a16/sem-moderacao.5.m3u8
 
@@ -1542,6 +1551,12 @@ https://cdn.jwplayer.com/manifests/6ipev8fs.m3u8
 
 # Eixo do Mal
 
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 28/10/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/10/28/82fc0f67-37d7-45f8-a35d-ecc44db695f3/eixo-do-mal-pgm-2710.m3u8
+
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 21/10/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/10/21/9420cdbf-2250-46de-973c-d712658efdef/eixo-do-mal-2010_22hv00510250.m3u8
+
 #EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 14/10/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/10/14/75800320-6d2d-4bef-8698-af1af19c84ae/eixo-do-mal-pgm-1310.m3u8
 
@@ -1607,6 +1622,12 @@ https://content.jwplatform.com/manifests/jL3dl5uq.m3u8
 
 
 # Programa Cujo Nome Estamos Legalmente Impedidos de Dizer
+
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 29/10/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/10/29/12f569fb-4272-4027-994b-047f62d3f3a9/programa-cujo-nome-28-out.m3u8
+
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 22/10/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/10/21/3a41dd2a-6dbb-49ad-a698-69876c7ff7e8/programa-cujo-nome-pgm-21-out_22hv00512692.m3u8
 
 #EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 15/10/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/10/15/78984233-614e-4e4f-b2b4-506ecdb8adce/gs.m3u8
@@ -1679,6 +1700,21 @@ https://cdn.jwplayer.com/manifests/v8e6Ytdz.m3u8
 
 
 # The Jimmy Dore Show
+
+#EXTINF:-1 media="true" group-title="The Jimmy Dore Show" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/The-Jimmy-Dore-Show.png",Is Russia Poised To Win The Ukraine War?
+https://sp.rmbl.ws/s8/2/S/r/a/q/Sraqg.haa.mp4
+
+#EXTINF:-1 media="true" group-title="The Jimmy Dore Show" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/The-Jimmy-Dore-Show.png",Web Summit CAVES To Pressure & Bans Grayzone Journalists!
+https://sp.rmbl.ws/s8/2/I/A/9/n/IA9ng.haa.mp4
+
+#EXTINF:-1 media="true" group-title="The Jimmy Dore Show" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/The-Jimmy-Dore-Show.png",PROOF Antisemitism Accusations Against Corbyn Were Labour Party Lies
+https://sp.rmbl.ws/s8/2/W/v/a/q/Wvaqg.haa.mp4
+
+#EXTINF:-1 media="true" group-title="The Jimmy Dore Show" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/The-Jimmy-Dore-Show.png",How The U.S. Learned To Love Neo-N@zis In Ukraine
+https://sp.rmbl.ws/s8/2/M/Y/9/n/MY9ng.haa.mp4
+
+#EXTINF:-1 media="true" group-title="The Jimmy Dore Show" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/The-Jimmy-Dore-Show.png",NY TImes SHUTS DOWN U.S. Critic At “Democracy Forum”
+https://sp.rmbl.ws/s8/2/j/r/I/l/jrIlg.haa.mp4
 
 #EXTINF:-1 media="true" group-title="The Jimmy Dore Show" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/The-Jimmy-Dore-Show.png",Here’s Why The U.S. Blew Up Nord Stream Pipeline!
 https://sp.rmbl.ws/s8/2/-/A/s/3/-As3f.haa.mp4
