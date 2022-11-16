@@ -1407,11 +1407,14 @@ https://video-auth1.iol.pt/beachcam/bcbugio2/playlist.m3u8
 
 # O Outro Lado
 
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E39 14/11/2022
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20221114000000e039t9556.mp4/master.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
+
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E38 7/11/2022
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20221107000000e038t4302.mp4/master.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20221107000000e038t4302.mp4/master.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
 
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E37 31/10/2022
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20221031000000e037t4733.mp4/master.m3u8
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20221031000000e037t4733.mp4/master.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
 
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E36 24/10/2022
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20221024000000e036t1341.mp4/master.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8

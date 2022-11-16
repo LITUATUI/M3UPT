@@ -28,7 +28,7 @@ Não é fácil para falantes de português a viver no estrangeiro manter contact
 * RTP Madeira
 * RTP África
 * RTP Internacional
-* SIC Internacional
+* ~~SIC Internacional~~
 * TVI Internacional
 * Porto Canal
 
@@ -73,7 +73,7 @@ Não é fácil para falantes de português a viver no estrangeiro manter contact
 * France 24 English
 * France 24 Español
 * France 24 Français
-* CNN Brasil
+* ~~CNN Brasil~~
 * CNN International
 * Reuters TV
 * NASA TV

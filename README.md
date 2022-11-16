@@ -28,7 +28,7 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 * RTP Madeira
 * RTP África
 * RTP Internacional
-* SIC Internacional
+* ~~SIC Internacional~~
 * TVI Internacional
 * Porto Canal
 
@@ -56,7 +56,7 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 * France 24 English
 * France 24 Español
 * France 24 Français
-* CNN Brasil
+* ~~CNN Brasil~~
 * CNN International
 * Reuters TV
 * NASA TV
