@@ -1415,6 +1415,9 @@ https://video-auth1.iol.pt/beachcam/bcbugio2/playlist.m3u8
 
 # O Outro Lado
 
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E40 21/11/2022
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20221121000000e040t0764.mp4/master.m3u8|user-agent=Opera
+
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E39 14/11/2022
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20221114000000e039t9556.mp4/master.m3u8|user-agent=Opera
 
@@ -1495,6 +1498,9 @@ https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p9780/p9780_1_20220411
 
 
 # Sem Moderação
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 23/11/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/11/23/1dd21f00-347b-45ae-b10f-c7647526cfda/sem-moderacao.m3u8
 
 #EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 2/11/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/11/02/64b55299-21f3-49de-84b6-47c535ed153c/sem-moderacao.m3u8
@@ -1651,6 +1657,15 @@ https://content.jwplatform.com/manifests/jL3dl5uq.m3u8
 
 
 # Programa Cujo Nome Estamos Legalmente Impedidos de Dizer
+
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 19/11/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/11/18/780de3f6-cdaf-40ca-bd79-ae0dfc4c5291/programa-cujo-nome-18-nov-pgm_22hv00579374.m3u8
+
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 12/11/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/11/11/d248e0e9-ed3a-40fb-87d9-db9f910abc88/programa-cujo-nome-11-nov_22hv00561858.m3u8
+
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 5/11/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/11/04/20f3d903-a8c8-45f8-b9c3-519d21724d25/gverno-sombra-pgm-4-nov.m3u8
 
 #EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 29/10/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/10/29/12f569fb-4272-4027-994b-047f62d3f3a9/programa-cujo-nome-28-out.m3u8
