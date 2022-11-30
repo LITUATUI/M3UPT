@@ -125,7 +125,7 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 
 **Recommended settings:**
 
-* Options - Playback - Engine: ExoPlayer
+* Options - Playback - Engine: MediaPlayer
 
 <br>
 

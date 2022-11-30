@@ -125,7 +125,7 @@ Não é fácil para falantes de português a viver no estrangeiro manter contact
 
 **Configurações recomendadas:**
 
-* Opções - Opções de reprodução - Motor: ExoPlayer
+* Opções - Opções de reprodução - Motor: MediaPlayer
 
 <br>
 
