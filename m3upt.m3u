@@ -748,10 +748,10 @@ https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
 
 # Temp
 
-#EXTINF:-1 group-title="Tem" tvg-id="sptv1hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Sport-TV-1.png",Sport TV 1
+#EXTINF:-1 group-title="Temp" tvg-id="sptv1hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Sport-TV-1.png",Sport TV 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
+http://elitemaster.space:8080/live/CarlosIrmaosrsousa/16042021/22627.m3u8
 
 
 # 📻 Radio stations
