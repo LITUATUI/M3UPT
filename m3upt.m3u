@@ -1415,6 +1415,9 @@ https://video-auth1.iol.pt/beachcam/bcbugio2/playlist.m3u8
 
 # O Outro Lado
 
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E42 5/12/2022
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20221205000000e042t9523.mp4/master.m3u8|user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E41 28/11/2022
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20221128000000e041t4047.mp4/master.m3u8|user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
 
@@ -1583,6 +1586,9 @@ https://cdn.jwplayer.com/manifests/6ipev8fs.m3u8
 
 # Eixo do Mal
 
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 2/12/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/12/02/92c23a0e-fa87-43ff-b703-eecea7cdc819/ft_eixo-do-mal.m3u8
+
 #EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 25/11/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/11/25/7b7e688c-888d-43e8-aec3-5e4e7a836a67/eixo-do-mal_22hv00593821.m3u8
 
@@ -1666,6 +1672,9 @@ https://content.jwplatform.com/manifests/jL3dl5uq.m3u8
 
 
 # Programa Cujo Nome Estamos Legalmente Impedidos de Dizer
+
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 3/12/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/12/02/84beeada-cb7c-45d9-9394-fdbf751ee3b1/programa-cujo-nome-2-dez-pgm.m3u8
 
 #EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 26/11/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/11/26/f7406526-b1b5-44ad-8221-ea4a0ba5449f/governo-sombra-25-nov-pgm.m3u8
@@ -1879,6 +1888,9 @@ https://sp.rmbl.ws/s8/2/Y/c/t/j/Yctjf.gaa.mp4
 
 
 # Relatório DB (Kodi + YouTube addon)
+
+#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - NOVEMBRO 2022
+plugin://plugin.video.youtube/play/?video_id=https://www.youtube.com/watch?v=ttA-YjtgVyA
 
 #EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - OUTUBRO 2022
 plugin://plugin.video.youtube/play/?video_id=https://www.youtube.com/watch?v=GJBRUgK3fu0
