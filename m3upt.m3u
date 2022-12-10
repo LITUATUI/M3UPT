@@ -104,7 +104,7 @@ https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireali
 #EXTINF:-1 group-title="TV" tvg-id="portochd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Porto-Canal.png",Porto Canal
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8
+https://stream-11.ix7.dailymotion.com/sec%28-SVy60QQ6sKn1Jfj-v9Q0mU8h9TWTi-Wbju5cXWtn5CnGP7xRBLNEB3l7rb3vZfd%29/dm/3/x8egnb8/s/live-2.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Fama-TV.jpg",Fama TV
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1586,6 +1586,9 @@ https://cdn.jwplayer.com/manifests/6ipev8fs.m3u8
 
 # Eixo do Mal
 
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 9/12/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/12/09/efb170ab-814a-4d90-978a-bf56827f7776/eixo-0812-pgm.m3u8
+
 #EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 2/12/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/12/02/92c23a0e-fa87-43ff-b703-eecea7cdc819/ft_eixo-do-mal.m3u8
 
@@ -1672,6 +1675,9 @@ https://content.jwplatform.com/manifests/jL3dl5uq.m3u8
 
 
 # Programa Cujo Nome Estamos Legalmente Impedidos de Dizer
+
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 10/12/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/12/10/4bd68e0c-5c25-4e3d-9654-2b2aa3341d48/gs0912-v1.m3u8
 
 #EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 3/12/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/12/02/84beeada-cb7c-45d9-9394-fdbf751ee3b1/programa-cujo-nome-2-dez-pgm.m3u8
@@ -1765,6 +1771,12 @@ https://cdn.jwplayer.com/manifests/v8e6Ytdz.m3u8
 
 
 # The Jimmy Dore Show
+
+#EXTINF:-1 media="true" group-title="The Jimmy Dore Show" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/The-Jimmy-Dore-Show.png",German Study Reveals Unsettling Truth About The Jab
+https://sp.rmbl.ws/s8/2/6/R/5/h/6R5hh.haa.mp4
+
+#EXTINF:-1 media="true" group-title="The Jimmy Dore Show" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/The-Jimmy-Dore-Show.png",Is Media Lying About China COVID Protests?
+https://sp.rmbl.ws/s8/2/K/i/b/e/Kibeh.haa.mp4
 
 #EXTINF:-1 media="true" group-title="The Jimmy Dore Show" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/The-Jimmy-Dore-Show.png",Is Russia Poised To Win The Ukraine War?
 https://sp.rmbl.ws/s8/2/S/r/a/q/Sraqg.haa.mp4
