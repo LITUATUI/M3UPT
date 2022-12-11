@@ -91,6 +91,11 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8|user-age
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAyMiAxMToxNzo1MiBQTSZoYXNoX3ZhbHVlPUtJOW9VdkZKbHVBaXBEVFZrT2ZSUVE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD04YWZkNjQ2Yy1hN2VjLTQyNzEtOTQ5ZS02ZWRhODA5MGVjYjY=/
 
+#EXTINF:-1 group-title="TV" tvg-id="TVIAFR.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI_África.png",TVI África
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
+
 #EXTINF:-1 group-title="TV" tvg-id="TVIFIC.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Ficção.png",TVI Ficção
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -99,13 +104,7 @@ https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificca
 #EXTINF:-1 group-title="TV" tvg-id="TVIR.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAyMiA5OjIwOjIxIFBNJmhhc2hfdmFsdWU9UkNTS2NjemFiY002WG44UTM2STZRZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWUyZjI2MjI5LTc4YWUtNDg0My1hMzczLWExMjAwMjIxZjY1MQ==
-Alt: https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAyMiA5OjIwOjIxIFBNJmhhc2hfdmFsdWU9UkNTS2NjemFiY002WG44UTM2STZRZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWUyZjI2MjI5LTc4YWUtNDg0My1hMzczLWExMjAwMjIxZjY1MQ==
-
-#EXTINF:-1 group-title="TV" tvg-id="TVIAFR.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Ficção.png",TVI Africa
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8   #Necessita a troca de logo para TVI-Africa.png
+https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAyMiA5OjIwOjIxIFBNJmhhc2hfdmFsdWU9UkNTS2NjemFiY002WG44UTM2STZRZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWUyZjI2MjI5LTc4YWUtNDg0My1hMzczLWExMjAwMjIxZjY1MQ==
 
 #EXTINF:-1 group-title="TV" tvg-id="portochd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Porto-Canal.png",Porto Canal
 #KODIPROP:inputstream=inputstream.adaptive
