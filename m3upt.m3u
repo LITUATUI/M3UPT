@@ -751,14 +751,6 @@ https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
 
 
-# Temp
-
-#EXTINF:-1 group-title="Temp" tvg-id="sptv1hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Sport-TV-1.png",Sport TV 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-http://elitemaster.space:8080/live/CarlosIrmaosrsousa/16042021/22627.m3u8
-
-
 # 📻 Radio stations
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena1.png",Rádio  Antena 1
@@ -1419,6 +1411,9 @@ https://video-auth1.iol.pt/beachcam/bcbugio2/playlist.m3u8
 
 
 # O Outro Lado
+
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E43 12/12/2022
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20221212235955e043t5417.mp4/master.m3u8|user-agent="RTP-Play"
 
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E42 5/12/2022
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20221205000000e042t9523.mp4/master.m3u8|user-agent="RTP-Play"
