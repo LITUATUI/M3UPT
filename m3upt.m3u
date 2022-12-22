@@ -1412,6 +1412,9 @@ https://video-auth1.iol.pt/beachcam/bcbugio2/playlist.m3u8
 
 # O Outro Lado
 
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E44 19/12/2022
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20221219235931e044t8989.mp4/master.m3u8|user-agent="RTP-Play"
+
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E43 12/12/2022
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20221212235955e043t5417.mp4/master.m3u8|user-agent="RTP-Play"
 
@@ -1505,6 +1508,9 @@ https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p9780/p9780_1_20220411
 
 # Sem Moderação
 
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 21/12/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/12/21/17402050-c4cc-429f-98a5-da614fc823b4/sem-moderacao.m3u8
+
 #EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 30/11/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/11/30/5af5b5df-c1d0-45a3-838b-b3f230542337/sem-moderacao.m3u8
 
@@ -1585,6 +1591,9 @@ https://cdn.jwplayer.com/manifests/6ipev8fs.m3u8
 
 
 # Eixo do Mal
+
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 16/12/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/12/16/b9b95ed6-f6a4-469b-b454-c6a3a292aca8/eixo-1512-pgm_22hv00641014.m3u8
 
 #EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 9/12/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/12/09/efb170ab-814a-4d90-978a-bf56827f7776/eixo-0812-pgm.m3u8
@@ -1675,6 +1684,9 @@ https://content.jwplatform.com/manifests/jL3dl5uq.m3u8
 
 
 # Programa Cujo Nome Estamos Legalmente Impedidos de Dizer
+
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 17/12/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/12/16/ebffe6e0-b551-4621-b717-a5ff6f57e3c7/gs1512-pgm_22hv00643183.m3u8
 
 #EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 10/12/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/12/10/4bd68e0c-5c25-4e3d-9654-2b2aa3341d48/gs0912-v1.m3u8
@@ -1771,6 +1783,15 @@ https://cdn.jwplayer.com/manifests/v8e6Ytdz.m3u8
 
 
 # The Jimmy Dore Show
+
+#EXTINF:-1 media="true" group-title="The Jimmy Dore Show" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/The-Jimmy-Dore-Show.png",The Unvaxxed Are Horrible Drivers! Claims New Study
+https://sp.rmbl.ws/s8/2/z/8/4/t/z84th.haa.mp4
+
+#EXTINF:-1 media="true" group-title="The Jimmy Dore Show" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/The-Jimmy-Dore-Show.png",Irish Politician Calls Out Western Imperialism To EU MPs Faces
+https://sp.rmbl.ws/s8/2/l/4/N/p/l4Nph.haa.mp4
+
+#EXTINF:-1 media="true" group-title="The Jimmy Dore Show" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/The-Jimmy-Dore-Show.png",Fauci NEEDS To Be Investigated For COVID Lies Says Jeffrey Sachs
+https://sp.rmbl.ws/s8/2/k/U/P/p/kUPph.haa.mp4
 
 #EXTINF:-1 media="true" group-title="The Jimmy Dore Show" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/The-Jimmy-Dore-Show.png",Warmongers CONFRONTED By Journalist At National Press Club Event
 https://sp.rmbl.ws/s8/2/i/9/C/k/i9Ckh.haa.mp4
@@ -1894,6 +1915,45 @@ https://sp.rmbl.ws/s8/2/W/Y/g/s/WYgsd.haa.mp4
 
 #EXTINF:-1 media="true" group-title="The Jimmy Dore Show" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/The-Jimmy-Dore-Show.png",The Jimmy Dore Show - US/NATO Provoked Ukraine War Say Most Experts On Russia
 https://sp.rmbl.ws/s8/2/6/n/b/p/6nbpd.haa.mp4
+
+
+# The Duran
+
+#EXTINF:-1 media="true" group-title="The Duran" tvg-logo="https://logos-download.com/wp-content/uploads/2018/09/The_Duran_Logo.png",The Duran - Sunak's plan to save UK revealed, send more money to Ukraine
+https://sp.rmbl.ws/s8/2/i/e/L/y/ieLyh.caa.mp4
+
+#EXTINF:-1 media="true" group-title="The Duran" tvg-logo="https://logos-download.com/wp-content/uploads/2018/09/The_Duran_Logo.png",The Duran - Losing the peace after the Cold War w/Jack Matlock, Alexander Mercouris and Glenn Diesen
+https://sp.rmbl.ws/s8/2/c/l/G/u/clGuh.caa.mp4
+
+#EXTINF:-1 media="true" group-title="The Duran" tvg-logo="https://logos-download.com/wp-content/uploads/2018/09/The_Duran_Logo.png",The Duran - German coup targets political opposition. Merkel's disastrous legacy
+https://sp.rmbl.ws/s8/2/O/q/5/n/Oq5nh.caa.mp4
+
+
+# The New Atlas
+
+#EXTINF:-1 media="true" group-title="The New Atlas" tvg-logo="https://sp.rmbl.ws/z8/x/A/K/f/xAKfa.baa-TheNewAtlas-r8l12u.jpeg",The New Atlas - Western Media Whitewashing Extremism in Ukraine
+https://sp.rmbl.ws/s8/2/L/f/O/w/LfOwh.haa.mp4
+
+#EXTINF:-1 media="true" group-title="The New Atlas" tvg-logo="https://sp.rmbl.ws/z8/x/A/K/f/xAKfa.baa-TheNewAtlas-r8l12u.jpeg",The New Atlas - China's "Century of Humiliation" & US-Chinese Tensions Today w/Carl Zha
+https://sp.rmbl.ws/s8/2/r/s/t/i/rstih.caa.mp4
+
+
+# Russell Brand
+
+#EXTINF:-1 media="true" group-title="Russell Brand" tvg-logo="https://yt3.googleusercontent.com/9tZVbBV0GGHD7A1WxWMANwqoc6lb5XzTGroJ2U1i41KeySfErC2sQFn8iHRuM4KVbDJdanUaaKM=s900-c-k-c0x00ffffff-no-rj",Russell Brand - The Covid Redemption with Tim Robbins
+https://sp.rmbl.ws/s8/2/q/X/J/t/qXJth.haa.mp4
+
+#EXTINF:-1 media="true" group-title="Russell Brand" tvg-logo="https://yt3.googleusercontent.com/9tZVbBV0GGHD7A1WxWMANwqoc6lb5XzTGroJ2U1i41KeySfErC2sQFn8iHRuM4KVbDJdanUaaKM=s900-c-k-c0x00ffffff-no-rj",Russell Brand - ONLY THE BEGINNING | Matt Taibbi Exposes Twitter Policy
+https://sp.rmbl.ws/s8/2/Y/F/G/t/YFGth.haa.mp4
+
+#EXTINF:-1 media="true" group-title="Russell Brand" tvg-logo="https://yt3.googleusercontent.com/9tZVbBV0GGHD7A1WxWMANwqoc6lb5XzTGroJ2U1i41KeySfErC2sQFn8iHRuM4KVbDJdanUaaKM=s900-c-k-c0x00ffffff-no-rj",Russell Brand - “We Don’t Live In A Democracy” Matt Kennard
+https://sp.rmbl.ws/s8/2/3/z/q/m/3zqmh.haa.mp4
+
+#EXTINF:-1 media="true" group-title="Russell Brand" tvg-logo="https://yt3.googleusercontent.com/9tZVbBV0GGHD7A1WxWMANwqoc6lb5XzTGroJ2U1i41KeySfErC2sQFn8iHRuM4KVbDJdanUaaKM=s900-c-k-c0x00ffffff-no-rj",Russell Brand - The Fall of The Great Covid Narrative
+https://sp.rmbl.ws/s8/2/8/s/H/c/8sHch.haa.mp4
+
+#EXTINF:-1 media="true" group-title="Russell Brand" tvg-logo="https://yt3.googleusercontent.com/9tZVbBV0GGHD7A1WxWMANwqoc6lb5XzTGroJ2U1i41KeySfErC2sQFn8iHRuM4KVbDJdanUaaKM=s900-c-k-c0x00ffffff-no-rj",Russell Brand - Have We Been Told The Truth?
+https://sp.rmbl.ws/s8/2/a/n/z/W/anzWg.haa.mp4
 
 
 # The Dive With Jackson Hinkle
