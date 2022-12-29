@@ -109,7 +109,7 @@ https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireali
 #EXTINF:-1 group-title="TV" tvg-id="portochd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Porto-Canal.png",Porto Canal
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://stream-02.ix7.dailymotion.com/sec%28-SVy60QQ6sKn1Jfj-v9Q0heUcCFw1iYA7k_Zb9li2DjhYZoGfWAlEZED1Qo4O1qm%29/dm/3/x8egnb8/s/live-2.m3u8
+https://stream-11.dc3.dailymotion.com/sec%28-SVy60QQ6sKn1Jfj-v9Q0h6OGqxjEHQ-UQ6xeZ77B_A_D-7zto7uaQoOxL4_FJ8V%29/dm/3/x8egnb8/s/live-2.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Fama-TV.jpg",Fama TV
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1508,6 +1508,9 @@ https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p9780/p9780_1_20220411
 
 # Sem Moderação
 
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 28/12/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/12/28/5a86ccb1-e945-4a7a-a70a-93ada9e43c01/sem-moderacao.1.m3u8
+
 #EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 21/12/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/12/21/17402050-c4cc-429f-98a5-da614fc823b4/sem-moderacao.m3u8
 
@@ -1801,6 +1804,15 @@ https://sp.rmbl.ws/s8/2/R/-/C/z/R-Czc.haa.mp4
 
 
 # The Jimmy Dore Show
+
+#EXTINF:-1 media="true" group-title="The Jimmy Dore Show" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/The-Jimmy-Dore-Show.png",Ukrainian Soldiers Execute Prisoners Of War – Admits U.S. Mercenary
+https://sp.rmbl.ws/s8/2/-/D/V/E/-DVEh.haa.mp4
+
+#EXTINF:-1 media="true" group-title="The Jimmy Dore Show" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/The-Jimmy-Dore-Show.png",U.S. Is TERRIFIED Of Losing Africa To China!
+https://sp.rmbl.ws/s8/2/S/i/8/A/Si8Ah.haa.mp4
+
+#EXTINF:-1 media="true" group-title="The Jimmy Dore Show" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/The-Jimmy-Dore-Show.png",Proof Your Government Is 100% Corrupt!
+https://sp.rmbl.ws/s8/2/4/g/p/z/4gpzh.haa.mp4
 
 #EXTINF:-1 media="true" group-title="The Jimmy Dore Show" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/The-Jimmy-Dore-Show.png",The Unvaxxed Are Horrible Drivers! Claims New Study
 https://sp.rmbl.ws/s8/2/z/8/4/t/z84th.haa.mp4
