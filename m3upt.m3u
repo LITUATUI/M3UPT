@@ -109,7 +109,7 @@ https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireali
 #EXTINF:-1 group-title="TV" tvg-id="portochd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Porto-Canal.png",Porto Canal
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://stream-11.dc3.dailymotion.com/sec%28-SVy60QQ6sKn1Jfj-v9Q0h6OGqxjEHQ-UQ6xeZ77B_A_D-7zto7uaQoOxL4_FJ8V%29/dm/3/x8egnb8/s/live-2.m3u8
+https://stream-03.dc3.dailymotion.com/sec%28-SVy60QQ6sKn1Jfj-v9Q0gIesReK8PAmXfravlaUqPAHxGd87-rdhDscqKe8oc1P%29/dm/3/x8egnb8/s/live-2.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Fama-TV.jpg",Fama TV
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1594,6 +1594,9 @@ https://cdn.jwplayer.com/manifests/6ipev8fs.m3u8
 
 
 # Eixo do Mal
+
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 29/12/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/12/29/e311453b-1491-44bb-9184-59bd5a9dc090/eixo-do-mal-pgm-2912_22hv00656591.m3u8
 
 #EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 23/12/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/12/23/5688393e-3b8d-4a9a-a14c-26b0603b4c13/eixo-do-mal.m3u8
