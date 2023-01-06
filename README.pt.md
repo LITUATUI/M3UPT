@@ -161,12 +161,14 @@ Não é fácil para falantes de português a viver no estrangeiro manter contact
 
 Para uma boa experiência de utilização o seu aparelho deverá ter um bom processador e memória RAM suficiente. Evite processadores da Rockchip e da Allwinner.
 
-* **SoC**: Amlogic S905W2, S905Y4 ou S905X4 (barato, eficiente e suporta o codec de vídeo moderno AV1)
+* **SoC**: Amlogic S905W2, S905Y4 ou S905X4 (barato, eficiente e suporta o moderno codec de vídeo AV1)
 * **RAM**: 4 GB
 
 Normalmente TV boxes Android com processadores Amlogic são melhores que aparelhos com processadores Rockchip ou Allwinner. 
 
-Pode encontrar um aparelho com processador Amlogic S905X4 e 4 GB de RAM por preços a rondar os 60 euros. Visite as lojas recomendadas abaixo se deseja comprar um.
+Pode encontrar um aparelho com processador Amlogic S905X4 e 4 GB de RAM por preços a rondar os 60 euros. Visite as lojas recomendadas abaixo se deseja comprar um. 
+
+Se preferir uma TV Box topo de gama já configurada com esta lista de canais e pronta a usar, pode comprar [aqui](https://m3upt.com/tvbox).
 
 ---
 

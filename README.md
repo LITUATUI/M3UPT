@@ -161,7 +161,7 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 
 For a good experience you need a device with decent SoC and enough RAM. As a general rule avoid SoCs made by Rockchip and Allwinner.
 
-* **SoC**: Amlogic S905W2, S905Y4 or S905X4 (cheap, energy efficient and supports the recent AV1 video codec)
+* **SoC**: Amlogic S905W2, S905Y4 or S905X4 (cheap, energy efficient and supports the modern AV1 video codec)
 * **RAM**: 4 GB
 
 Affordable Android TV boxes with Amlogic SoCs are usually much better supported than the ones powered by Rockchip or Allwinner. 
