@@ -1412,6 +1412,12 @@ https://video-auth1.iol.pt/beachcam/bcbugio2/playlist.m3u8
 
 # O Outro Lado
 
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T8E2 9/1/2023
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p11203/p11203_1_20230109000000e002t2558.mp4/master.m3u8|user-agent="RTP-Play"
+
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T8E1 2/1/2023
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p11203/p11203_1_20230102000000e001t7245.mp4/master.m3u8|user-agent="RTP-Play"
+
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E44 19/12/2022
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20221219235931e044t8989.mp4/master.m3u8|user-agent="RTP-Play"
 
@@ -1508,6 +1514,12 @@ https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p9780/p9780_1_20220411
 
 # Sem Moderação
 
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 4/1/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/01/11/294ab240-3ccf-44a1-b8f6-9b0b7068611f/video.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 4/1/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/01/04/9b16a437-7166-4010-b772-f0762e02434d/sem-moderacao.1.m3u8
+
 #EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 28/12/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/12/28/5a86ccb1-e945-4a7a-a70a-93ada9e43c01/sem-moderacao.1.m3u8
 
@@ -1594,6 +1606,12 @@ https://cdn.jwplayer.com/manifests/6ipev8fs.m3u8
 
 
 # Eixo do Mal
+
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 13/1/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/01/13/65841f72-050e-4793-87bb-326d7f2fa82e/video.m3u8
+
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 6/1/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/01/06/49d2d281-8ccc-4412-b343-eed3862a9767/video.m3u8
 
 #EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 29/12/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/12/29/e311453b-1491-44bb-9184-59bd5a9dc090/eixo-do-mal-pgm-2912_22hv00656591.m3u8
@@ -1693,6 +1711,12 @@ https://content.jwplatform.com/manifests/jL3dl5uq.m3u8
 
 
 # Programa Cujo Nome Estamos Legalmente Impedidos de Dizer
+
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 14/1/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/01/14/07a926d3-633e-4b1b-81d8-a2d30050a1a7/video.m3u8
+
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 7/1/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/01/07/763e5ac5-f22e-4c92-b527-8fc109b9d452/programa-cujo-nome-540p.m3u8
 
 #EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 30/12/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/12/30/6b6cadf2-3bc1-4416-ba97-0e524177e195/programa-cujo-nome-pgm-dia-30-dez.m3u8
@@ -1810,6 +1834,9 @@ https://sp.rmbl.ws/s8/2/R/-/C/z/R-Czc.haa.mp4
 
 
 # The Jimmy Dore Show
+
+#EXTINF:-1 media="true" group-title="The Jimmy Dore Show" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/The-Jimmy-Dore-Show.png",European Leaders ADMIT Ukraine Peace Deal Was A Sham
+https://sp.rmbl.ws/s8/2/2/x/h/W/2xhWh.haa.mp4
 
 #EXTINF:-1 media="true" group-title="The Jimmy Dore Show" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/The-Jimmy-Dore-Show.png",Ukrainian Soldiers Execute Prisoners Of War – Admits U.S. Mercenary
 https://sp.rmbl.ws/s8/2/-/D/V/E/-DVEh.haa.mp4
