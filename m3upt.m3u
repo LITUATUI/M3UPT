@@ -1412,6 +1412,9 @@ https://video-auth1.iol.pt/beachcam/bcbugio2/playlist.m3u8
 
 # O Outro Lado
 
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T8E3 16/1/2023
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p11203/p11203_1_20230116000000e003t6738.mp4/master.m3u8|user-agent="RTP-Play"
+
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T8E2 9/1/2023
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p11203/p11203_1_20230109000000e002t2558.mp4/master.m3u8|user-agent="RTP-Play"
 
@@ -1514,7 +1517,10 @@ https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p9780/p9780_1_20220411
 
 # Sem Moderação
 
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 4/1/2023
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 18/1/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/01/18/9315fb1e-7a91-4356-85aa-a11d669b2196/video.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 11/1/2023
 https://videos.impresa.pt/videos/hls/sicnot/2023/01/11/294ab240-3ccf-44a1-b8f6-9b0b7068611f/video.m3u8
 
 #EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 4/1/2023
@@ -1834,6 +1840,12 @@ https://sp.rmbl.ws/s8/2/R/-/C/z/R-Czc.haa.mp4
 
 
 # The Jimmy Dore Show
+
+#EXTINF:-1 media="true" group-title="The Jimmy Dore Show" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/The-Jimmy-Dore-Show.png",We’re Overcounting COVID Deaths! Admits CNN Doctor
+https://sp.rmbl.ws/s8/2/4/F/n/1/4Fn1h.haa.mp4
+
+#EXTINF:-1 media="true" group-title="The Jimmy Dore Show" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/The-Jimmy-Dore-Show.png",Pfizer CEO CONFRONTED On The Streets Of Davos!
+https://sp.rmbl.ws/s8/2/O/b/o/1/Obo1h.haa.mp4
 
 #EXTINF:-1 media="true" group-title="The Jimmy Dore Show" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/The-Jimmy-Dore-Show.png",European Leaders ADMIT Ukraine Peace Deal Was A Sham
 https://sp.rmbl.ws/s8/2/2/x/h/W/2xhWh.haa.mp4
