@@ -18,6 +18,6 @@ sed -i "/live_tvi_direct/ c https://video-auth4.iol.pt/live_tvi_direct/live_tvi_
 
 # Porto Canal - update the stream URL of Porto Canal
 
-python porto_canal.py && sed -e '/live-2/ {' -e 'r porto_canal.txt' -e 'd' -e '}' -i m3upt.m3u
+python porto_canal.py && sed -e '/x8egnb8/ {' -e 'r porto_canal.txt' -e 'd' -e '}' -i m3upt.m3u
 
 exit 0
