@@ -1,3 +1,7 @@
+#!/usr/bin/env python
+
+# Get the stream of Porto Canal and put it in porto_canal.txt
+
 import os, requests, json, time, sys
 os.system("clear")
 
