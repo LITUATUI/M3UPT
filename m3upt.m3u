@@ -104,11 +104,7 @@ https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificca
 #EXTINF:-1 group-title="TV" tvg-id="TVIR.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-<<<<<<< Updated upstream
 https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNS8yMDIzIDg6MTg6MTIgUE0maGFzaF92YWx1ZT1uVDI0Q0hPbjNpNU9JLzZGenlmbHBRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MzIxOGFkMDMtNjdiZC00OTAxLWE5ZjAtZjdiNzcyNGU3Mzc3/
-=======
-https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNS8yMDIzIDM6NDg6MTIgUE0maGFzaF92YWx1ZT1HVWJIbTRqeFp4TnlyWjBhWi80aGpBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NjdkYjJiZDctMjUyMi00ODllLWEyMjctMzQ2MjgwZTNlNDVk/
->>>>>>> Stashed changes
 
 #EXTINF:-1 group-title="TV" tvg-id="portochd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Porto-Canal.png",Porto Canal
 #KODIPROP:inputstream=inputstream.adaptive
