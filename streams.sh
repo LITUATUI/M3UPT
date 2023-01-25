@@ -16,4 +16,9 @@ sed -i "/live_tvi_internacional/ c https://video-auth6.iol.pt/live_tvi_internaci
 
 sed -i "/live_tvi_direct/ c https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/playlist.m3u8?wmsAuthSign=$(wget https://services.iol.pt/matrix?userId= -o /dev/null -O -)/" m3upt.m3u
 
+# Porto Canal - update the stream URL of Porto Canal
+
+python porto_canal.py && sed -e '/live-2/ {' -e 'r porto_canal.txt' -e 'd' -e '}' -i m3upt.m3u
+
 exit 0
+
