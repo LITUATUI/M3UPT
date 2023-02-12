@@ -575,6 +575,11 @@ https://stmv1.srvsite.com/clubefmradio/clubefmradio/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="TV" tvg-id="tracehd.tv.vodafone.pt" tvg-logo="",Trace Latina
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
+
 #EXTINF:-1 group-title="TV" tvg-id="CLUBHD.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Clubbing-TV.png",Clubbing TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
