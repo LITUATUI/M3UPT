@@ -1354,6 +1354,12 @@ https://video-auth1.iol.pt/beachcam/bcbugio2/playlist.m3u8
 
 # O Outro Lado
 
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T8E7 13/2/2023
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p11203/p11203_1_20230213000000e007t0326.mp4/master.m3u8|user-agent="RTP-Play"
+
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T8E6 6/2/2023
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p11203/p11203_1_20230206000000e006t5923.mp4/master.m3u8|user-agent="RTP-Play"
+
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T8E5 30/1/2023
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p11203/p11203_1_20230130000000e005t3134.mp4/master.m3u8|user-agent="RTP-Play"
 
@@ -1465,6 +1471,12 @@ https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p9780/p9780_1_20220411
 
 # Sem Moderação
 
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 15/2/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/02/15/e1a66262-ec62-4caf-b7e6-e355e0c8b89b/video.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 8/2/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/02/08/bcdcac21-8139-4969-869a-bf294f25f17a/video.m3u8
+
 #EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 1/2/2023
 https://videos.impresa.pt/videos/hls/sicnot/2023/02/01/ababf0fc-7936-4950-bcd1-6219ebba901a/video.m3u8
 
@@ -1566,6 +1578,9 @@ https://cdn.jwplayer.com/manifests/6ipev8fs.m3u8
 
 
 # Eixo do Mal
+
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 10/2/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/02/10/b2bed3cd-d3a4-42ed-9d03-90f5bb9b557d/video.m3u8
 
 #EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 3/2/2023
 https://videos.impresa.pt/videos/hls/sicnot/2023/02/03/e0048d12-c916-47d2-9eba-3f897e3a3e81/video.m3u8
@@ -1680,6 +1695,9 @@ https://content.jwplatform.com/manifests/jL3dl5uq.m3u8
 
 
 # Programa Cujo Nome Estamos Legalmente Impedidos de Dizer
+
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 11/2/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/02/10/7048cf93-a77e-429c-a744-6553b684aab2/video.m3u8
 
 #EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 4/2/2023
 https://videos.impresa.pt/videos/hls/sicnot/2023/02/03/1367cf9c-011d-4ed2-90e5-21329b84a2e0/video.m3u8
@@ -2016,6 +2034,9 @@ https://sp.rmbl.ws/s8/2/Y/c/t/j/Yctjf.gaa.mp4
 
 
 # Relatório DB (Kodi + YouTube addon)
+
+#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - DEZEMBRO 2022
+plugin://plugin.video.youtube/play/?video_id=https://www.youtube.com/watch?v=fVzdMTmkkms
 
 #EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - NOVEMBRO 2022
 plugin://plugin.video.youtube/play/?video_id=https://www.youtube.com/watch?v=ttA-YjtgVyA
