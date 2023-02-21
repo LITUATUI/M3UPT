@@ -1354,6 +1354,9 @@ https://video-auth1.iol.pt/beachcam/bcbugio2/playlist.m3u8
 
 # O Outro Lado
 
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T8E8 20/2/2023
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p11203/p11203_1_20230220230445e008t6367.mp4/master.m3u8|user-agent="RTP-Play"
+
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T8E7 13/2/2023
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p11203/p11203_1_20230213000000e007t0326.mp4/master.m3u8|user-agent="RTP-Play"
 
@@ -1579,6 +1582,9 @@ https://cdn.jwplayer.com/manifests/6ipev8fs.m3u8
 
 # Eixo do Mal
 
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 17/2/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/02/17/d3f88aef-522f-4aa4-bdcb-f2edfd6ae44f/video.m3u8
+
 #EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 10/2/2023
 https://videos.impresa.pt/videos/hls/sicnot/2023/02/10/b2bed3cd-d3a4-42ed-9d03-90f5bb9b557d/video.m3u8
 
@@ -1695,6 +1701,9 @@ https://content.jwplatform.com/manifests/jL3dl5uq.m3u8
 
 
 # Programa Cujo Nome Estamos Legalmente Impedidos de Dizer
+
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 18/2/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/02/18/49f7e50f-dfef-4247-a919-0dc671d22e8f/video.m3u8
 
 #EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 11/2/2023
 https://videos.impresa.pt/videos/hls/sicnot/2023/02/10/7048cf93-a77e-429c-a744-6553b684aab2/video.m3u8
