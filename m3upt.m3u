@@ -94,15 +94,15 @@ https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificca
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNy8yMDIzIDc6MTQ6NDIgUE0maGFzaF92YWx1ZT13eGZyY09mZmhzNDVGeFo0YkowdHdRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OTYzODEwMTktZThjMS00ZTMzLTljNzYtMWI2NDA0MjUzM2U4/
 
-#EXTINF:-1 group-title="TV" tvg-id="portochd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Porto-Canal.png",Porto Canal
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://stream-09.ix7.dailymotion.com/sec(-SVy60QQ6sKn1Jfj-v9Q0v-4JIIBAVGdbqKbnOtwq9eCS_cndrrYyastM6lbhgt2)/dm/3/x8egnb8/s/live-2.m3u8
-
 #EXTINF:-1 group-title="TV" tvg-id="fueltvhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Fuel-TV.png",Fuel TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://fueltv-fueltv-1-au.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="portochd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Porto-Canal.png",Porto Canal
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://stream-09.ix7.dailymotion.com/sec(-SVy60QQ6sKn1Jfj-v9Q0v-4JIIBAVGdbqKbnOtwq9eCS_cndrrYyastM6lbhgt2)/dm/3/x8egnb8/s/live-2.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Fama-TV.jpg",Fama TV
 #KODIPROP:inputstream=inputstream.adaptive
