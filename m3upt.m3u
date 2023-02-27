@@ -8,13 +8,13 @@
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=RTP-Play
-https://streaming-live-app.rtp.pt/liverepeater/smil:rtp1HD.smil/rtp_playlist.m3u8|user-agent="RTP-Play"
+https://streaming-live-app.rtp.pt/liverepeater/smil:rtp1HD.smil/rtp_playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",RTP 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=RTP-Play
-https://streaming-live-app.rtp.pt/liverepeater/smil:rtp2HD.smil/rtp_playlist.m3u8|user-agent="RTP-Play"
+https://streaming-live-app.rtp.pt/liverepeater/smil:rtp2HD.smil/rtp_playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="sichd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png",SIC
 #KODIPROP:inputstream=inputstream.adaptive
@@ -30,7 +30,7 @@ https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=RTP-Play
-https://streaming-live-app.rtp.pt/liverepeater/smil:rtpnHD.smil/rtp_playlist.m3u8|user-agent="RTP-Play"
+https://streaming-live-app.rtp.pt/liverepeater/smil:rtpnHD.smil/rtp_playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png",SIC Notícias
 #KODIPROP:inputstream=inputstream.adaptive
@@ -55,7 +55,8 @@ https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u
 #EXTINF:-1 group-title="TV" tvg-id="rtpmem.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Memória.png",RTP Memória
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8|user-agent="RTP-Play"
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="rtpacorhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Açores.png",RTP Açores
 #KODIPROP:inputstream=inputstream.adaptive
@@ -66,17 +67,20 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="rtpmad.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Madeira.png",RTP Madeira
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=RTP-Play
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="rtpaf.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-África.png",RTP África
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8|user-agent="RTP-Play"
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RTPInternacional.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Internacional.png",RTP Internacional
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8|user-agent="RTP-Play"
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="TVIInt.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",TVI Internacional
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1389,121 +1393,160 @@ https://video-auth1.iol.pt/beachcam/bcbugio2/playlist.m3u8
 # O Outro Lado
 
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T8E8 20/2/2023
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p11203/p11203_1_20230220230445e008t6367.mp4/master.m3u8|user-agent="RTP-Play"
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p11203/p11203_1_20230220230445e008t6367.mp4/master.m3u8
 
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T8E7 13/2/2023
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p11203/p11203_1_20230213000000e007t0326.mp4/master.m3u8|user-agent="RTP-Play"
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p11203/p11203_1_20230213000000e007t0326.mp4/master.m3u8
 
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T8E6 6/2/2023
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p11203/p11203_1_20230206000000e006t5923.mp4/master.m3u8|user-agent="RTP-Play"
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p11203/p11203_1_20230206000000e006t5923.mp4/master.m3u8
 
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T8E5 30/1/2023
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p11203/p11203_1_20230130000000e005t3134.mp4/master.m3u8|user-agent="RTP-Play"
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p11203/p11203_1_20230130000000e005t3134.mp4/master.m3u8
 
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T8E4 23/1/2023
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p11203/p11203_1_20230123235826e004t9936.mp4/master.m3u8|user-agent="RTP-Play"
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p11203/p11203_1_20230123235826e004t9936.mp4/master.m3u8
 
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T8E3 16/1/2023
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p11203/p11203_1_20230116000000e003t6738.mp4/master.m3u8|user-agent="RTP-Play"
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p11203/p11203_1_20230116000000e003t6738.mp4/master.m3u8
 
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T8E2 9/1/2023
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p11203/p11203_1_20230109000000e002t2558.mp4/master.m3u8|user-agent="RTP-Play"
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p11203/p11203_1_20230109000000e002t2558.mp4/master.m3u8
 
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T8E1 2/1/2023
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p11203/p11203_1_20230102000000e001t7245.mp4/master.m3u8|user-agent="RTP-Play"
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p11203/p11203_1_20230102000000e001t7245.mp4/master.m3u8
 
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E44 19/12/2022
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20221219235931e044t8989.mp4/master.m3u8|user-agent="RTP-Play"
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20221219235931e044t8989.mp4/master.m3u8
 
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E43 12/12/2022
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20221212235955e043t5417.mp4/master.m3u8|user-agent="RTP-Play"
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20221212235955e043t5417.mp4/master.m3u8
 
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E42 5/12/2022
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20221205000000e042t9523.mp4/master.m3u8|user-agent="RTP-Play"
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20221205000000e042t9523.mp4/master.m3u8
 
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E41 28/11/2022
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20221128000000e041t4047.mp4/master.m3u8|user-agent="RTP-Play"
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20221128000000e041t4047.mp4/master.m3u8
 
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E40 21/11/2022
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20221121000000e040t0764.mp4/master.m3u8|user-agent="RTP-Play"
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20221121000000e040t0764.mp4/master.m3u8
 
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E39 14/11/2022
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20221114000000e039t9556.mp4/master.m3u8|user-agent="RTP-Play"
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20221114000000e039t9556.mp4/master.m3u8
 
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E38 7/11/2022
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20221107000000e038t4302.mp4/master.m3u8|user-agent="RTP-Play"
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20221107000000e038t4302.mp4/master.m3u8
 
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E37 31/10/2022
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20221031000000e037t4733.mp4/master.m3u8|user-agent="RTP-Play"
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20221031000000e037t4733.mp4/master.m3u8
 
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E36 24/10/2022
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20221024000000e036t1341.mp4/master.m3u8|user-agent="RTP-Play"
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20221024000000e036t1341.mp4/master.m3u8
 
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E35 17/10/2022
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20221017000000e035t1180.mp4/master.m3u8|user-agent="RTP-Play"
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20221017000000e035t1180.mp4/master.m3u8
 
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E34 10/10/2022
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20221010000000e034t4090.mp4/master.m3u8|user-agent="RTP-Play"
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20221010000000e034t4090.mp4/master.m3u8
 
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E33 3/10/2022
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20221003000000e033t8013.mp4/master.m3u8|user-agent="RTP-Play"
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20221003000000e033t8013.mp4/master.m3u8
 
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E32 26/9/2022
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220926235914e032t3558.mp4/master.m3u8|user-agent="RTP-Play"
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220926235914e032t3558.mp4/master.m3u8
 
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E31 19/9/2022
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220919235949e031t8705.mp4/master.m3u8|user-agent="RTP-Play"
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220919235949e031t8705.mp4/master.m3u8
 
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E30 12/9/2022
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220912235851e030t7021.mp4/master.m3u8|user-agent="RTP-Play"
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220912235851e030t7021.mp4/master.m3u8
 
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E29 5/9/2022
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220905000000e029t3055.mp4/master.m3u8|user-agent="RTP-Play"
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220905000000e029t3055.mp4/master.m3u8
 
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E28 25/7/2022
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220725000000e028t6244.mp4/master.m3u8|user-agent="RTP-Play"
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220725000000e028t6244.mp4/master.m3u8
 
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E27 18/7/2022
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220718000000e027t0802.mp4/master.m3u8|user-agent="RTP-Play"
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220718000000e027t0802.mp4/master.m3u8
 
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E26 11/7/2022
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220711235955e026t0988.mp4/master.m3u8|user-agent="RTP-Play"
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220711235955e026t0988.mp4/master.m3u8
 
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E25 4/7/2022
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220704000000e025t6101.mp4/master.m3u8|user-agent="RTP-Play"
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220704000000e025t6101.mp4/master.m3u8
 
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E24 27/6/2022
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220627000000e024t9179.mp4/master.m3u8|user-agent="RTP-Play"
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220627000000e024t9179.mp4/master.m3u8
 
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E23 20/6/2022
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220620000000e023t6226.mp4/master.m3u8|user-agent="RTP-Play"
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220620000000e023t6226.mp4/master.m3u8
 
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E22 13/6/2022
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220613235950e022t6667.mp4/master.m3u8|user-agent="RTP-Play"
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220613235950e022t6667.mp4/master.m3u8
 
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E21 6/6/2022
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220606000000e021t7368.mp4/master.m3u8|user-agent="RTP-Play"
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220606000000e021t7368.mp4/master.m3u8
 
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E20 30/5/2022
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220530235952e020t0472.mp4/master.m3u8|user-agent="RTP-Play"
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220530235952e020t0472.mp4/master.m3u8
 
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E19 23/5/2022
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220523235949e019t8146.mp4/master.m3u8|user-agent="RTP-Play"
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220523235949e019t8146.mp4/master.m3u8
 
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E18 16/5/2022
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220516000000e018t0535.mp4/master.m3u8|user-agent="RTP-Play"
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220516000000e018t0535.mp4/master.m3u8
 
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E17 9/5/2022
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220509000000e017t4281.mp4/master.m3u8|user-agent="RTP-Play"
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220509000000e017t4281.mp4/master.m3u8
 
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E16 2/5/2022
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220502000000e016t2439.mp4/master.m3u8|user-agent="RTP-Play"
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220502000000e016t2439.mp4/master.m3u8
 
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E15 18/4/2022
-https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p9780/p9780_1_20220418235938e015t4728.m3u8|user-agent="RTP-Play"
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p9780/p9780_1_20220418235938e015t4728.m3u8
 
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E14 11/4/2022
-https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p9780/p9780_1_20220411000000e014t6348.m3u8|user-agent="RTP-Play"
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p9780/p9780_1_20220411000000e014t6348.m3u8
 
 
 # Sem Moderação
@@ -2144,43 +2187,43 @@ plugin://plugin.video.youtube/play/?video_id=FHn2cZRIsAc
 # Animação
 
 #EXTINF:-1 media="true" group-title="Animação" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/36619_52301_18055.jpg",O Grufalão (2009)
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p5707/p5707_1_202004111610029067d.mp4/master.m3u8|user-agent="RTP-Play"
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p5707/p5707_1_202004111610029067d.mp4/master.m3u8
 
 #EXTINF:-1 media="true" group-title="Animação" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/36620_52302_91336.jpg",A Filha do Grufalão (2011)
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p5728/p5728_1_202004121610034820d.mp4/master.m3u8|user-agent="RTP-Play"
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p5728/p5728_1_202004121610034820d.mp4/master.m3u8
 
 #EXTINF:-1 media="true" group-title="Animação" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/36618_52298_33980.jpg",A Vassoura Voadora (2012)
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p5701/p5701_1_202004111610029337d.mp4/master.m3u8|user-agent="RTP-Play"
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p5701/p5701_1_202004111610029337d.mp4/master.m3u8
 
 #EXTINF:-1 media="true" group-title="Animação" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/38189_56315_11988.jpg",Isto não é um chapéu (2019)
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p6817/p6817_1_202010241610047364d.mp4/master.m3u8|user-agent="RTP-Play"
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p6817/p6817_1_202010241610047364d.mp4/master.m3u8
 
 
 # Filmes
 
 #EXTINF:-1 media="true" group-title="Filmes" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/39879_60329_23725.jpg",Monty Python: A Vida de Brian
-#https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p8088/p8088_1_20220415161005e000t6264d.mp4/master.m3u8|user-agent="RTP-Play"
+#https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p8088/p8088_1_20220415161005e000t6264d.mp4/master.m3u8
 
 #EXTINF:-1 media="true" group-title="Filmes" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/39842_60253_93088.jpg",Monty Python e o Cálice Sagrado
-#https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p8057/p8057_1_20220422161005e000t2754d/master.m3u8|user-agent="RTP-Play"
+#https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p8057/p8057_1_20220422161005e000t2754d/master.m3u8
 
 
 # Documentários (Kodi + YouTube addon)
 
 #EXTINF:-1 media="true" group-title="Docs (YouTube)" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/37415_54632_76335.jpg",Salgueiro Maia - Rumo à Eternidade
-https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p5993/p5993_201907011120221764d.m3u8|user-agent="RTP-Play"
+https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p5993/p5993_201907011120221764d.m3u8
 
 #EXTINF:-1 media="true" group-title="Docs (YouTube)" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/34223_49118_85354.png",A Voz e os Ouvidos do MFA
-https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p3438/p3438_1_201804251304182778.m3u8|user-agent="RTP-Play"
+https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p3438/p3438_1_201804251304182778.m3u8
 
 #EXTINF:-1 media="true" group-title="Docs (YouTube)" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/42154_65094_86907.png",Sampaio, Salazar e Caetano: O Confronto de 1962
-https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p10088/p10088_20220328090315e002t9217.m3u8|user-agent="RTP-Play"
+https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p10088/p10088_20220328090315e002t9217.m3u8
 
 #EXTINF:-1 media="true" group-title="Docs (YouTube)" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/40579_61836_61031.jpg",Mulheres na Resistência
-https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p8770/p8770_1_20210428161005e004t9250d.m3u8|user-agent="RTP-Play"
+https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p8770/p8770_1_20210428161005e004t9250d.m3u8
 
 #EXTINF:-1 media="true" group-title="Docs (YouTube)" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/41369_63569_65641.jpg",Dentro do Antifa
-#https://streaming-ondemand.rtp.pt/nas2.share/pt/h264/512x384/p9407/p9407_1_20220423161006e000t2346d/master.m3u8|user-agent="RTP-Play"
+#https://streaming-ondemand.rtp.pt/nas2.share/pt/h264/512x384/p9407/p9407_1_20220423161006e000t2346d/master.m3u8
 
 #EXTINF:-1 media="true" group-title="Docs (YouTube)" tvg-logo="",Os Donos de Portugal
 plugin://plugin.video.youtube/play/?video_id=OuzxncV9l3M
