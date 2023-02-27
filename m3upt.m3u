@@ -94,6 +94,11 @@ https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificca
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNy8yMDIzIDg6MTk6NTQgUE0maGFzaF92YWx1ZT1lT25WQ1dwNDNZK3dVRXkxOGVsMDF3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YjFjY2EwOTItNDBmMS00ZDc0LWI0ZTgtZmE5YWNlOTQ1MWQ3/
 
+#EXTINF:-1 group-title="TV" tvg-id="fueltvhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Fuel-TV.png",Fuel TV BR
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://fueltv-fueltv-9-br.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 group-title="TV" tvg-id="fueltvhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Fuel-TV.png",Fuel TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
