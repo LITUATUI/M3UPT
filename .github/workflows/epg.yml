@@ -16,9 +16,6 @@ jobs:
         
       - name: update EPG (Vodafone)
         run: cd epg && sh epg-vodafone.sh
-        
-      - name: update EPG (Meo)
-        run: cd epg && sh epg-meo.sh
 
       - name: setup git config
         run: |
