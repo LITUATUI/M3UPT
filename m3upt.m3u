@@ -2183,15 +2183,19 @@ plugin://plugin.video.youtube/play/?video_id=FHn2cZRIsAc
 # Animação
 
 #EXTINF:-1 media="true" group-title="Animação" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/36619_52301_18055.jpg",O Grufalão (2009)
+#EXTVLCOPT:http-user-agent=RTP-Play
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p5707/p5707_1_202004111610029067d.mp4/master.m3u8
 
 #EXTINF:-1 media="true" group-title="Animação" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/36620_52302_91336.jpg",A Filha do Grufalão (2011)
+#EXTVLCOPT:http-user-agent=RTP-Play
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p5728/p5728_1_202004121610034820d.mp4/master.m3u8
 
 #EXTINF:-1 media="true" group-title="Animação" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/36618_52298_33980.jpg",A Vassoura Voadora (2012)
+#EXTVLCOPT:http-user-agent=RTP-Play
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p5701/p5701_1_202004111610029337d.mp4/master.m3u8
 
 #EXTINF:-1 media="true" group-title="Animação" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/38189_56315_11988.jpg",Isto não é um chapéu (2019)
+#EXTVLCOPT:http-user-agent=RTP-Play
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p6817/p6817_1_202010241610047364d.mp4/master.m3u8
 
 
@@ -2207,18 +2211,23 @@ https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p6817/p6817_1_202010241
 # Documentários (Kodi + YouTube addon)
 
 #EXTINF:-1 media="true" group-title="Docs (YouTube)" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/37415_54632_76335.jpg",Salgueiro Maia - Rumo à Eternidade
+#EXTVLCOPT:http-user-agent=RTP-Play
 https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p5993/p5993_201907011120221764d.m3u8
 
 #EXTINF:-1 media="true" group-title="Docs (YouTube)" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/34223_49118_85354.png",A Voz e os Ouvidos do MFA
+#EXTVLCOPT:http-user-agent=RTP-Play
 https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p3438/p3438_1_201804251304182778.m3u8
 
 #EXTINF:-1 media="true" group-title="Docs (YouTube)" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/42154_65094_86907.png",Sampaio, Salazar e Caetano: O Confronto de 1962
+#EXTVLCOPT:http-user-agent=RTP-Play
 https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p10088/p10088_20220328090315e002t9217.m3u8
 
 #EXTINF:-1 media="true" group-title="Docs (YouTube)" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/40579_61836_61031.jpg",Mulheres na Resistência
+#EXTVLCOPT:http-user-agent=RTP-Play
 https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p8770/p8770_1_20210428161005e004t9250d.m3u8
 
 #EXTINF:-1 media="true" group-title="Docs (YouTube)" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/41369_63569_65641.jpg",Dentro do Antifa
+#EXTVLCOPT:http-user-agent=RTP-Play
 #https://streaming-ondemand.rtp.pt/nas2.share/pt/h264/512x384/p9407/p9407_1_20220423161006e000t2346d/master.m3u8
 
 #EXTINF:-1 media="true" group-title="Docs (YouTube)" tvg-logo="",Os Donos de Portugal
