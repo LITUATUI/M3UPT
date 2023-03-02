@@ -708,7 +708,7 @@ https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://alsace20.live-kd.com/live/alsace20/ngrp:alsace20_all/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://www.arirang.com/images/index/arirang.png",Arirang TV
+#EXTINF:-1 group-title="TV" tvg-id="arirangtv.tv.vodafone.pt" tvg-logo="https://www.arirang.com/images/index/arirang.png",Arirang TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
