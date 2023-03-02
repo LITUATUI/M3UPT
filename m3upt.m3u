@@ -163,7 +163,7 @@ https://tv.unisc.br/hls/test.m3u8
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Teledifus%C3%A3o_de_Macau.png/250px-Teledifus%C3%A3o_de_Macau.png",Lotus Macau
+#EXTINF:-1 group-title="TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/macau_lotus_tv_mo.png",Lotus Macau
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://anren.live/HK/BiIOU11uLA.m3u8
@@ -547,7 +547,7 @@ https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://streamer-a01.videos.sapo.pt/live/radiosinesdireto/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/VH1.png",VH1
+#EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/VH1.png",VH1 Italia
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
