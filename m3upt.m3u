@@ -157,6 +157,10 @@ https://tv.unisc.br/hls/test.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
+
+#EXTINF:-1 group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Teledifus%C3%A3o_de_Macau.png/250px-Teledifus%C3%A3o_de_Macau.png",Lotus Macau
+http://anren.live/HK/BiIOU11uLA.m3u8
+
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TDM-Teledifusão_de_Macau.png",TDM - Teledifusão de Macau (PT)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
