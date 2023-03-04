@@ -1937,6 +1937,144 @@ https://cdn.jwplayer.com/manifests/Mvuo738f.m3u8
 https://cdn.jwplayer.com/manifests/v8e6Ytdz.m3u8
 
 
+# Animação
+
+#EXTINF:-1 media="true" group-title="Animação" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/36619_52301_18055.jpg",O Grufalão (2009)
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p5707/p5707_1_202004111610029067d.mp4/master.m3u8
+
+#EXTINF:-1 media="true" group-title="Animação" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/36620_52302_91336.jpg",A Filha do Grufalão (2011)
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p5728/p5728_1_202004121610034820d.mp4/master.m3u8
+
+#EXTINF:-1 media="true" group-title="Animação" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/36618_52298_33980.jpg",A Vassoura Voadora (2012)
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p5701/p5701_1_202004111610029337d.mp4/master.m3u8
+
+#EXTINF:-1 media="true" group-title="Animação" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/38189_56315_11988.jpg",Isto não é um chapéu (2019)
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p6817/p6817_1_202010241610047364d.mp4/master.m3u8
+
+
+# Filmes
+
+#EXTINF:-1 media="true" group-title="Filmes",Beirut (2018)
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-vod.rtp.pt/hls/nas2.share/pt/h264/512x384/p10281/p10281_1_20230225161004e000t9783d.mp4/master.m3u8
+
+#EXTINF:-1 media="true" group-title="Filmes",Jeanne Devère (2011)
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-vod.rtp.pt/hls/nas2.share/pt/h264/512x384/p9981/p9981_1_20230219161003e000t9510d.mp4/master.m3u8
+
+#EXTINF:-1 media="true" group-title="Filmes",O Conto das Doninhas (2019)
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-vod.rtp.pt/hls/nas2.share/pt/h264/512x384/p11287/p11287_1_20230120161003e000t9857d.mp4/master.m3u8
+
+
+# Documentários (Kodi + YouTube addon)
+
+#EXTINF:-1 media="true" group-title="Docs (YouTube)" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/37415_54632_76335.jpg",Salgueiro Maia - Rumo à Eternidade
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p5993/p5993_201907011120221764d.m3u8
+
+#EXTINF:-1 media="true" group-title="Docs (YouTube)" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/34223_49118_85354.png",A Voz e os Ouvidos do MFA
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p3438/p3438_1_201804251304182778.m3u8
+
+#EXTINF:-1 media="true" group-title="Docs (YouTube)" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/42154_65094_86907.png",Sampaio, Salazar e Caetano: O Confronto de 1962
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p10088/p10088_20220328090315e002t9217.m3u8
+
+#EXTINF:-1 media="true" group-title="Docs (YouTube)" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/40579_61836_61031.jpg",Mulheres na Resistência
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p8770/p8770_1_20210428161005e004t9250d.m3u8
+
+#EXTINF:-1 media="true" group-title="Docs (YouTube)" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/41369_63569_65641.jpg",Dentro do Antifa
+#EXTVLCOPT:http-user-agent=RTP-Play
+#https://streaming-ondemand.rtp.pt/nas2.share/pt/h264/512x384/p9407/p9407_1_20220423161006e000t2346d/master.m3u8
+
+#EXTINF:-1 media="true" group-title="Docs (YouTube)" tvg-logo="",Os Donos de Portugal
+plugin://plugin.video.youtube/play/?video_id=OuzxncV9l3M
+
+#EXTINF:-1 media="true" group-title="Docs (YouTube)" tvg-logo="",Mão Invisível - uma história do neoliberalismo em Portugal
+plugin://plugin.video.youtube/play/?video_id=ceTCzCptzEM
+
+#EXTINF:-1 media="true" group-title="Docs (YouTube)" tvg-logo="",Banned TED Talk: Nick Hanauer "Rich people don't create jobs"
+plugin://plugin.video.youtube/play/?video_id=CKCvf8E7V1g
+
+#EXTINF:-1 media="true" group-title="Docs (YouTube)" tvg-logo="",The dirty secret of capitalism - and a new way forward | Nick Hanauer
+plugin://plugin.video.youtube/play/?video_id=th3KE_H27bs
+
+#EXTINF:-1 media="true" group-title="Docs (YouTube)" tvg-logo="",Democracy at Work: Curing Capitalism | Richard Wolff | Talks at Google
+plugin://plugin.video.youtube/play/?video_id=ynbgMKclWWc
+
+#EXTINF:-1 media="true" group-title="Docs (YouTube)" tvg-logo="",Zeitgeist: Moving Forward
+plugin://plugin.video.youtube/play/?video_id=4Z9WVZddH9w
+
+#EXTINF:-1 media="true" group-title="Docs (YouTube)" tvg-logo="",How poor people survive in the USA | DW Documentary
+plugin://plugin.video.youtube/play/?video_id=JHDkALRz5Rk
+
+#EXTINF:-1 media="true" group-title="Docs (YouTube)" tvg-logo="",Capitalism: A Love Story (2009)
+#https://n10.gomoplayer.com/vxoke3mexsalavf4etpivnwrqlbfsk3em6kyyyui3gvt5fojpac33jpbueiq/v.mp4
+
+
+# Relatório DB (Kodi + YouTube addon)
+
+#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - DEZEMBRO 2022
+plugin://plugin.video.youtube/play/?video_id=https://www.youtube.com/watch?v=fVzdMTmkkms
+
+#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - NOVEMBRO 2022
+plugin://plugin.video.youtube/play/?video_id=https://www.youtube.com/watch?v=ttA-YjtgVyA
+
+#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - OUTUBRO 2022
+plugin://plugin.video.youtube/play/?video_id=https://www.youtube.com/watch?v=GJBRUgK3fu0
+
+#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - SETEMBRO 2022
+plugin://plugin.video.youtube/play/?video_id=https://www.youtube.com/watch?v=7JymLpRbBrk
+
+#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - AGOSTO 2022
+plugin://plugin.video.youtube/play/?video_id=https://www.youtube.com/watch?v=q-E6ZeBGPJU
+
+#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - JULHO 2022
+plugin://plugin.video.youtube/play/?video_id=https://www.youtube.com/watch?v=hks6owUNxX0
+
+#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - JUNHO 2022
+plugin://plugin.video.youtube/play/?video_id=https://www.youtube.com/watch?v=FVBrPa5__yA
+
+#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - MAIO 2022
+plugin://plugin.video.youtube/play/?video_id=https://www.youtube.com/watch?v=NDz_owWuLx4
+
+#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - ABRIL 2022
+plugin://plugin.video.youtube/play/?video_id=GxWI7r0UB_0
+
+#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - MARÇO 2022
+plugin://plugin.video.youtube/play/?video_id=uzfbUV3aKU0
+
+#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - FEVEREIRO 2022
+plugin://plugin.video.youtube/play/?video_id=SUmfwl-4lXA
+
+#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - JANEIRO 2022
+plugin://plugin.video.youtube/play/?video_id=zuKIh2U2xfE
+
+#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - DEZEMBRO 2021
+plugin://plugin.video.youtube/play/?video_id=14e1nGmSbJs
+
+#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - NOVEMBRO 2021
+plugin://plugin.video.youtube/play/?video_id=FmVa6JyFLRk
+
+#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - OUTUBRO 2021
+plugin://plugin.video.youtube/play/?video_id=2dGRTsLacoQ
+
+#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - SETEMBRO 2021
+plugin://plugin.video.youtube/play/?video_id=wDl0fhOcI1E
+
+#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - AGOSTO 2021
+plugin://plugin.video.youtube/play/?video_id=llvKcrvHt3w
+
+#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - JULHO 2021
+plugin://plugin.video.youtube/play/?video_id=FHn2cZRIsAc
+
+
 # Matt Orfalea
 
 #EXTINF:-1 media="true" group-title="Matt Orfalea" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUC6xM7GvKd85duq5fw8qKBOQ&psig=AOvVaw1wWHstURa8DrpufVhTyqUy&ust=1671888270268000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIjntaXrj_wCFQAAAAAdAAAAABAE",Who Blew Up Nord Stream Pipelines? | A Mystery!
@@ -2163,141 +2301,3 @@ https://sp.rmbl.ws/s8/2/q/t/E/j/qtEjf.gaa.mp4
 
 #EXTINF:-1 media="true" group-title="The Dive With Jackson Hinkle" tvg-logo="https://d221mse023sbpt.cloudfront.net/images/campaign_image/2022-07-101657475528.png",The Dive With Jackson Hinkle - CNN DESTROYED!
 https://sp.rmbl.ws/s8/2/Y/c/t/j/Yctjf.gaa.mp4
-
-
-# Relatório DB (Kodi + YouTube addon)
-
-#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - DEZEMBRO 2022
-plugin://plugin.video.youtube/play/?video_id=https://www.youtube.com/watch?v=fVzdMTmkkms
-
-#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - NOVEMBRO 2022
-plugin://plugin.video.youtube/play/?video_id=https://www.youtube.com/watch?v=ttA-YjtgVyA
-
-#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - OUTUBRO 2022
-plugin://plugin.video.youtube/play/?video_id=https://www.youtube.com/watch?v=GJBRUgK3fu0
-
-#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - SETEMBRO 2022
-plugin://plugin.video.youtube/play/?video_id=https://www.youtube.com/watch?v=7JymLpRbBrk
-
-#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - AGOSTO 2022
-plugin://plugin.video.youtube/play/?video_id=https://www.youtube.com/watch?v=q-E6ZeBGPJU
-
-#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - JULHO 2022
-plugin://plugin.video.youtube/play/?video_id=https://www.youtube.com/watch?v=hks6owUNxX0
-
-#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - JUNHO 2022
-plugin://plugin.video.youtube/play/?video_id=https://www.youtube.com/watch?v=FVBrPa5__yA
-
-#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - MAIO 2022
-plugin://plugin.video.youtube/play/?video_id=https://www.youtube.com/watch?v=NDz_owWuLx4
-
-#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - ABRIL 2022
-plugin://plugin.video.youtube/play/?video_id=GxWI7r0UB_0
-
-#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - MARÇO 2022
-plugin://plugin.video.youtube/play/?video_id=uzfbUV3aKU0
-
-#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - FEVEREIRO 2022
-plugin://plugin.video.youtube/play/?video_id=SUmfwl-4lXA
-
-#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - JANEIRO 2022
-plugin://plugin.video.youtube/play/?video_id=zuKIh2U2xfE
-
-#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - DEZEMBRO 2021
-plugin://plugin.video.youtube/play/?video_id=14e1nGmSbJs
-
-#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - NOVEMBRO 2021
-plugin://plugin.video.youtube/play/?video_id=FmVa6JyFLRk
-
-#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - OUTUBRO 2021
-plugin://plugin.video.youtube/play/?video_id=2dGRTsLacoQ
-
-#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - SETEMBRO 2021
-plugin://plugin.video.youtube/play/?video_id=wDl0fhOcI1E
-
-#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - AGOSTO 2021
-plugin://plugin.video.youtube/play/?video_id=llvKcrvHt3w
-
-#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - JULHO 2021
-plugin://plugin.video.youtube/play/?video_id=FHn2cZRIsAc
-
-
-# Animação
-
-#EXTINF:-1 media="true" group-title="Animação" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/36619_52301_18055.jpg",O Grufalão (2009)
-#EXTVLCOPT:http-user-agent=RTP-Play
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p5707/p5707_1_202004111610029067d.mp4/master.m3u8
-
-#EXTINF:-1 media="true" group-title="Animação" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/36620_52302_91336.jpg",A Filha do Grufalão (2011)
-#EXTVLCOPT:http-user-agent=RTP-Play
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p5728/p5728_1_202004121610034820d.mp4/master.m3u8
-
-#EXTINF:-1 media="true" group-title="Animação" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/36618_52298_33980.jpg",A Vassoura Voadora (2012)
-#EXTVLCOPT:http-user-agent=RTP-Play
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p5701/p5701_1_202004111610029337d.mp4/master.m3u8
-
-#EXTINF:-1 media="true" group-title="Animação" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/38189_56315_11988.jpg",Isto não é um chapéu (2019)
-#EXTVLCOPT:http-user-agent=RTP-Play
-https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p6817/p6817_1_202010241610047364d.mp4/master.m3u8
-
-
-# Filmes
-
-#EXTINF:-1 media="true" group-title="Filmes",Beirut (2018)
-#EXTVLCOPT:http-user-agent=RTP-Play
-https://streaming-vod.rtp.pt/hls/nas2.share/pt/h264/512x384/p10281/p10281_1_20230225161004e000t9783d.mp4/master.m3u8
-
-#EXTINF:-1 media="true" group-title="Filmes",Jeanne Devère (2011)
-#EXTVLCOPT:http-user-agent=RTP-Play
-https://streaming-vod.rtp.pt/hls/nas2.share/pt/h264/512x384/p9981/p9981_1_20230219161003e000t9510d.mp4/master.m3u8
-
-#EXTINF:-1 media="true" group-title="Filmes",O Conto das Doninhas (2019)
-#EXTVLCOPT:http-user-agent=RTP-Play
-https://streaming-vod.rtp.pt/hls/nas2.share/pt/h264/512x384/p11287/p11287_1_20230120161003e000t9857d.mp4/master.m3u8
-
-
-# Documentários (Kodi + YouTube addon)
-
-#EXTINF:-1 media="true" group-title="Docs (YouTube)" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/37415_54632_76335.jpg",Salgueiro Maia - Rumo à Eternidade
-#EXTVLCOPT:http-user-agent=RTP-Play
-https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p5993/p5993_201907011120221764d.m3u8
-
-#EXTINF:-1 media="true" group-title="Docs (YouTube)" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/34223_49118_85354.png",A Voz e os Ouvidos do MFA
-#EXTVLCOPT:http-user-agent=RTP-Play
-https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p3438/p3438_1_201804251304182778.m3u8
-
-#EXTINF:-1 media="true" group-title="Docs (YouTube)" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/42154_65094_86907.png",Sampaio, Salazar e Caetano: O Confronto de 1962
-#EXTVLCOPT:http-user-agent=RTP-Play
-https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p10088/p10088_20220328090315e002t9217.m3u8
-
-#EXTINF:-1 media="true" group-title="Docs (YouTube)" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/40579_61836_61031.jpg",Mulheres na Resistência
-#EXTVLCOPT:http-user-agent=RTP-Play
-https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p8770/p8770_1_20210428161005e004t9250d.m3u8
-
-#EXTINF:-1 media="true" group-title="Docs (YouTube)" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/41369_63569_65641.jpg",Dentro do Antifa
-#EXTVLCOPT:http-user-agent=RTP-Play
-#https://streaming-ondemand.rtp.pt/nas2.share/pt/h264/512x384/p9407/p9407_1_20220423161006e000t2346d/master.m3u8
-
-#EXTINF:-1 media="true" group-title="Docs (YouTube)" tvg-logo="",Os Donos de Portugal
-plugin://plugin.video.youtube/play/?video_id=OuzxncV9l3M
-
-#EXTINF:-1 media="true" group-title="Docs (YouTube)" tvg-logo="",Mão Invisível - uma história do neoliberalismo em Portugal
-plugin://plugin.video.youtube/play/?video_id=ceTCzCptzEM
-
-#EXTINF:-1 media="true" group-title="Docs (YouTube)" tvg-logo="",Banned TED Talk: Nick Hanauer "Rich people don't create jobs"
-plugin://plugin.video.youtube/play/?video_id=CKCvf8E7V1g
-
-#EXTINF:-1 media="true" group-title="Docs (YouTube)" tvg-logo="",The dirty secret of capitalism - and a new way forward | Nick Hanauer
-plugin://plugin.video.youtube/play/?video_id=th3KE_H27bs
-
-#EXTINF:-1 media="true" group-title="Docs (YouTube)" tvg-logo="",Democracy at Work: Curing Capitalism | Richard Wolff | Talks at Google
-plugin://plugin.video.youtube/play/?video_id=ynbgMKclWWc
-
-#EXTINF:-1 media="true" group-title="Docs (YouTube)" tvg-logo="",Zeitgeist: Moving Forward
-plugin://plugin.video.youtube/play/?video_id=4Z9WVZddH9w
-
-#EXTINF:-1 media="true" group-title="Docs (YouTube)" tvg-logo="",How poor people survive in the USA | DW Documentary
-plugin://plugin.video.youtube/play/?video_id=JHDkALRz5Rk
-
-#EXTINF:-1 media="true" group-title="Docs (YouTube)" tvg-logo="",Capitalism: A Love Story (2009)
-#https://n10.gomoplayer.com/vxoke3mexsalavf4etpivnwrqlbfsk3em6kyyyui3gvt5fojpac33jpbueiq/v.mp4
