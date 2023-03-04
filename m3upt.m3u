@@ -2242,11 +2242,17 @@ https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p6817/p6817_1_202010241
 
 # Filmes
 
-#EXTINF:-1 media="true" group-title="Filmes" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/39879_60329_23725.jpg",Monty Python: A Vida de Brian
-#https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p8088/p8088_1_20220415161005e000t6264d.mp4/master.m3u8
+#EXTINF:-1 media="true" group-title="Filmes",Beirut (2018)
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-vod.rtp.pt/hls/nas2.share/pt/h264/512x384/p10281/p10281_1_20230225161004e000t9783d.mp4/master.m3u8
 
-#EXTINF:-1 media="true" group-title="Filmes" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/39842_60253_93088.jpg",Monty Python e o Cálice Sagrado
-#https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p8057/p8057_1_20220422161005e000t2754d/master.m3u8
+#EXTINF:-1 media="true" group-title="Filmes",Jeanne Devère (2011)
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-vod.rtp.pt/hls/nas2.share/pt/h264/512x384/p9981/p9981_1_20230219161003e000t9510d.mp4/master.m3u8
+
+#EXTINF:-1 media="true" group-title="Filmes",O Conto das Doninhas (2019)
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-vod.rtp.pt/hls/nas2.share/pt/h264/512x384/p11287/p11287_1_20230120161003e000t9857d.mp4/master.m3u8
 
 
 # Documentários (Kodi + YouTube addon)
