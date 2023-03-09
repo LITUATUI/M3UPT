@@ -1410,6 +1410,10 @@ https://video-auth1.iol.pt/beachcam/bcbugio2/playlist.m3u8
 
 # O Outro Lado
 
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T8E10 6/3/2023
+#EXTVLCOPT:http-user-agent=RTP-Play
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p11203/p11203_1_20230306000000e010t1858.mp4/master.m3u8
+
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T8E9 27/2/2023
 #EXTVLCOPT:http-user-agent=RTP-Play
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p11203/p11203_1_20230227000000e009t5345.mp4/master.m3u8
@@ -1572,6 +1576,9 @@ https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p9780/p9780_1_20220411
 
 
 # Sem Moderação
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 8/3/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/03/08/acc1fb6d-efbe-4860-b1f5-eac560ee5d87/video.m3u8
 
 #EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 28/2/2023
 https://videos.impresa.pt/videos/hls/sicnot/2023/03/01/c9e9fe49-f080-4340-a180-e7e93a15aed1/video.m3u8
