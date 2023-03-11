@@ -142,6 +142,11 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-sam
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="TV",Rakuten Documentaries
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Porta-dos-Fundos.jpg",Porta dos Fundos
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -506,6 +511,11 @@ https://www.youtube.com/watch?v=HVB_Wx5T16g
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+
+#EXTINF:-1 group-title="TV",Rakuten Family
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Nick Clássico" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Nick-Clássico.jpg",Nick Clássico
 #KODIPROP:inputstream=inputstream.adaptive
