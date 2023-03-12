@@ -152,7 +152,7 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 ## 📓 Notes
 
 * RTP channels don't open in some players.
-* SIC channels only work with Portuguese IP, you need to use a [VPN](https://m3upt.com/vpn) if you live outside Portugal.
+* SIC Notícias only work with Portuguese IP, you need to use a [VPN](https://m3upt.com/vpn) if you live outside Portugal.
 * Some streams only work in Kodi with YouTube addon installed.
 
 ---

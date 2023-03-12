@@ -152,7 +152,7 @@ Não é fácil para falantes de português a viver no estrangeiro manter contact
 ## 📓 Notas
 
 * Os canais da RTP não abrem em alguns leitores.
-* Os canais da SIC só funcionam com IP português, quem vive fora de Portugal terá de usar uma [VPN](https://m3upt.com/vpn).
+* A SIC Notícias só funciona com IP português, quem vive fora de Portugal terá de usar uma [VPN](https://m3upt.com/vpn).
 * Alguns streams só funcionam no Kodi com o addon YouTube instalado.
 
 ---
