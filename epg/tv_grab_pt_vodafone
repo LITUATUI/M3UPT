@@ -39,7 +39,7 @@ B<--configure> Prompt for which stations to download and write the
 configuration file.
 
 B<--config-file FILE> Set the name of the configuration file, the
-default is B<~/.xmltv/tv_grab_pt_vodafone-pt.conf>.  This is the file written by
+default is B<~/.xmltv/tv_grab_pt_vodafone.conf>.  This is the file written by
 B<--configure> and read when grabbing.
 
 B<--output FILE> When grabbing, write output to FILE rather than
