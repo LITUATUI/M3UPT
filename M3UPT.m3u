@@ -366,6 +366,16 @@ https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virgin
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
+#EXTINF:-1 group-title="TV" tvg-id="arirangtv.tv.vodafone.pt" tvg-logo="https://www.arirang.com/images/index/arirang.png",Arirang TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="kbsworld.tv.vodafone.pt" tvg-logo="https://www.arirang.com/images/index/KBS-World.png",KBS World
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+plugin://plugin.video.youtube/play/?video_id=HnfpTMtfFk8
+
 #EXTINF:-1 group-title="TV" tvg-id="dw.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Deutsche-Welle.png",Deutsche Welle
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -732,11 +742,6 @@ https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://alsace20.live-kd.com/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="arirangtv.tv.vodafone.pt" tvg-logo="https://www.arirang.com/images/index/arirang.png",Arirang TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="ARD" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Das-Erste.png",Das Erste
 #KODIPROP:inputstream=inputstream.adaptive
