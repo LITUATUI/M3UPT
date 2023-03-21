@@ -113,7 +113,7 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 
 **Recommended settings:**
 
-* Use this backup: xZapaE (password: M3UPT)
+* Restore this backup: xZapaE (password: M3UPT)
 
 ### [ProgTV](https://www.progdvb.com/progtva_download.html) (Android) - ★★★★ 4/5
 

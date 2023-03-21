@@ -113,7 +113,7 @@ Não é fácil para falantes de português a viver no estrangeiro manter contact
 
 **Configurações recomendadas:**
 
-* Use este backup: xZapaE (password: M3UPT)
+* Restaure este backup: xZapaE (password: M3UPT)
 
 ### [ProgTV](https://www.progdvb.com/progtva_download.html) (Android)  - ★★★★ 4/5
 
