@@ -138,6 +138,7 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 * GUI - Show channels groups as folders
 * Playback - Decoder: HW+
 * Playback - Buffer size: 4
+* Playback - User-Agent: Firefox
 
 ---
 
