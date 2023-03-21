@@ -32,8 +32,6 @@ Não é fácil para falantes de português a viver no estrangeiro manter contact
 * TVI Internacional
 * Porto Canal
 
-<br>
-
 ## 📻 Principais estações de rádio portuguesas 🇵🇹
 
 * Antena 1
@@ -48,8 +46,6 @@ Não é fácil para falantes de português a viver no estrangeiro manter contact
 * Rádio Oxigénio
 * Rádio Renascença
 * TSF
-
-<br>
 
 ## 📺 Principais canais de TV internacionais 🌍
 
@@ -91,13 +87,9 @@ Não é fácil para falantes de português a viver no estrangeiro manter contact
 * Red Bull TV
 * Fashion TV
 
-<br>
-
 ## 📻 Principais estações de rádio internacionais 🌍
 
 * Venice Classic Radio
-
-<br>
 
 ## 🏖️ Beachcam
 
@@ -107,8 +99,6 @@ Não é fácil para falantes de português a viver no estrangeiro manter contact
 
 ## 🎬 Leitores de IPTV recomendados
 
-<br>
-
 ### [Kodi com PVR IPTV Simple Client](https://www.kodi.tv/) (Multiplataforma)  - ★★★★★ 5/5
 
 ![Kodi screenshot](/images/Kodi.avif "Kodi screenshot")
@@ -117,17 +107,13 @@ Não é fácil para falantes de português a viver no estrangeiro manter contact
 
 * Deverá instalar o addon YouTube e configurar as suas legendas para pt-PT (Sem gerador automático).
 
-<br>
-
 ### [OTT Navigator IPTV](https://play.google.com/store/apps/details?id=studio.scillarium.ottnavigator) (Android) - ★★★★★ 5/5
 
 ![OTT Navigator IPTV screenshot](/images/OTT-Navigator-IPTV-M3UPT-playlist.avif "OTT Navigator IPTV screenshot")
 
 **Configurações recomendadas:**
 
-* Use este backup: tpHbAq (password: M3UPT)
-
-<br>
+* Use este backup: xZapaE (password: M3UPT)
 
 ### [ProgTV](https://www.progdvb.com/progtva_download.html) (Android)  - ★★★★ 4/5
 
@@ -136,8 +122,6 @@ Não é fácil para falantes de português a viver no estrangeiro manter contact
 **Configurações recomendadas:**
 
 * Opções - Opções de reprodução - Motor: MediaPlayer
-
-<br>
 
 ### [Perfect Player](http://niklabs.com/downloads/) (Android)  - ★★★ 3/5
 

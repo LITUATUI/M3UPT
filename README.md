@@ -32,8 +32,6 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 * TVI Internacional
 * Porto Canal
 
-<br>
-
 ## 📺 Main International TV channels 🌍
 
 * Euronews EN
@@ -74,8 +72,6 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 * Red Bull TV
 * Fashion TV
 
-<br>
-
 ## 📻 Main Portuguese radio stations 🇵🇹
 
 * Antena 1
@@ -91,13 +87,9 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 * Rádio Renascença
 * TSF
 
-<br>
-
 ## 📻 Main International radio stations 🌍
 
 * Venice Classic Radio
-
-<br>
 
 ## 🏖️ Beachcam
 
@@ -107,8 +99,6 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 
 ## 🎬 Recommended IPTV players
 
-<br>
-
 ### [Kodi with PVR IPTV Simple Client](https://www.kodi.tv/) (Multiplatform) - ★★★★★ 5/5
 
 ![Kodi screenshot](/images/Kodi-M3UPT-playlist.avif "Kodi screenshot")
@@ -117,17 +107,13 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 
 * You should install YouTube addon and configure its subtitles to pt-PT (No auto-generated).
 
-<br>
-
 ### [OTT Navigator IPTV](https://play.google.com/store/apps/details?id=studio.scillarium.ottnavigator) (Android) - ★★★★★ 5/5
 
 ![OTT Navigator IPTV screenshot](/images/OTT-Navigator-IPTV-M3UPT-playlist.avif "OTT Navigator IPTV screenshot")
 
 **Recommended settings:**
 
-* Use this backup: tpHbAq (password: M3UPT)
-
-<br>
+* Use this backup: xZapaE (password: M3UPT)
 
 ### [ProgTV](https://www.progdvb.com/progtva_download.html) (Android) - ★★★★ 4/5
 
@@ -136,8 +122,6 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 **Recommended settings:**
 
 * Options - Playback - Engine: MediaPlayer
-
-<br>
 
 ### [Perfect Player](http://niklabs.com/downloads/) (Android) - ★★★ 3/5
 
