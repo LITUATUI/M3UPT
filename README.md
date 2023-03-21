@@ -111,7 +111,7 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 
 ### [Kodi with PVR IPTV Simple Client](https://www.kodi.tv/) (Multiplatform) - ★★★★★ 5/5
 
-![Kodi screenshot](/images/Kodi.avif "Kodi screenshot")
+![Kodi screenshot](/images/Kodi-M3UPT-playlist.avif "Kodi screenshot")
 
 **Recommended settings:**
 
@@ -119,9 +119,19 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 
 <br>
 
+### [OTT Navigator IPTV](https://play.google.com/store/apps/details?id=studio.scillarium.ottnavigator) (Android) - ★★★★★ 5/5
+
+![OTT Navigator IPTV screenshot](/images/OTT-Navigator-IPTV-M3UPT-playlist.avif "OTT Navigator IPTV screenshot")
+
+**Recommended settings:**
+
+* Use this backup: tpHbAq (password: M3UPT)
+
+<br>
+
 ### [ProgTV](https://www.progdvb.com/progtva_download.html) (Android) - ★★★★ 4/5
 
-![ProgTV screenshot](/images/ProgTV-RTP1.avif "ProgTV screenshot")
+![ProgTV screenshot](/images/ProgTV-M3UPT-playlist.avif "ProgTV screenshot")
 
 **Recommended settings:**
 
@@ -131,7 +141,7 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 
 ### [Perfect Player](http://niklabs.com/downloads/) (Android) - ★★★ 3/5
 
-![Perfect Player screenshot](/images/Perfect-Player-Euronews.avif "Perfect Player screenshot")
+![Perfect Player screenshot](/images/Perfect-Player-M3UPT-playlist.avif "Perfect Player screenshot")
 
 **Recommended settings:**
 

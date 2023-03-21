@@ -119,6 +119,16 @@ Não é fácil para falantes de português a viver no estrangeiro manter contact
 
 <br>
 
+### [OTT Navigator IPTV](https://play.google.com/store/apps/details?id=studio.scillarium.ottnavigator) (Android) - ★★★★★ 5/5
+
+![OTT Navigator IPTV screenshot](/images/OTT-Navigator-IPTV-M3UPT-playlist.avif "OTT Navigator IPTV screenshot")
+
+**Configurações recomendadas:**
+
+* Use este backup: tpHbAq (password: M3UPT)
+
+<br>
+
 ### [ProgTV](https://www.progdvb.com/progtva_download.html) (Android)  - ★★★★ 4/5
 
 ![ProgTV screenshot](/images/ProgTV-RTP1.avif "ProgTV screenshot")
