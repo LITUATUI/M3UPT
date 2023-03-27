@@ -101,7 +101,8 @@ Não é fácil para falantes de português a viver no estrangeiro manter contact
 
 ### [Kodi com PVR IPTV Simple Client](https://www.kodi.tv/) (Multiplataforma)  - ★★★★★ 5/5
 
-![Kodi screenshot](/images/Kodi.avif "Kodi screenshot")
+![Kodi screenshot](/images/Kodi-M3UPT-playlist.avif "Kodi screenshot")
+
 
 **Configurações recomendadas:**
 
@@ -117,7 +118,7 @@ Não é fácil para falantes de português a viver no estrangeiro manter contact
 
 ### [ProgTV](https://www.progdvb.com/progtva_download.html) (Android)  - ★★★★ 4/5
 
-![ProgTV screenshot](/images/ProgTV-RTP1.avif "ProgTV screenshot")
+![ProgTV screenshot](/images/ProgTV-M3UPT-playlist.avif "ProgTV screenshot")
 
 **Configurações recomendadas:**
 
@@ -125,7 +126,7 @@ Não é fácil para falantes de português a viver no estrangeiro manter contact
 
 ### [Perfect Player](http://niklabs.com/downloads/) (Android)  - ★★★ 3/5
 
-![Perfect Player screenshot](/images/Perfect-Player-Euronews.avif "Perfect Player screenshot")
+![Perfect Player screenshot](/images/Perfect-Player-M3UPT-playlist.avif "Perfect Player screenshot")
 
 **Configurações recomendadas:**
 
