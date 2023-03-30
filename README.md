@@ -163,6 +163,8 @@ Affordable Android TV boxes with Amlogic SoCs are usually much better supported 
 
 You can buy a decent device with the Amlogic S905X4 SoC and 4 GB of RAM for around 60 euros. Visit the recommended shopping websites below if you want to get one.
 
+If you prefer a TV Box already configured with this list of channels and much more, you can buy it [here](https://shop.m3upt.com/).
+
 ---
 
 ## 🛒 Recommended shopping websites
