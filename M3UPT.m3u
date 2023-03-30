@@ -1426,6 +1426,14 @@ https://video-auth1.iol.pt/beachcam/bcbugio2/playlist.m3u8
 
 # O Outro Lado
 
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T8E13 27/3/2023
+#EXTVLCOPT:http-user-agent=Firefox
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p11203/p11203_1_20230327235838e013t6532.mp4/master.m3u8
+
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T8E12 20/3/2023
+#EXTVLCOPT:http-user-agent=Firefox
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p11203/p11203_1_20230320235908e012t2231.mp4/master.m3u8
+
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T8E11 13/3/2023
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p11203/p11203_1_20230313000000e011t3667.mp4/master.m3u8
@@ -1597,6 +1605,12 @@ https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p9780/p9780_1_20220411
 
 # Sem Moderação
 
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 29/3/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/03/29/adbfc907-3891-4e8f-8233-efdcf9c9bf2f/video.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 22/3/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/03/22/990a6acb-e5ed-42c2-aa47-d86712c904dd/video.m3u8
+
 #EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 14/3/2023
 https://videos.impresa.pt/videos/hls/sicnot/2023/03/15/43adfed2-e3b1-4b3b-b482-2b81437f3903/video.m3u8
 
@@ -1716,6 +1730,12 @@ https://cdn.jwplayer.com/manifests/6ipev8fs.m3u8
 
 
 # Eixo do Mal
+
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 24/3/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/03/24/20c8f8cb-b94e-48bb-a46f-523b9b4fbc7c/video.m3u8
+
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 17/3/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/03/17/5e028a0c-fc45-4ceb-88b1-f9ac16f0c090/video.m3u8
 
 #EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 9/3/2023
 https://videos.impresa.pt/videos/hls/sicnot/2023/03/10/482e3fdf-d623-41b2-9ded-f38da17b02fe/video.m3u8
@@ -1845,6 +1865,12 @@ https://content.jwplatform.com/manifests/jL3dl5uq.m3u8
 
 
 # Programa Cujo Nome Estamos Legalmente Impedidos de Dizer
+
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 25/3/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/03/25/33990296-f211-4c02-b8c1-c5f65b803093/video.m3u8
+
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 18/3/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/03/17/acf16a65-5afb-476f-8baa-82d6bada9073/video.m3u8
 
 #EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 10/3/2023
 https://videos.impresa.pt/videos/hls/sicnot/2023/03/10/4c1f4af1-356f-45e7-8d67-6aa2eff969ca/video.m3u8
