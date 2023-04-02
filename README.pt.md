@@ -159,7 +159,7 @@ Para uma boa experiência de utilização o seu aparelho deverá ter um bom proc
 
 * **SoC**: Amlogic S905W2, S905Y4 ou S905X4 (barato, eficiente e suporta o moderno codec de vídeo AV1)
 * **RAM**: 4 GB
-* **Memória interna**: 64 GB
+* **Armazenamento interno**: 64 GB
 * **Modelos**: [Vontar X2](https://m3upt.com/vontar-x2) e [Vontar X4](https://m3upt.com/vontar-x4)
 
 

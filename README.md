@@ -158,7 +158,7 @@ For a good experience you need a device with decent SoC and enough RAM. As a gen
 
 * **SoC**: Amlogic S905W2, S905Y4 or S905X4 (cheap, energy efficient and supports the modern AV1 video codec)
 * **RAM**: 4 GB
-* **Internal memory**: 64 GB
+* **Internal storage**: 64 GB
 * **Models**: [Vontar X2](https://m3upt.com/vontar-x2) and [Vontar X4](https://m3upt.com/vontar-x4)
 
 Affordable Android TV boxes with Amlogic SoCs are usually much better supported than the ones powered by Rockchip or Allwinner. 
