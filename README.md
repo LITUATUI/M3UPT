@@ -163,9 +163,9 @@ For a good experience you need a device with decent SoC and enough RAM. As a gen
 
 Affordable Android TV boxes with Amlogic SoCs are usually much better supported than the ones powered by Rockchip or Allwinner. 
 
-You can buy a decent device with the Amlogic S905X4 SoC and 4 GB of RAM for around 60 euros. Visit the recommended shopping websites below if you want to get one.
+You can buy an excellent device for less than 60 euros on the recommended shopping websites.
 
-If you prefer a TV Box already configured with this list of channels and much more, you can buy it [here](https://m3upt.com/tvbox).
+If you prefer a TV Box already configured and ready to use, you can buy it [here](https://m3upt.com/tvbox).
 
 ---
 
