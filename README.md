@@ -113,7 +113,7 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 
 **Recommended settings:**
 
-* Restore this backup: xZapaE (password: M3UPT)
+* Restore this backup: 8tSBxx (password: M3UPT)
 
 ### [ProgTV](https://www.progdvb.com/progtva_download.html) (Android) - ★★★★ 4/5
 
@@ -184,6 +184,6 @@ These are affiliate links which means that if you click on them and buy somethin
 
 * Visit the [official website](https://m3upt.com).
 
-* On Telegram join the [channel](https://t.me/m3upt) for announcements and the [group](https://t.me/m3uptchat) to chat.
+* On Telegram join the [channel](https://t.me/m3upt) to get updates and the [group](https://t.me/m3uptchat) to chat.
 
 * Contact me by [e-mail](mailto:info@m3upt.com).

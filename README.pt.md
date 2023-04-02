@@ -114,7 +114,7 @@ Não é fácil para falantes de português a viver no estrangeiro manter contact
 
 **Configurações recomendadas:**
 
-* Restaure este backup: xZapaE (password: M3UPT)
+* Restaure este backup: 8tSBxx (password: M3UPT)
 
 ### [ProgTV](https://www.progdvb.com/progtva_download.html) (Android)  - ★★★★ 4/5
 
@@ -185,6 +185,6 @@ Se clicar nestes links e comprar alguma coisa, eu poderei receber uma pequena co
 
 * Visite a [página oficial](https://m3upt.com).
 
-* No Telegram adira ao [canal](https://t.me/m3upt) para anúncios e ao [grupo](https://t.me/m3uptchat) para conversar.
+* No Telegram adira ao [canal](https://t.me/m3upt) para ficar actualizado e ao [grupo](https://t.me/m3uptchat) para conversar.
 
 * Contate-me por [e-mail](mailto:info@m3upt.com).
