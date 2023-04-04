@@ -178,7 +178,7 @@ Se preferir uma TV Box já configurada e pronta a usar, pode comprar [aqui](http
 * [Banggood](https://m3upt.com/banggood)
 * [eBay](https://m3upt.com/ebay)
 * [Amazon](https://m3upt.com/amazon)
-* [DHGate](https://m3upt.com/dhgate)
+* [DHgate](https://m3upt.com/DHgate)
 
 Se clicar nestes links e comprar alguma coisa, eu poderei receber uma pequena comissão. Não lhe sai mais caro e assim ajuda a manter este projeto em funcionamento.
 
