@@ -4,7 +4,7 @@ Lista de IPTV em formato M3U optimizada para o Kodi com canais de 📺 TV e esta
 
 ## Objectivo
 
-Disponibilizar uma lista de IPTV legal e gratuita em formato M3U optimizada para o Kodi, com canais de TV e estacões de rádio em Português.
+Disponibilizar uma lista de IPTV legal e gratuita em formato M3U optimizada para o Kodi, com canais de TV e estações de rádio em Português.
 
 ## Porquê?
 
