@@ -131,7 +131,7 @@ Não é fácil para falantes de português a viver no estrangeiro manter contact
 **Configurações recomendadas:**
 
 * GUI - Mostrar grupos de canais como pastas
-* Reprodução - Descodificador: HW+
+* Reprodução - Descodificador: HW
 * Reprodução - Tamanho do buffer: 4
 * Reprodução - User-Agent: Firefox
 
