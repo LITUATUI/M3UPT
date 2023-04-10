@@ -4,7 +4,7 @@ on:
     - cron: "0 0 * * *"
 
 jobs:
-  Update-epg:
+  Update-EPG:
     runs-on: ubuntu-latest
     steps:
     
