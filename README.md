@@ -107,6 +107,10 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 
 * You should install YouTube addon and configure its subtitles to pt-PT (No auto-generated).
 
+### [Yuki-IPTV](https://github.com/yuki-iptv/yuki-iptv) (GNU/Linux) - ★★★★★ 5/5
+
+![Yuki-IPTV screenshot](/images/Yuki-IPTV-M3UPT-playlist.avif "Yuki-IPTV screenshot")
+
 ### [OTT Navigator IPTV](https://play.google.com/store/apps/details?id=studio.scillarium.ottnavigator) (Android) - ★★★★★ 5/5
 
 ![OTT Navigator IPTV screenshot](/images/OTT-Navigator-IPTV-M3UPT-playlist.avif "OTT Navigator IPTV screenshot")

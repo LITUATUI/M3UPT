@@ -103,10 +103,13 @@ Não é fácil para falantes de português a viver no estrangeiro manter contact
 
 ![Kodi screenshot](/images/Kodi-M3UPT-playlist.avif "Kodi screenshot")
 
-
 **Configurações recomendadas:**
 
 * Deverá instalar o addon YouTube e configurar as suas legendas para pt-PT (Sem gerador automático).
+
+### [Yuki-IPTV](https://github.com/yuki-iptv/yuki-iptv) (GNU/Linux) - ★★★★★ 5/5
+
+![Yuki-IPTV screenshot](/images/Yuki-IPTV-M3UPT-playlist.avif "Yuki-IPTV screenshot")
 
 ### [OTT Navigator IPTV](https://play.google.com/store/apps/details?id=studio.scillarium.ottnavigator) (Android) - ★★★★★ 5/5
 
