@@ -20,7 +20,7 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 #EXTINF:-1 group-title="TV" tvg-id="tvihd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDk6MTM6MTYgUE0maGFzaF92YWx1ZT1vaWViZ1FYSGpaazZ3eWEzRHNoQUFBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YTljMzRkMWUtMTgxZS00MTI0LThlMTEtNGYxNTJiNTQxMzhk/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDk6MTQ6MzEgUE0maGFzaF92YWx1ZT1kLzhaL2ZyYVlleHR6S1owWWo2eTlBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NTM0OTM4NTgtNjI1MS00M2NlLTk4MWEtNGFlNjA3NWMzODE0/
 
 #EXTINF:-1 group-title="TV" tvg-id="rtp3hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP3.png",RTP 3
 #EXTVLCOPT:http-user-agent=Firefox
@@ -34,7 +34,7 @@ https://sicnot.live.impresa.pt/sicnot.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="cnnpthd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDk6MTM6MTcgUE0maGFzaF92YWx1ZT1Jb1lZd2hUTkRGN3ZoMUtpTHFISnN3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ODBiNjkxMzYtNmRiMS00NDVmLThhNDEtMjI1ZmE4N2UyNGNm/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDk6MTQ6MzIgUE0maGFzaF92YWx1ZT1SNUw4TEFuVkZnc0pKYjF2RjRPeXRnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NTIxNzJmMTAtMzdjYy00ZTQ1LTljYWEtNDA4YWEyNTNjNDYx/
 
 #EXTINF:-1 group-title="TV" tvg-id="euronw.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews PT
 #KODIPROP:inputstream=inputstream.adaptive
@@ -79,7 +79,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="TVIInt.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",TVI Internacional
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDk6MTM6MTggUE0maGFzaF92YWx1ZT1TUW5tQXdXdUtuTDRVSWc2T2gxcWpRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9Nzk5MzhiMDQtZjJiZS00ZmJmLWE1MDAtMmIzYmFkYWM1ZjVi/
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDk6MTQ6MzMgUE0maGFzaF92YWx1ZT01Y05YSEw5QllSOHlqaUZ1SVFJMnZRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YWQ1ZjY0NjItMDA2Zi00ODE4LTk2NmQtZDU2ZDJhNGEyOTZh/
 
 #EXTINF:-1 group-title="TV" tvg-id="TVIAFR.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI_África.png",TVI África
 #KODIPROP:inputstream=inputstream.adaptive
@@ -94,7 +94,7 @@ https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificca
 #EXTINF:-1 group-title="TV" tvg-id="tvireality.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDk6MTM6MTggUE0maGFzaF92YWx1ZT14U0RaelQzMWFXRitDSHFJc0hlNmpBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NTYyYzEyNDAtZmFlNS00YjI5LTg4OTktZTQ2NzkxZWNlNTQ0/
+https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDk6MTQ6MzMgUE0maGFzaF92YWx1ZT16SnJZQVlDYjdZQ21DeDN0M21Yc0tnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MzE1MzJhZTEtZjQyOS00YzE1LTk4YTAtNjRjZGFkMDQ1Zjkz/
 
 #EXTINF:-1 group-title="TV" tvg-id="sicnovelashd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Novelas.png",SIC Novelas
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1419,6 +1419,10 @@ https://video-auth1.iol.pt/beachcam/bcbugio2/playlist.m3u8
 
 # O Outro Lado
 
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T8E15 10/4/2023
+#EXTVLCOPT:http-user-agent=Firefox
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p11203/p11203_1_20230410000000e015t8747.mp4/master.m3u8
+
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T8E14 3/4/2023
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p11203/p11203_1_20230403000000e014t3229.mp4/master.m3u8
@@ -1602,6 +1606,9 @@ https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p9780/p9780_1_20220411
 
 # Sem Moderação
 
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 12/4/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/04/11/ec4ad1ca-822c-4ce3-b67c-753ea4728793/video.m3u8
+
 #EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 5/4/2023
 https://videos.impresa.pt/videos/hls/sicnot/2023/04/04/d136e763-d57f-44c1-9a8e-256f5f9c0678/video.m3u8
 
@@ -1730,6 +1737,9 @@ https://cdn.jwplayer.com/manifests/6ipev8fs.m3u8
 
 
 # Eixo do Mal
+
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 14/4/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/04/13/5bac4a84-8e49-4a73-bd49-19a4f8bf82e6/video.m3u8
 
 #EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 7/4/2023
 https://videos.impresa.pt/videos/hls/sicnot/2023/04/06/4befa82d-19fe-45a3-9fdb-1cf318c03933/video.m3u8
@@ -1871,6 +1881,9 @@ https://content.jwplatform.com/manifests/jL3dl5uq.m3u8
 
 
 # Programa Cujo Nome Estamos Legalmente Impedidos de Dizer
+
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 15/4/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/04/14/ff2776c1-f711-4257-80c6-f04eab939490/video.m3u8
 
 #EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 8/4/2023
 https://videos.impresa.pt/videos/hls/sicnot/2023/04/07/189ec381-fe89-41af-9187-dd995c3910a6/video.m3u8
