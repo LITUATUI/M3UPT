@@ -193,3 +193,10 @@ These are affiliate links which means that if you click on them and buy somethin
 * On Telegram join the [channel](https://t.me/m3upt) to get updates and the [group](https://t.me/m3uptchat) to chat.
 
 * Contact me by [e-mail](mailto:info@m3upt.com).
+
+---
+
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/LITUATUI/M3UPT.svg)](https://starchart.cc/LITUATUI/M3UPT)
