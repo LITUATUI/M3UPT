@@ -863,7 +863,7 @@ http://centova.radios.pt:9478/
 https://playerservices.streamtheworld.com/api/livestream-redirect/OBSERVADOR_ADP.m3u8
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://cdn-profiles.tunein.com/s15270/images/logod.png",Rádio Orbital
-http://stream.radio.com.pt:8401/;stream/1
+https://ec2.yesstreaming.net:3025/stream
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://cdn-radiotime-logos.tunein.com/s83943q.png",Rádio Oxigénio
 https://proic1.evspt.com/oxigenio_aac
