@@ -117,7 +117,7 @@ Não é fácil para falantes de português a viver no estrangeiro manter contact
 
 **Configurações recomendadas:**
 
-* Restaure este backup: 8tSBxx (password: M3UPT)
+* Restaure este backup: DbysYN (password: M3UPT)
 
 ### [ProgTV](https://www.progdvb.com/progtva_download.html) (Android)  - ★★★★ 4/5
 
