@@ -111,6 +111,14 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 
 ![Yuki-IPTV screenshot](/images/Yuki-IPTV-M3UPT-playlist.avif "Yuki-IPTV screenshot")
 
+**Recommended settings:**
+
+* Main - Open previous channel on startup ✅
+* Video - Deinterlace ✅
+* Video - Hardware acceleration ✅ 
+* Network - Cache: 4
+* Debug - Automatic reconnection ✅
+
 ### [OTT Navigator IPTV](https://play.google.com/store/apps/details?id=studio.scillarium.ottnavigator) (Android) - ★★★★★ 5/5
 
 ![OTT Navigator IPTV screenshot](/images/OTT-Navigator-IPTV-M3UPT-playlist.avif "OTT Navigator IPTV screenshot")
@@ -133,8 +141,8 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 
 **Recommended settings:**
 
-* GUI - Show channels groups as folders
-* Playback - Decoder: HW
+* GUI - Show channels groups as folders ✅
+* Playback - Decoder: Hardware
 * Playback - Buffer size: 4
 * Playback - User-Agent: Firefox
 

@@ -111,6 +111,15 @@ Não é fácil para falantes de português a viver no estrangeiro manter contact
 
 ![Yuki-IPTV screenshot](/images/Yuki-IPTV-M3UPT-playlist.avif "Yuki-IPTV screenshot")
 
+**Configurações recomendadas:**
+
+* Main - Open previous channel on startup ✅
+* Video - Deinterlace ✅
+* Video - Hardware acceleration ✅ 
+* Network - Cache: 4
+* Debug - Automatic reconnection ✅
+
+
 ### [OTT Navigator IPTV](https://play.google.com/store/apps/details?id=studio.scillarium.ottnavigator) (Android) - ★★★★★ 5/5
 
 ![OTT Navigator IPTV screenshot](/images/OTT-Navigator-IPTV-M3UPT-playlist.avif "OTT Navigator IPTV screenshot")
@@ -133,8 +142,8 @@ Não é fácil para falantes de português a viver no estrangeiro manter contact
 
 **Configurações recomendadas:**
 
-* GUI - Mostrar grupos de canais como pastas
-* Reprodução - Descodificador: HW
+* GUI - Mostrar grupos de canais como pastas ✅
+* Reprodução - Descodificador: Hardware
 * Reprodução - Tamanho do buffer: 4
 * Reprodução - User-Agent: Firefox
 
