@@ -119,7 +119,6 @@ Não é fácil para falantes de português a viver no estrangeiro manter contact
 * Network - Cache: 4
 * Debug - Automatic reconnection ✅
 
-
 ### [OTT Navigator IPTV](https://play.google.com/store/apps/details?id=studio.scillarium.ottnavigator) (Android) - ★★★★★ 5/5
 
 ![OTT Navigator IPTV screenshot](/images/OTT-Navigator-IPTV-M3UPT-playlist.avif "OTT Navigator IPTV screenshot")
