@@ -173,7 +173,6 @@ Para uma boa experiência de utilização o seu aparelho deverá ter um bom proc
 * **Armazenamento interno**: 64 GB
 * **Modelos**: [Vontar X2](https://m3upt.com/vontar-x2) e [Vontar X4](https://m3upt.com/vontar-x4)
 
-
 Normalmente TV boxes Android com processadores Amlogic são melhores que aparelhos com processadores Rockchip ou Allwinner. 
 
 Pode comprar um excelente aparelho por menos de 60 euros nas lojas recomendadas.
@@ -202,3 +201,9 @@ Se clicar nestes links e comprar alguma coisa, eu poderei receber uma pequena co
 * No Telegram adira ao [canal](https://t.me/m3upt) para ficar actualizado e ao [grupo](https://t.me/m3uptchat) para conversar.
 
 * Contate-me por [e-mail](mailto:info@m3upt.com).
+
+---
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/LITUATUI/M3UPT.svg)](https://starchart.cc/LITUATUI/M3UPT)

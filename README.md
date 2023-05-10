@@ -204,7 +204,6 @@ These are affiliate links which means that if you click on them and buy somethin
 
 ---
 
-
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/LITUATUI/M3UPT.svg)](https://starchart.cc/LITUATUI/M3UPT)
