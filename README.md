@@ -202,6 +202,8 @@ These are affiliate links which means that if you click on them and buy somethin
 
 * Contact me by [e-mail](mailto:info@m3upt.com).
 
+* Support this project with the purchase of an already configured [TV Box](https://m3upt.com/tvbox) or with a [donation](https://m3upt.com/donativo). Your support encourages me to dedicate more time to this project.
+  
 ---
 
 ## Stargazers over time

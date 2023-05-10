@@ -202,6 +202,8 @@ Se clicar nestes links e comprar alguma coisa, eu poderei receber uma pequena co
 
 * Contate-me por [e-mail](mailto:info@m3upt.com).
 
+* Apoia este projecto com a compra de uma [TV Box](https://m3upt.com/tvbox) já configurada ou com um [donativo](https://m3upt.com/donativo). O teu apoio incentiva-me a dedicar mais tempo a este projeto.
+
 ---
 
 ## Stargazers over time
