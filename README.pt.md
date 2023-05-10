@@ -206,6 +206,6 @@ Se clicar nestes links e comprar alguma coisa, eu poderei receber uma pequena co
 
 ---
 
-## Stargazers over time
+## Estrelas no GitHub
 
 [![Stargazers over time](https://starchart.cc/LITUATUI/M3UPT.svg)](https://starchart.cc/LITUATUI/M3UPT)
