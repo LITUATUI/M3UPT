@@ -2117,7 +2117,7 @@ https://streaming-vod.rtp.pt/hls/nas2.share/pt/h264/512x384/p11287/p11287_1_2023
 
 #EXTINF:-1 media="true" group-title="Documentários" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/37415_54632_76335.jpg",Salgueiro Maia - Rumo à Eternidade
 #EXTVLCOPT:http-user-agent=Firefox
-https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p5993/p5993_201907011120221764d.m3u8
+https://streaming-arquivo-ondemand.rtp.pt/nas2.share/mcm/arquivo/mp4/fe3/index.m3u8?tlm=hls&streams=fe33e489f8e2af6f63e3c2d5a2743b05arq.mp4.m3u8:1024
 
 #EXTINF:-1 media="true" group-title="Documentários" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/34223_49118_85354.png",A Voz e os Ouvidos do MFA
 #EXTVLCOPT:http-user-agent=Firefox
