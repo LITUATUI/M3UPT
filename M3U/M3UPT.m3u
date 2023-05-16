@@ -274,7 +274,6 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="fra24e.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/France-24.png",France 24 English
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-plugin://plugin.video.youtube/play/?video_id=h3MuIUNCCzI
 https://youtube.com/watch?v=h3MuIUNCCzI
 
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/France-24.png",France 24 Español
@@ -370,7 +369,6 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 #EXTINF:-1 group-title="TV" tvg-id="kbsworld.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/KBS-World.png",KBS World
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-plugin://plugin.video.youtube/play/?video_id=HnfpTMtfFk8
 https://youtube.com/watch?v=HnfpTMtfFk8
 
 #EXTINF:-1 group-title="TV" tvg-id="dw.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Deutsche-Welle.png",Deutsche Welle
@@ -2115,109 +2113,108 @@ https://streaming-vod.rtp.pt/hls/nas2.share/pt/h264/512x384/p9981/p9981_1_202302
 https://streaming-vod.rtp.pt/hls/nas2.share/pt/h264/512x384/p11287/p11287_1_20230120161003e000t9857d.mp4/master.m3u8
 
 
-# Documentários (Kodi + YouTube addon)
+# Documentários
 
-#EXTINF:-1 media="true" group-title="Docs (YouTube)" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/37415_54632_76335.jpg",Salgueiro Maia - Rumo à Eternidade
+#EXTINF:-1 media="true" group-title="Documentários" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/37415_54632_76335.jpg",Salgueiro Maia - Rumo à Eternidade
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p5993/p5993_201907011120221764d.m3u8
 
-#EXTINF:-1 media="true" group-title="Docs (YouTube)" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/34223_49118_85354.png",A Voz e os Ouvidos do MFA
+#EXTINF:-1 media="true" group-title="Documentários" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/34223_49118_85354.png",A Voz e os Ouvidos do MFA
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p3438/p3438_1_201804251304182778.m3u8
 
-#EXTINF:-1 media="true" group-title="Docs (YouTube)" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/42154_65094_86907.png",Sampaio, Salazar e Caetano: O Confronto de 1962
+#EXTINF:-1 media="true" group-title="Documentários" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/42154_65094_86907.png",Sampaio, Salazar e Caetano: O Confronto de 1962
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p10088/p10088_20220328090315e002t9217.m3u8
 
-#EXTINF:-1 media="true" group-title="Docs (YouTube)" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/40579_61836_61031.jpg",Mulheres na Resistência
+#EXTINF:-1 media="true" group-title="Documentários" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/40579_61836_61031.jpg",Mulheres na Resistência
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p8770/p8770_1_20210428161005e004t9250d.m3u8
 
-#EXTINF:-1 media="true" group-title="Docs (YouTube)" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/41369_63569_65641.jpg",Dentro do Antifa
+#EXTINF:-1 media="true" group-title="Documentários" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/41369_63569_65641.jpg",Dentro do Antifa
 #EXTVLCOPT:http-user-agent=Firefox
 #https://streaming-ondemand.rtp.pt/nas2.share/pt/h264/512x384/p9407/p9407_1_20220423161006e000t2346d/master.m3u8
 
-#EXTINF:-1 media="true" group-title="Docs (YouTube)" tvg-logo="",Os Donos de Portugal
-plugin://plugin.video.youtube/play/?video_id=OuzxncV9l3M
+#EXTINF:-1 media="true" group-title="Documentários" tvg-logo="",Os Donos de Portugal
+https://youtube.com/watch?v=OuzxncV9l3M
 
-#EXTINF:-1 media="true" group-title="Docs (YouTube)" tvg-logo="",Mão Invisível - uma história do neoliberalismo em Portugal
-plugin://plugin.video.youtube/play/?video_id=ceTCzCptzEM
+#EXTINF:-1 media="true" group-title="Documentários" tvg-logo="",Mão Invisível - uma história do neoliberalismo em Portugal
+https://youtube.com/watch?v=ceTCzCptzEM
 
-#EXTINF:-1 media="true" group-title="Docs (YouTube)" tvg-logo="",Banned TED Talk: Nick Hanauer "Rich people don't create jobs"
-plugin://plugin.video.youtube/play/?video_id=CKCvf8E7V1g
+#EXTINF:-1 media="true" group-title="Documentários" tvg-logo="",Banned TED Talk: Nick Hanauer "Rich people don't create jobs"
+https://youtube.com/watch?v=CKCvf8E7V1g
 
-#EXTINF:-1 media="true" group-title="Docs (YouTube)" tvg-logo="",The dirty secret of capitalism - and a new way forward | Nick Hanauer
-plugin://plugin.video.youtube/play/?video_id=th3KE_H27bs
+#EXTINF:-1 media="true" group-title="Documentários" tvg-logo="",The dirty secret of capitalism - and a new way forward | Nick Hanauer
+https://youtube.com/watch?v=th3KE_H27bs
 
-#EXTINF:-1 media="true" group-title="Docs (YouTube)" tvg-logo="",Democracy at Work: Curing Capitalism | Richard Wolff | Talks at Google
-plugin://plugin.video.youtube/play/?video_id=ynbgMKclWWc
+#EXTINF:-1 media="true" group-title="Documentários" tvg-logo="",Democracy at Work: Curing Capitalism | Richard Wolff | Talks at Google
+https://youtube.com/watch?v=ynbgMKclWWc
 
-#EXTINF:-1 media="true" group-title="Docs (YouTube)" tvg-logo="",Zeitgeist: Moving Forward
-plugin://plugin.video.youtube/play/?video_id=4Z9WVZddH9w
+#EXTINF:-1 media="true" group-title="Documentários" tvg-logo="",Zeitgeist: Moving Forward
+https://youtube.com/watch?v=4Z9WVZddH9w
 
-#EXTINF:-1 media="true" group-title="Docs (YouTube)" tvg-logo="",How poor people survive in the USA | DW Documentary
-plugin://plugin.video.youtube/play/?video_id=JHDkALRz5Rk
+#EXTINF:-1 media="true" group-title="Documentários" tvg-logo="",How poor people survive in the USA | DW Documentary
+https://youtube.com/watch?v=JHDkALRz5Rk
 
-#EXTINF:-1 media="true" group-title="Docs (YouTube)" tvg-logo="",Capitalism: A Love Story (2009)
+#EXTINF:-1 media="true" group-title="Documentários" tvg-logo="",Capitalism: A Love Story (2009)
 #https://n10.gomoplayer.com/vxoke3mexsalavf4etpivnwrqlbfsk3em6kyyyui3gvt5fojpac33jpbueiq/v.mp4
 
 
-# Relatório DB (Kodi + YouTube addon)
+# Relatório DB
 
-#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DBDiogoBataguas.jpg",Relatório DB - DEZEMBRO 2022
-plugin://plugin.video.youtube/play/?video_id=fVzdMTmkkms
+#EXTINF:-1 media="true" group-title="Relatório DB" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DBDiogoBataguas.jpg",Relatório DB - DEZEMBRO 2022
 https://youtube.com/watch?v=fVzdMTmkkms
 
-#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DBDiogoBataguas.jpg",Relatório DB - NOVEMBRO 2022
-plugin://plugin.video.youtube/play/?video_id=ttA-YjtgVyA
+#EXTINF:-1 media="true" group-title="Relatório DB" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DBDiogoBataguas.jpg",Relatório DB - NOVEMBRO 2022
+https://youtube.com/watch?v=ttA-YjtgVyA
 
-#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DBDiogoBataguas.jpg",Relatório DB - OUTUBRO 2022
-plugin://plugin.video.youtube/play/?video_id=GJBRUgK3fu0
+#EXTINF:-1 media="true" group-title="Relatório DB" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DBDiogoBataguas.jpg",Relatório DB - OUTUBRO 2022
+https://youtube.com/watch?v=GJBRUgK3fu0
 
-#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DBDiogoBataguas.jpg",Relatório DB - SETEMBRO 2022
-plugin://plugin.video.youtube/play/?video_id=7JymLpRbBrk
+#EXTINF:-1 media="true" group-title="Relatório DB" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DBDiogoBataguas.jpg",Relatório DB - SETEMBRO 2022
+https://youtube.com/watch?v=7JymLpRbBrk
 
-#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DBDiogoBataguas.jpg",Relatório DB - AGOSTO 2022
-plugin://plugin.video.youtube/play/?video_id=q-E6ZeBGPJU
+#EXTINF:-1 media="true" group-title="Relatório DB" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DBDiogoBataguas.jpg",Relatório DB - AGOSTO 2022
+https://youtube.com/watch?v=q-E6ZeBGPJU
 
-#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DBDiogoBataguas.jpg",Relatório DB - JULHO 2022
-plugin://plugin.video.youtube/play/?video_id=hks6owUNxX0
+#EXTINF:-1 media="true" group-title="Relatório DB" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DBDiogoBataguas.jpg",Relatório DB - JULHO 2022
+https://youtube.com/watch?v=hks6owUNxX0
 
-#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DBDiogoBataguas.jpg",Relatório DB - JUNHO 2022
-plugin://plugin.video.youtube/play/?video_id=FVBrPa5__yA
+#EXTINF:-1 media="true" group-title="Relatório DB" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DBDiogoBataguas.jpg",Relatório DB - JUNHO 2022
+https://youtube.com/watch?v=FVBrPa5__yA
 
-#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DBDiogoBataguas.jpg",Relatório DB - MAIO 2022
-plugin://plugin.video.youtube/play/?video_id=NDz_owWuLx4
+#EXTINF:-1 media="true" group-title="Relatório DB" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DBDiogoBataguas.jpg",Relatório DB - MAIO 2022
+https://youtube.com/watch?v=NDz_owWuLx4
 
-#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DBDiogoBataguas.jpg",Relatório DB - ABRIL 2022
-plugin://plugin.video.youtube/play/?video_id=GxWI7r0UB_0
+#EXTINF:-1 media="true" group-title="Relatório DB" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DBDiogoBataguas.jpg",Relatório DB - ABRIL 2022
+https://youtube.com/watch?v=GxWI7r0UB_0
 
-#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DBDiogoBataguas.jpg",Relatório DB - MARÇO 2022
-plugin://plugin.video.youtube/play/?video_id=uzfbUV3aKU0
+#EXTINF:-1 media="true" group-title="Relatório DB" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DBDiogoBataguas.jpg",Relatório DB - MARÇO 2022
+https://youtube.com/watch?v=uzfbUV3aKU0
 
-#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DBDiogoBataguas.jpg",Relatório DB - FEVEREIRO 2022
-plugin://plugin.video.youtube/play/?video_id=SUmfwl-4lXA
+#EXTINF:-1 media="true" group-title="Relatório DB" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DBDiogoBataguas.jpg",Relatório DB - FEVEREIRO 2022
+https://youtube.com/watch?v=SUmfwl-4lXA
 
-#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DBDiogoBataguas.jpg",Relatório DB - JANEIRO 2022
-plugin://plugin.video.youtube/play/?video_id=zuKIh2U2xfE
+#EXTINF:-1 media="true" group-title="Relatório DB" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DBDiogoBataguas.jpg",Relatório DB - JANEIRO 2022
+https://youtube.com/watch?v=zuKIh2U2xfE
 
-#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DBDiogoBataguas.jpg",Relatório DB - DEZEMBRO 2021
-plugin://plugin.video.youtube/play/?video_id=14e1nGmSbJs
+#EXTINF:-1 media="true" group-title="Relatório DB" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DBDiogoBataguas.jpg",Relatório DB - DEZEMBRO 2021
+https://youtube.com/watch?v=14e1nGmSbJs
 
-#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DBDiogoBataguas.jpg",Relatório DB - NOVEMBRO 2021
-plugin://plugin.video.youtube/play/?video_id=FmVa6JyFLRk
+#EXTINF:-1 media="true" group-title="Relatório DB" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DBDiogoBataguas.jpg",Relatório DB - NOVEMBRO 2021
+https://youtube.com/watch?v=FmVa6JyFLRk
 
-#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DBDiogoBataguas.jpg",Relatório DB - OUTUBRO 2021
-plugin://plugin.video.youtube/play/?video_id=2dGRTsLacoQ
+#EXTINF:-1 media="true" group-title="Relatório DB" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DBDiogoBataguas.jpg",Relatório DB - OUTUBRO 2021
+https://youtube.com/watch?v=2dGRTsLacoQ
 
-#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DBDiogoBataguas.jpg",Relatório DB - SETEMBRO 2021
-plugin://plugin.video.youtube/play/?video_id=wDl0fhOcI1E
+#EXTINF:-1 media="true" group-title="Relatório DB" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DBDiogoBataguas.jpg",Relatório DB - SETEMBRO 2021
+https://youtube.com/watch?v=wDl0fhOcI1E
 
-#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DBDiogoBataguas.jpg",Relatório DB - AGOSTO 2021
-plugin://plugin.video.youtube/play/?video_id=llvKcrvHt3w
+#EXTINF:-1 media="true" group-title="Relatório DB" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DBDiogoBataguas.jpg",Relatório DB - AGOSTO 2021
+https://youtube.com/watch?v=llvKcrvHt3w
 
-#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DBDiogoBataguas.jpg",Relatório DB - JULHO 2021
-plugin://plugin.video.youtube/play/?video_id=FHn2cZRIsAc
+#EXTINF:-1 media="true" group-title="Relatório DB" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DBDiogoBataguas.jpg",Relatório DB - JULHO 2021
+https://youtube.com/watch?v=FHn2cZRIsAc
 
 
 # Matt Orfalea
