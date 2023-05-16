@@ -274,22 +274,22 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="fra24e.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/France-24.png",France 24 English
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://www.youtube.com/watch?v=h3MuIUNCCzI
+https://youtube.com/watch?v=h3MuIUNCCzI
 
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/France-24.png",France 24 Español
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://www.youtube.com/watch?v=XDJPzMznAjU
+https://youtube.com/watch?v=XDJPzMznAjU
 
 #EXTINF:-1 group-title="TV" tvg-id="fra24f.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/France-24.png",France 24 Français
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://www.youtube.com/watch?v=gxG3pdKvlIs
+https://youtube.com/watch?v=gxG3pdKvlIs
 
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/France-24.png",France 24 Arabic
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://www.youtube.com/watch?v=8BZpOolYLUA
+https://youtube.com/watch?v=8BZpOolYLUA
 
 #EXTINF:-1 group-title="TV" tvg-id="cnn.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN.png",CNN
 #KODIPROP:inputstream=inputstream.adaptive
@@ -510,7 +510,7 @@ https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/pl
 #EXTINF:-1 group-title="TV" tvg-id="Sky TG24 HD" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Sky-TG24.png",Sky TG24
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://www.youtube.com/watch?v=HVB_Wx5T16g
+https://youtube.com/watch?v=HVB_Wx5T16g
 
 #EXTINF:-1 group-title="TV" tvg-id="rainews.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Rai-News-24.png",Rai News 24
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2163,28 +2163,29 @@ plugin://plugin.video.youtube/play/?video_id=JHDkALRz5Rk
 # Relatório DB (Kodi + YouTube addon)
 
 #EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - DEZEMBRO 2022
-plugin://plugin.video.youtube/play/?video_id=https://www.youtube.com/watch?v=fVzdMTmkkms
+https://youtube.com/watch?v=fVzdMTmkkms
+plugin://plugin.video.youtube/play/?video_id=fVzdMTmkkms
 
 #EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - NOVEMBRO 2022
-plugin://plugin.video.youtube/play/?video_id=https://www.youtube.com/watch?v=ttA-YjtgVyA
+plugin://plugin.video.youtube/play/?video_id=ttA-YjtgVyA
 
 #EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - OUTUBRO 2022
-plugin://plugin.video.youtube/play/?video_id=https://www.youtube.com/watch?v=GJBRUgK3fu0
+plugin://plugin.video.youtube/play/?video_id=GJBRUgK3fu0
 
 #EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - SETEMBRO 2022
-plugin://plugin.video.youtube/play/?video_id=https://www.youtube.com/watch?v=7JymLpRbBrk
+plugin://plugin.video.youtube/play/?video_id=7JymLpRbBrk
 
 #EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - AGOSTO 2022
-plugin://plugin.video.youtube/play/?video_id=https://www.youtube.com/watch?v=q-E6ZeBGPJU
+plugin://plugin.video.youtube/play/?video_id=q-E6ZeBGPJU
 
 #EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - JULHO 2022
-plugin://plugin.video.youtube/play/?video_id=https://www.youtube.com/watch?v=hks6owUNxX0
+plugin://plugin.video.youtube/play/?video_id=hks6owUNxX0
 
 #EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - JUNHO 2022
-plugin://plugin.video.youtube/play/?video_id=https://www.youtube.com/watch?v=FVBrPa5__yA
+plugin://plugin.video.youtube/play/?video_id=FVBrPa5__yA
 
 #EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - MAIO 2022
-plugin://plugin.video.youtube/play/?video_id=https://www.youtube.com/watch?v=NDz_owWuLx4
+plugin://plugin.video.youtube/play/?video_id=NDz_owWuLx4
 
 #EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - ABRIL 2022
 plugin://plugin.video.youtube/play/?video_id=GxWI7r0UB_0
@@ -2219,16 +2220,16 @@ plugin://plugin.video.youtube/play/?video_id=FHn2cZRIsAc
 
 # Matt Orfalea
 
-#EXTINF:-1 media="true" group-title="Matt Orfalea" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUC6xM7GvKd85duq5fw8qKBOQ&psig=AOvVaw1wWHstURa8DrpufVhTyqUy&ust=1671888270268000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIjntaXrj_wCFQAAAAAdAAAAABAE",Who Blew Up Nord Stream Pipelines? | A Mystery!
+#EXTINF:-1 media="true" group-title="Matt Orfalea" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fyoutube.com%2Fchannel%2FUC6xM7GvKd85duq5fw8qKBOQ&psig=AOvVaw1wWHstURa8DrpufVhTyqUy&ust=1671888270268000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIjntaXrj_wCFQAAAAAdAAAAABAE",Who Blew Up Nord Stream Pipelines? | A Mystery!
 https://sp.rmbl.ws/s8/2/_/m/Y/k/_mYkg.gaa.mp4
 
-#EXTINF:-1 media="true" group-title="Matt Orfalea" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUC6xM7GvKd85duq5fw8qKBOQ&psig=AOvVaw1wWHstURa8DrpufVhTyqUy&ust=1671888270268000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIjntaXrj_wCFQAAAAAdAAAAABAE",LAB LEAK "CONSPIRACY THEORY" MASHUP
+#EXTINF:-1 media="true" group-title="Matt Orfalea" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fyoutube.com%2Fchannel%2FUC6xM7GvKd85duq5fw8qKBOQ&psig=AOvVaw1wWHstURa8DrpufVhTyqUy&ust=1671888270268000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIjntaXrj_wCFQAAAAAdAAAAABAE",LAB LEAK "CONSPIRACY THEORY" MASHUP
 https://sp.rmbl.ws/s8/2/P/8/C/_/P8C_c.gaa.mp4
 
-#EXTINF:-1 media="true" group-title="Matt Orfalea" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUC6xM7GvKd85duq5fw8qKBOQ&psig=AOvVaw1wWHstURa8DrpufVhTyqUy&ust=1671888270268000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIjntaXrj_wCFQAAAAAdAAAAABAE",For a Free Press, Free Assange
+#EXTINF:-1 media="true" group-title="Matt Orfalea" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fyoutube.com%2Fchannel%2FUC6xM7GvKd85duq5fw8qKBOQ&psig=AOvVaw1wWHstURa8DrpufVhTyqUy&ust=1671888270268000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIjntaXrj_wCFQAAAAAdAAAAABAE",For a Free Press, Free Assange
 https://sp.rmbl.ws/s8/2/U/g/y/S/UgySc.haa.mp4
 
-#EXTINF:-1 media="true" group-title="Matt Orfalea" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUC6xM7GvKd85duq5fw8qKBOQ&psig=AOvVaw1wWHstURa8DrpufVhTyqUy&ust=1671888270268000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIjntaXrj_wCFQAAAAAdAAAAABAE",Dave Chappelle's Trans Friend | Daphney Dorman
+#EXTINF:-1 media="true" group-title="Matt Orfalea" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fyoutube.com%2Fchannel%2FUC6xM7GvKd85duq5fw8qKBOQ&psig=AOvVaw1wWHstURa8DrpufVhTyqUy&ust=1671888270268000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIjntaXrj_wCFQAAAAAdAAAAABAE",Dave Chappelle's Trans Friend | Daphney Dorman
 https://sp.rmbl.ws/s8/2/R/-/C/z/R-Czc.haa.mp4
 
 
