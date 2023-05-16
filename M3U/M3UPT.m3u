@@ -274,6 +274,7 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="fra24e.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/France-24.png",France 24 English
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
+plugin://plugin.video.youtube/play/?video_id=h3MuIUNCCzI
 https://youtube.com/watch?v=h3MuIUNCCzI
 
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/France-24.png",France 24 Español
@@ -2164,8 +2165,8 @@ plugin://plugin.video.youtube/play/?video_id=JHDkALRz5Rk
 # Relatório DB (Kodi + YouTube addon)
 
 #EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DBDiogoBataguas.jpg",Relatório DB - DEZEMBRO 2022
-https://youtube.com/watch?v=fVzdMTmkkms
 plugin://plugin.video.youtube/play/?video_id=fVzdMTmkkms
+https://youtube.com/watch?v=fVzdMTmkkms
 
 #EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DBDiogoBataguas.jpg",Relatório DB - NOVEMBRO 2022
 plugin://plugin.video.youtube/play/?video_id=ttA-YjtgVyA
