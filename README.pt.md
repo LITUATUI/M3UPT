@@ -125,7 +125,7 @@ Não é fácil para falantes de português a viver no estrangeiro manter contact
 
 **Configurações recomendadas:**
 
-* Restaure este backup: hpJYJm (senha: M3UPT)
+* Restaure este backup:  (senha: M3UPT)
 
 ### [ProgTV](https://www.progdvb.com/progtva_download.html) (Android)  - ★★★★ 4/5
 
