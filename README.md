@@ -125,7 +125,7 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 
 **Recommended settings:**
 
-* Restore this backup: roK7hL (password: M3UPT)
+* Restore this backup: kcXGkP (password: M3UPT)
 
 ### [ProgTV](https://www.progdvb.com/progtva_download.html) (Android) - ★★★★ 4/5
 

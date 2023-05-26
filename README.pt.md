@@ -125,7 +125,11 @@ Não é fácil para falantes de português a viver no estrangeiro manter contact
 
 **Configurações recomendadas:**
 
-* Restaure este backup: roK7hL (senha: M3UPT)
+* Restaure este backup: kcXGkP (senha: M3UPT)
+
+Para aplicar o código de backup, siga os seguintes passos após instalar a aplicação OTT Navigator IPTV:
+
+Configurações > Configurações adicionais > Backup e Restauração > Restaurar um backup de configuração feito anteriormente > inserir código > Restaurar posição (Todos) > inserir senha > reiniciar aplicação
 
 ### [ProgTV](https://www.progdvb.com/progtva_download.html) (Android)  - ★★★★ 4/5
 
