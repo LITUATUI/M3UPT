@@ -11,11 +11,20 @@ jobs:
       - name: checkout
         uses: actions/checkout@v3
         
+      - name: checkout tools repo
+        uses: actions/checkout@v3
+        with:
+         repository: iptv-org/epg
+         path: EPG
+
       - name: install XMLTV and URI::Encode
         run: sudo apt-get install -y xmltv liburi-encode-perl
         
       - name: update EPG (Vodafone)
         run: sh EPG/epg-vodafone-pt.sh
+
+      - name: update EPG (RTP)
+        run: sh EPG/epg-rtp.sh
 
       - name: setup git config
         run: |
@@ -26,6 +35,6 @@ jobs:
         run: |
           git pull
           cd EPG
-          git add tv_grab_pt_vodafone epg-vodafone-pt.xml epg-vodafone-pt.xml.xz epg-vodafone-pt.xml.gz
+          git add tv_grab_pt_vodafone epg-vodafone-pt.xml epg-vodafone-pt.xml.xz epg-vodafone-pt.xml.gz epg-rtp.xml epg-rtp.xml.xz epg-rtp.xml.gz
           git commit -m "Update EPG"
           git push origin main
