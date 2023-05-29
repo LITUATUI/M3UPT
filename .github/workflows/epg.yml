@@ -26,6 +26,9 @@ jobs:
       - name: update EPG (RTP)
         run: sh EPG/epg-rtp.sh
 
+      - name: Merge EPG
+        run: sh EPG/epg-portugal.sh
+
       - name: setup git config
         run: |
           git config user.name "M3UPT Bot"
@@ -35,6 +38,6 @@ jobs:
         run: |
           git pull
           cd EPG
-          git add tv_grab_pt_vodafone epg-vodafone-pt.xml epg-vodafone-pt.xml.xz epg-vodafone-pt.xml.gz epg-rtp.xml epg-rtp.xml.xz epg-rtp.xml.gz
+          git add tv_grab_pt_vodafone epg-vodafone-pt.xml epg-vodafone-pt.xml.xz epg-vodafone-pt.xml.gz epg-rtp.xml epg-rtp.xml.xz epg-rtp.xml.gz epg-portugal.xml epg-portugal.xml.xz epg-portugal.xml.gz 
           git commit -m "Update EPG"
           git push origin main
