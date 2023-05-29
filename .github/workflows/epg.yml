@@ -38,6 +38,10 @@ jobs:
         run: |
           git pull
           cd EPG
-          git add tv_grab_pt_vodafone epg-vodafone-pt.xml epg-vodafone-pt.xml.xz epg-vodafone-pt.xml.gz epg-rtp.xml epg-rtp.xml.xz epg-rtp.xml.gz epg-portugal.xml epg-portugal.xml.xz epg-portugal.xml.gz 
-          git commit -m "Update EPG"
+          git add tv_grab_pt_vodafone epg-vodafone-pt.xml epg-vodafone-pt.xml.xz epg-vodafone-pt.xml.gz
+          git commit -m "Update EPG Vodafone"
+          git add epg-rtp.xml epg-rtp.xml.xz epg-rtp.xml.gz
+          git commit -m "Update EPG RTP"
+          git add epg-portugal.xml epg-portugal.xml.xz epg-portugal.xml.gz 
+          git commit -m "Update EPG Portugal"                    
           git push origin main
