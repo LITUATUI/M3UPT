@@ -15,7 +15,7 @@ jobs:
         uses: actions/checkout@v3
         with:
          repository: iptv-org/epg
-         path: EPG
+         path: iptv-org-epg
 
       - name: install XMLTV and URI::Encode
         run: sudo apt-get install -y xmltv liburi-encode-perl
