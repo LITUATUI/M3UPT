@@ -82,7 +82,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8zLzIwMjMgODo3OjIwIFBNJmhhc2hfdmFsdWU9Y3I3OHVDak5QWlRqa2hZZ3A4dnNwZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTBlMDQ2ZTA0LTNjNzgtNGM4Ni1iNThiLWY3OWRhZTg3MWRmMQ==/
 
-#EXTINF:-1 group-title="TV" tvg-id="TVIAfrica.pt	" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI_África.png",TVI África
+#EXTINF:-1 group-title="TV" tvg-id="TVIAfrica.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI_África.png",TVI África
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
