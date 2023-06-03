@@ -1,7 +1,7 @@
 name: Update streams
 on:
   schedule:
-    - cron: "0 */2 * * *"
+    - cron: "0 * * * *"
 
 jobs:
   Update-streams:
