@@ -19,7 +19,10 @@ jobs:
 
       - name: install XMLTV and URI::Encode
         run: sudo apt-get install -y xmltv liburi-encode-perl
-        
+
+      - name: update EPG (Rytec Portugal)
+        run: sh EPG/epg-rytec-pt.sh
+
       - name: update EPG (Vodafone)
         run: sh EPG/epg-vodafone-pt.sh
 
