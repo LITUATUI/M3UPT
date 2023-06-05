@@ -38,6 +38,6 @@ jobs:
         run: |
           git pull
           cd EPG
-          git add tv_grab_pt_vodafone epg-vodafone-pt.xml epg-vodafone-pt.xml.xz epg-vodafone-pt.xml.gz epg-meo-pt.xml epg-meo-pt.xml.xz epg-meo-pt.xml.gz
+          git add tv_grab_pt_vodafone epg-vodafone-pt.xml epg-vodafone-pt.xml.xz epg-vodafone-pt.xml.gz epg-meo-pt.xml epg-meo-pt.xml.xz epg-meo-pt.xml.gz epg-rytec-pt.xml.xz
           git commit -m "Update EPG"
           git push origin main
