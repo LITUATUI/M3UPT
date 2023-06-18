@@ -22,7 +22,6 @@ jobs:
       - name: commit
         run: |
           git pull
-          cd M3U
-          git add M3UPT.m3u
+          cd M3U && git add *.m3u
           git commit -m "Update streams"
           git push origin main
