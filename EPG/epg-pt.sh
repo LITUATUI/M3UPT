@@ -14,4 +14,8 @@ wget -N "https://github.com/XMLTV/xmltv/raw/master/grab/pt_vodafone/tv_grab_pt_v
 
 cd ../iptv-org-epg && npm install && npx epg-grabber --config=sites/meo.pt/meo.pt.config.js --channels=../EPG/meo.pt.channels.xml --output=../EPG/epg-meo-pt.xml --days=7 && cd ../EPG && xz -k -f -9 epg-meo-pt.xml
 
+# Remove xml files
+
+rm *.xml
+
 exit 0
