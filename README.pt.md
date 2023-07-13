@@ -107,7 +107,7 @@ Não é fácil para falantes de português a viver no estrangeiro manter contact
 
 * Deverá instalar o addon YouTube e configurar as suas legendas para pt-PT (Sem gerador automático).
 
-[Download](https://kodi.tv/download/)
+[🖧 Download](https://kodi.tv/download/)
 
 ### 🥇 Yuki-IPTV
 
@@ -121,7 +121,7 @@ Não é fácil para falantes de português a viver no estrangeiro manter contact
 * Network - Cache: 4
 * Debug - Automatic reconnection ✅
 
-[Download](https://github.com/yuki-iptv/yuki-iptv)
+[🖧 Download](https://github.com/yuki-iptv/yuki-iptv)
 
 ### 🥇 OTT Navigator IPTV
 
@@ -135,7 +135,7 @@ Para aplicar o código de backup, siga os seguintes passos após instalar a apli
 
 Configurações > Configurações adicionais > Backup e Restauração > Restaurar um backup de configuração feito anteriormente > inserir código > Restaurar posição (Todos) > inserir senha > reiniciar aplicação
 
-[Download](https://play.google.com/store/apps/details?id=studio.scillarium.ottnavigator)
+[🖧 Download](https://play.google.com/store/apps/details?id=studio.scillarium.ottnavigator)
 
 ### 🥈 ProgTV
 
@@ -145,7 +145,7 @@ Configurações > Configurações adicionais > Backup e Restauração > Restaura
 
 * Opções - Opções de reprodução - Motor: MediaPlayer
 
-[Download](https://www.progdvb.com/progtva_download.html)
+[🖧 Download](https://www.progdvb.com/progtva_download.html)
 
 ### 🥉 Perfect Player
 
@@ -158,7 +158,7 @@ Configurações > Configurações adicionais > Backup e Restauração > Restaura
 * Reprodução - Tamanho do buffer: 4
 * Reprodução - User-Agent: Firefox
 
-[Download](http://niklabs.com/downloads/)
+[🖧 Download](http://niklabs.com/downloads/)
 
 ---
 

@@ -103,7 +103,7 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 
 ![Kodi screenshot](/images/Kodi-M3UPT-playlist.avif "Kodi screenshot")
 
-[Download](https://kodi.tv/download/)
+[🖧 Download](https://kodi.tv/download/)
 
 **Recommended settings:**
 
@@ -121,7 +121,7 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 * Network - Cache: 4
 * Debug - Automatic reconnection ✅
   
-[Download](https://github.com/yuki-iptv/yuki-iptv)
+[🖧 Download](https://github.com/yuki-iptv/yuki-iptv)
 
 ### 🥇 OTT Navigator IPTV
 
@@ -131,7 +131,7 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 
 * Restore this backup: NJjvxE (password: M3UPT)
 
-[Download](https://play.google.com/store/apps/details?id=studio.scillarium.ottnavigator)
+[🖧 Download](https://play.google.com/store/apps/details?id=studio.scillarium.ottnavigator)
 
 ### 🥈 ProgTV
 
@@ -141,7 +141,7 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 
 * Options - Playback - Engine: MediaPlayer
 
-[Download](https://www.progdvb.com/progtva_download.html)
+[🖧 Download](https://www.progdvb.com/progtva_download.html)
 
 ### 🥉 Perfect Player
 
