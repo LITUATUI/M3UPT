@@ -99,7 +99,7 @@ Não é fácil para falantes de português a viver no estrangeiro manter contact
 
 ## 🎬 Leitores de IPTV recomendados
 
-### 🥇 Kodi com PVR IPTV Simple Client (Multiplataforma)
+### 🥇 Kodi com PVR IPTV Simple Client
 
 ![Kodi screenshot](/images/Kodi-M3UPT-playlist.avif "Kodi screenshot")
 
