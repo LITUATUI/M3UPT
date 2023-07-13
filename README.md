@@ -217,6 +217,6 @@ These are affiliate links which means that if you click on them and buy somethin
   
 ---
 
-## ⭐ Stargazers over time
+## ⭐ GitHub stars
 
 [![Stargazers over time](https://starchart.cc/LITUATUI/M3UPT.svg)](https://starchart.cc/LITUATUI/M3UPT)
