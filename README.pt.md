@@ -2,11 +2,11 @@
 
 Lista de IPTV em formato M3U optimizada para o Kodi com canais de 📺 TV e estações de 📻 rádio em 🇵🇹 Português. Apenas com streams públicos e oficiais.
 
-## Objectivo
+## 🎯 Objectivo
 
 Disponibilizar uma lista de IPTV legal e gratuita em formato M3U com canais de TV e estações de rádio em Português.
 
-## Porquê?
+## ❓Porquê?
 
 Não é fácil para falantes de português a viver no estrangeiro manter contacto com a sua cultura. Este projecto também ajuda qualquer pessoa que esteja a tentar aprender Português ou simplesmente curiosa sobre a língua.
 
@@ -99,7 +99,7 @@ Não é fácil para falantes de português a viver no estrangeiro manter contact
 
 ## 🎬 Leitores de IPTV recomendados
 
-### [Kodi com PVR IPTV Simple Client](https://www.kodi.tv/) (Multiplataforma)  - ★★★★★ 5/5
+[Kodi com PVR IPTV Simple Client](https://www.kodi.tv/) (Multiplataforma)  - ★★★★★ 5/5
 
 ![Kodi screenshot](/images/Kodi-M3UPT-playlist.avif "Kodi screenshot")
 
@@ -107,7 +107,7 @@ Não é fácil para falantes de português a viver no estrangeiro manter contact
 
 * Deverá instalar o addon YouTube e configurar as suas legendas para pt-PT (Sem gerador automático).
 
-### [Yuki-IPTV](https://github.com/yuki-iptv/yuki-iptv) (GNU/Linux) - ★★★★★ 5/5
+[Yuki-IPTV](https://github.com/yuki-iptv/yuki-iptv) (GNU/Linux) - ★★★★★ 5/5
 
 ![Yuki-IPTV screenshot](/images/Yuki-IPTV-M3UPT-playlist.avif "Yuki-IPTV screenshot")
 
@@ -119,7 +119,7 @@ Não é fácil para falantes de português a viver no estrangeiro manter contact
 * Network - Cache: 4
 * Debug - Automatic reconnection ✅
 
-### [OTT Navigator IPTV](https://play.google.com/store/apps/details?id=studio.scillarium.ottnavigator) (Android) - ★★★★★ 5/5
+[OTT Navigator IPTV](https://play.google.com/store/apps/details?id=studio.scillarium.ottnavigator) (Android) - ★★★★★ 5/5
 
 ![OTT Navigator IPTV screenshot](/images/OTT-Navigator-IPTV-M3UPT-playlist.avif "OTT Navigator IPTV screenshot")
 
@@ -131,7 +131,7 @@ Para aplicar o código de backup, siga os seguintes passos após instalar a apli
 
 Configurações > Configurações adicionais > Backup e Restauração > Restaurar um backup de configuração feito anteriormente > inserir código > Restaurar posição (Todos) > inserir senha > reiniciar aplicação
 
-### [ProgTV](https://www.progdvb.com/progtva_download.html) (Android)  - ★★★★ 4/5
+[ProgTV](https://www.progdvb.com/progtva_download.html) (Android)  - ★★★★ 4/5
 
 ![ProgTV screenshot](/images/ProgTV-M3UPT-playlist.avif "ProgTV screenshot")
 
@@ -139,7 +139,7 @@ Configurações > Configurações adicionais > Backup e Restauração > Restaura
 
 * Opções - Opções de reprodução - Motor: MediaPlayer
 
-### [Perfect Player](http://niklabs.com/downloads/) (Android)  - ★★★ 3/5
+[Perfect Player](http://niklabs.com/downloads/) (Android)  - ★★★ 3/5
 
 ![Perfect Player screenshot](/images/Perfect-Player-M3UPT-playlist.avif "Perfect Player screenshot")
 
@@ -210,6 +210,6 @@ Se clicar nestes links e comprar alguma coisa, eu poderei receber uma pequena co
 
 ---
 
-## Estrelas no GitHub
+## ⭐ Estrelas no GitHub
 
 [![Stargazers over time](https://starchart.cc/LITUATUI/M3UPT.svg)](https://starchart.cc/LITUATUI/M3UPT)

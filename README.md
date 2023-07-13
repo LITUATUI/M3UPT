@@ -2,11 +2,11 @@
 
 IPTV playlist in M3U format with 📺 TV channels and 📻 radio stations in 🇵🇹 Portuguese. Public and official streams only.
 
-## Purpose
+## 🎯 Purpose
 
 Offer a free and legal IPTV playlist in M3U format with TV channels and radio stations in Portuguese.
 
-## Why?
+## ❓ Why?
 
 It's not easy for Portuguese speakers living abroad stay in touch with their culture. This project can also help any person trying to learn Portuguese or just curious about the language.
 
@@ -99,7 +99,7 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 
 ## 🎬 Recommended IPTV players
 
-### [Kodi with PVR IPTV Simple Client](https://www.kodi.tv/) (Multiplatform) - ★★★★★ 5/5
+[Kodi with PVR IPTV Simple Client](https://www.kodi.tv/) (Multiplatform) - ★★★★★ 5/5
 
 ![Kodi screenshot](/images/Kodi-M3UPT-playlist.avif "Kodi screenshot")
 
@@ -107,7 +107,7 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 
 * You should install YouTube addon and configure its subtitles to pt-PT (No auto-generated).
 
-### [Yuki-IPTV](https://github.com/yuki-iptv/yuki-iptv) (GNU/Linux) - ★★★★★ 5/5
+[Yuki-IPTV](https://github.com/yuki-iptv/yuki-iptv) (GNU/Linux) - ★★★★★ 5/5
 
 ![Yuki-IPTV screenshot](/images/Yuki-IPTV-M3UPT-playlist.avif "Yuki-IPTV screenshot")
 
@@ -119,7 +119,7 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 * Network - Cache: 4
 * Debug - Automatic reconnection ✅
 
-### [OTT Navigator IPTV](https://play.google.com/store/apps/details?id=studio.scillarium.ottnavigator) (Android) - ★★★★★ 5/5
+[OTT Navigator IPTV](https://play.google.com/store/apps/details?id=studio.scillarium.ottnavigator) (Android) - ★★★★★ 5/5
 
 ![OTT Navigator IPTV screenshot](/images/OTT-Navigator-IPTV-M3UPT-playlist.avif "OTT Navigator IPTV screenshot")
 
@@ -127,7 +127,7 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 
 * Restore this backup: NJjvxE (password: M3UPT)
 
-### [ProgTV](https://www.progdvb.com/progtva_download.html) (Android) - ★★★★ 4/5
+[ProgTV](https://www.progdvb.com/progtva_download.html) (Android) - ★★★★ 4/5
 
 ![ProgTV screenshot](/images/ProgTV-M3UPT-playlist.avif "ProgTV screenshot")
 
@@ -135,7 +135,7 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 
 * Options - Playback - Engine: MediaPlayer
 
-### [Perfect Player](http://niklabs.com/downloads/) (Android) - ★★★ 3/5
+[Perfect Player](http://niklabs.com/downloads/) (Android) - ★★★ 3/5
 
 ![Perfect Player screenshot](/images/Perfect-Player-M3UPT-playlist.avif "Perfect Player screenshot")
 
@@ -206,6 +206,6 @@ These are affiliate links which means that if you click on them and buy somethin
   
 ---
 
-## Stargazers over time
+## ⭐ Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/LITUATUI/M3UPT.svg)](https://starchart.cc/LITUATUI/M3UPT)
