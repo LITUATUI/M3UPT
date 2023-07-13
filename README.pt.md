@@ -99,7 +99,7 @@ Não é fácil para falantes de português a viver no estrangeiro manter contact
 
 ## 🎬 Leitores de IPTV recomendados
 
-[Kodi com PVR IPTV Simple Client](https://www.kodi.tv/) (Multiplataforma)  - ★★★★★ 5/5
+### 🥇 Kodi com PVR IPTV Simple Client (Multiplataforma)
 
 ![Kodi screenshot](/images/Kodi-M3UPT-playlist.avif "Kodi screenshot")
 
@@ -107,7 +107,9 @@ Não é fácil para falantes de português a viver no estrangeiro manter contact
 
 * Deverá instalar o addon YouTube e configurar as suas legendas para pt-PT (Sem gerador automático).
 
-[Yuki-IPTV](https://github.com/yuki-iptv/yuki-iptv) (GNU/Linux) - ★★★★★ 5/5
+[Download](https://kodi.tv/download/)
+
+### 🥇 Yuki-IPTV
 
 ![Yuki-IPTV screenshot](/images/Yuki-IPTV-M3UPT-playlist.avif "Yuki-IPTV screenshot")
 
@@ -119,7 +121,9 @@ Não é fácil para falantes de português a viver no estrangeiro manter contact
 * Network - Cache: 4
 * Debug - Automatic reconnection ✅
 
-[OTT Navigator IPTV](https://play.google.com/store/apps/details?id=studio.scillarium.ottnavigator) (Android) - ★★★★★ 5/5
+[Download](https://github.com/yuki-iptv/yuki-iptv)
+
+### 🥇 OTT Navigator IPTV
 
 ![OTT Navigator IPTV screenshot](/images/OTT-Navigator-IPTV-M3UPT-playlist.avif "OTT Navigator IPTV screenshot")
 
@@ -131,7 +135,9 @@ Para aplicar o código de backup, siga os seguintes passos após instalar a apli
 
 Configurações > Configurações adicionais > Backup e Restauração > Restaurar um backup de configuração feito anteriormente > inserir código > Restaurar posição (Todos) > inserir senha > reiniciar aplicação
 
-[ProgTV](https://www.progdvb.com/progtva_download.html) (Android)  - ★★★★ 4/5
+[Download](https://play.google.com/store/apps/details?id=studio.scillarium.ottnavigator)
+
+### 🥈 ProgTV
 
 ![ProgTV screenshot](/images/ProgTV-M3UPT-playlist.avif "ProgTV screenshot")
 
@@ -139,7 +145,9 @@ Configurações > Configurações adicionais > Backup e Restauração > Restaura
 
 * Opções - Opções de reprodução - Motor: MediaPlayer
 
-[Perfect Player](http://niklabs.com/downloads/) (Android)  - ★★★ 3/5
+[Download](https://www.progdvb.com/progtva_download.html)
+
+### 🥉 Perfect Player
 
 ![Perfect Player screenshot](/images/Perfect-Player-M3UPT-playlist.avif "Perfect Player screenshot")
 
@@ -149,6 +157,8 @@ Configurações > Configurações adicionais > Backup e Restauração > Restaura
 * Reprodução - Descodificador: Hardware
 * Reprodução - Tamanho do buffer: 4
 * Reprodução - User-Agent: Firefox
+
+[Download](http://niklabs.com/downloads/)
 
 ---
 

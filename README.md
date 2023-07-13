@@ -99,15 +99,17 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 
 ## 🎬 Recommended IPTV players
 
-[Kodi with PVR IPTV Simple Client](https://www.kodi.tv/) (Multiplatform) - ★★★★★ 5/5
+### 🥇 Kodi with PVR IPTV Simple Client
 
 ![Kodi screenshot](/images/Kodi-M3UPT-playlist.avif "Kodi screenshot")
+
+[Download](https://kodi.tv/download/)
 
 **Recommended settings:**
 
 * You should install YouTube addon and configure its subtitles to pt-PT (No auto-generated).
 
-[Yuki-IPTV](https://github.com/yuki-iptv/yuki-iptv) (GNU/Linux) - ★★★★★ 5/5
+### 🥇 Yuki-IPTV
 
 ![Yuki-IPTV screenshot](/images/Yuki-IPTV-M3UPT-playlist.avif "Yuki-IPTV screenshot")
 
@@ -118,8 +120,10 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 * Video - Hardware acceleration ✅ 
 * Network - Cache: 4
 * Debug - Automatic reconnection ✅
+  
+[Download](https://github.com/yuki-iptv/yuki-iptv)
 
-[OTT Navigator IPTV](https://play.google.com/store/apps/details?id=studio.scillarium.ottnavigator) (Android) - ★★★★★ 5/5
+### 🥇 OTT Navigator IPTV
 
 ![OTT Navigator IPTV screenshot](/images/OTT-Navigator-IPTV-M3UPT-playlist.avif "OTT Navigator IPTV screenshot")
 
@@ -127,7 +131,9 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 
 * Restore this backup: NJjvxE (password: M3UPT)
 
-[ProgTV](https://www.progdvb.com/progtva_download.html) (Android) - ★★★★ 4/5
+[Download](https://play.google.com/store/apps/details?id=studio.scillarium.ottnavigator)
+
+### 🥈 ProgTV
 
 ![ProgTV screenshot](/images/ProgTV-M3UPT-playlist.avif "ProgTV screenshot")
 
@@ -135,7 +141,9 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 
 * Options - Playback - Engine: MediaPlayer
 
-[Perfect Player](http://niklabs.com/downloads/) (Android) - ★★★ 3/5
+[Download](https://www.progdvb.com/progtva_download.html)
+
+### 🥉 Perfect Player
 
 ![Perfect Player screenshot](/images/Perfect-Player-M3UPT-playlist.avif "Perfect Player screenshot")
 
@@ -145,6 +153,8 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 * Playback - Decoder: Hardware
 * Playback - Buffer size: 4
 * Playback - User-Agent: Firefox
+
+[Download](http://niklabs.com/downloads/)
 
 ---
 
