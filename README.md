@@ -182,6 +182,7 @@ For a good experience you need a device with decent SoC and enough RAM. As a gen
 * **RAM**: 4 GB
 * **Internal storage**: 64 GB
 * **Models**: [Vontar X2](https://m3upt.com/vontar-x2) and [Vontar X4](https://m3upt.com/vontar-x4)
+* **Firmware**: [slimBOXtv (ATV version)](https://slimboxtv.ru/)
 
 Affordable Android TV boxes with Amlogic SoCs are usually much better supported than the ones powered by Rockchip or Allwinner. 
 
