@@ -103,11 +103,11 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 
 ![Kodi screenshot](/images/Kodi-M3UPT-playlist.avif "Kodi screenshot")
 
-[🖧 Download](https://kodi.tv/download/)
-
 **Recommended settings:**
 
 * You should install YouTube addon and configure its subtitles to pt-PT (No auto-generated).
+
+[🖧 Download](https://kodi.tv/download/)
 
 ### 🥇 Yuki-IPTV
 
