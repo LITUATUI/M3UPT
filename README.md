@@ -154,7 +154,7 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 * Playback - Buffer size: 4
 * Playback - User-Agent: Firefox
 
-[Download](http://niklabs.com/downloads/)
+[🖧 Download](http://niklabs.com/downloads/)
 
 ---
 
