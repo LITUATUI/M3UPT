@@ -129,7 +129,7 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 
 **Recommended settings:**
 
-* Restore this backup: JbqjSv (password: M3UPT)
+* Restore this backup: RYYwP2 (password: M3UPT)
 
 [🖧 Download](https://play.google.com/store/apps/details?id=studio.scillarium.ottnavigator)
 
