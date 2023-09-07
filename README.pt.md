@@ -185,7 +185,7 @@ Para uma boa experiência de utilização o seu aparelho deverá ter um bom proc
 * **SoC**: Amlogic S905W2, S905Y4 ou S905X4 (barato, eficiente e suporta o moderno codec de vídeo AV1)
 * **RAM**: 4 GB
 * **Armazenamento interno**: 64 GB
-* **Modelos**: [H96 Max W2](https://m3upt.com/h96-max-w2) ou [G7 Pro](https://m3upt.com/g7-pro) (se desejar certificação Widevine L1 para usar Netflix)
+* **Modelos**: [H96 Max W2](https://m3upt.com/h96-max-w2) ou [Hako Pro](https://m3upt.com/hako-pro) (se desejar certificação Widevine L1 para usar Netflix)
 * **Firmware**: [slimBOXtv (versão ATV)](https://slimboxtv.ru/)
 
 Normalmente TV boxes Android com processadores Amlogic são melhores que aparelhos com processadores Rockchip ou Allwinner. 
