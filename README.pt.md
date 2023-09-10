@@ -135,7 +135,7 @@ Para aplicar o código de backup, siga os seguintes passos após instalar a apli
 
 Configurações > Configurações adicionais > Backup e Restauração > Restaurar um backup de configuração feito anteriormente > inserir código > Restaurar posição (Todos) > inserir senha > reiniciar aplicação
 
-[🖧 Download](https://www.mediafire.com/file/w5e7dwxiqi0guyy/OTT-Navigator-v1.7.0.1-Premium.apk/file)
+[🖧 Download](https://www.mediafire.com/file/toovdp4bz8axvja/OTT_Navigator_v1.7.0.2_Premium.apk/file)
 
 ### 🥈 ProgTV
 

@@ -131,7 +131,7 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 
 * Restore this backup: mfGuTU (password: M3UPT)
 
-[🖧 Download](https://www.mediafire.com/file/w5e7dwxiqi0guyy/OTT-Navigator-v1.7.0.1-Premium.apk/file)
+[🖧 Download](https://www.mediafire.com/file/toovdp4bz8axvja/OTT_Navigator_v1.7.0.2_Premium.apk/file)
 
 ### 🥈 ProgTV
 
