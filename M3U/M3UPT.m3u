@@ -1407,6 +1407,10 @@ https://video-auth1.iol.pt/beachcam/bcbugio2/playlist.m3u8
 
 # O Outro Lado
 
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T8E33 11/9/2023
+#EXTVLCOPT:http-user-agent=Firefox
+https://streaming-vod.rtp.pt/hls/nas2.share,/h264/512x384/p11203/p11203_1_20230911000000e033t0285.mp4,.urlset/master.m3u8
+
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T8E32 4/9/2023
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-vod.rtp.pt/hls/nas2.share,/h264/512x384/p11203/p11203_1_20230904235945e032t4956.mp4,.urlset/master.m3u8
@@ -1662,6 +1666,9 @@ https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p9780/p9780_1_20220411
 
 # Sem Moderação
 
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 13/9/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/09/12/7ecedae9-7b8f-4b7f-9504-c0ad10dc41c2/video.m3u8
+
 #EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 5/9/2023
 https://videos.impresa.pt/videos/hls/sicnot/2023/09/05/a8f5f05a-0748-40b5-bd53-29f85877fbb0/video.m3u8
 
@@ -1841,6 +1848,9 @@ https://cdn.jwplayer.com/manifests/6ipev8fs.m3u8
 
 
 # Eixo do Mal
+
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 15/9/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/09/14/159e4a62-9b73-4c9c-9bc2-7fa8e0974a6f/video.m3u8
 
 #EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 7/9/2023
 https://videos.impresa.pt/videos/hls/sicnot/2023/09/07/418f86ce-1029-4957-a667-8758d9af385b/video.m3u8
@@ -2030,6 +2040,9 @@ https://content.jwplatform.com/manifests/jL3dl5uq.m3u8
 
 
 # Programa Cujo Nome Estamos Legalmente Impedidos de Dizer
+
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 16/9/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/09/15/b3699d97-cdfd-4fa9-bffe-03e14407328a/video.m3u8
 
 #EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 8/9/2023
 https://videos.impresa.pt/videos/hls/sicnot/2023/09/08/7af073cd-e552-4f80-b816-2e4c2935a859/video.m3u8
