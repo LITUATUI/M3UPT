@@ -129,7 +129,7 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 
 **Recommended settings:**
 
-* Restore this backup: mfGuTU (password: M3UPT)
+* Restore this backup: vHRWFU (password: M3UPT)
 
 [🖧 Download](https://www.mediafire.com/file/toovdp4bz8axvja/OTT_Navigator_v1.7.0.2_Premium.apk/file)
 
