@@ -2,8 +2,8 @@ const { DateTime } = require('luxon')
 
 module.exports = {
   site: 'meo.pt',
-  days: 7,
-  url: `https://authservice.apps.meo.pt/Services/GridTv/GridTvMng.svc/getProgramsFromChannels`,
+  days: 2,
+  url: 'https://authservice.apps.meo.pt/Services/GridTv/GridTvMng.svc/getProgramsFromChannels',
   request: {
     method: 'POST',
     headers: {
