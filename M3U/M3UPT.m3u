@@ -1408,6 +1408,10 @@ https://video-auth1.iol.pt/beachcam/bcbugio2/playlist.m3u8
 
 # O Outro Lado
 
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T8E37 9/10/2023
+#EXTVLCOPT:http-user-agent=Firefox
+https://streaming-vod.rtp.pt/hls/nas2.share,/h264/512x384/p11203/p11203_1_20231009000000e037t9604.mp4,.urlset/master.m3u8
+
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T8E36 2/10/2023
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-vod.rtp.pt/hls/nas2.share,/h264/512x384/p11203/p11203_1_20231002235942e036t4211.mp4,.urlset/master.m3u8
@@ -1679,6 +1683,9 @@ https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p9780/p9780_1_20220411
 
 # Sem Moderação
 
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 3/10/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/10/03/4bc69fbe-69b0-4ba4-83c5-2ebd52643f30/video.m3u8
+
 #EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 26/9/2023
 https://videos.impresa.pt/videos/hls/sicnot/2023/09/26/bb345428-bc52-49c4-bd7a-ff6b35da3d3e/video.m3u8
 
@@ -1867,6 +1874,12 @@ https://cdn.jwplayer.com/manifests/6ipev8fs.m3u8
 
 
 # Eixo do Mal
+
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 13/10/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/10/12/26a79e99-141d-49c5-badf-523dabf2c744/video.m3u8
+
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 6/10/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/10/05/97f8c784-4326-4890-a1e7-8470c4cf88a5/video.m3u8
 
 #EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 28/9/2023
 https://videos.impresa.pt/videos/hls/sicnot/2023/09/28/9a669c35-b8f7-448c-bcf5-4690494e4909/video.m3u8
@@ -2065,6 +2078,9 @@ https://content.jwplatform.com/manifests/jL3dl5uq.m3u8
 
 
 # Programa Cujo Nome Estamos Legalmente Impedidos de Dizer
+
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 7/10/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/10/06/8a3844d0-81da-45b5-930b-0895c5850708/video.m3u8
 
 #EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 30/9/2023
 https://videos.impresa.pt/videos/hls/sicnot/2023/09/29/401c0a0f-263c-4881-b69a-e494a6a8c6e3/video-540p.m3u8
@@ -2426,6 +2442,30 @@ https://sp.rmbl.ws/s8/2/R/-/C/z/R-Czc.haa.mp4
 
 
 # The Jimmy Dore Show
+
+#EXTINF:-1 media="true" group-title="The Jimmy Dore Show" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/The-Jimmy-Dore-Show.png",Medical Journal DISAPPEARS New Study Tying Covid Vaxx To Deaths
+https://sp.rmbl.ws/s8/2/F/e/z/t/Feztn.haa.mp4
+
+#EXTINF:-1 media="true" group-title="The Jimmy Dore Show" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/The-Jimmy-Dore-Show.png",Amazon BANS Dr. Peter McCullough’s Book On Early Treatment Of COVID!
+https://sp.rmbl.ws/s8/2/H/J/y/t/HJytn.haa.mp4
+
+#EXTINF:-1 media="true" group-title="The Jimmy Dore Show" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/The-Jimmy-Dore-Show.png",(Video) DEVASTATING Compilation Of Media Lies About Ukraine
+https://sp.rmbl.ws/s8/2/_/1/w/t/_1wtn.haa.mp4
+
+#EXTINF:-1 media="true" group-title="The Jimmy Dore Show" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/The-Jimmy-Dore-Show.png",Canadian Parliament SKEWERED For Applauding Former Nazi!
+https://sp.rmbl.ws/s8/2/t/V/w/t/tVwtn.haa.mp4
+
+#EXTINF:-1 media="true" group-title="The Jimmy Dore Show" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/The-Jimmy-Dore-Show.png",Their Own Paper Of Record ADMITS It’s An Open-Air Prison!
+https://sp.rmbl.ws/s8/2/E/Z/k/t/EZktn.haa.mp4
+
+#EXTINF:-1 media="true" group-title="The Jimmy Dore Show" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/The-Jimmy-Dore-Show.png",Here’s The ONLY WAY This Conflict Ends! – Scott Ritter
+https://sp.rmbl.ws/s8/2/C/v/k/t/Cvktn.haa.mp4
+
+#EXTINF:-1 media="true" group-title="The Jimmy Dore Show" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/The-Jimmy-Dore-Show.png",The THREE BIGGEST LIES They’re Spreading Right Now!
+https://sp.rmbl.ws/s8/2/E/-/k/t/E-ktn.haa.mp4
+
+#EXTINF:-1 media="true" group-title="The Jimmy Dore Show" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/The-Jimmy-Dore-Show.png",Canadian Parliament SKEWERED For Applauding Former Nazi!
+https://sp.rmbl.ws/s8/2/t/V/w/t/tVwtn.haa.mp4
 
 #EXTINF:-1 media="true" group-title="The Jimmy Dore Show" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/The-Jimmy-Dore-Show.png",Jimmy Dore Addresses UN Security Council (Full Video)
 https://hugh.cdn.rumble.cloud/video/s8/2/s/3/_/9/s3_9m.haa.mp4
