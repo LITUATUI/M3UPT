@@ -131,7 +131,7 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 
 * Restore this backup: vHRWFU (password: M3UPT)
 
-[🖧 Download](https://www.mediafire.com/file/toovdp4bz8axvja/OTT_Navigator_v1.7.0.2_Premium.apk/file)
+[🖧 Download](https://m3upt.com/ottnavigator)
 
 ### 🥈 ProgTV
 
@@ -154,7 +154,7 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 * Playback - Buffer size: 4
 * Playback - User-Agent: Firefox
 
-[🖧 Download](https://www.mediafire.com/file/7e5c0p3mon0t026/Perfect_Player_v1.6.0.1_build_60100_Mod.apk/file)
+[🖧 Download](https://m3upt.com/perfectplayer)
 
 ---
 

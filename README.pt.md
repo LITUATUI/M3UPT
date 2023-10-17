@@ -135,7 +135,7 @@ Para aplicar o código de backup, siga os seguintes passos após instalar a apli
 
 Configurações > Configurações adicionais > Backup e Restauração > Restaurar um backup de configuração feito anteriormente > inserir código > Restaurar posição (Todos) > inserir senha > reiniciar aplicação
 
-[🖧 Download](https://www.mediafire.com/file/toovdp4bz8axvja/OTT_Navigator_v1.7.0.2_Premium.apk/file)
+[🖧 Download](https://m3upt.com/ottnavigator)
 
 ### 🥈 ProgTV
 
@@ -158,7 +158,7 @@ Configurações > Configurações adicionais > Backup e Restauração > Restaura
 * Reprodução - Tamanho do buffer: 4
 * Reprodução - User-Agent: Firefox
 
-[🖧 Download](https://www.mediafire.com/file/7e5c0p3mon0t026/Perfect_Player_v1.6.0.1_build_60100_Mod.apk/file)
+[🖧 Download](https://m3upt.com/perfectplayer)
 
 ---
 
