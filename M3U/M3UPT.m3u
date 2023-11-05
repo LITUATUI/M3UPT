@@ -1413,6 +1413,10 @@ https://video-auth1.iol.pt/beachcam/bcbugio2/playlist.m3u8
 
 # O Outro Lado
 
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T8E40 30/10/2023
+#EXTVLCOPT:http-user-agent=Firefox
+https://streaming-vod.rtp.pt/hls/nas2.share,/h264/512x384/p11203/p11203_1_20231030235939e040t4969.mp4,.urlset/master.m3u8
+
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T8E39 23/10/2023
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-vod.rtp.pt/hls/nas2.share,/h264/512x384/p11203/p11203_1_20231023235939e039t1056.mp4,.urlset/master.m3u8
@@ -1694,199 +1698,11 @@ https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p9780/p9780_1_20220418
 https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p9780/p9780_1_20220411000000e014t6348.m3u8
 
 
-# Sem Moderação
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 3/10/2023
-https://videos.impresa.pt/videos/hls/sicnot/2023/10/03/4bc69fbe-69b0-4ba4-83c5-2ebd52643f30/video.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 26/9/2023
-https://videos.impresa.pt/videos/hls/sicnot/2023/09/26/bb345428-bc52-49c4-bd7a-ff6b35da3d3e/video.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 20/9/2023
-https://videos.impresa.pt/videos/hls/sicnot/2023/09/19/e5df043f-d2f6-46cf-98b0-c2fc6a5f939d/video.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 13/9/2023
-https://videos.impresa.pt/videos/hls/sicnot/2023/09/12/7ecedae9-7b8f-4b7f-9504-c0ad10dc41c2/video.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 5/9/2023
-https://videos.impresa.pt/videos/hls/sicnot/2023/09/05/a8f5f05a-0748-40b5-bd53-29f85877fbb0/video.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 25/7/2023
-https://videos.impresa.pt/videos/hls/sicnot/2023/07/25/ec3d4eec-bba5-46fe-a710-597a0abeb86f/video.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 18/7/2023
-https://videos.impresa.pt/videos/hls/sicnot/2023/07/18/2508c237-6248-4696-ad68-5013b4c72711/video.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 12/7/2023
-https://videos.impresa.pt/videos/hls/sicnot/2023/07/11/5b447183-34d7-4672-acf2-dca22c8f385a/Sem-Moderacao.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 4/7/2023
-https://videos.impresa.pt/videos/hls/sicnot/2023/07/05/5f49f540-080a-43e6-aebb-00583aedd74a/Sem-Moderacao-0407.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 28/6/2023
-https://videos.impresa.pt/videos/hls/sicnot/2023/06/27/5b44128d-986d-4dc3-9b26-d82ff62c5fc1/video.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 21/6/2023
-https://videos.impresa.pt/videos/hls/sicnot/2023/06/20/576b7390-ebaa-4a85-842b-30e6b01ace4d/video.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 13/6/2023
-https://videos.impresa.pt/videos/hls/sicnot/2023/06/13/2ada8efe-f98f-4f9c-865d-2d7774bb9f52/sem-moderacao.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 7/6/2023
-https://videos.impresa.pt/videos/hls/sicnot/2023/06/06/40ba8cd4-e88b-47ab-bf5b-881e9ec3796e/video.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 31/5/2023
-https://videos.impresa.pt/videos/hls/sicnot/2023/05/30/b5dbb518-16ee-4bc1-9e0c-b45d6c71dc9d/video.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 24/5/2023
-https://videos.impresa.pt/videos/hls/sicnot/2023/05/23/175ff0d4-4deb-4c87-a86f-71925c912bba/video.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 17/5/2023
-https://videos.impresa.pt/videos/hls/sicnot/2023/05/16/dec34ed8-178c-4b3d-879c-e2ea4c55f419/video.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 10/5/2023
-https://videos.impresa.pt/videos/hls/sicnot/2023/05/09/10e2337b-4f87-4753-a11d-8888fd8b7c93/video.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 3/5/2023
-https://videos.impresa.pt/videos/hls/sicnot/2023/05/02/cdd1a02d-6480-4941-aaf3-d7a4a27b68e2/video.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 26/4/2023
-https://videos.impresa.pt/videos/hls/sicnot/2023/04/25/d652f91e-052f-47b5-ad82-c06c570600fb/video.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 19/4/2023
-https://videos.impresa.pt/videos/hls/sicnot/2023/04/18/795b2e0a-452e-4ab9-9f20-0637cd7a96fe/video.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 12/4/2023
-https://videos.impresa.pt/videos/hls/sicnot/2023/04/11/ec4ad1ca-822c-4ce3-b67c-753ea4728793/video.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 5/4/2023
-https://videos.impresa.pt/videos/hls/sicnot/2023/04/04/d136e763-d57f-44c1-9a8e-256f5f9c0678/video.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 29/3/2023
-https://videos.impresa.pt/videos/hls/sicnot/2023/03/29/adbfc907-3891-4e8f-8233-efdcf9c9bf2f/video.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 22/3/2023
-https://videos.impresa.pt/videos/hls/sicnot/2023/03/22/990a6acb-e5ed-42c2-aa47-d86712c904dd/video.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 14/3/2023
-https://videos.impresa.pt/videos/hls/sicnot/2023/03/15/43adfed2-e3b1-4b3b-b482-2b81437f3903/video.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 8/3/2023
-https://videos.impresa.pt/videos/hls/sicnot/2023/03/08/acc1fb6d-efbe-4860-b1f5-eac560ee5d87/video.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 28/2/2023
-https://videos.impresa.pt/videos/hls/sicnot/2023/03/01/c9e9fe49-f080-4340-a180-e7e93a15aed1/video.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 21/2/2023
-https://videos.impresa.pt/videos/hls/sicnot/2023/02/22/8d2a0ae4-953a-46fa-8ed4-01997036ad02/video.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 15/2/2023
-https://videos.impresa.pt/videos/hls/sicnot/2023/02/15/e1a66262-ec62-4caf-b7e6-e355e0c8b89b/video.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 8/2/2023
-https://videos.impresa.pt/videos/hls/sicnot/2023/02/08/bcdcac21-8139-4969-869a-bf294f25f17a/video.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 1/2/2023
-https://videos.impresa.pt/videos/hls/sicnot/2023/02/01/ababf0fc-7936-4950-bcd1-6219ebba901a/video.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 25/1/2023
-https://videos.impresa.pt/videos/hls/sicnot/2023/01/25/afd61efe-04e3-4d46-8bb2-d7acd1e4f55c/video.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 18/1/2023
-https://videos.impresa.pt/videos/hls/sicnot/2023/01/18/9315fb1e-7a91-4356-85aa-a11d669b2196/video.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 11/1/2023
-https://videos.impresa.pt/videos/hls/sicnot/2023/01/11/294ab240-3ccf-44a1-b8f6-9b0b7068611f/video.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 4/1/2023
-https://videos.impresa.pt/videos/hls/sicnot/2023/01/04/9b16a437-7166-4010-b772-f0762e02434d/sem-moderacao.1.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 28/12/2022
-https://videos.impresa.pt/videos/hls/sicnot/2022/12/28/5a86ccb1-e945-4a7a-a70a-93ada9e43c01/sem-moderacao.1.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 21/12/2022
-https://videos.impresa.pt/videos/hls/sicnot/2022/12/21/17402050-c4cc-429f-98a5-da614fc823b4/sem-moderacao.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 30/11/2022
-https://videos.impresa.pt/videos/hls/sicnot/2022/11/30/5af5b5df-c1d0-45a3-838b-b3f230542337/sem-moderacao.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 23/11/2022
-https://videos.impresa.pt/videos/hls/sicnot/2022/11/23/1dd21f00-347b-45ae-b10f-c7647526cfda/sem-moderacao.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 2/11/2022
-https://videos.impresa.pt/videos/hls/sicnot/2022/11/02/64b55299-21f3-49de-84b6-47c535ed153c/sem-moderacao.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 26/10/2022
-https://videos.impresa.pt/videos/hls/sicnot/2022/10/25/c905f244-5a32-48a2-a9da-29c3cd9f3634/sem-moderacao-pgm-25-out.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 19/10/2022
-https://videos.impresa.pt/videos/hls/sicnot/2022/10/18/3df38bb9-fef4-430d-8ac2-fd2899f751fe/sem-moderacao.6.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 12/10/2022
-https://videos.impresa.pt/videos/hls/sicnot/2022/10/11/d96c6ae9-b8bd-4bb6-af1a-fa731be03a16/sem-moderacao.5.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 5/10/2022
-https://videos.impresa.pt/videos/hls/sicnot/2022/10/04/5fc7f845-03e9-45df-b963-444381a0f420/sem-moderacao.4.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 28/9/2022
-https://videos.impresa.pt/videos/hls/sicnot/2022/09/27/954b7c1e-814d-4c45-97a4-65f489209c87/sem-moderacao.3.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 21/9/2022
-https://videos.impresa.pt/videos/hls/sicnot/2022/09/20/b8841d55-b224-4282-8be3-5fbcd009ae04/sem-moderacao.2.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 14/9/2022
-https://videos.impresa.pt/videos/hls/sicnot/2022/09/13/c26ca26f-b0c6-4a5f-8e59-dbafda57235a/sem-moderacao.1.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 7/9/2022
-https://videos.impresa.pt/videos/hls/sicnot/2022/09/06/79e245c8-6a4b-4512-a13a-a92b4cb78d83/sem-moderacao.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 27/7/2022
-https://videos.impresa.pt/videos/hls/sicnot/2022/07/26/39857ab1-c026-412d-9662-4827b504b7b3/sem-moderacao.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 20/7/2022
-https://videos.impresa.pt/videos/hls/sicnot/2022/07/19/b3781633-dd29-46f0-a003-e6273d730bb0/sem-moderacao-pgm-1907_22hv00316274.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 6/7/2022
-https://videos.impresa.pt/videos/hls/sicnot/2022/07/06/73b8e62b-9889-48e9-9ed6-4772d13a818b/sem-moderacao.1.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 29/6/2022
-https://videos.impresa.pt/videos/hls/sicnot/2022/06/29/3d4a27ad-5321-409a-a026-acafffbc4c92/sem-moderacao.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 22/6/2022
-https://videos.impresa.pt/videos/hls/sicnot/2022/06/22/3cd6e32d-74f1-45f4-89ac-9c7fddb415d7/sem-moderacao.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 15/6/2022
-https://videos.impresa.pt/videos/hls/sicnot/2022/06/15/dc6b2cc1-910c-404f-9cbd-a1202cda7236/sem-moderacao.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 8/6/2022
-https://cdn.jwplayer.com/manifests/blBwHnnm.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 1/6/2022
-https://cdn.jwplayer.com/manifests/xO1sxiyG.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 25/5/2022
-https://cdn.jwplayer.com/manifests/kUTFZ84l.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 18/5/2022
-https://cdn.jwplayer.com/manifests/BjlBpNLO.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 11/5/2022
-https://cdn.jwplayer.com/manifests/wvICIGMt.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 4/5/2022
-https://cdn.jwplayer.com/manifests/w1ivoJC5.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 27/4/2022
-https://cdn.jwplayer.com/manifests/A5m2MNbl.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 20/4/2022
-https://cdn.jwplayer.com/manifests/cZo2e5yC.m3u8
-
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 13/4/2022
-https://cdn.jwplayer.com/manifests/6ipev8fs.m3u8
-
-
 # Eixo do Mal
+
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 3/11/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/11/03/1c0e3ca1-dad3-4463-994a-f3053e5186fb/video.m3u8
+
 #EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 27/10/2023
 https://videos.impresa.pt/videos/hls/sicnot/2023/10/26/e4cdc3c0-2f6e-45fe-a8e1-9a515c08d258/video.m3u8
 
@@ -2096,6 +1912,9 @@ https://content.jwplatform.com/manifests/jL3dl5uq.m3u8
 
 
 # Programa Cujo Nome Estamos Legalmente Impedidos de Dizer
+
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 4/11/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/11/04/2dfad1e1-0d57-411c-92b1-df5dd4b68598/video.m3u8
 
 #EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 27/10/2023
 https://videos.impresa.pt/videos/hls/sicnot/2023/10/27/9ca62720-7eb4-4e72-950a-46b06c520f83/video.m3u8
@@ -2312,6 +2131,198 @@ https://cdn.jwplayer.com/manifests/Mvuo738f.m3u8
 
 #EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 16/4/2022
 https://cdn.jwplayer.com/manifests/v8e6Ytdz.m3u8
+
+
+# Sem Moderação
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 3/10/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/10/03/4bc69fbe-69b0-4ba4-83c5-2ebd52643f30/video.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 26/9/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/09/26/bb345428-bc52-49c4-bd7a-ff6b35da3d3e/video.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 20/9/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/09/19/e5df043f-d2f6-46cf-98b0-c2fc6a5f939d/video.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 13/9/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/09/12/7ecedae9-7b8f-4b7f-9504-c0ad10dc41c2/video.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 5/9/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/09/05/a8f5f05a-0748-40b5-bd53-29f85877fbb0/video.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 25/7/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/07/25/ec3d4eec-bba5-46fe-a710-597a0abeb86f/video.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 18/7/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/07/18/2508c237-6248-4696-ad68-5013b4c72711/video.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 12/7/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/07/11/5b447183-34d7-4672-acf2-dca22c8f385a/Sem-Moderacao.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 4/7/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/07/05/5f49f540-080a-43e6-aebb-00583aedd74a/Sem-Moderacao-0407.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 28/6/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/06/27/5b44128d-986d-4dc3-9b26-d82ff62c5fc1/video.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 21/6/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/06/20/576b7390-ebaa-4a85-842b-30e6b01ace4d/video.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 13/6/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/06/13/2ada8efe-f98f-4f9c-865d-2d7774bb9f52/sem-moderacao.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 7/6/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/06/06/40ba8cd4-e88b-47ab-bf5b-881e9ec3796e/video.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 31/5/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/05/30/b5dbb518-16ee-4bc1-9e0c-b45d6c71dc9d/video.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 24/5/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/05/23/175ff0d4-4deb-4c87-a86f-71925c912bba/video.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 17/5/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/05/16/dec34ed8-178c-4b3d-879c-e2ea4c55f419/video.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 10/5/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/05/09/10e2337b-4f87-4753-a11d-8888fd8b7c93/video.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 3/5/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/05/02/cdd1a02d-6480-4941-aaf3-d7a4a27b68e2/video.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 26/4/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/04/25/d652f91e-052f-47b5-ad82-c06c570600fb/video.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 19/4/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/04/18/795b2e0a-452e-4ab9-9f20-0637cd7a96fe/video.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 12/4/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/04/11/ec4ad1ca-822c-4ce3-b67c-753ea4728793/video.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 5/4/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/04/04/d136e763-d57f-44c1-9a8e-256f5f9c0678/video.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 29/3/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/03/29/adbfc907-3891-4e8f-8233-efdcf9c9bf2f/video.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 22/3/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/03/22/990a6acb-e5ed-42c2-aa47-d86712c904dd/video.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 14/3/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/03/15/43adfed2-e3b1-4b3b-b482-2b81437f3903/video.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 8/3/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/03/08/acc1fb6d-efbe-4860-b1f5-eac560ee5d87/video.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 28/2/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/03/01/c9e9fe49-f080-4340-a180-e7e93a15aed1/video.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 21/2/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/02/22/8d2a0ae4-953a-46fa-8ed4-01997036ad02/video.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 15/2/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/02/15/e1a66262-ec62-4caf-b7e6-e355e0c8b89b/video.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 8/2/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/02/08/bcdcac21-8139-4969-869a-bf294f25f17a/video.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 1/2/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/02/01/ababf0fc-7936-4950-bcd1-6219ebba901a/video.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 25/1/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/01/25/afd61efe-04e3-4d46-8bb2-d7acd1e4f55c/video.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 18/1/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/01/18/9315fb1e-7a91-4356-85aa-a11d669b2196/video.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 11/1/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/01/11/294ab240-3ccf-44a1-b8f6-9b0b7068611f/video.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 4/1/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/01/04/9b16a437-7166-4010-b772-f0762e02434d/sem-moderacao.1.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 28/12/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/12/28/5a86ccb1-e945-4a7a-a70a-93ada9e43c01/sem-moderacao.1.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 21/12/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/12/21/17402050-c4cc-429f-98a5-da614fc823b4/sem-moderacao.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 30/11/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/11/30/5af5b5df-c1d0-45a3-838b-b3f230542337/sem-moderacao.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 23/11/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/11/23/1dd21f00-347b-45ae-b10f-c7647526cfda/sem-moderacao.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 2/11/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/11/02/64b55299-21f3-49de-84b6-47c535ed153c/sem-moderacao.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 26/10/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/10/25/c905f244-5a32-48a2-a9da-29c3cd9f3634/sem-moderacao-pgm-25-out.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 19/10/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/10/18/3df38bb9-fef4-430d-8ac2-fd2899f751fe/sem-moderacao.6.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 12/10/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/10/11/d96c6ae9-b8bd-4bb6-af1a-fa731be03a16/sem-moderacao.5.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 5/10/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/10/04/5fc7f845-03e9-45df-b963-444381a0f420/sem-moderacao.4.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 28/9/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/09/27/954b7c1e-814d-4c45-97a4-65f489209c87/sem-moderacao.3.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 21/9/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/09/20/b8841d55-b224-4282-8be3-5fbcd009ae04/sem-moderacao.2.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 14/9/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/09/13/c26ca26f-b0c6-4a5f-8e59-dbafda57235a/sem-moderacao.1.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 7/9/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/09/06/79e245c8-6a4b-4512-a13a-a92b4cb78d83/sem-moderacao.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 27/7/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/07/26/39857ab1-c026-412d-9662-4827b504b7b3/sem-moderacao.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 20/7/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/07/19/b3781633-dd29-46f0-a003-e6273d730bb0/sem-moderacao-pgm-1907_22hv00316274.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 6/7/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/07/06/73b8e62b-9889-48e9-9ed6-4772d13a818b/sem-moderacao.1.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 29/6/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/06/29/3d4a27ad-5321-409a-a026-acafffbc4c92/sem-moderacao.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 22/6/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/06/22/3cd6e32d-74f1-45f4-89ac-9c7fddb415d7/sem-moderacao.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 15/6/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/06/15/dc6b2cc1-910c-404f-9cbd-a1202cda7236/sem-moderacao.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 8/6/2022
+https://cdn.jwplayer.com/manifests/blBwHnnm.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 1/6/2022
+https://cdn.jwplayer.com/manifests/xO1sxiyG.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 25/5/2022
+https://cdn.jwplayer.com/manifests/kUTFZ84l.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 18/5/2022
+https://cdn.jwplayer.com/manifests/BjlBpNLO.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 11/5/2022
+https://cdn.jwplayer.com/manifests/wvICIGMt.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 4/5/2022
+https://cdn.jwplayer.com/manifests/w1ivoJC5.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 27/4/2022
+https://cdn.jwplayer.com/manifests/A5m2MNbl.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 20/4/2022
+https://cdn.jwplayer.com/manifests/cZo2e5yC.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 13/4/2022
+https://cdn.jwplayer.com/manifests/6ipev8fs.m3u8
 
 
 # Animação
