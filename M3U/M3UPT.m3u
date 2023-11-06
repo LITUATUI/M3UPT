@@ -40,7 +40,8 @@ https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX
 #EXTINF:-1 group-title="TV" tvg-id="euronw.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews PT
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
+#https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
+https://0ff3c09c7580460e8e018cdcaacbadee.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pt_EuroNewsLive/e8e94498-f4fc-42d5-9863-28410bcfa353/0.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="artv.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ARTV.png",ARTV
 #KODIPROP:inputstream=inputstream.adaptive
@@ -200,27 +201,32 @@ http://196.28.226.121:1935/live/smil:Channel2.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="euronewsen.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews EN
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
+https://rakuten-euronews-9-gb.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="euronewsen.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews ES
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+#https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+https://rakuten-euronews-12-es.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="euronewsen.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews IT
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
+#https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
+https://rakuten-euronews-11-it.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="euronewsen.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews FR
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8
+#https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8
+https://rakuten-euronews-2-fr.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="euronewsen.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews DE
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
+#https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
+https://rakuten-euronews-13-de.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Telesur.ve" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Telesur.png",teleSUR
 #KODIPROP:inputstream=inputstream.adaptive
