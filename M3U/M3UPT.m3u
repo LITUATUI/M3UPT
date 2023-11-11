@@ -20,7 +20,7 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 #EXTINF:-1 group-title="TV" tvg-id="tvihd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTEvMjAyMyA2OjI6MjEgQU0maGFzaF92YWx1ZT15OUVnZWpKbWtpdlNnM2dOd1YvdndBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZmUwMjkxM2UtNGNiOC00ZTkzLTllZTctMmVmY2ZlNmUxOTE0/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTEvMjAyMyA3OjA6MzYgQU0maGFzaF92YWx1ZT16dEozQTlKSlFJa1FIRjlWSEdma0ZBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NTk2MTEwNTktOTcxNS00ZmQ3LTg4ZmMtZTI5ZTM1NmNlNjAx/
 
 #EXTINF:-1 group-title="TV" tvg-id="rtp3hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP3.png",RTP 3
 #EXTVLCOPT:http-user-agent=Firefox
@@ -35,7 +35,7 @@ https://sicnot.live.impresa.pt/sicnot.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="cnnpthd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTEvMjAyMyA2OjI6MjIgQU0maGFzaF92YWx1ZT1KV0hNSlJ0NXl1VG8zcTY2ODIrcmtBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YjMyMWU4NjEtMjcwNS00MzlhLWJkNWItZDNlMDYzZjJiMTM3/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTEvMjAyMyA3OjA6MzYgQU0maGFzaF92YWx1ZT1hQnJ4UkFOY2FuUjRNQXRGdFVKTit3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZGE1NDEyNGUtZmVkMy00ZTJiLTg3OWQtZDZlYjI3MzdhNWRl/
 
 #EXTINF:-1 group-title="TV" tvg-id="euronw.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews PT
 #KODIPROP:inputstream=inputstream.adaptive
@@ -81,7 +81,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="TVIInt.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",TVI Internacional
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTEvMjAyMyA2OjI6MjIgQU0maGFzaF92YWx1ZT10QndGZ0Q4ejhyUjNBTmlienZVMUNBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZDM3ZmM2OTAtOGZhZS00MWQzLWE4ZTAtZjQ3OWZkNjllNjUz/
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTEvMjAyMyA3OjA6MzcgQU0maGFzaF92YWx1ZT0wQVc3bzdrNmZWNTVla1NjNGNKRWFRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NDYyMmRmZmEtMDcwMy00OGJhLTgyZTItOTFkNDUwNzc5Nzg3/
 
 #EXTINF:-1 group-title="TV" tvg-id="TVIAfrica.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI_África.png",TVI África
 #KODIPROP:inputstream=inputstream.adaptive
@@ -101,7 +101,7 @@ https://video-auth2.iol.pt/live_hd2/live_hd2/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="tvireality.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTEvMjAyMyA2OjI6MjMgQU0maGFzaF92YWx1ZT1ncWJIVHZhYy9mV0ZOZ1FncEswb1VnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZDI2NDhhZjktOGVkYi00Njc1LWEwNTEtMTRjMTI4ZDNiMTJh/
+https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTEvMjAyMyA3OjA6MzggQU0maGFzaF92YWx1ZT1XYTN0QzZpTlNNc0dTakt1VEdwUUlBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OTVlOTJiYzYtMzNlYi00Y2M2LThiMjUtNjdjNDA5MDQ4OWYx/
 
 #EXTINF:-1 group-title="TV" tvg-id="sicnovelashd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Novelas.png",SIC Novelas
 #KODIPROP:inputstream=inputstream.adaptive
