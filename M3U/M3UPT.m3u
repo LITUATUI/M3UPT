@@ -1419,6 +1419,14 @@ https://video-auth1.iol.pt/beachcam/bcbugio2/playlist.m3u8
 
 # O Outro Lado
 
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T8E42 13/11/2023
+#EXTVLCOPT:http-user-agent=Firefox
+https://streaming-vod.rtp.pt/hls/nas2.share,/h264/512x384/p11203/p11203_1_20231113235940e042t6785.mp4,.urlset/master.m3u8
+
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T8E41 6/11/2023
+#EXTVLCOPT:http-user-agent=Firefox
+https://streaming-vod.rtp.pt/hls/nas2.share,/h264/512x384/p11203/p11203_1_20231106235938e041t2806.mp4,.urlset/master.m3u8
+
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T8E40 30/10/2023
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-vod.rtp.pt/hls/nas2.share,/h264/512x384/p11203/p11203_1_20231030235939e040t4969.mp4,.urlset/master.m3u8
@@ -1706,6 +1714,9 @@ https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p9780/p9780_1_20220411
 
 # Eixo do Mal
 
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 10/11/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/11/09/4222870f-18e0-4b6c-8a1b-a9cf84a51b31/video.m3u8
+
 #EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 3/11/2023
 https://videos.impresa.pt/videos/hls/sicnot/2023/11/03/1c0e3ca1-dad3-4463-994a-f3053e5186fb/video.m3u8
 
@@ -1918,6 +1929,9 @@ https://content.jwplatform.com/manifests/jL3dl5uq.m3u8
 
 
 # Programa Cujo Nome Estamos Legalmente Impedidos de Dizer
+
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 11/11/2023
+https://videos.impresa.pt/videos/hls/sicnot/2023/11/10/59d024c5-f73f-40b2-984e-f3adca1bfe7a/video.m3u8
 
 #EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 4/11/2023
 https://videos.impresa.pt/videos/hls/sicnot/2023/11/04/2dfad1e1-0d57-411c-92b1-df5dd4b68598/video.m3u8
