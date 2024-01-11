@@ -1420,6 +1420,7 @@ https://video-auth1.iol.pt/beachcam/bcbugio2/playlist.m3u8
 # O Outro Lado
 
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T9E1 8/1/2024
+#EXTVLCOPT:http-user-agent=Firefox
 https://streaming-vod.rtp.pt/hls/nas2.share,/h264/512x384/p12784/p12784_1_2024010915050.mp4,.urlset/master.m3u8
 
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T8E46 11/12/2023
