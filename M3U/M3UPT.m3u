@@ -1419,6 +1419,9 @@ https://video-auth1.iol.pt/beachcam/bcbugio2/playlist.m3u8
 
 # O Outro Lado
 
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T9E1 8/1/2024
+https://streaming-vod.rtp.pt/hls/nas2.share,/h264/512x384/p12784/p12784_1_2024010915050.mp4,.urlset/master.m3u8
+
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T8E46 11/12/2023
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-vod.rtp.pt/hls/nas2.share,/h264/512x384/p11203/p11203_1_20231211235940e046t5271.mp4,.urlset/master.m3u8
@@ -1969,6 +1972,9 @@ https://content.jwplatform.com/manifests/jL3dl5uq.m3u8
 
 
 # Programa Cujo Nome Estamos Legalmente Impedidos de Dizer
+
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 5/1/2024
+https://videos.impresa.pt/videos/hls/sicnot/2024/01/05/21796b03-3f7a-4932-b247-d0826b6e1a1d/video.m3u8
 
 #EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 29/12/2023
 https://videos.impresa.pt/videos/hls/sicnot/2023/12/29/7d628094-6efd-417b-91c8-3427f914b14e/video.m3u8
