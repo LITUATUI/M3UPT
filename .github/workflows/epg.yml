@@ -9,16 +9,16 @@ jobs:
     steps:
     
       - name: checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         
       - name: checkout iptv-org/epg repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
          repository: iptv-org/epg
          path: iptv-org-epg
 
       - name: install XMLTV, URI::Encode and NPM
-        run: sudo apt-get install -y xmltv liburi-encode-perl && npm install
+        run: sudo apt-get install -y xmltv liburi-encode-perl && npm-ci
 
       - name: update EPG
         run: sh EPG/epg-pt.sh
