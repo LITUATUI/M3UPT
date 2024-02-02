@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd ../iptv-org-epg
+cd ../iptv-org-epg && npm-ci
 
 # Meo EPG
 
