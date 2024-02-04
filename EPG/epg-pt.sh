@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd ../iptv-org-epg && npm install
+cd /home/runner/work/M3UPT/M3UPT/iptv-org-epg && npm install
 
 # Meo EPG
 
