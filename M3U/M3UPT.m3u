@@ -1428,6 +1428,7 @@ https://video-auth1.iol.pt/beachcam/bcbugio2/playlist.m3u8
 
 # O Outro Lado
 
+https://videos.impresa.pt/videos/hls/sicnot/2024/02/29/25fd2d4e-0957-42f6-ace8-e79a08e1485d/video.m3u8
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T9E7 25/2/2024
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-vod.rtp.pt/hls/nas2.share,/h264/512x384/p12784/p12784_1_20240226000000e007t8843.mp4,.urlset/master.m3u8
@@ -1766,6 +1767,9 @@ https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p9780/p9780_1_20220411
 
 
 # Eixo do Mal
+
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 29/2/2024
+https://videos.impresa.pt/videos/hls/sicnot/2024/02/29/25fd2d4e-0957-42f6-ace8-e79a08e1485d/video.m3u8
 
 #EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 22/2/2024
 https://videos.impresa.pt/videos/hls/sicnot/2024/02/22/19759972-8c4e-47e9-9f52-82b2b71f8ea6/video.m3u8
