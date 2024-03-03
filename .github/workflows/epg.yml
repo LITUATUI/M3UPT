@@ -17,9 +17,6 @@ jobs:
          repository: iptv-org/epg
          path: iptv-org-epg
 
-      - name: install XMLTV, URI::Encode
-        run: sudo apt-get install -y xmltv liburi-encode-perl
-
       - name: update EPG
         run: sh EPG/epg-pt.sh
 
