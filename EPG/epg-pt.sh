@@ -8,13 +8,15 @@ npm run grab -- --channels=../EPG/meo.pt.channels.xml --output=../EPG/epg-meo-pt
 
 # Nos EPG
 
-npm run grab -- --channels=../EPG/nostv.pt.channels.xml --output=../EPG/epg-meo-pt.xml --days=7
+npm run grab -- --channels=../EPG/nostv.pt.channels.xml --output=../EPG/epg-nos-pt.xml --days=7
 
 # RTP EPG
 
 npm run grab -- --site=rtp.pt --output=../EPG/epg-rtp-pt.xml --days=7
 
 # Rytec EPG
+
+cd ../EPG
 
 wget -O epg-rytec-pt.xml.xz "http://www.xmltvepg.nl/rytecPT.xz"
 
@@ -24,6 +26,6 @@ xz -k -f -9 *.xml && gzip -k -f -9 *.xml
 
 # Remove EPG xml files
 
-rm *.xml
+rm epg*.xml
 
 exit 0
