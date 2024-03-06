@@ -182,7 +182,7 @@ Configurações > Configurações adicionais > Backup e Restauração > Restaura
 
 Para uma boa experiência de utilização o seu aparelho deverá ter um bom processador e memória RAM suficiente. Evite processadores da Rockchip e da Allwinner.
 
-* **SoC**: Amlogic S905W2, S905Y4 ou S905X4 (barato, eficiente e suporta o moderno codec de vídeo AV1)
+* **SoC**: Amlogic S905W2, S905Y4, S905X4 ou S928X (rápido, eficiente e suporta o moderno codec de vídeo AV1)
 * **RAM**: 4 GB
 * **Armazenamento interno**: 64 GB
 * **Modelo**: [H96 Max W2](https://m3upt.com/h96-max-w2)

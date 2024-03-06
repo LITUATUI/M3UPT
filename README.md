@@ -178,7 +178,7 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 
 For a good experience you need a device with decent SoC and enough RAM. As a general rule avoid SoCs made by Rockchip and Allwinner.
 
-* **SoC**: Amlogic S905W2, S905Y4 or S905X4 (cheap, energy efficient and supports the modern AV1 video codec)
+* **SoC**: Amlogic S905W2, S905Y4, S905X4 or S928X (fast, energy efficient and supports the modern AV1 video codec)
 * **RAM**: 4 GB
 * **Internal storage**: 64 GB
 * **Model**: [H96 Max W2](https://m3upt.com/h96-max-w2)
