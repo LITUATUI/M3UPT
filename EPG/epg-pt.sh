@@ -4,7 +4,7 @@ cd /home/runner/work/M3UPT/M3UPT/iptv-org-epg && npm install
 
 # Meo EPG
 
-npm run grab -- --channels=../EPG/meo.pt.channels.xml --output=../EPG/epg-meo-pt.xml --days=7 --maxConnections=3
+npm run grab -- --channels=../EPG/meo.pt.channels.xml --output=../EPG/epg-meo-pt.xml --days=7 --maxConnections=4
 
 # Nos EPG
 
