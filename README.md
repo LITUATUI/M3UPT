@@ -129,7 +129,7 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 
 **Recommended settings:**
 
-* Restore this backup: ZWqkuc (password: M3UPT)
+* Restore this backup: vhUAch (password: M3UPT)
 
 [🖧 Download](https://m3upt.com/ottnavigator)
 

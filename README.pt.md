@@ -129,7 +129,7 @@ Não é fácil para falantes de português a viver no estrangeiro manter contact
 
 **Configurações recomendadas:**
 
-* Restaure este backup: ZWqkuc (senha: M3UPT)
+* Restaure este backup: vhUAch (senha: M3UPT)
 
 Para aplicar o código de backup, siga os seguintes passos após instalar a aplicação OTT Navigator IPTV:
 
