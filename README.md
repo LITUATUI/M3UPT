@@ -121,7 +121,7 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 * Network - Cache: 4
 * Debug - Automatic reconnection ✅
   
-[🖧 Download](https://github.com/yuki-iptv/yuki-iptv)
+[🖧 Download](https://codeberg.org/Ame-chan-angel/yuki-iptv)
 
 ### 🥇 OTT Navigator IPTV
 

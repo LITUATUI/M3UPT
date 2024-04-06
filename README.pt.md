@@ -121,7 +121,7 @@ Não é fácil para falantes de português a viver no estrangeiro manter contact
 * Network - Cache: 4
 * Debug - Automatic reconnection ✅
 
-[🖧 Download](https://github.com/yuki-iptv/yuki-iptv)
+[🖧 Download](https://codeberg.org/Ame-chan-angel/yuki-iptv)
 
 ### 🥇 OTT Navigator IPTV
 
