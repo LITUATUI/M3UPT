@@ -211,8 +211,6 @@ These are affiliate links which means that if you click on them and buy somethin
 
 * On Telegram join the [channel](https://t.me/m3upt) to get updates and the [group](https://t.me/m3uptchat) to chat.
 
-* Contact me by [e-mail](mailto:info@m3upt.com).
-
 * Support this project with the purchase of an already configured [TV Box](https://m3upt.com/tvbox) or with a [donation](https://m3upt.com/donativo). Your support encourages me to dedicate more time to this project.
   
 ---

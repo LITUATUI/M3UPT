@@ -215,8 +215,6 @@ Se clicar nestes links e comprar alguma coisa, eu poderei receber uma pequena co
 
 * No Telegram adira ao [canal](https://t.me/m3upt) para ficar actualizado e ao [grupo](https://t.me/m3uptchat) para conversar.
 
-* Contate-me por [e-mail](mailto:info@m3upt.com).
-
 * Apoie este projecto com a compra de uma [TV Box](https://m3upt.com/tvbox) já configurada ou com um [donativo](https://m3upt.com/donativo). O seu apoio incentiva-me a dedicar mais tempo a este projeto.
 
 ---
