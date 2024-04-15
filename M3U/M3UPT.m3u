@@ -529,49 +529,46 @@ https://streaming-live.rtp.pt/liveradio/antena2opera80a/playlist.m3u8
 http://link.radios.pt/amalia?1487014253471.mp3
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://cidade.iol.pt/images/logo_CIDADE_2020.png",Rádio Cidade FM
-https://media1.mcr.iol.pt/livefm/cidade/livefm/cidade_128k/chunks.m3u8
+https://stream-hls.bauermedia.pt/cidade.aac/playlist.m3u8
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://cidade.iol.pt/images/logo_CIDADE_2020.png",Rádio Cidade Hip Hop
-https://media1.mcr.iol.pt/wrcidade/cidhiphop.stream/playlist.m3u8
+https://stream-hls.bauermedia.pt/cidhiphop.aac/playlist.m3u8
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://cidade.iol.pt/images/logo_CIDADE_2020.png",Rádio Cidade Latina
-https://media1.mcr.iol.pt/wrcidade/cidlatina.stream/playlist.m3u8
+https://stream-hls.bauermedia.pt/cidlatina.aac/playlist.m3u8
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://radiocomercial.iol.pt/images/logo_big.png",Rádio Comercial
-https://media1.mcr.iol.pt/livefm/comercial/playlist.m3u8
+https://stream-hls.bauermedia.pt/comercial.aac/playlist.m3u8
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/q6clfyhqvcg5.png",Rádio Comercial Rock
 https://media1.mcr.iol.pt/wrcomercial/rcrock.stream/playlist.m3u8
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ybykwjqku6rh.png",Rádio Comercial Dance
-https://media2.mcr.iol.pt/wrcomercial/rcdance.stream/playlist.m3u8
+https://stream-hls.bauermedia.pt/rcdance.aac/playlist.m3u8
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://radiocomercial.iol.pt/images/noCover.png",Rádio Comercial By Night
-https://media2.mcr.iol.pt/wrcomercial/rcsoft.stream/playlist.m3u8
+https://stream-hls.bauermedia.pt/rcsoft.aac/playlist.m3u8
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://radiocomercial.iol.pt/images/noCover.png",Rádio Comercial One Hit Wonders
-https://media1.mcr.iol.pt/wrcomercial/rchit.stream/playlist.m3u8
+https://stream-hls.bauermedia.pt/rchit.aac/playlist.m3u8?
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Comercial-Kids.png",Rádio Comercial Kids
-https://media1.mcr.iol.pt/wrcomercial/rckids.stream/playlist.m3u8
+https://stream-hls.bauermedia.pt/rckids.aac/playlist.m3u8
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://radiocomercial.iol.pt/images/webradios/wr-portugal.jpg",Rádio Comercial Portugal
-https://media2.mcr.iol.pt/wrcomercial/rctuga.stream/playlist.m3u8
+https://stream-hls.bauermedia.pt/rctuga.aac/playlist.m3u8
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://radiocomercial.iol.pt/images/webradios/wr-brasil.jpg",Rádio Comercial Brasil
-https://media2.mcr.iol.pt/wrcomercial/rcbrasil.stream/playlist.m3u8
-
-#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://radiocomercial.iol.pt/upload/R/radio-comercial-press-1-square.jpg",Rádio Comercial Ucrânia
-https://radiocomercial.iol.pt/upload/R/radio-comercial-press-1-square.jpg
+https://stream-hls.bauermedia.pt/rcbrasil.aac/playlist.m3u8
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://radiocomercial.iol.pt/images/webradios/wr-90s.jpg",Rádio Comercial 90s
-https://media1.mcr.iol.pt/wrcomercial/rcbest90.stream/playlist.m3u8
+https://stream-hls.bauermedia.pt/rcbest90.aac/playlist.m3u8
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://radiocomercial.iol.pt/images/webradios/wr-2000s.jpg",Rádio Comercial 2000s
-https://media1.mcr.iol.pt/wrcomercial/rcbest2000.stream/playlist.m3u8
+https://stream-hls.bauermedia.pt/rcbest2000.aac/playlist.m3u8
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://cdn-profiles.tunein.com/s81784/images/logod.jpg",Rádio M80
-https://media1.mcr.iol.pt/livefm/m80/livefm/m80_128k/chunks.m3u8
+https://stream-hls.bauermedia.pt/m80.aac/playlist.m3u8
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2007/07/logo_megafm_new.png",Rádio Mega Hits
 https://21313.live.streamtheworld.com/MEGA_HITSAAC
@@ -619,16 +616,16 @@ https://25533.live.streamtheworld.com/OCEANPACIFICAAC
 https://centova.radios.pt/proxy/435?mp=/stream
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://dznmkb6al6kqz.cloudfront.net/sites/default/files/radio/logos/logo-smooth-fm_0.png",Rádio Smooth FM
-https://media1.mcr.iol.pt/livefm/smooth/livefm/smooth_128k/chunks.m3u8
+https://stream-hls.bauermedia.pt/smooth.aac/playlist.m3u8
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.superfm.com/wp-content/uploads/2015/09/superfmlogo.png",Rádio Super FM
-http://95.217.75.38:9962/;&13202692901&duration=99999&id=scplayer&autostart=true
+https://play.radioregional.pt:8210/stream/2/;/stream.mp3
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.tsf.pt/common/images/logo-tsf.png",Rádio TSF
 http://tsfdirecto.tsf.pt/tsfdirecto.mp3
 
-#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2012/02/vodafone_logo-certo1.jpg",Vodafone.FM
-https://media1.mcr.iol.pt/livefm/vodafone/livefm/vodafone_128k/chunks.m3u8
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://batida.fm/images/logo-BATIDAFM-white.svg",batida.fm
+https://stream-hls.bauermedia.pt/batidafm.aac/playlist.m3u8
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.radiomiudos.pt/img/logo2.png",Rádio Miúdos
 http://radiomiudos.out.airtime.pro:8000/radiomiudos_a
@@ -1556,6 +1553,9 @@ https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p9780/p9780_1_20220411
 
 # Eixo do Mal
 
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 11/4/2024
+https://videos.impresa.pt/videos/hls/sicnot/2024/04/11/5b91dada-c630-4712-a718-ad33655e7e88/video.m3u8
+
 #EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 4/4/2024
 https://videos.impresa.pt/videos/hls/sicnot/2024/04/04/e21dd287-bfc1-43f8-9c48-a5e753e91675/video.m3u8
 
@@ -1834,6 +1834,9 @@ https://content.jwplatform.com/manifests/jL3dl5uq.m3u8
 
 
 # Programa Cujo Nome Estamos Legalmente Impedidos de Dizer
+
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 13/4/2024
+https://videos.impresa.pt/videos/hls/sicnot/2024/04/12/412ba318-65a8-415e-b8c3-7ef3769bc413/video.m3u8
 
 #EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 5/4/2024
 https://videos.impresa.pt/videos/hls/sicnot/2024/04/06/ef1c7c1f-167a-4dc6-9f3a-4276e6018940/video.m3u8
