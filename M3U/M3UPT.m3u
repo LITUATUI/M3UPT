@@ -1175,6 +1175,9 @@ https://youtu.be/YUean65jji8
 
 # Conteúdo do Batáguas
 
+#EXTINF:-1 media="true" group-title="Conteúdo do Batáguas" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DiogoBataguas.jpg",Conteúdo do Batáguas EP05
+https://youtu.be/1Pqf1B9Q-Lw
+
 #EXTINF:-1 media="true" group-title="Conteúdo do Batáguas" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DiogoBataguas.jpg",Conteúdo do Batáguas EP04
 https://youtu.be/fR5BoQ5BVqw
 
@@ -1189,6 +1192,10 @@ https://youtu.be/OXvGFE3JcdE
 
 
 # O Outro Lado
+
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T9E14 15/4/2024
+#EXTVLCOPT:http-user-agent=Firefox
+https://streaming-vod.rtp.pt/hls/nas2.share,/h264/512x384/p12784/p12784_1_20240415235942e014t3905.mp4,.urlset/master.m3u8
 
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T9E13 8/4/2024
 #EXTVLCOPT:http-user-agent=Firefox
@@ -1552,6 +1559,9 @@ https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p9780/p9780_1_20220411
 
 
 # Eixo do Mal
+
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 18/4/2024
+https://videos.impresa.pt/videos/hls/sicnot/2024/04/18/a35d81f9-e46b-433c-b7c7-b5a007910aff/video.m3u8
 
 #EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 11/4/2024
 https://videos.impresa.pt/videos/hls/sicnot/2024/04/11/5b91dada-c630-4712-a718-ad33655e7e88/video.m3u8
