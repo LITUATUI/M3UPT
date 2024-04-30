@@ -95,7 +95,7 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 
 ## 🧭 Getting started
 
-All you need to get started is to configure your favorite IPTV player with the M3U link. You don't to configure the EPG link in most players y, because they'll get it automatically from the M3U playlist.
+All you need to get started is to configure your favorite IPTV player with the M3U link. You don't need to configure the EPG link in most players, because they'll get it automatically from the M3U playlist.
 
 ### 🔗 Links to use in your IPTV player
 
