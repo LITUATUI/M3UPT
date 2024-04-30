@@ -1,135 +1,140 @@
-# 📺M3UPT🇵🇹
+# M3UPT
 
-Lista de IPTV em formato M3U optimizada para o Kodi com canais de 📺 TV e estações de 📻 rádio em 🇵🇹 Português. Apenas com streams públicos e oficiais.
+Lista de IPTV gratuita e legal em formato M3U com canais de 📺 TV e estações de 📻 rádio em 🇵🇹 Português. Apenas com streams públicos e oficiais.
 
 ## 🎯 Objectivo
 
 Disponibilizar uma lista de IPTV legal e gratuita em formato M3U com canais de TV e estações de rádio em Português.
 
-## ❓Porquê?
+## ❓ Porquê?
 
 Não é fácil para falantes de português a viver no estrangeiro manter contacto com a sua cultura. Este projecto também ajuda qualquer pessoa que esteja a tentar aprender Português ou simplesmente curiosa sobre a língua.
 
----
-
 ## 📺 Principais canais de TV portugueses 🇵🇹
 
-* RTP 1
-* RTP 2
-* SIC
-* TVI
-* RTP 3
-* SIC Notícias
-* CNN Portugal
-* Euronews PT
-* ARTV
-* RTP Memória
-* RTP Açores
-* RTP Madeira
-* RTP África
-* RTP Internacional
-* ~~SIC Internacional~~
-* TVI Internacional
-* Porto Canal
+- RTP 1
+- RTP 2
+- SIC
+- TVI
+- RTP 3
+- SIC Notícias
+- CNN Portugal
+- Euronews PT
+- ARTV
+- RTP Memória
+- RTP Açores
+- RTP Madeira
+- RTP África
+- RTP Internacional
+- ~~SIC Internacional~~
+- TVI Internacional
+- Porto Canal
 
 ## 📻 Principais estações de rádio portuguesas 🇵🇹
 
-* Antena 1
-* Antena 2
-* Antena 3
-* Antena 1 Açores
-* Antena 1 Madeira
-* RDP Internacional
-* RDP África
-* Rádio Comercial
-* M80
-* Rádio Oxigénio
-* Rádio Renascença
-* TSF
+- Antena 1
+- Antena 2
+- Antena 3
+- Antena 1 Açores
+- Antena 1 Madeira
+- RDP Internacional
+- RDP África
+- Rádio Comercial
+- M80
+- Rádio Oxigénio
+- Rádio Renascença
+- TSF
 
 ## 📺 Principais canais de TV internacionais 🌍
 
-* Euronews EN
-* Euronews ES
-* Euronews IT
-* Euronews FR
-* Euronews DE
-* teleSUR
-* teleSUR English
-* RT News
-* RT America
-* RT UK
-* RT Español
-* RT France
-* RT Documentary
-* CGTN
-* CGTN Español
-* CGTN Français
-* Al Jazeera English
-* France 24 English
-* France 24 Español
-* France 24 Français
-* ~~CNN Brasil~~
-* CNN International
-* Reuters TV
-* NASA TV
-* NHK World
-* Deutsche Welle Español
-* Deutsche Welle Deutsch
-* Deutsche Welle Arabic
-* TV5 Monde Info
-* TVE 24h
-* La 1
-* La 2
-* Gulli
-* Trace Urban
-* Fuel TV
-* Red Bull TV
-* Fashion TV
+- Euronews EN
+- Euronews ES
+- Euronews IT
+- Euronews FR
+- Euronews DE
+- teleSUR
+- teleSUR English
+- RT News
+- RT America
+- RT UK
+- RT Español
+- RT France
+- RT Documentary
+- CGTN
+- CGTN Español
+- CGTN Français
+- Al Jazeera English
+- France 24 English
+- France 24 Español
+- France 24 Français
+- ~~CNN Brasil~~
+- CNN International
+- Reuters TV
+- NASA TV
+- NHK World
+- Deutsche Welle Español
+- Deutsche Welle Deutsch
+- Deutsche Welle Arabic
+- TV5 Monde Info
+- TVE 24h
+- La 1
+- La 2
+- Gulli
+- Trace Urban
+- Fuel TV
+- Red Bull TV
+- Fashion TV
 
 ## 📻 Principais estações de rádio internacionais 🌍
 
-* Venice Classic Radio
+- Venice Classic Radio
 
 ## 🏖️ Beachcam
 
-* Mais de 100 cameras em praias portuguesas
+- Mais de 100 cameras em praias portuguesas
 
----
+## 🧭 Começar
 
-## 🎬 Leitores de IPTV recomendados
+Tudo o que precisa para começar é configurar o seu leitor de IPTV favorito com o endereço da lista M3U. Não terá de configurar o endereço do EPG na maior parte dos leitores, porque ele será automaticamente extraído da própria lista M3U.
 
-### 🥇 Kodi com PVR IPTV Simple Client
+### 🔗 Links para usar no seu leitor de IPTV
+
+- **M3U**: <https://m3upt.com/iptv>
+- **EPG**: <https://m3upt.com/epg> 
+
+### 🎬 Leitores de IPTV recomendados
+
+#### 🥇 Kodi com PVR IPTV Simple Client
 
 ![Kodi screenshot](/images/Kodi-M3UPT-playlist.avif "Kodi screenshot")
 
 **Configurações recomendadas:**
 
-* Deverá instalar o addon YouTube e configurar as suas legendas para pt-PT (Sem gerador automático).
+- Deverá instalar o addon YouTube e configurar as suas legendas para pt-PT (Sem gerador automático).
 
 [🖧 Download](https://kodi.tv/download/)
 
-### 🥇 Yuki-IPTV
+#### 🥇 Yuki-IPTV
 
 ![Yuki-IPTV screenshot](/images/Yuki-IPTV-M3UPT-playlist.avif "Yuki-IPTV screenshot")
 
 **Configurações recomendadas:**
 
-* Main - Open previous channel on startup ✅
-* Video - Deinterlace ✅
-* Video - Hardware acceleration ✅ 
-* Network - Cache: 4
-* Debug - Automatic reconnection ✅
+- Main - Open previous channel on startup ✅
+- Video - Deinterlace ✅
+- Video - Hardware acceleration ✅ 
+- Network - Cache: 4
+- Debug - Automatic reconnection ✅
 
 [🖧 Download](https://codeberg.org/Ame-chan-angel/yuki-iptv)
 
-### 🥇 OTT Navigator IPTV
+#### 🥇 OTT Navigator IPTV
 
 ![OTT Navigator IPTV screenshot](/images/OTT-Navigator-IPTV-M3UPT-playlist.avif "OTT Navigator IPTV screenshot")
 
 **Configurações recomendadas:**
 
-* Restaure este backup: vhUAch (senha: M3UPT)
+- Restaure este backup: vhUAch (senha: M3UPT)
 
 Para aplicar o código de backup, siga os seguintes passos após instalar a aplicação OTT Navigator IPTV:
 
@@ -137,44 +142,36 @@ Configurações > Configurações adicionais > Backup e Restauração > Restaura
 
 [🖧 Download](https://m3upt.com/ottnavigator)
 
-### 🥈 ProgTV
+#### 🥈 ProgTV
 
 ![ProgTV screenshot](/images/ProgTV-M3UPT-playlist.avif "ProgTV screenshot")
 
 **Configurações recomendadas:**
 
-* Opções - Opções de reprodução - Motor: MediaPlayer
+- Opções - Opções de reprodução - Motor: MediaPlayer
 
 [🖧 Download](https://www.progdvb.com/progtva_download.html)
 
-### 🥉 Perfect Player
+#### 🥉 Perfect Player
 
 ![Perfect Player screenshot](/images/Perfect-Player-M3UPT-playlist.avif "Perfect Player screenshot")
 
 **Configurações recomendadas:**
 
-* GUI - Mostrar grupos de canais como pastas ✅
-* Reprodução - Descodificador: Hardware
-* Reprodução - Tamanho do buffer: 4
-* Reprodução - User-Agent: Firefox
+- GUI - Mostrar grupos de canais como pastas ✅
+- Reprodução - Descodificador: Hardware
+- Reprodução - Tamanho do buffer: 4
+- Reprodução - User-Agent: Firefox
 
 [🖧 Download](https://m3upt.com/perfectplayer)
 
 ---
 
-## 🔗 Links para usar no seu leitor de IPTV
-
-* **M3U**: <https://m3upt.com/iptv>
-
-* **EPG**: <https://m3upt.com/epg>
-
----
-
 ## 📓 Notas
 
-* Os canais da RTP não abrem em alguns leitores.
-* A SIC Notícias só funciona com IP português, quem vive fora de Portugal terá de usar uma [VPN](https://m3upt.com/vpn).
-* Alguns streams só funcionam no Kodi com o addon YouTube instalado.
+- Os canais da RTP não abrem em alguns leitores.
+- Alguns canais só funcionam com IP português, quem vive fora de Portugal terá de usar uma [VPN](https://m3upt.com/vpn).
+- Alguns streams só funcionam no Kodi com o addon YouTube instalado.
 
 ---
 
@@ -182,13 +179,13 @@ Configurações > Configurações adicionais > Backup e Restauração > Restaura
 
 Para uma boa experiência de utilização o seu aparelho deverá ter um bom processador e memória RAM suficiente. Evite processadores da Rockchip e da Allwinner.
 
-* **SoC**: Amlogic S905W2, S905Y4, S905X4 ou S928X (rápido, eficiente e suporta o moderno codec de vídeo AV1)
-* **RAM**: 4 GB
-* **Armazenamento interno**: 64 GB
-* **Modelo**: [H96 Max W2](https://m3upt.com/h96-max-w2)
-* **Firmware**: [slimBOXtv (versão ATV)](https://slimboxtv.ru/h96-max-w2/)
+- **SoC**: Amlogic S905W2, S905Y4, S905X4 ou S928X (rápido, eficiente e suporta o moderno codec de vídeo AV1)
+- **RAM**: 4 GB
+- **Armazenamento interno**: 64 GB
+- **Modelo**: [H96 Max W2](https://m3upt.com/h96-max-w2)
+- **Firmware**: [slimBOXtv (versão ATV)](https://slimboxtv.ru/h96-max-w2/)
 
-Normalmente TV boxes Android com processadores Amlogic são melhores que aparelhos com processadores Rockchip ou Allwinner. 
+Normalmente TV boxes Android com processadores Amlogic são melhores que aparelhos com processadores Rockchip ou Allwinner.
 
 Pode comprar um excelente aparelho por menos de 40 euros nas lojas recomendadas.
 
@@ -198,24 +195,23 @@ Se preferir uma TV Box já configurada e pronta a usar, pode comprar [aqui](http
 
 ## 🛒 Lojas recomendadas
 
-* [AliExpress](https://m3upt.com/aliexpress)
-* [Geekbuying](https://m3upt.com/geekbuying)
-* [Banggood](https://m3upt.com/banggood)
-* [eBay](https://m3upt.com/ebay)
-* [Amazon](https://m3upt.com/amazon)
-* [DHgate](https://m3upt.com/DHgate)
+- [AliExpress](https://m3upt.com/aliexpress)
+- [Geekbuying](https://m3upt.com/geekbuying)
+- [Banggood](https://m3upt.com/banggood)
+- [eBay](https://m3upt.com/ebay)
+- [Amazon](https://m3upt.com/amazon)
+- [DHgate](https://m3upt.com/dhgate)
 
 Se clicar nestes links e comprar alguma coisa, eu poderei receber uma pequena comissão. Não lhe sai mais caro e assim ajuda a manter este projeto em funcionamento.
 
 ---
 
-* Pode usar a secção [Issues](https://github.com/LITUATUI/M3UPT/issues) para reportar bugs ou links inválidos e a secção [Discussions](https://github.com/LITUATUI/M3UPT/discussions) para sugestões ou assuntos diversos.
+Este é um projecto de código aberto.
 
-* Visite a [página oficial](https://m3upt.com).
-
-* No Telegram adira ao [canal](https://t.me/m3upt) para ficar actualizado e ao [grupo](https://t.me/m3uptchat) para conversar.
-
-* Apoie este projecto com a compra de uma [TV Box](https://m3upt.com/tvbox) já configurada ou com um [donativo](https://m3upt.com/donativo). O seu apoio incentiva-me a dedicar mais tempo a este projeto.
+- Visite a página do projeto no [GitHub](https://github.com/LITUATUI/M3UPT).
+- Pode usar a secção [Issues](https://github.com/LITUATUI/M3UPT/issues) para reportar bugs ou links inválidos e a secção [Discussions](https://github.com/LITUATUI/M3UPT/discussions) para sugestões ou assuntos diversos.
+- No Telegram adira ao [canal](https://t.me/m3upt) para ficar actualizado e ao [grupo](https://t.me/m3uptchat) para conversar.
+- Apoie este projecto com a compra de uma [TV Box](https://m3upt.com/tvbox) já configurada ou com um [donativo](https://m3upt.com/donativo). O seu apoio incentiva-me a dedicar mais tempo a este projeto.
 
 ---
 
