@@ -144,7 +144,7 @@ All you need to get started is to configure your favorite IPTV player with the M
 
 **Recommended settings:**
 
-- Options - Playback - Engine: MediaPlayer
+- Options - Playback - Engine: ExoPlayer or MediaPlayer
 
 [🖧 Download](https://www.progdvb.com/progtva_download.html)
 

@@ -148,7 +148,7 @@ Configurações > Configurações adicionais > Backup e Restauração > Restaura
 
 **Configurações recomendadas:**
 
-- Opções - Opções de reprodução - Motor: MediaPlayer
+- Opções - Opções de reprodução - Motor: ExoPlayer ou MediaPlayer
 
 [🖧 Download](https://www.progdvb.com/progtva_download.html)
 
