@@ -128,7 +128,7 @@ This is the recommended player for Android TV.
 
 #### 🥇 Yuki-IPTV
 
-This is the recommended play for GNU/Linux computers.
+This is the recommended player for GNU/Linux computers.
 
 ![Yuki-IPTV screenshot](/images/Yuki-IPTV-M3UPT-playlist.avif "Yuki-IPTV screenshot")
 
