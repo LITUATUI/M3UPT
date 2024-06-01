@@ -134,7 +134,7 @@ All you need to get started is to configure your favorite IPTV player with the M
 
 **Recommended settings:**
 
-- Restore this backup: vhUAch (password: M3UPT)
+- Restore this backup: vGvxUo (password: M3UPT)
 
 [🖧 Download](https://m3upt.com/ottnavigator)
 
