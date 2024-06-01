@@ -114,9 +114,9 @@ Tudo o que precisa para começar é configurar o seu leitor de IPTV favorito com
 
 ---
 
-### 🎬 Leitores de IPTV recomendados
+## 🎬 Leitores de IPTV recomendados
 
-#### 🥇 OTT Navigator IPTV
+### 🥇 OTT Navigator IPTV
 
 Este é o leitor recomendado para Android TV.
 
@@ -130,9 +130,10 @@ Para aplicar o código de backup, siga os seguintes passos após instalar a apli
 
 Configurações > Configurações adicionais > Backup e Restauração > Restaurar um backup de configuração feito anteriormente > inserir código > Restaurar posição (Todos) > inserir senha > reiniciar aplicação
 
-[🖧 Download](https://m3upt.com/ottnavigator)
+[⬇️ Download](https://m3upt.com/ottnavigator)
+[🔑 Downloader](https://play.google.com/store/apps/details?id=com.esaba.downloader): 674083
 
-#### 🥇 Yuki-IPTV
+### 🥇 Yuki-IPTV
 
 Este é o leitor recomendado para computadores GNU/Linux.
 
@@ -148,7 +149,7 @@ Este é o leitor recomendado para computadores GNU/Linux.
 
 [🖧 Download](https://codeberg.org/Ame-chan-angel/yuki-iptv)
 
-#### 🥇 Kodi com PVR IPTV Simple Client
+### 🥇 Kodi com PVR IPTV Simple Client
 
 Este é o leitor recomendado para as restantes plataformas.
 

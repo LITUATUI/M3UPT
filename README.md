@@ -112,9 +112,9 @@ All you need to get started is to configure your favorite IPTV player with the M
 
 ---
 
-### 🎬 Recommended IPTV players
+## 🎬 Recommended IPTV players
 
-#### 🥇 OTT Navigator IPTV
+### 🥇 OTT Navigator IPTV
 
 This is the recommended player for Android TV.
 
@@ -124,9 +124,10 @@ This is the recommended player for Android TV.
 
 - Restore this backup: vGvxUo (password: M3UPT)
 
-[🖧 Download](https://m3upt.com/ottnavigator)
+[⬇️ Download](https://m3upt.com/ottnavigator)
+[🔑 Downloader](https://play.google.com/store/apps/details?id=com.esaba.downloader): 674083
 
-#### 🥇 Yuki-IPTV
+### 🥇 Yuki-IPTV
 
 This is the recommended player for GNU/Linux computers.
 
@@ -142,7 +143,7 @@ This is the recommended player for GNU/Linux computers.
   
 [🖧 Download](https://codeberg.org/Ame-chan-angel/yuki-iptv)
 
-#### 🥇 Kodi with PVR IPTV Simple Client
+### 🥇 Kodi with PVR IPTV Simple Client
 
 This is the recommended player for the remaining platforms.
 
