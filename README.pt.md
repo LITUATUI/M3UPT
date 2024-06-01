@@ -2,13 +2,21 @@
 
 Lista de IPTV gratuita e legal em formato M3U com canais de 📺 TV e estações de 📻 rádio em 🇵🇹 Português. Apenas com streams públicos e oficiais.
 
+---
+
 ## 🎯 Objectivo
 
 Disponibilizar uma lista de IPTV legal e gratuita em formato M3U com canais de TV e estações de rádio em Português.
 
+---
+
 ## ❓ Porquê?
 
+---
+
 Não é fácil para falantes de português a viver no estrangeiro manter contacto com a sua cultura. Este projecto também ajuda qualquer pessoa que esteja a tentar aprender Português ou simplesmente curiosa sobre a língua.
+
+---
 
 ## 📺 Principais canais de TV portugueses 🇵🇹
 
@@ -93,6 +101,8 @@ Não é fácil para falantes de português a viver no estrangeiro manter contact
 
 - Mais de 100 cameras em praias portuguesas
 
+---
+
 ## 🧭 Começar
 
 Tudo o que precisa para começar é configurar o seu leitor de IPTV favorito com o endereço da lista M3U. Não terá de configurar o endereço do EPG na maior parte dos leitores, porque ele será automaticamente extraído da própria lista M3U.
@@ -102,33 +112,13 @@ Tudo o que precisa para começar é configurar o seu leitor de IPTV favorito com
 - **M3U**: <https://m3upt.com/iptv>
 - **EPG**: <https://m3upt.com/epg> 
 
+---
+
 ### 🎬 Leitores de IPTV recomendados
 
-#### 🥇 Kodi com PVR IPTV Simple Client
-
-![Kodi screenshot](/images/Kodi-M3UPT-playlist.avif "Kodi screenshot")
-
-**Configurações recomendadas:**
-
-- Deverá instalar o addon YouTube e configurar as suas legendas para pt-PT (Sem gerador automático).
-
-[🖧 Download](https://kodi.tv/download/)
-
-#### 🥇 Yuki-IPTV
-
-![Yuki-IPTV screenshot](/images/Yuki-IPTV-M3UPT-playlist.avif "Yuki-IPTV screenshot")
-
-**Configurações recomendadas:**
-
-- Main - Open previous channel on startup ✅
-- Video - Deinterlace ✅
-- Video - Hardware acceleration ✅ 
-- Network - Cache: 4
-- Debug - Automatic reconnection ✅
-
-[🖧 Download](https://codeberg.org/Ame-chan-angel/yuki-iptv)
-
 #### 🥇 OTT Navigator IPTV
+
+Este é o leitor recomendado para Android TV.
 
 ![OTT Navigator IPTV screenshot](/images/OTT-Navigator-IPTV-M3UPT-playlist.avif "OTT Navigator IPTV screenshot")
 
@@ -142,28 +132,33 @@ Configurações > Configurações adicionais > Backup e Restauração > Restaura
 
 [🖧 Download](https://m3upt.com/ottnavigator)
 
-#### 🥈 ProgTV
+#### 🥇 Yuki-IPTV
 
-![ProgTV screenshot](/images/ProgTV-M3UPT-playlist.avif "ProgTV screenshot")
+Este é o leitor recomendado para computadores GNU/Linux.
 
-**Configurações recomendadas:**
-
-- Opções - Opções de reprodução - Motor: ExoPlayer ou MediaPlayer
-
-[🖧 Download](https://www.progdvb.com/progtva_download.html)
-
-#### 🥉 Perfect Player
-
-![Perfect Player screenshot](/images/Perfect-Player-M3UPT-playlist.avif "Perfect Player screenshot")
+![Yuki-IPTV screenshot](/images/Yuki-IPTV-M3UPT-playlist.avif "Yuki-IPTV screenshot")
 
 **Configurações recomendadas:**
 
-- GUI - Mostrar grupos de canais como pastas ✅
-- Reprodução - Descodificador: Hardware
-- Reprodução - Tamanho do buffer: 4
-- Reprodução - User-Agent: Firefox
+- Main - Open previous channel on startup ✅
+- Video - Deinterlace ✅
+- Video - Hardware acceleration ✅ 
+- Network - Cache: 4
+- Debug - Automatic reconnection ✅
 
-[🖧 Download](https://m3upt.com/perfectplayer)
+[🖧 Download](https://codeberg.org/Ame-chan-angel/yuki-iptv)
+
+#### 🥇 Kodi com PVR IPTV Simple Client
+
+Este é o leitor recomendado para as restantes plataformas.
+
+![Kodi screenshot](/images/Kodi-M3UPT-playlist.avif "Kodi screenshot")
+
+**Configurações recomendadas:**
+
+- Deverá instalar o addon YouTube e configurar as suas legendas para pt-PT (Sem gerador automático).
+
+[🖧 Download](https://kodi.tv/download/)
 
 ---
 

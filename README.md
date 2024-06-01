@@ -2,13 +2,19 @@
 
 Free and legal IPTV playlist in M3U format with 📺 TV channels and 📻 radio stations in 🇵🇹 Portuguese. Public and official streams only.
 
+---
+
 ## 🎯 Purpose
 
 Offer a free and legal IPTV playlist in M3U format with TV channels and radio stations in Portuguese.
 
+---
+
 ## ❓ Why?
 
 It's not easy for Portuguese speakers living abroad stay in touch with their culture. This project can also help any person trying to learn Portuguese or just curious about the language.
+
+---
 
 ## 📺 Main Portuguese TV channels 🇵🇹
 
@@ -93,6 +99,8 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 
 - Over 100 cameras in Portuguese beaches
 
+---
+
 ## 🧭 Getting started
 
 All you need to get started is to configure your favorite IPTV player with the M3U link. You don't need to configure the EPG link in most players, because they'll get it automatically from the M3U playlist.
@@ -101,20 +109,26 @@ All you need to get started is to configure your favorite IPTV player with the M
 
 - **M3U**: <https://m3upt.com/iptv>
 - **EPG**: <https://m3upt.com/epg>
-  
+
+---
+
 ### 🎬 Recommended IPTV players
 
-#### 🥇 Kodi with PVR IPTV Simple Client
+#### 🥇 OTT Navigator IPTV
 
-![Kodi screenshot](/images/Kodi-M3UPT-playlist.avif "Kodi screenshot")
+This is the recommended player for Android TV.
+
+![OTT Navigator IPTV screenshot](/images/OTT-Navigator-IPTV-M3UPT-playlist.avif "OTT Navigator IPTV screenshot")
 
 **Recommended settings:**
 
-- You should install YouTube addon and configure its subtitles to pt-PT (No auto-generated).
+- Restore this backup: vGvxUo (password: M3UPT)
 
-[🖧 Download](https://kodi.tv/download/)
+[🖧 Download](https://m3upt.com/ottnavigator)
 
 #### 🥇 Yuki-IPTV
+
+This is the recommended play for GNU/Linux computers.
 
 ![Yuki-IPTV screenshot](/images/Yuki-IPTV-M3UPT-playlist.avif "Yuki-IPTV screenshot")
 
@@ -128,38 +142,17 @@ All you need to get started is to configure your favorite IPTV player with the M
   
 [🖧 Download](https://codeberg.org/Ame-chan-angel/yuki-iptv)
 
-#### 🥇 OTT Navigator IPTV
+#### 🥇 Kodi with PVR IPTV Simple Client
 
-![OTT Navigator IPTV screenshot](/images/OTT-Navigator-IPTV-M3UPT-playlist.avif "OTT Navigator IPTV screenshot")
+This is the recommended player for the remaining platforms.
 
-**Recommended settings:**
-
-- Restore this backup: vGvxUo (password: M3UPT)
-
-[🖧 Download](https://m3upt.com/ottnavigator)
-
-#### 🥈 ProgTV
-
-![ProgTV screenshot](/images/ProgTV-M3UPT-playlist.avif "ProgTV screenshot")
+![Kodi screenshot](/images/Kodi-M3UPT-playlist.avif "Kodi screenshot")
 
 **Recommended settings:**
 
-- Options - Playback - Engine: ExoPlayer or MediaPlayer
+- You should install YouTube addon and configure its subtitles to pt-PT (No auto-generated).
 
-[🖧 Download](https://www.progdvb.com/progtva_download.html)
-
-#### 🥉 Perfect Player
-
-![Perfect Player screenshot](/images/Perfect-Player-M3UPT-playlist.avif "Perfect Player screenshot")
-
-**Recommended settings:**
-
-- GUI - Show channels groups as folders ✅
-- Playback - Decoder: Hardware
-- Playback - Buffer size: 4
-- Playback - User-Agent: Firefox
-
-[🖧 Download](https://m3upt.com/perfectplayer)
+[🖧 Download](https://kodi.tv/download/)
 
 ---
 
