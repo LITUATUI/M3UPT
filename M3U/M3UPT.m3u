@@ -22,7 +22,7 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 #EXTINF:-1 group-title="TV" tvg-id="TVI.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjQgMjo1OjE1IFBNJmhhc2hfdmFsdWU9cVpmQjlBR1BNSnMyRVJmT0ltQnJkdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTFjMTQ0NzZmLTZkZTktNDk0ZC1hYTk5LWY5YjRmZmUwODFjZA==/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMjQgODo1OjM3IFBNJmhhc2hfdmFsdWU9aUxPcFF0SkJWNGRqczJMS1ArbnlFQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTVjZTFlYmMyLTg5MTgtNGMyMC1iNTQzLWM0MDc5NWY0ZmU0Zg==/
 
 #EXTINF:-1 group-title="TV" tvg-id="RTP3.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP3.png",RTP 3
 #EXTVLCOPT:http-user-agent=Firefox
@@ -36,7 +36,7 @@ https://sicnot.live.impresa.pt/sicnot.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjQgMjo1OjE2IFBNJmhhc2hfdmFsdWU9a3pmeXFlTWdmbE0zQVlTWGRoaWMyZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWYxYTU5MzI5LWYxN2YtNDNkMC1iNDAzLTZhYjJkMTcwYjNiZA==/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMjQgODo1OjM3IFBNJmhhc2hfdmFsdWU9Um9vb1N3SE41MmpHUjdzZXpkb1VSUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWZjOGUzNjNmLTQwYTMtNDg2MC05NmU1LTZkNDBiZDcxNDVhOQ==/
 
 #EXTINF:-1 group-title="TV" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews PT
 #KODIPROP:inputstream=inputstream.adaptive
@@ -75,7 +75,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="TVIInt.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",TVI Internacional
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjQgMjo1OjE3IFBNJmhhc2hfdmFsdWU9dHNlVWQ2RkxtcVBvWkJ1a09iaEdHdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTNlZDhhNDQzLTc5MmItNDVlZi1hZTZmLTMwY2EyZTgwMzcxYQ==/
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMjQgODo1OjM4IFBNJmhhc2hfdmFsdWU9R3diS0FxVHNOVkJXVFZIRGtKMS9nUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTRkZWEyNGUyLTliN2UtNGEzMS1hZGE4LWQwMTEwMDYzZTIxYw==/
 
 #EXTINF:-1 group-title="TV" tvg-id="TVIAfrica.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI_África.png",TVI África
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1878,6 +1878,9 @@ https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p9780/p9780_1_20220411
 
 # Eixo do Mal
 
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 5/7/2024
+https://videos.impresa.pt/videos/hls/sicnot/2024/07/04/99778176-6691-4ead-9eb6-e0f36d93e81e/video.m3u8
+
 #EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 27/6/2024
 https://videos.impresa.pt/videos/hls/sicnot/2024/06/27/601e72aa-e4ae-4c04-ae7d-c1301da57d26/video.m3u8
 
@@ -2192,6 +2195,9 @@ https://content.jwplatform.com/manifests/jL3dl5uq.m3u8
 
 
 # Programa Cujo Nome Estamos Legalmente Impedidos de Dizer
+
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 6/7/2024
+https://videos.impresa.pt/videos/hls/sicnot/2024/07/05/0d74fc1f-f9ba-4d6e-92c7-a749819116d6/video.m3u8
 
 #EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 28/6/2024
 https://videos.impresa.pt/videos/hls/sicnot/2024/06/28/0acf052e-c933-46e3-8a5b-ae99fbeb18ac/video.m3u8
