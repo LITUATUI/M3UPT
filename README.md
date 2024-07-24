@@ -122,7 +122,7 @@ This is the recommended player for Android TV.
 
 **Recommended settings:**
 
-- Restore this backup: vGvxUo (password: M3UPT)
+- Restore this backup: RQ2M2F (password: M3UPT)
 
 - [⬇️ Download](https://m3upt.com/ottnavigator)
 - [🔑 Downloader](https://play.google.com/store/apps/details?id=com.esaba.downloader): 674083
