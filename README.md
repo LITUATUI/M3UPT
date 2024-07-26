@@ -141,7 +141,7 @@ This is the recommended player for GNU/Linux computers.
 - Network - Cache: 4
 - Debug - Automatic reconnection ✅
   
-[🖧 Download](https://codeberg.org/Ame-chan-angel/yuki-iptv)
+[🖧 Download](https://codeberg.org/liya/yuki-iptv)
 
 ### 🥇 Kodi with PVR IPTV Simple Client
 
