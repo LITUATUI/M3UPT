@@ -178,8 +178,7 @@ Para uma boa experiência de utilização o seu aparelho deverá ter um bom proc
 - **SoC**: Amlogic S905W2, S905Y4, S905X4 ou S928X (rápido, eficiente e suporta o moderno codec de vídeo AV1)
 - **RAM**: 4 GB
 - **Armazenamento interno**: 64 GB
-- **Modelo**: [H96 Max W2](https://m3upt.com/h96-max-w2)
-- **Firmware**: [slimBOXtv (versão ATV)](https://slimboxtv.ru/h96-max-w2/)
+- **Firmware**: [slimBOXtv (versão ATV)](https://slimboxtv.ru/)
 
 Normalmente TV boxes Android com processadores Amlogic são melhores que aparelhos com processadores Rockchip ou Allwinner.
 
