@@ -124,7 +124,7 @@ Este é o leitor recomendado para Android TV.
 
 **Configurações recomendadas:**
 
-- Restaure este backup: KgreeT (senha: 12345)
+- Restaure este backup: gh4you (senha: 20824)
 
 Para aplicar o código de backup, siga os seguintes passos após instalar a aplicação OTT Navigator IPTV:
 
