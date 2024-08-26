@@ -470,15 +470,15 @@ https://multimedia.eitb.eus/live-content/etb1hd-hls/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://multimedia.eitb.eus/live-content/etb2hd-hls/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="ETBBasque.es" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/EITB-EUS.png",EITB.EUS
+#EXTINF:-1 group-title="TV" tvg-id="ETBBasque.es" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/EITB-EUS.png",EITB Basque
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://live-dvr.eitb-fastly.cross-media.es/live-content/eitbbasque-hls/index.m3u8
+https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="CanalExtremadura.es" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal-Extremadura.png",Canal Extremadura
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://cdnlive.codev8.net/canalextremaduralive/smil:channel1.smil/playlist.m3u8
+https://cdnapisec.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_1u7ssdy3/protocol/https/format/applehttp/flavorIds/1_8xbndriw/a.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="CubavisionInternacional.cu" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Cubavisión-Internacional.png",Cubavisión Internacional
 #EXTVLCOPT:http-referrer=https://teveo.cu/
@@ -532,7 +532,7 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="Gulli.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Gulli.png",Gulli
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8
+https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758d6dd50/cmaf/hlsfmp4_short_q2hyb21h_gulli_sd_index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/On-FM.png",On FM Portugal
 #KODIPROP:inputstream=inputstream.adaptive
