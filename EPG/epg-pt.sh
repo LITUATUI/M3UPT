@@ -18,6 +18,10 @@ npm run grab -- --site=nostv.pt --output=../EPG/epg-nos-pt.xml --days=7 --maxCon
 
 npm run grab -- --site=rtp.pt --output=../EPG/epg-rtp-pt.xml --days=7 --maxConnections=5
 
+# Meuguia EPG
+
+npm run grab -- --site=meuguia.tv --output=../EPG/epg-meuguia-br.xml --days=7 --maxConnections=10
+
 # Rytec EPG
 
 cd ../EPG
