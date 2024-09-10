@@ -20,7 +20,7 @@ npm run grab -- --site=rtp.pt --output=../EPG/epg-rtp-pt.xml --days=7 --maxConne
 
 # Mi.tv EPG
 
-npm run grab -- --channels=sites/mi.tv/mi.tv_br.channels.xml --output=../EPG/epg-meuguia-br.xml --days=7 --maxConnections=10
+npm run grab -- --channels=sites/mi.tv/mi.tv_br.channels.xml --output=../EPG/epg-mitv-br.xml --days=7 --maxConnections=10
 
 # Rytec EPG
 
