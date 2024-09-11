@@ -169,7 +169,7 @@ https://cbtvnow.com:5866/hls/livest2024.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Futura [Brazil]" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal-Futura.png",Canal Futura
+#EXTINF:-1 group-title="TV" tvg-id="CanalFutura.br" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal-Futura.png",Canal Futura
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://tv.unisc.br/hls/test.m3u8
