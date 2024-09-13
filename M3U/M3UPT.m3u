@@ -332,16 +332,6 @@ https://37c774660687468c821a51190046facf.mediatailor.us-east-1.amazonaws.com/v1/
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="NASA TV Public" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NASA.png",NASA TV Public
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="NASA TV Media" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NASA.png",NASA TV Media
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-
 #EXTINF:-1 group-title="TV" tvg-id="BloombergTVEurope.uk" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Bloomberg.png",Bloomberg TV Europe
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
