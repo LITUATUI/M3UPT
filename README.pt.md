@@ -124,7 +124,7 @@ Este é o leitor recomendado para Android TV.
 
 **Configurações recomendadas:**
 
-- Restaure este backup: TWa4S6 (senha: 12345)
+- Restaure este backup: oC2QUQ (senha: 12345)
 
 Para aplicar o código de backup, siga os seguintes passos após instalar a aplicação OTT Navigator IPTV:
 
