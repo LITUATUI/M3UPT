@@ -1442,6 +1442,14 @@ https://youtu.be/OXvGFE3JcdE
 
 # O Outro Lado
 
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T9E32 23/9/2024
+#EXTVLCOPT:http-user-agent=Firefox
+https://streaming-vod.rtp.pt/hls/nas2.share,/h264/512x384/p12784/p12784_1_20240923000000e032t4613.mp4,.urlset/master.m3u8
+
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T9E31 16/9/2024
+#EXTVLCOPT:http-user-agent=Firefox
+https://streaming-vod.rtp.pt/hls/nas2.share,/h264/512x384/p12784/p12784_1_20240916000000e031t0253.mp4,.urlset/master.m3u8
+
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T9E30 9/9/2024
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-vod.rtp.pt/hls/nas2.share,/h264/512x384/p12784/p12784_1_20240909000000e030t5078.mp4,.urlset/master.m3u8
