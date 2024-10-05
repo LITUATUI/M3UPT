@@ -1442,6 +1442,10 @@ https://youtu.be/OXvGFE3JcdE
 
 # O Outro Lado
 
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T9E33 30/9/2024
+#EXTVLCOPT:http-user-agent=Firefox
+https://streaming-vod.rtp.pt/hls/nas2.share,/h264/512x384/p12784/p12784_1_20240930000000e033t0283.mp4,.urlset/master.m3u8
+
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T9E32 23/9/2024
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-vod.rtp.pt/hls/nas2.share,/h264/512x384/p12784/p12784_1_20240923000000e032t4613.mp4,.urlset/master.m3u8
@@ -1881,6 +1885,9 @@ https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p9780/p9780_1_20220411
 
 # Eixo do Mal
 
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 4/10/2024
+https://videos.impresa.pt/videos/hls/sicnot/2024/10/03/0e3932dc-3e13-41c2-a631-0923b394b67b/video.m3u8
+
 #EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 26/9/2024
 https://videos.impresa.pt/videos/hls/sicnot/2024/09/26/6502a44c-2f4c-45e9-b613-3620874f324f/video.m3u8
 
@@ -2222,6 +2229,9 @@ https://content.jwplatform.com/manifests/jL3dl5uq.m3u8
 
 
 # Programa Cujo Nome Estamos Legalmente Impedidos de Dizer
+
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 4/10/2024
+https://videos.impresa.pt/videos/hls/sicnot/2024/10/04/549b91e4-540b-48a4-8c3d-567a521791da/video.m3u8
 
 #EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 28/9/2024
 https://videos.impresa.pt/videos/hls/sicnot/2024/09/27/884357b9-c531-498a-b19e-9efe08972e42/video.m3u8
