@@ -92,14 +92,6 @@ https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlis
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="SICNovelas.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Novelas.png",SIC Novelas
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTVLCOPT:http-referrer=https://opto.sic.pt/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
-https://production-fast-sic.content.okast.tv/fa2e8c4385712f9ae705b449477523ec/channels/d9070446-8448-455e-8075-773b1ba12562/f083c6ea-33af-458e-82c5-f27f6b42f9ec/media_.m3u8
-
 #EXTINF:-1 group-title="TV" tvg-id="SICReplay.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Replay.png",SIC Replay
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTVLCOPT:http-referrer=https://opto.sic.pt/
