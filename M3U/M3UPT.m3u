@@ -25,6 +25,7 @@ https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="SICNoticias.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png",SIC Notícias
+#KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-referrer=https://sic.pt/
 https://sicnot.live.impresa.pt/sicnot.m3u8
 
