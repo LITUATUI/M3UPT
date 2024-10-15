@@ -291,6 +291,8 @@ https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="France24English.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/France-24.png",France 24 English
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="France24Espanol.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/France-24.png",France 24 Español
