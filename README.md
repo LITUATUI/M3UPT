@@ -125,7 +125,7 @@ This is the recommended player for Android.
 - Restore this backup: GBk43v (password: 12345)
 
 [⬇️ Download](https://m3upt.com/ottnavigator)
-- [🔑 Downloader](https://play.google.com/store/apps/details?id=com.esaba.downloader): 674083
+[🔑 Downloader](https://play.google.com/store/apps/details?id=com.esaba.downloader): 674083
 
 ### 🥈 ProgTV
 
@@ -152,7 +152,7 @@ This is another good player for Android.
 - Playback - User-Agent: Firefox
 
 [⬇️ Download](https://m3upt.com/perfectplayer)
-- [🔑 Downloader](https://play.google.com/store/apps/details?id=com.esaba.downloader): 721579 
+[🔑 Downloader](https://play.google.com/store/apps/details?id=com.esaba.downloader): 721579 
 
 ### 🥇 Yuki-IPTV
 
