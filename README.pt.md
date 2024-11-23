@@ -130,7 +130,7 @@ Para aplicar o código de backup, siga os seguintes passos após instalar a apli
 
 Configurações > Configurações adicionais > Backup e Restauração > Restaurar um backup de configuração feito anteriormente > inserir código > Restaurar posição (Todos) > inserir senha > reiniciar aplicação
 
-- [⬇️ Download](https://m3upt.com/ottnavigator)
+[⬇️ Download](https://m3upt.com/ottnavigator)
 - [🔑 Downloader](https://play.google.com/store/apps/details?id=com.esaba.downloader): 674083
 
 ### 🥈 ProgTV
@@ -143,7 +143,7 @@ Este é um bom leitor para Android.
 
 - Opções - Opções de reprodução - Motor: ExoPlayer ou MediaPlayer
 
-- [⬇️ Download](https://www.progdvb.com/progtva_download.html)
+[⬇️ Download](https://www.progdvb.com/progtva_download.html)
 
 ### 🥉 Perfect Player
 
@@ -157,7 +157,7 @@ Este é outro bom leitor para Android.
 - Reprodução - Descodificador: HW+
 - Reprodução - User-Agent: Firefox
 
-- [⬇️ Download](https://m3upt.com/perfectplayer)
+[⬇️ Download](https://m3upt.com/perfectplayer)
 - [🔑 Downloader](https://play.google.com/store/apps/details?id=com.esaba.downloader): 721579
 
 ### 🥇 Yuki-IPTV
@@ -173,7 +173,7 @@ Este é o leitor recomendado para computadores GNU/Linux.
 - Video - Hardware acceleration ✅ 
 - Debug - Automatic reconnection ✅
 
-- [⬇️ Download](https://codeberg.org/liya/yuki-iptv)
+[⬇️ Download](https://codeberg.org/liya/yuki-iptv)
 
 ### 🥇 Kodi com PVR IPTV Simple Client
 
@@ -185,7 +185,7 @@ Este é o leitor recomendado para as restantes plataformas.
 
 - Deverá instalar o addon YouTube e configurar as suas legendas para pt-PT (Sem gerador automático).
 
-- [⬇️ Download](https://kodi.tv/download/)
+[⬇️ Download](https://kodi.tv/download/)
 
 ---
 

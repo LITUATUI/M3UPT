@@ -124,7 +124,7 @@ This is the recommended player for Android.
 
 - Restore this backup: GBk43v (password: 12345)
 
-- [⬇️ Download](https://m3upt.com/ottnavigator)
+[⬇️ Download](https://m3upt.com/ottnavigator)
 - [🔑 Downloader](https://play.google.com/store/apps/details?id=com.esaba.downloader): 674083
 
 ### 🥈 ProgTV
@@ -137,7 +137,7 @@ This is good player for Android.
 
 - Options - Playback - Engine: ExoPlayer or MediaPlayer
 
-- [⬇️ Download](https://www.progdvb.com/progtva_download.html)
+[⬇️ Download](https://www.progdvb.com/progtva_download.html)
 
 ### 🥉 Perfect Player
 
@@ -151,7 +151,7 @@ This is another good player for Android.
 - Playback - Decoder: HW+
 - Playback - User-Agent: Firefox
 
-- [⬇️ Download](https://m3upt.com/perfectplayer)
+[⬇️ Download](https://m3upt.com/perfectplayer)
 - [🔑 Downloader](https://play.google.com/store/apps/details?id=com.esaba.downloader): 721579 
 
 ### 🥇 Yuki-IPTV
@@ -167,7 +167,7 @@ This is the recommended player for GNU/Linux computers.
 - Video - Hardware acceleration ✅ 
 - Debug - Automatic reconnection ✅
 
-- [⬇️ Download](https://codeberg.org/liya/yuki-iptv)
+[⬇️ Download](https://codeberg.org/liya/yuki-iptv)
 
 ### 🥇 Kodi with PVR IPTV Simple Client
 
@@ -179,7 +179,7 @@ This is the recommended player for the remaining platforms.
 
 - You should install YouTube addon and configure its subtitles to pt-PT (No auto-generated).
 
-- [⬇️ Download](https://kodi.tv/download/)
+[⬇️ Download](https://kodi.tv/download/)
 
 ---
 
