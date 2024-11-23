@@ -131,6 +131,7 @@ Para aplicar o código de backup, siga os seguintes passos após instalar a apli
 Configurações > Configurações adicionais > Backup e Restauração > Restaurar um backup de configuração feito anteriormente > inserir código > Restaurar posição (Todos) > inserir senha > reiniciar aplicação
 
 [⬇️ Download](https://m3upt.com/ottnavigator)
+
 [🔑 Downloader](https://play.google.com/store/apps/details?id=com.esaba.downloader): 674083
 
 ### 🥈 ProgTV
@@ -158,6 +159,7 @@ Este é outro bom leitor para Android.
 - Reprodução - User-Agent: Firefox
 
 [⬇️ Download](https://m3upt.com/perfectplayer)
+
 [🔑 Downloader](https://play.google.com/store/apps/details?id=com.esaba.downloader): 721579
 
 ### 🥇 Yuki-IPTV
