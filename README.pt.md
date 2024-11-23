@@ -122,7 +122,7 @@ Este é o leitor recomendado para Android.
 
 ![OTT Navigator IPTV screenshot](/images/OTT-Navigator-IPTV-M3UPT-playlist.avif "OTT Navigator IPTV screenshot")
 
-**Configurações recomendadas:**
+#### Configurações recomendadas:
 
 - Restaure este backup: GBk43v (senha: 12345)
 
@@ -139,9 +139,9 @@ Este é um bom leitor para Android.
 
 ![ProgTV screenshot](/images/ProgTV-M3UPT-playlist.avif "ProgTV screenshot")
 
-**Configurações recomendadas:**
+#### Configurações recomendadas:
 
-* Opções - Opções de reprodução - Motor: ExoPlayer ou MediaPlayer
+- Opções - Opções de reprodução - Motor: ExoPlayer ou MediaPlayer
 
 - [⬇️ Download](https://www.progdvb.com/progtva_download.html)
 
@@ -151,11 +151,11 @@ Este é outro bom leitor para Android.
 
 ![Perfect Player screenshot](/images/Perfect-Player-M3UPT-playlist.avif "Perfect Player screenshot")
 
-**Configurações recomendadas:**
+#### Configurações recomendadas:
 
-* GUI - Mostrar grupos de canais como pastas ✅
-* Reprodução - Descodificador: HW+
-* Reprodução - User-Agent: Firefox
+- GUI - Mostrar grupos de canais como pastas ✅
+- Reprodução - Descodificador: HW+
+- Reprodução - User-Agent: Firefox
 
 - [⬇️ Download](https://m3upt.com/perfectplayer)
 - [🔑 Downloader](https://play.google.com/store/apps/details?id=com.esaba.downloader): 721579
@@ -166,7 +166,7 @@ Este é o leitor recomendado para computadores GNU/Linux.
 
 ![Yuki-IPTV screenshot](/images/Yuki-IPTV-M3UPT-playlist.avif "Yuki-IPTV screenshot")
 
-**Configurações recomendadas:**
+#### Configurações recomendadas:
 
 - Main - Open previous channel on startup ✅
 - Video - Deinterlace ✅
@@ -181,7 +181,7 @@ Este é o leitor recomendado para as restantes plataformas.
 
 ![Kodi screenshot](/images/Kodi-M3UPT-playlist.avif "Kodi screenshot")
 
-**Configurações recomendadas:**
+#### Configurações recomendadas:
 
 - Deverá instalar o addon YouTube e configurar as suas legendas para pt-PT (Sem gerador automático).
 

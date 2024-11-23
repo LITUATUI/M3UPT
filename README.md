@@ -120,7 +120,7 @@ This is the recommended player for Android.
 
 ![OTT Navigator IPTV screenshot](/images/OTT-Navigator-IPTV-M3UPT-playlist.avif "OTT Navigator IPTV screenshot")
 
-**Recommended settings:**
+#### Recommended settings:
 
 - Restore this backup: GBk43v (password: 12345)
 
@@ -133,9 +133,9 @@ This is good player for Android.
 
 ![ProgTV screenshot](/images/ProgTV-M3UPT-playlist.avif "ProgTV screenshot")
 
-**Recommended settings:**
+#### Recommended settings:
 
-* Options - Playback - Engine: ExoPlayer or MediaPlayer
+- Options - Playback - Engine: ExoPlayer or MediaPlayer
 
 - [⬇️ Download](https://www.progdvb.com/progtva_download.html)
 
@@ -145,11 +145,11 @@ This is another good player for Android.
 
 ![Perfect Player screenshot](/images/Perfect-Player-M3UPT-playlist.avif "Perfect Player screenshot")
 
-**Recommended settings:**
+#### Recommended settings:
 
-* GUI - Show channels groups as folders ✅
-* Playback - Decoder: HW+
-* Playback - User-Agent: Firefox
+- GUI - Show channels groups as folders ✅
+- Playback - Decoder: HW+
+- Playback - User-Agent: Firefox
 
 - [⬇️ Download](https://m3upt.com/perfectplayer)
 - [🔑 Downloader](https://play.google.com/store/apps/details?id=com.esaba.downloader): 721579 
@@ -160,13 +160,13 @@ This is the recommended player for GNU/Linux computers.
 
 ![Yuki-IPTV screenshot](/images/Yuki-IPTV-M3UPT-playlist.avif "Yuki-IPTV screenshot")
 
-**Recommended settings:**
+#### Recommended settings:
 
 - Main - Open previous channel on startup ✅
 - Video - Deinterlace ✅
 - Video - Hardware acceleration ✅ 
 - Debug - Automatic reconnection ✅
-  
+
 - [⬇️ Download](https://codeberg.org/liya/yuki-iptv)
 
 ### 🥇 Kodi with PVR IPTV Simple Client
@@ -175,7 +175,7 @@ This is the recommended player for the remaining platforms.
 
 ![Kodi screenshot](/images/Kodi-M3UPT-playlist.avif "Kodi screenshot")
 
-**Recommended settings:**
+#### Recommended settings:
 
 - You should install YouTube addon and configure its subtitles to pt-PT (No auto-generated).
 
