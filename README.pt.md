@@ -118,7 +118,7 @@ Tudo o que precisa para começar é configurar o seu leitor de IPTV favorito com
 
 ### 🥇 OTT Navigator IPTV
 
-Este é o leitor recomendado para Android TV.
+Este é o leitor recomendado para Android.
 
 ![OTT Navigator IPTV screenshot](/images/OTT-Navigator-IPTV-M3UPT-playlist.avif "OTT Navigator IPTV screenshot")
 
@@ -133,6 +133,33 @@ Configurações > Configurações adicionais > Backup e Restauração > Restaura
 - [⬇️ Download](https://m3upt.com/ottnavigator)
 - [🔑 Downloader](https://play.google.com/store/apps/details?id=com.esaba.downloader): 674083
 
+### 🥈 ProgTV
+
+Este é um bom leitor para Android.
+
+![ProgTV screenshot](/images/ProgTV-M3UPT-playlist.avif "ProgTV screenshot")
+
+**Configurações recomendadas:**
+
+* Opções - Opções de reprodução - Motor: ExoPlayer ou MediaPlayer
+
+- [⬇️ Download](https://www.progdvb.com/progtva_download.html)
+
+### 🥉 Perfect Player
+
+Este é outro bom leitor para Android.
+
+![Perfect Player screenshot](/images/Perfect-Player-M3UPT-playlist.avif "Perfect Player screenshot")
+
+**Configurações recomendadas:**
+
+* GUI - Mostrar grupos de canais como pastas ✅
+* Reprodução - Descodificador: HW+
+* Reprodução - User-Agent: Firefox
+
+- [⬇️ Download](https://m3upt.com/perfectplayer)
+- [🔑 Downloader](https://play.google.com/store/apps/details?id=com.esaba.downloader): 721579
+
 ### 🥇 Yuki-IPTV
 
 Este é o leitor recomendado para computadores GNU/Linux.
@@ -144,10 +171,9 @@ Este é o leitor recomendado para computadores GNU/Linux.
 - Main - Open previous channel on startup ✅
 - Video - Deinterlace ✅
 - Video - Hardware acceleration ✅ 
-- Network - Cache: 4
 - Debug - Automatic reconnection ✅
 
-[🖧 Download](https://codeberg.org/liya/yuki-iptv)
+- [⬇️ Download](https://codeberg.org/liya/yuki-iptv)
 
 ### 🥇 Kodi com PVR IPTV Simple Client
 
@@ -159,7 +185,7 @@ Este é o leitor recomendado para as restantes plataformas.
 
 - Deverá instalar o addon YouTube e configurar as suas legendas para pt-PT (Sem gerador automático).
 
-[🖧 Download](https://kodi.tv/download/)
+- [⬇️ Download](https://kodi.tv/download/)
 
 ---
 
