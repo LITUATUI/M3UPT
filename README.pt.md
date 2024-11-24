@@ -1,12 +1,12 @@
 # M3UPT
 
-Lista de IPTV gratuita e legal em formato M3U com canais de 📺 TV e estações de 📻 rádio em 🇵🇹 Português. Apenas com streams públicos e oficiais.
+Lista de IPTV gratuita e legal em formato M3U com canais de 📺 TV e estações de 📻 rádio em 🇵🇹 português. Apenas com streams públicos e oficiais.
 
 ---
 
 ## 🎯 Objectivo
 
-Disponibilizar uma lista de IPTV legal e gratuita em formato M3U com canais de TV e estações de rádio em Português.
+Disponibilizar uma lista de IPTV legal e gratuita em formato M3U com canais de TV e estações de rádio em português.
 
 ---
 
@@ -14,7 +14,7 @@ Disponibilizar uma lista de IPTV legal e gratuita em formato M3U com canais de T
 
 ---
 
-Não é fácil para falantes de português a viver no estrangeiro manter contacto com a sua cultura. Este projecto também ajuda qualquer pessoa que esteja a tentar aprender Português ou simplesmente curiosa sobre a língua.
+Não é fácil para falantes de português a viver no estrangeiro manter contacto com a sua cultura. Este projecto também ajuda qualquer pessoa que esteja a tentar aprender português ou simplesmente curiosa sobre a língua.
 
 ---
 
