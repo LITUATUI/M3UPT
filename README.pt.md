@@ -194,7 +194,7 @@ Este é o leitor recomendado para as restantes plataformas.
 ## 📓 Notas
 
 - Os canais da RTP não abrem em alguns leitores.
-- Alguns canais só funcionam com IP português, quem vive fora de Portugal terá de usar uma [VPN](https://m3upt.com/vpn).
+- Alguns canais só funcionam com IP Português, quem vive fora de Portugal terá de usar uma [VPN](https://m3upt.com/vpn).
 - Alguns streams só funcionam no Kodi com o addon YouTube instalado.
 
 ---
