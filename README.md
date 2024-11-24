@@ -130,7 +130,7 @@ This is the recommended player for Android.
 
 ### 🥈 Perfect Player
 
-This is another good player for Android.
+This is a good player for Android.
 
 ![Perfect Player screenshot](/images/Perfect-Player-M3UPT-playlist.avif "Perfect Player screenshot")
 
@@ -146,7 +146,7 @@ This is another good player for Android.
 
 ### 🥉ProgTV
 
-This is good player for Android.
+This is another good player for Android.
 
 ![ProgTV screenshot](/images/ProgTV-M3UPT-playlist.avif "ProgTV screenshot")
 

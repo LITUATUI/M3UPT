@@ -136,7 +136,7 @@ Configurações > Configurações adicionais > Backup e Restauração > Restaura
 
 ### 🥈 Perfect Player
 
-Este é outro bom leitor para Android.
+Este é um bom leitor para Android.
 
 ![Perfect Player screenshot](/images/Perfect-Player-M3UPT-playlist.avif "Perfect Player screenshot")
 
@@ -152,7 +152,7 @@ Este é outro bom leitor para Android.
 
 ### 🥉 ProgTV
 
-Este é um bom leitor para Android.
+Este é outro bom leitor para Android.
 
 ![ProgTV screenshot](/images/ProgTV-M3UPT-playlist.avif "ProgTV screenshot")
 
