@@ -134,19 +134,7 @@ Configurações > Configurações adicionais > Backup e Restauração > Restaura
 
 [🔑 Downloader](https://play.google.com/store/apps/details?id=com.esaba.downloader): 674083
 
-### 🥈 ProgTV
-
-Este é um bom leitor para Android.
-
-![ProgTV screenshot](/images/ProgTV-M3UPT-playlist.avif "ProgTV screenshot")
-
-#### Configurações recomendadas:
-
-- Opções - Opções de reprodução - Motor: ExoPlayer ou MediaPlayer
-
-[⬇️ Download](https://www.progdvb.com/progtva_download.html)
-
-### 🥉 Perfect Player
+### 🥈 Perfect Player
 
 Este é outro bom leitor para Android.
 
@@ -161,6 +149,18 @@ Este é outro bom leitor para Android.
 [⬇️ Download](https://m3upt.com/perfectplayer)
 
 [🔑 Downloader](https://play.google.com/store/apps/details?id=com.esaba.downloader): 721579
+
+### 🥉 ProgTV
+
+Este é um bom leitor para Android.
+
+![ProgTV screenshot](/images/ProgTV-M3UPT-playlist.avif "ProgTV screenshot")
+
+#### Configurações recomendadas:
+
+- Opções - Opções de reprodução - Motor: ExoPlayer ou MediaPlayer
+
+[⬇️ Download](https://www.progdvb.com/progtva_download.html)
 
 ### 🥇 Yuki-IPTV
 

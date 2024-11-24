@@ -128,19 +128,7 @@ This is the recommended player for Android.
 
 [🔑 Downloader](https://play.google.com/store/apps/details?id=com.esaba.downloader): 674083
 
-### 🥈 ProgTV
-
-This is good player for Android.
-
-![ProgTV screenshot](/images/ProgTV-M3UPT-playlist.avif "ProgTV screenshot")
-
-#### Recommended settings:
-
-- Options - Playback - Engine: ExoPlayer or MediaPlayer
-
-[⬇️ Download](https://www.progdvb.com/progtva_download.html)
-
-### 🥉 Perfect Player
+### 🥈 Perfect Player
 
 This is another good player for Android.
 
@@ -155,6 +143,18 @@ This is another good player for Android.
 [⬇️ Download](https://m3upt.com/perfectplayer)
 
 [🔑 Downloader](https://play.google.com/store/apps/details?id=com.esaba.downloader): 721579 
+
+### 🥉ProgTV
+
+This is good player for Android.
+
+![ProgTV screenshot](/images/ProgTV-M3UPT-playlist.avif "ProgTV screenshot")
+
+#### Recommended settings:
+
+- Options - Playback - Engine: ExoPlayer or MediaPlayer
+
+[⬇️ Download](https://www.progdvb.com/progtva_download.html) 
 
 ### 🥇 Yuki-IPTV
 
