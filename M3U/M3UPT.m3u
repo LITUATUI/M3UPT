@@ -997,6 +997,10 @@ https://video-auth1.iol.pt/beachcam/bcbugio2/playlist.m3u8
 
 # O Outro Lado
 
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T9E42 2/12/2024
+#EXTVLCOPT:http-user-agent=Firefox
+https://streaming-vod.rtp.pt/hls/nas2.share,/h264/512x384/p12784/p12784_1_20241202000000e042t7330.mp4,.urlset/master.m3u8
+
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T9E41 25/11/2024
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-vod.rtp.pt/hls/nas2.share,/h264/512x384/p12784/p12784_2_20241125000000e041t7541.mp4,.urlset/master.m3u8
