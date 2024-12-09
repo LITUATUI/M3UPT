@@ -122,7 +122,7 @@ This is the recommended player for Android.
 
 #### Recommended settings:
 
-- Restore this backup: GBk43v (password: 12345)
+- Restore this backup: kZUvdt (password: 12345)
 
 [⬇️ Download](https://m3upt.com/ottnavigator)
 

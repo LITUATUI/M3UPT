@@ -124,7 +124,7 @@ Este é o leitor recomendado para Android.
 
 #### Configurações recomendadas:
 
-- Restaure este backup: GBk43v (senha: 12345)
+- Restaure este backup: kZUvdt (senha: 12345)
 
 Para aplicar o código de backup, siga os seguintes passos após instalar a aplicação OTT Navigator IPTV:
 
