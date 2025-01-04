@@ -122,7 +122,7 @@ This is the recommended player for Android.
 
 #### Recommended settings:
 
-- Restore this backup: kZUvdt (password: 12345)
+- Restore this backup: MatPFW (password: 12345)
 
 [⬇️ Download](https://m3upt.com/ottnavigator)
 
