@@ -1048,6 +1048,14 @@ https://video-auth1.iol.pt/beachcam/bcpauldomar2/playlist.m3u8
 
 # O Outro Lado
 
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T10E04 27/1/2025
+#EXTVLCOPT:http-user-agent=Firefox
+https://streaming-vod.rtp.pt/hls/nas2.share,/h264/512x384/p14403/p14403_1_20250127000000e004t1616.mp4,.urlset/master.m3u8
+
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T10E03 20/1/2025
+#EXTVLCOPT:http-user-agent=Firefox
+https://streaming-vod.rtp.pt/hls/nas2.share,/h264/512x384/p14403/p14403_1_20250120000000e003t7429.mp4,.urlset/master.m3u8
+
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T10E02 13/1/2025
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-vod.rtp.pt/hls/nas2.share,/h264/512x384/p14403/p14403_1_20250113000000e002t3980.mp4,.urlset/master.m3u8
@@ -1543,6 +1551,12 @@ https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p9780/p9780_1_20220411
 
 # Eixo do Mal
 
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 30/1/2025
+https://videos.impresa.pt/videos/hls/sicnot/2025/01/31/08e2e255-2175-4b13-9f21-ea8b57ba8f1b/video.m3u8
+
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 24/1/2025
+https://videos.impresa.pt/videos/hls/sicnot/2025/01/24/74975b8a-5778-4d06-8597-4ae170deba86/video.m3u8
+
 #EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 16/1/2025
 https://videos.impresa.pt/videos/hls/sicnot/2025/01/17/d0980971-cc55-4611-8035-82b08cb572e4/video.m3u8
 
@@ -1932,6 +1946,9 @@ https://content.jwplatform.com/manifests/jL3dl5uq.m3u8
 
 
 # Programa Cujo Nome Estamos Legalmente Impedidos de Dizer
+
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 25/1/2025
+https://videos.impresa.pt/videos/hls/sicnot/2025/01/24/fced37e6-30b3-4a1f-a729-ca01412705a6/video.m3u8
 
 #EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 18/1/2025
 https://videos.impresa.pt/videos/hls/sicnot/2025/01/18/5a31761f-c8bb-4d73-ac1a-5c9cddd9b34d/video.m3u8
