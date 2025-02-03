@@ -106,6 +106,10 @@ https://customer-3s66icmlj6pe1jxm.cloudflarestream.com/5591a95d07ca3d04141053f91
 #KODIPROP:inputstream=inputstream.adaptive
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 
+#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Cinemonde.png",Cinemonde
+#KODIPROP:inputstream=inputstream.adaptive
+https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
+
 #EXTINF:-1 group-title="TV" tvg-id="MyTimeMovieNetwork.br" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/My-Time-Movie-Network.png",MyTime Movie Network (BR)
 #KODIPROP:inputstream=inputstream.adaptive
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
