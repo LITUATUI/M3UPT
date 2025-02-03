@@ -247,9 +247,9 @@ https://youtube.com/watch?v=8BZpOolYLUA
 #KODIPROP:inputstream=inputstream.adaptive
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 group-title="TV",Fox Now
+#EXTINF:-1 group-title="TV" tvg-id="LiveNOWfromFOX.us",Fox Now
 #KODIPROP:inputstream=inputstream.adaptive
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="ABC News" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ABC-News.png",ABC News
 #KODIPROP:inputstream=inputstream.adaptive
