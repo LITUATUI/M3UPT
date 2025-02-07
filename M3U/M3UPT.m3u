@@ -156,11 +156,11 @@ https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="CanalMacau.mo" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TDM-Teledifusão_de_Macau.png",TDM - Teledifusão de Macau (PT)
 #KODIPROP:inputstream=inputstream.adaptive
-https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
+https://globallive.tdm.com.mo/ch2/ch2.live/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="TDMMacauSatellite.mo" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TDM-Teledifusão_de_Macau.png",TDM - Teledifusão de Macau (CN)
 #KODIPROP:inputstream=inputstream.adaptive
-https://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
+https://globallive.tdm.com.mo/ch1/ch1.live/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="TVM.mz" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVM.png",TVM
 #KODIPROP:inputstream=inputstream.adaptive
