@@ -18,7 +18,7 @@ Não é fácil para falantes de português a viver no estrangeiro manter contact
 
 ---
 
-## 📺 Principais canais de TV portugueses 🇵🇹
+## 📺 Principais canais de TV
 
 - RTP 1
 - RTP 2
@@ -34,27 +34,8 @@ Não é fácil para falantes de português a viver no estrangeiro manter contact
 - RTP Madeira
 - RTP África
 - RTP Internacional
-- ~~SIC Internacional~~
 - TVI Internacional
 - Porto Canal
-
-## 📻 Principais estações de rádio portuguesas 🇵🇹
-
-- Antena 1
-- Antena 2
-- Antena 3
-- Antena 1 Açores
-- Antena 1 Madeira
-- RDP Internacional
-- RDP África
-- Rádio Comercial
-- M80
-- Rádio Oxigénio
-- Rádio Renascença
-- TSF
-
-## 📺 Principais canais de TV internacionais 🌍
-
 - Euronews EN
 - Euronews ES
 - Euronews IT
@@ -75,10 +56,8 @@ Não é fácil para falantes de português a viver no estrangeiro manter contact
 - France 24 English
 - France 24 Español
 - France 24 Français
-- ~~CNN Brasil~~
 - CNN International
 - Reuters TV
-- NASA TV
 - NHK World
 - Deutsche Welle Español
 - Deutsche Welle Deutsch
@@ -93,8 +72,20 @@ Não é fácil para falantes de português a viver no estrangeiro manter contact
 - Red Bull TV
 - Fashion TV
 
-## 📻 Principais estações de rádio internacionais 🌍
+## 📻 Principais estações de rádio
 
+- Antena 1
+- Antena 2
+- Antena 3
+- Antena 1 Açores
+- Antena 1 Madeira
+- RDP Internacional
+- RDP África
+- Rádio Comercial
+- M80
+- Rádio Oxigénio
+- Rádio Renascença
+- TSF
 - Venice Classic Radio
 
 ## 🏖️ Beachcam
@@ -205,7 +196,6 @@ Para uma boa experiência de utilização o seu aparelho deverá ter um bom proc
 
 - **SoC**: Amlogic S905W2, S905Y4, S905X4 ou S928X (rápido, eficiente e suporta o moderno codec de vídeo AV1)
 - **RAM**: 4 GB
-- **Armazenamento interno**: 64 GB
 - **Firmware**: [slimBOXtv (versão ATV)](https://slimboxtv.ru/)
 
 Normalmente TV boxes Android com processadores Amlogic são melhores que aparelhos com processadores Rockchip ou Allwinner.

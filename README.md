@@ -16,7 +16,7 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 
 ---
 
-## 📺 Main Portuguese TV channels 🇵🇹
+## 📺 Main TV channels
 
 - RTP 1
 - RTP 2
@@ -32,12 +32,8 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 - RTP Madeira
 - RTP África
 - RTP Internacional
-- ~~SIC Internacional~~
 - TVI Internacional
 - Porto Canal
-
-## 📺 Main International TV channels 🌍
-
 - Euronews EN
 - Euronews ES
 - Euronews IT
@@ -58,10 +54,8 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 - France 24 English
 - France 24 Español
 - France 24 Français
-- ~~CNN Brasil~~
 - CNN International
 - Reuters TV
-- NASA TV
 - NHK World
 - Deutsche Welle Español
 - Deutsche Welle Deutsch
@@ -76,7 +70,7 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 - Red Bull TV
 - Fashion TV
 
-## 📻 Main Portuguese radio stations 🇵🇹
+## 📻 Main radio stations
 
 - Antena 1
 - Antena 2
@@ -90,9 +84,6 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 - Rádio Oxigénio
 - Rádio Renascença
 - TSF
-
-## 📻 Main International radio stations 🌍
-
 - Venice Classic Radio
 
 ## 🏖️ Beachcam
@@ -199,7 +190,6 @@ For a good experience you need a device with decent SoC and enough RAM. As a gen
 
 - **SoC**: Amlogic S905W2, S905Y4, S905X4 or S928X (fast, energy efficient and supports the modern AV1 video codec)
 - **RAM**: 4 GB
-- **Internal storage**: 64 GB
 - **Firmware**: [slimBOXtv (ATV version)](https://slimboxtv.ru/)
 
 Affordable Android TV boxes with Amlogic SoCs are usually much better supported than the ones powered by Rockchip or Allwinner.
