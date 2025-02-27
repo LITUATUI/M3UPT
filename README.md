@@ -113,7 +113,7 @@ This is the recommended player for Android.
 
 #### Recommended settings:
 
-- Restore this backup: dgNxmp (password: 12345)
+- Restore this backup: UvtX98 (password: 12345)
 
 [⬇️ Download](https://m3upt.com/ottnavigator)
 
