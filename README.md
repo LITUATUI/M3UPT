@@ -143,7 +143,7 @@ This is another good player for Android.
 
 #### Recommended settings:
 
-- Options - Playback - Engine: ExoPlayer or MediaPlayer
+- Options - Playback - Engine: ProgDVB Engine
 
 [⬇️ Download](https://www.progdvb.com/progtva_download.html) 
 

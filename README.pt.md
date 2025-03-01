@@ -149,7 +149,7 @@ Este é outro bom leitor para Android.
 
 #### Configurações recomendadas:
 
-- Opções - Opções de reprodução - Motor: ExoPlayer ou MediaPlayer
+- Opções - Opções de reprodução - Motor: ProgDVB Engine
 
 [⬇️ Download](https://www.progdvb.com/progtva_download.html)
 
