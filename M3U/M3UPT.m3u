@@ -99,7 +99,7 @@ https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/ch
 
 #EXTINF:-1 group-title="TV" tvg-id="PortoCanal.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Porto-Canal.png",Porto Canal
 #KODIPROP:inputstream=inputstream.adaptive
-https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
+https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Famatv.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Fama-TV.jpg",Fama TV
 #KODIPROP:inputstream=inputstream.adaptive
@@ -171,11 +171,11 @@ https://globallive.tdm.com.mo/ch1/ch1.live/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="TVM.mz" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVM.png",TVM
 #KODIPROP:inputstream=inputstream.adaptive
-http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8
+http://online.tvm.co.mz:1935/live/Channel1.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="TVMInternacional.mz" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVMI.png",TVM Internacional
 #KODIPROP:inputstream=inputstream.adaptive
-http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
+http://online.tvm.co.mz:1935/live/Channel2.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews EN
 #KODIPROP:inputstream=inputstream.adaptive
@@ -308,7 +308,7 @@ https://cdn.nhkworld.jp/www11/nhkworld-tv/domestic/2003459/live.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="ArirangTv.kr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Arirang_TV.png",Arirang TV
 #KODIPROP:inputstream=inputstream.adaptive
-https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/playlist.m3u8
+https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/arirang_1gch.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="KBSWorld.kr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/KBS-World.png",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
@@ -527,36 +527,36 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/va
 
 #EXTINF:-1 group-title="TV" tvg-id="AbuDhabiSports3.ae" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Abu-Dhabi-Sports-3.png",Abu Dhabi Sports 3
 #KODIPROP:inputstream=inputstream.adaptive
-#https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
+#https://admdn3.cdn.mangomolo.com/adsports3/adsports3.stream.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="AbuDhabiSports4.ae" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Abu-Dhabi-Sports-4.png",Abu Dhabi Sports 4
 #KODIPROP:inputstream=inputstream.adaptive
-#https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
+#https://admdn4.cdn.mangomolo.com/adsports4/adsports4.stream.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="YasTV.ae" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Yas-TV.png",Yas TV
 #KODIPROP:inputstream=inputstream.adaptive
-#https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
+#https://admdn1.cdn.mangomolo.com/yastv/yastv.stream.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="DubaiSports1.ae" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Dubai-Sports.png",Dubai Sports
 #KODIPROP:inputstream=inputstream.adaptive
-#https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
-https://dmitnthfrta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+#https://dmitnthvll.cdn.mangomolo.com/dubaisports/dubaisports.smil/index.m3u8
+https://dmitnthfrta.cdn.mgmlcdn.com/dubaisports/dubaisports.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="DubaiSports2.ae" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Dubai-Sports-2.png",Dubai Sports 2
 #KODIPROP:inputstream=inputstream.adaptive
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/dubaisportshd.smil/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="DubaiSports3.ae" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Dubai-Sports-3.png",Dubai Sports 3
 #KODIPROP:inputstream=inputstream.adaptive
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/dubaisportshd5.smil/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="DubaiRacing.ae" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Dubai-Racing.png",Dubai Racing
 #KODIPROP:inputstream=inputstream.adaptive
-#https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/index.m3u8
+#https://dmisvthvll.cdn.mangomolo.com/events/events.smil/index.m3u8
 
 #EXTINF:-1 group-title="TV"tvg-id="DubaiRacing2.ae" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Dubai-Racing.png",Dubai Racing 2
 #KODIPROP:inputstream=inputstream.adaptive
-#https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/index.m3u8
+#https://dmithrvll.cdn.mangomolo.com/dubairacing/dubairacing.smil/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="FashionTVEurope.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Fashion-TV.png",Fashion TV
 #KODIPROP:inputstream=inputstream.adaptive
@@ -572,7 +572,7 @@ https://cdn.wfc.tv/cdn/stream-eng.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="DubaiOne.ae" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Dubai-One.png",Dubai One
 #KODIPROP:inputstream=inputstream.adaptive
-#https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#https://dminnvll.cdn.mangomolo.com/dubaione/dubaione.stream.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="ICITele.ca" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ICI-Television.png",ICI Television
 #KODIPROP:inputstream=inputstream.adaptive
@@ -604,19 +604,19 @@ https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="KuriakosTV.pt" tvg-logo="http://www.kuriakos-tv.com/img/logo.png",Kuriakos TV
 #KODIPROP:inputstream=inputstream.adaptive
-https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
+https://w1.manasat.com/ktv/ktv.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="KuriakosCine.pt" tvg-logo="https://kuriakos-cine.com/wp-content/uploads/2022/11/Logo_cine.png",Kuriakos Cine
 #KODIPROP:inputstream=inputstream.adaptive
-https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+https://w2.manasat.com/kcine/kcine.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="KuriakosKids.pt" tvg-logo="https://kuriakos-kids.com/wp-content/uploads/2023/06/KuriakosKids_curvas.jpg",Kuriakos Kids
 #KODIPROP:inputstream=inputstream.adaptive
-https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+https://w2.manasat.com/kkids/kkids.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="KuriakosMusic.pt" tvg-logo="https://kuriakosmusic.com/wp-content/uploads/2022/11/263x196_v1.png",Kuriakos Music
 #KODIPROP:inputstream=inputstream.adaptive
-https://w2.manasat.com/kmusic/smil:kmusic.smil/playlist.m3u8
+https://w2.manasat.com/kmusic/kmusic.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="TVCancaoNova.pt" tvg-logo="https://tv.cancaonova.pt/wp-content/uploads/2016/01/logo_cn_radio.png",Canção Nova
 #KODIPROP:inputstream=inputstream.adaptive
