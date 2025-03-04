@@ -1138,6 +1138,10 @@ https://video-auth1.iol.pt/beachcam/bcpauldomar2/playlist.m3u8
 
 # O Outro Lado
 
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T10E09 3/3/2025
+#EXTVLCOPT:http-user-agent=IE
+https://streaming-vod.rtp.pt/hls/nas2.share,/h264/512x384/p14403/p14403_1_20250303000000e009t7206.mp4,.urlset/master.m3u8
+
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T10E08 24/2/2025
 #EXTVLCOPT:http-user-agent=IE
 https://streaming-vod.rtp.pt/hls/nas2.share,/h264/512x384/p14403/p14403_1_20250224000000e008t5769.mp4,.urlset/master.m3u8
