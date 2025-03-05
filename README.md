@@ -105,6 +105,8 @@ All you need to get started is to configure your favorite IPTV player with the M
 
 ## 🎬 Recommended IPTV players
 
+To get the best experience, I recommend to use one of the following IPTV players.
+
 ### 🥇 OTT Navigator IPTV
 
 This is the recommended player for Android.
@@ -119,9 +121,21 @@ This is the recommended player for Android.
 
 [🔑 Downloader](https://play.google.com/store/apps/details?id=com.esaba.downloader): 674083
 
-### 🥈 Perfect Player
+### 🥈ProgTV
 
 This is a good player for Android.
+
+![ProgTV screenshot](/images/ProgTV-M3UPT-playlist.avif "ProgTV screenshot")
+
+#### Recommended settings:
+
+- Options - Playback - Engine: ProgDVB Engine
+
+[⬇️ Download](https://www.progdvb.com/progtva_download.html) 
+
+### 🥉 Perfect Player
+
+This is another good player for Android.
 
 ![Perfect Player screenshot](/images/Perfect-Player-M3UPT-playlist.avif "Perfect Player screenshot")
 
@@ -133,19 +147,7 @@ This is a good player for Android.
 
 [⬇️ Download](https://m3upt.com/perfectplayer)
 
-[🔑 Downloader](https://play.google.com/store/apps/details?id=com.esaba.downloader): 721579 
-
-### 🥉ProgTV
-
-This is another good player for Android.
-
-![ProgTV screenshot](/images/ProgTV-M3UPT-playlist.avif "ProgTV screenshot")
-
-#### Recommended settings:
-
-- Options - Playback - Engine: ProgDVB Engine
-
-[⬇️ Download](https://www.progdvb.com/progtva_download.html) 
+[🔑 Downloader](https://play.google.com/store/apps/details?id=com.esaba.downloader): 721579
 
 ### 🥇 Yuki-IPTV
 

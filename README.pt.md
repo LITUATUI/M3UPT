@@ -107,6 +107,8 @@ Tudo o que precisa para começar é configurar o seu leitor de IPTV favorito com
 
 ## 🎬 Leitores de IPTV recomendados
 
+Para ter uma melhor experiência recomendo o uso de um dos seguintes leitores de IPTV.
+
 ### 🥇 OTT Navigator IPTV
 
 Este é o leitor recomendado para Android.
@@ -125,9 +127,21 @@ Configurações > Configurações adicionais > Backup e Restauração > Restaura
 
 [🔑 Downloader](https://play.google.com/store/apps/details?id=com.esaba.downloader): 674083
 
-### 🥈 Perfect Player
+### 🥈 ProgTV
 
 Este é um bom leitor para Android.
+
+![ProgTV screenshot](/images/ProgTV-M3UPT-playlist.avif "ProgTV screenshot")
+
+#### Configurações recomendadas:
+
+- Opções - Opções de reprodução - Motor: ProgDVB Engine
+
+[⬇️ Download](https://www.progdvb.com/progtva_download.html)
+
+### 🥉 Perfect Player
+
+Este é outro bom leitor para Android.
 
 ![Perfect Player screenshot](/images/Perfect-Player-M3UPT-playlist.avif "Perfect Player screenshot")
 
@@ -140,18 +154,6 @@ Este é um bom leitor para Android.
 [⬇️ Download](https://m3upt.com/perfectplayer)
 
 [🔑 Downloader](https://play.google.com/store/apps/details?id=com.esaba.downloader): 721579
-
-### 🥉 ProgTV
-
-Este é outro bom leitor para Android.
-
-![ProgTV screenshot](/images/ProgTV-M3UPT-playlist.avif "ProgTV screenshot")
-
-#### Configurações recomendadas:
-
-- Opções - Opções de reprodução - Motor: ProgDVB Engine
-
-[⬇️ Download](https://www.progdvb.com/progtva_download.html)
 
 ### 🥇 Yuki-IPTV
 
