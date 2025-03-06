@@ -512,6 +512,10 @@ https://streamer-a01.videos.sapo.pt/live/radiosinesdireto/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="TV" tvg-id="TraceBrasil.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Trace_Brasil.png",Trace Brasil
+#KODIPROP:inputstream=inputstream.adaptive
+https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
+
 #EXTINF:-1 group-title="TV" tvg-id="TraceLatina.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TRACE-Latina.png",Trace Latina
 #KODIPROP:inputstream=inputstream.adaptive
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
