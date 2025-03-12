@@ -42,7 +42,7 @@ https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RTP3.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP3.png",RTP 3
 #EXTVLCOPT:http-user-agent=IE
-http://streaming-live-app.rtp.pt/liverepeater/rtpnHD.smil/playlist.m3u8
+#http://streaming-live-app.rtp.pt/liverepeater/rtpnHD.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RTP3.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP3.png",RTP 3
 #EXTVLCOPT:http-user-agent=IE
@@ -1146,6 +1146,10 @@ https://video-auth1.iol.pt/beachcam/bcpauldomar2/playlist.m3u8
 
 
 # O Outro Lado
+
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T10E10 10/3/2025
+#EXTVLCOPT:http-user-agent=IE
+https://streaming-vod.rtp.pt/hls/nas2.share,/h264/512x384/p14403/p14403_1_20250310000000e010t3979.mp4,.urlset/master.m3u8
 
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T10E09 3/3/2025
 #EXTVLCOPT:http-user-agent=IE
