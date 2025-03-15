@@ -85,6 +85,10 @@ https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/in
 #KODIPROP:inputstream=inputstream.adaptive
 https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDI1IDEyOjk6MjEgUE0maGFzaF92YWx1ZT1JWUpjNm5FeGZtUlJKZWVEcGg1eXZ3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OGE2NGU5ZmEtMGEzYy00NmI1LThmYTUtMjAxOGQ5ODgxMjEx/
 
+#EXTINF:-1 group-title="TV" tvg-id="CNNBrasil.br" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Brasil.png",CNN Brasil
+#KODIPROP:inputstream=inputstream.adaptive
+https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+
 #EXTINF:-1 group-title="TV" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews PT
 #KODIPROP:inputstream=inputstream.adaptive
 https://euronews-live-por-pt.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6572/7392d4f0-7e24-4dbe-8482-f165e712eeed/5.m3u8
@@ -2115,6 +2119,9 @@ https://content.jwplatform.com/manifests/jL3dl5uq.m3u8
 
 
 # Programa Cujo Nome Estamos Legalmente Impedidos de Dizer
+
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 14/3/2025
+https://videos.impresa.pt/videos/hls/sicnot/2025/03/14/010654da-76c8-492e-808b-0994b78b4a14/video.m3u8
 
 #EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 8/3/2025
 https://videos.impresa.pt/videos/hls/sicnot/2025/03/07/a073cc7b-9330-4298-9ba9-2381cc0e9a4c/video.m3u8
