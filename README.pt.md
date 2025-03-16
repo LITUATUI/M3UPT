@@ -109,9 +109,21 @@ Tudo o que precisa para começar é configurar o seu leitor de IPTV favorito com
 
 Para ter uma melhor experiência recomendo o uso de um dos seguintes leitores de IPTV.
 
-### 🥇 OTT Navigator IPTV
+---
 
-Este é o leitor recomendado para Android.
+### 🥇 Sparkle TV
+
+Actualmente, este é o único leitor de IPTV que abre os canais RTP 1 e RTP 2 que estão encriptados com DRM.
+
+![Sparkle TV screenshot](/images/Sparkle_TV.avif "Sparkle TV screenshot")
+
+[Google Play](https://play.google.com/store/apps/details?id=se.hedekonsult.sparkle)
+
+---
+
+### 🥇 OTT TV ou OTT Navigator IPTV (clones)
+
+Este era o leitor recomendado para Android, mas actualmente não abre os canais RTP.
 
 ![OTT Navigator IPTV screenshot](/images/OTT-Navigator-IPTV-M3UPT-playlist.avif "OTT Navigator IPTV screenshot")
 
@@ -123,9 +135,9 @@ Para aplicar o código de backup, siga os seguintes passos após instalar a apli
 
 Configurações > Configurações adicionais > Backup e Restauração > Restaurar um backup de configuração feito anteriormente > inserir código > Restaurar posição (Todos) > inserir senha > reiniciar aplicação
 
-[⬇️ Download](https://m3upt.com/ottnavigator)
+[Google Play](https://play.google.com/store/apps/details?id=appnovatica.tv)
 
-[🔑 Downloader](https://play.google.com/store/apps/details?id=com.esaba.downloader): 674083
+---
 
 ### 🥈 ProgTV
 
@@ -137,9 +149,11 @@ Este é um bom leitor para Android.
 
 - Opções - Opções de reprodução - Motor: ProgDVB Engine
 
-[⬇️ Download](https://www.progdvb.com/progtva_download.html)
+[Google Play](https://play.google.com/store/apps/details?id=com.progdvb.progtva) 
 
-### 🥉 Perfect Player
+---
+
+### 🥉 Perfect Player (descontinuado)
 
 Este é outro bom leitor para Android.
 
@@ -155,6 +169,8 @@ Este é outro bom leitor para Android.
 
 [🔑 Downloader](https://play.google.com/store/apps/details?id=com.esaba.downloader): 721579
 
+---
+
 ### 🥇 Yuki-IPTV
 
 Este é o leitor recomendado para computadores GNU/Linux.
@@ -169,6 +185,8 @@ Este é o leitor recomendado para computadores GNU/Linux.
 - Debug - Automatic reconnection ✅
 
 [⬇️ Download](https://codeberg.org/liya/yuki-iptv)
+
+---
 
 ### 🥇 Kodi com PVR IPTV Simple Client
 
@@ -186,7 +204,7 @@ Este é o leitor recomendado para as restantes plataformas.
 
 ## 📓 Notas
 
-- Os canais da RTP não abrem em alguns leitores.
+- Os canais da RTP não abrem em alguns leitores. Por enquanto utilize o Sparkle TV.
 - Alguns canais só funcionam com IP Português, quem vive fora de Portugal terá de usar uma [VPN](https://m3upt.com/vpn).
 - Alguns streams só funcionam no Kodi com o addon YouTube instalado.
 

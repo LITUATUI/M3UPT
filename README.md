@@ -103,13 +103,32 @@ All you need to get started is to configure your favorite IPTV player with the M
 
 ---
 
+## 🔗 Links to use in your IPTV player
+
+- **M3U**: <https://m3upt.com/iptv>
+- **EPG**: <https://m3upt.com/epg>
+
+---
+
 ## 🎬 Recommended IPTV players
 
 To get the best experience, I recommend to use one of the following IPTV players.
 
-### 🥇 OTT Navigator IPTV
+---
 
-This is the recommended player for Android.
+### 🥇 Sparkle TV
+
+Currently, this is the only IPTV player that opens the DRM encrypted RTP 1 and RTP 2 channels.
+
+![Sparkle TV screenshot](/images/Sparkle_TV.avif "Sparkle TV screenshot")
+
+[Google Play](https://play.google.com/store/apps/details?id=se.hedekonsult.sparkle)
+
+---
+
+### 🥇 OTT TV or OTT Navigator IPTV (clones)
+
+This was the previous recommended player for Android, but currently doesn't open the RTP channels.
 
 ![OTT Navigator IPTV screenshot](/images/OTT-Navigator-IPTV-M3UPT-playlist.avif "OTT Navigator IPTV screenshot")
 
@@ -117,9 +136,9 @@ This is the recommended player for Android.
 
 - Restore this backup: BhtPhj (password: 12345)
 
-[⬇️ Download](https://m3upt.com/ottnavigator)
+[Google Play](https://play.google.com/store/apps/details?id=appnovatica.tv)
 
-[🔑 Downloader](https://play.google.com/store/apps/details?id=com.esaba.downloader): 674083
+---
 
 ### 🥈ProgTV
 
@@ -131,9 +150,11 @@ This is a good player for Android.
 
 - Options - Playback - Engine: ProgDVB Engine
 
-[⬇️ Download](https://www.progdvb.com/progtva_download.html) 
+[Google Play](https://play.google.com/store/apps/details?id=com.progdvb.progtva) 
 
-### 🥉 Perfect Player
+---
+
+### 🥉 Perfect Player (discontinued)
 
 This is another good player for Android.
 
@@ -149,6 +170,8 @@ This is another good player for Android.
 
 [🔑 Downloader](https://play.google.com/store/apps/details?id=com.esaba.downloader): 721579
 
+---
+
 ### 🥇 Yuki-IPTV
 
 This is the recommended player for GNU/Linux computers.
@@ -163,6 +186,8 @@ This is the recommended player for GNU/Linux computers.
 - Debug - Automatic reconnection ✅
 
 [⬇️ Download](https://codeberg.org/liya/yuki-iptv)
+
+---
 
 ### 🥇 Kodi with PVR IPTV Simple Client
 
@@ -180,7 +205,7 @@ This is the recommended player for the remaining platforms.
 
 ## 📓 Notes
 
-- RTP channels don't open in some players.
+- RTP channels don't open in some players. For now use Sparkle TV.
 - Some channels only work with Portuguese IP, you need to use a [VPN](https://m3upt.com/vpn) if you live outside Portugal.
 - Some streams only work in Kodi with YouTube addon installed.
 
