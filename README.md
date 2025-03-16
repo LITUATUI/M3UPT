@@ -103,13 +103,6 @@ All you need to get started is to configure your favorite IPTV player with the M
 
 ---
 
-## 🔗 Links to use in your IPTV player
-
-- **M3U**: <https://m3upt.com/iptv>
-- **EPG**: <https://m3upt.com/epg>
-
----
-
 ## 🎬 Recommended IPTV players
 
 To get the best experience, I recommend to use one of the following IPTV players.
