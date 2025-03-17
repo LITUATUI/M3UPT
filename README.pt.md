@@ -250,4 +250,4 @@ Este é um projecto de código aberto.
 
 ## ⭐ Estrelas no GitHub
 
-[![Stargazers over time](https://starchart.cc/LITUATUI/M3UPT.svg)](https://starchart.cc/LITUATUI/M3UPT)
+[![Stargazers over time](https://starchart.cc/LITUATUI/M3UPT.svg?variant=adaptive)](https://starchart.cc/LITUATUI/M3UPT)

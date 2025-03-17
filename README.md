@@ -244,4 +244,4 @@ This is an open source project.
 
 ## ⭐ GitHub stars
 
-[![Stargazers over time](https://starchart.cc/LITUATUI/M3UPT.svg)](https://starchart.cc/LITUATUI/M3UPT)
+[![Stargazers over time](https://starchart.cc/LITUATUI/M3UPT.svg?variant=adaptive)](https://starchart.cc/LITUATUI/M3UPT)
