@@ -111,9 +111,9 @@ Para ter uma melhor experiência recomendo o uso de um dos seguintes leitores de
 
 ---
 
-### 🥇 Sparkle TV
+### 🏆 Sparkle TV
 
-Actualmente, este é o único leitor de IPTV que abre os canais RTP 1 e RTP 2 que estão encriptados com DRM.
+Actualmente, este é o único leitor de IPTV que abre todos os canais RTP - os que estão encriptados com DRM e os que não estão.
 
 ![Sparkle TV screenshot](/images/Sparkle_TV.avif "Sparkle TV screenshot")
 
@@ -123,7 +123,7 @@ Actualmente, este é o único leitor de IPTV que abre os canais RTP 1 e RTP 2 qu
 
 ### 🥇 OTT TV ou OTT Navigator IPTV (clones)
 
-Este era o leitor recomendado para Android, mas actualmente não abre os canais RTP.
+Este era o leitor recomendado para Android, mas actualmente não abre todos os canais RTP.
 
 ![OTT Navigator IPTV screenshot](/images/OTT-Navigator-IPTV-M3UPT-playlist.avif "OTT Navigator IPTV screenshot")
 

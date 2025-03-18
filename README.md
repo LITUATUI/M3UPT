@@ -109,9 +109,9 @@ To get the best experience, I recommend to use one of the following IPTV players
 
 ---
 
-### 🥇 Sparkle TV
+### 🏆 Sparkle TV
 
-Currently, this is the only IPTV player that opens the DRM encrypted RTP 1 and RTP 2 channels.
+Currently, this is the only IPTV player that opens all RTP channels - the ones that are DRM encrypted and the ones that aren't.
 
 ![Sparkle TV screenshot](/images/Sparkle_TV.avif "Sparkle TV screenshot")
 
@@ -121,7 +121,7 @@ Currently, this is the only IPTV player that opens the DRM encrypted RTP 1 and R
 
 ### 🥇 OTT TV or OTT Navigator IPTV (clones)
 
-This was the previous recommended player for Android, but currently doesn't open the RTP channels.
+This was the previous recommended player for Android, but currently doesn't some RTP channels.
 
 ![OTT Navigator IPTV screenshot](/images/OTT-Navigator-IPTV-M3UPT-playlist.avif "OTT Navigator IPTV screenshot")
 
