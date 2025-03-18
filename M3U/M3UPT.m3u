@@ -3108,12 +3108,10 @@ http://streaming-live.rtp.pt/liverepeater/rtpClean2HD.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="RTP DRM test" tvg-id="RTP3.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP3.png",RTP 3 (App - liverepeater)
 #EXTVLCOPT:http-user-agent=IE
-#KODIPROP:inputstream=inputstream.adaptive
 http://streaming-live-app.rtp.pt/liverepeater/rtpnHD.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="RTP DRM test" tvg-id="RTP3.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP3.png",RTP 3 (App - livetvhlsDVR)
 #EXTVLCOPT:http-user-agent=IE
-#KODIPROP:inputstream=inputstream.adaptive
 http://streaming-live-app.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="RTP DRM test" tvg-id="RTP3.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP3.png",RTP 3 (Site - liverepeater)
@@ -3122,5 +3120,4 @@ http://streaming-live.rtp.pt/liverepeater/rtpnHD.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="RTP DRM test" tvg-id="RTP3.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP3.png",RTP 3 (Site - livetvhlsDVR)
 #EXTVLCOPT:http-user-agent=IE
-#KODIPROP:inputstream=inputstream.adaptive
 http://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
