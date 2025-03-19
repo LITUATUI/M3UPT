@@ -175,7 +175,8 @@ This is the recommended player for GNU/Linux computers.
 
 - Main - Open previous channel on startup ✅
 - Video - Deinterlace ✅
-- Video - Hardware acceleration ✅ 
+- Video - Hardware acceleration ✅
+- Other - mpv options: hwdec=auto-safe --demuxer-lavf-o=cenc_decryption_key=a2226def4bc8f249de2daf36b7c12b1e
 - Debug - Automatic reconnection ✅
 
 [⬇️ Download](https://codeberg.org/liya/yuki-iptv)
