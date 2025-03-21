@@ -117,6 +117,10 @@ Actualmente, este é o único leitor de IPTV que abre todos os canais RTP - os q
 
 ![Sparkle TV screenshot](/images/Sparkle_TV.avif "Sparkle TV screenshot")
 
+**Configurações recomendadas:**
+
+Configurações - Fontes - Tempo entre a sincronização - 3 horas
+
 [Google Play](https://play.google.com/store/apps/details?id=se.hedekonsult.sparkle)
 
 ---

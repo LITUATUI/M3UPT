@@ -115,6 +115,10 @@ Currently, this is the only IPTV player that opens all RTP channels - the ones t
 
 ![Sparkle TV screenshot](/images/Sparkle_TV.avif "Sparkle TV screenshot")
 
+**Recommended settings:**
+
+Settings - Sources - Time between synchronization - 3 hours
+
 [Google Play](https://play.google.com/store/apps/details?id=se.hedekonsult.sparkle)
 
 ---
