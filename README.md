@@ -1,12 +1,12 @@
 # M3UPT
 
-Free and legal IPTV playlist in M3U format with 📺 TV channels and 📻 radio stations in 🇵🇹 Portuguese. Public and official streams only.
+Free and legal IPTV playlist in M3U format with TV and radio stations in Portuguese. Public and official streams only.
 
 ---
 
 ## 🎯 Purpose
 
-Offer a free and legal IPTV playlist in M3U format with TV channels and radio stations in Portuguese.
+Offer a free and legal IPTV playlist in M3U format with TV and radio stations in Portuguese.
 
 ---
 
