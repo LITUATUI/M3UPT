@@ -1,6 +1,6 @@
 # M3UPT
 
-Lista de IPTV gratuita e legal em formato M3U com canais de 📺 TV e estações de 📻 rádio em 🇵🇹 português. Apenas com streams públicos e oficiais.
+Lista de IPTV gratuita e legal em formato M3U com estações de 📺 TV e 📻 rádio em 🇵🇹 português. Apenas com streams públicos e oficiais.
 
 ---
 
