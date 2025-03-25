@@ -12,7 +12,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: update streams
-        run: sh M3U/streams.sh sh && M3U/streams_test.sh
+        run: cd M3U && sh M3U/streams.sh
 
       - name: setup git config
         run: |
