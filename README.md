@@ -227,10 +227,10 @@ If you prefer a TV Box already configured and ready to use, you can buy it [here
 ## 🛒 Recommended shopping websites
 
 - [AliExpress](https://m3upt.com/aliexpress)
+- [Amazon](https://m3upt.com/amazon)
+- [eBay](https://m3upt.com/ebay)
 - [Geekbuying](https://m3upt.com/geekbuying)
 - [Banggood](https://m3upt.com/banggood)
-- [eBay](https://m3upt.com/ebay)
-- [Amazon](https://m3upt.com/amazon)
 - [DHgate](https://m3upt.com/dhgate)
 
 These are affiliate links which means that if you click on them and buy something, I might get a small commission. It doesn’t cost you extra and helps this project.
