@@ -325,6 +325,10 @@ https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/cha
 #KODIPROP:inputstream=inputstream.adaptive
 https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/playlist.m3u8
 
+#EXTINF:-1 group-title="TV" tvg-id="Russia 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Rossiya-1_Logo.svg/640px-Rossiya-1_Logo.svg.png" group-title="Russia" user-agent="ExoPlayer2/2.37",Россия 1
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+
 #EXTINF:-1 group-title="TV" tvg-id="CGTN.cn" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CGTN.png",CGTN
 #KODIPROP:inputstream=inputstream.adaptive
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
