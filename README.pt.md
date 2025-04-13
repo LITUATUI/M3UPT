@@ -133,7 +133,7 @@ Este era o leitor recomendado para Android, mas actualmente não abre todos os c
 
 **Configurações recomendadas:**
 
-- Restaure este backup: rRVjEP (senha: 12345)
+- Restaure este backup: NjCxDH (senha: 12345)
 
 Para aplicar o código de backup, siga os seguintes passos após instalar a aplicação OTT Navigator IPTV:
 

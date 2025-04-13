@@ -131,7 +131,7 @@ This was the previous recommended player for Android, but currently doesn't some
 
 **Recommended settings:**
 
-- Restore this backup: rRVjEP (password: 12345)
+- Restore this backup: NjCxDH (password: 12345)
 
 [Google Play](https://play.google.com/store/apps/details?id=appnovatica.tv)
 
