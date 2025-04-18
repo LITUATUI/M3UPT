@@ -125,7 +125,7 @@ Settings - Sources - Time between synchronization - 3 hours
 
 ### 🥇 OTT TV or OTT Navigator IPTV (clones)
 
-This was the previous recommended player for Android, but currently doesn't some RTP channels.
+This was the previous recommended player for Android, but currently doesn't open some RTP channels.
 
 ![OTT Navigator IPTV screenshot](/images/OTT-Navigator-IPTV-M3UPT-playlist.avif "OTT Navigator IPTV screenshot")
 
