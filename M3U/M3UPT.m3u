@@ -543,11 +543,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e1
 
 #EXTINF:-1 group-title="TV" tvg-id="RetroCartoon.br" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Retro-TV.png",Retrô Cartoon
 #KODIPROP:inputstream=inputstream.adaptive
-https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+#https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="AnimeTV.br" tvg-logo="https://i.imgur.com/CFSSTID.png",Anime TV
 #KODIPROP:inputstream=inputstream.adaptive
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Geekdot.br" tvg-logo="https://i.imgur.com/jML1u4O.png",Geekdot
 #KODIPROP:inputstream=inputstream.adaptive
@@ -579,7 +579,7 @@ https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RadioSines.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Rádio-Sines.png",Rádio Sines
 #KODIPROP:inputstream=inputstream.adaptive
-https://streamer-a01.videos.sapo.pt/live/radiosinesdireto/index.m3u8
+https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="TraceUrban.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TRACE-Urban.png",Trace Urban
 #KODIPROP:inputstream=inputstream.adaptive
@@ -3081,10 +3081,10 @@ http://streaming.radioregional.pt:8052
 http://streaming.radioregional.pt:8040
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.radioregionaldearouca.com/site/wp-content/uploads/2015/06/logo-radio1.png",Rádio Regional Arouca
-http://centova.radio.com.pt:8485/;
+http://centova.radio.com.pt:8485/
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://radiosines.sapo.pt/assets/dist/img/logo.png",Rádio Sines
-https://ssl.evsportugal.net:7166/stream
+https://sp0.redeaudio.com/9580/stream
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://fastcast4u.com/player/fama/_user/cover/f/fama/fama.radio.jpg",Fama Rádio
 http://famaradio.mywire.org:8000/digitalfm64
