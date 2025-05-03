@@ -347,16 +347,19 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="France24English.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/France-24.png",France 24 English
 #KODIPROP:inputstream=inputstream.adaptive
-https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="France24Espanol.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/France-24.png",France 24 Español
-https://youtube.com/watch?v=XDJPzMznAjU
+#KODIPROP:inputstream=inputstream.adaptive
+https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="France24French.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/France-24.png",France 24 Français
-https://youtube.com/watch?v=gxG3pdKvlIs
+#KODIPROP:inputstream=inputstream.adaptive
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="France24Arabic.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/France-24.png",France 24 Arabic
-https://youtube.com/watch?v=8BZpOolYLUA
+#KODIPROP:inputstream=inputstream.adaptive
+https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="CNNInternationalEurope.us" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN.png",CNN
 #KODIPROP:inputstream=inputstream.adaptive
