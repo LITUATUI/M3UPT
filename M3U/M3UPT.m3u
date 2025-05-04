@@ -237,6 +237,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 #KODIPROP:inputstream=inputstream.adaptive
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 
+#EXTINF:-1 group-title="TV" tvg-id="ItalianFishingTV.it" tvg-logo="https://i.imgur.com/qrn6tUO.png",Italian Fishing TV
+https://fms.premio.link/fishingtv/playlist.m3u8
+
 #EXTINF:-1 group-title="TV" tvg-id="PBSAmerica.uk" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PBS_America_logo.png",PBS America
 #KODIPROP:inputstream=inputstream.adaptive
 #https://pbs-samsunguk.amagi.tv/playlist.m3u8
