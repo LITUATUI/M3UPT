@@ -1822,6 +1822,9 @@ https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p9780/p9780_1_20220411
 
 # Eixo do Mal
 
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 8/5/2025
+https://videos.impresa.pt/videos/hls/sicnot/2025/05/08/ccffe75e-03d3-4956-b892-375d2ecb2711/video.m3u8
+
 #EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 1/5/2025
 https://videos.impresa.pt/videos/hls/sicnot/2025/05/01/145944a4-5f8e-41ee-89f5-c28b14a41c9d/video.m3u8
 
@@ -2257,6 +2260,9 @@ https://content.jwplatform.com/manifests/jL3dl5uq.m3u8
 
 # Programa Cujo Nome Estamos Legalmente Impedidos de Dizer
 
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 9/5/2025
+https://videos.impresa.pt/videos/hls/sicnot/2025/05/09/4dbdbc2c-0c78-4a3e-ba1d-e6afc545ef9a/video.m3u8
+
 #EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 2/5/2025
 https://videos.impresa.pt/videos/hls/sicnot/2025/05/02/a18130ae-f0d2-4cf1-8821-c507263df776/video.m3u8
 
@@ -2688,6 +2694,12 @@ https://cdn.jwplayer.com/manifests/v8e6Ytdz.m3u8
 
 
 # Isto é Gozar com Quem Trabalha
+
+#EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S11E21 08-05-2025
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a05b700fa43b64f933d39fd06a46092:02ccc9caa984884ac62c81762da007af
+https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_pkynspra/v/1/ev/7/flavorId/1_,30ek3aqz,s9ips9ii,ugaj6d9e,5zkrzq13,dof1yybn,g7kur4b7,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 #EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S11E20 07-05-2025
 #KODIPROP:inputstream=inputstream.adaptive
