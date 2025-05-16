@@ -1271,6 +1271,10 @@ https://streaming-vod.rtp.pt/drm-dash/nas2.share,/pt/h264/512x384/p13613/p13613_
 
 # O Outro Lado
 
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - S10E17 12/5/2025
+#EXTVLCOPT:http-user-agent=IE
+https://streaming-vod.rtp.pt/hls/nas2.share,/h264/512x384/p14403/p14403_1_20250512000000e017t1641.mp4,.urlset/master.m3u8
+
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - S10E16 5/5/2025
 #EXTVLCOPT:http-user-agent=IE
 https://streaming-vod.rtp.pt/hls/nas2.share,/h264/512x384/p14403/p14403_1_20250505000000e016t0194.mp4,.urlset/master.m3u8
@@ -1821,6 +1825,9 @@ https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p9780/p9780_1_20220411
 
 
 # Eixo do Mal
+
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 15/5/2025
+https://videos.impresa.pt/videos/hls/sicnot/2025/05/15/1fb5f66e-1e0a-4f4b-a9c5-0544362f393f/video.m3u8
 
 #EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 8/5/2025
 https://videos.impresa.pt/videos/hls/sicnot/2025/05/08/ccffe75e-03d3-4956-b892-375d2ecb2711/video.m3u8
