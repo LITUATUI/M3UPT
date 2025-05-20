@@ -1279,6 +1279,10 @@ https://streaming-vod.rtp.pt/drm-dash/nas2.share,/pt/h264/512x384/p13613/p13613_
 
 # O Outro Lado
 
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - S10E18 19/5/2025
+#EXTVLCOPT:http-user-agent=IE
+https://streaming-vod.rtp.pt/hls/nas2.share,/h264/512x384/p14403/p14403_1_20250519000000e018t3845.mp4,.urlset/master.m3u8
+
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - S10E17 12/5/2025
 #EXTVLCOPT:http-user-agent=IE
 https://streaming-vod.rtp.pt/hls/nas2.share,/h264/512x384/p14403/p14403_1_20250512000000e017t1641.mp4,.urlset/master.m3u8
@@ -3239,50 +3243,3 @@ https://uk2.streamingpulse.com/ssl/vcr1
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://cdn-profiles.tunein.com/s95144/images/logod.png",Venice Classic Radio - Live
 https://uk2.streamingpulse.com/ssl/vcr2
-
-
-# RTP DRM test for developers (test if your IPTV player opens the RTP 1/2 streams) - They can be geo-blocked sometimes, use VPN with Portuguese IP
-
-#EXTINF:-1 group-title="RTP DRM test" tvg-id="RTP1.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png",RTP 1 (App)
-#EXTVLCOPT:http-user-agent=IE
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f80351a117ba3f17a26e0e8cd4dc00c4:a2226def4bc8f249de2daf36b7c12b1e
-http://streaming-live-app.rtp.pt/liverepeater/rtpClean1HD.smil/manifest.mpd
-
-#EXTINF:-1 group-title="RTP DRM test" tvg-id="RTP1.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png",RTP 1 (Site)
-#EXTVLCOPT:http-user-agent=IE
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f80351a117ba3f17a26e0e8cd4dc00c4:a2226def4bc8f249de2daf36b7c12b1e
-http://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/manifest.mpd
-
-#EXTINF:-1 group-title="RTP DRM test" tvg-id="RTP2.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",RTP 2 (App)
-#EXTVLCOPT:http-user-agent=IE
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=761e7af421a4386e82eaa861a49b3d73:f1eb56955a79e555b1f8b96aec3afa25
-http://streaming-live-app.rtp.pt/liverepeater/rtpClean2HD.smil/manifest.mpd
-
-#EXTINF:-1 group-title="RTP DRM test" tvg-id="RTP2.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",RTP 2 (Site)
-#EXTVLCOPT:http-user-agent=IE
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=761e7af421a4386e82eaa861a49b3d73:f1eb56955a79e555b1f8b96aec3afa25
-http://streaming-live.rtp.pt/liverepeater/rtpClean2HD.smil/manifest.mpd
-
-#EXTINF:-1 group-title="RTP DRM test" tvg-id="RTP3.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP3.png",RTP 3 (App - liverepeater)
-#EXTVLCOPT:http-user-agent=IE
-http://streaming-live-app.rtp.pt/liverepeater/rtpnHD.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="RTP DRM test" tvg-id="RTP3.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP3.png",RTP 3 (App - livetvhlsDVR)
-#EXTVLCOPT:http-user-agent=IE
-http://streaming-live-app.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="RTP DRM test" tvg-id="RTP3.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP3.png",RTP 3 (Site - liverepeater)
-#EXTVLCOPT:http-user-agent=IE
-http://streaming-live.rtp.pt/liverepeater/rtpnHD.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="RTP DRM test" tvg-id="RTP3.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP3.png",RTP 3 (Site - livetvhlsDVR)
-#EXTVLCOPT:http-user-agent=IE
-http://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
