@@ -9,7 +9,7 @@
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0dd6b5f536d839538e30ac4f4dc47d53:a42604e7b191478ee1ce15fe13a99068
-http://streaming-live-app.rtp.pt/liverepeater/rtpClean1HD.smil/manifest.mpd
+https://streaming-live-app.rtp.pt/liverepeater/rtpClean1HD.smil/manifest.mpd
 
 #EXTINF:-1 group-title="TV" tvg-id="RTP2.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",RTP 2
 #EXTVLCOPT:http-user-agent=IE
@@ -20,29 +20,29 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=761e7af421a4386e82eaa861a49b3d73:f1eb56955a79e555b1f8b96aec3afa25
-#http://streaming-live-app.rtp.pt/liverepeater/rtpClean2HD.smil/manifest.mpd
+#https://streaming-live-app.rtp.pt/liverepeater/rtpClean2HD.smil/manifest.mpd
 
 #EXTINF:-1 group-title="TV" tvg-id="RTP2.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",RTP 2
 #EXTVLCOPT:http-user-agent=IE
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=761e7af421a4386e82eaa861a49b3d73:f1eb56955a79e555b1f8b96aec3afa25
-#http://streaming-live.rtp.pt/liverepeater/rtpClean2HD.smil/manifest.mpd
+#https://streaming-live.rtp.pt/liverepeater/rtpClean2HD.smil/manifest.mpd
 
 #EXTINF:-1 group-title="TV" tvg-id="RTP2.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",RTP 2
 #EXTVLCOPT:http-user-agent=IE
 #KODIPROP:inputstream=inputstream.adaptive
-#http://streaming-live-app.rtp.pt/liverepeater/rtpClean2HD.smil/playlist.m3u8
+#https://streaming-live-app.rtp.pt/liverepeater/rtpClean2HD.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RTP2.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",RTP 2
 #EXTVLCOPT:http-user-agent=IE
 #KODIPROP:inputstream=inputstream.adaptive
-#http://streaming-live-app.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
+#https://streaming-live-app.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RTP2.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",RTP 2
 #EXTVLCOPT:http-user-agent=IE
 #KODIPROP:inputstream=inputstream.adaptive
-#http://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
+#https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="SIC.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png",SIC
 #KODIPROP:inputstream=inputstream.adaptive
@@ -62,19 +62,19 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RTP3.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP3.png",RTP 3
 #EXTVLCOPT:http-user-agent=IE
-#http://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
+#https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RTP3.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP3.png",RTP 3
 #EXTVLCOPT:http-user-agent=IE
-#http://streaming-live.rtp.pt/liverepeater/rtpnHD.smil/playlist.m3u8
+#https://streaming-live.rtp.pt/liverepeater/rtpnHD.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RTP3.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP3.png",RTP 3
 #EXTVLCOPT:http-user-agent=IE
-#http://streaming-live-app.rtp.pt/liverepeater/rtpnHD.smil/playlist.m3u8
+#https://streaming-live-app.rtp.pt/liverepeater/rtpnHD.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RTP3.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP3.png",RTP 3
 #EXTVLCOPT:http-user-agent=IE
-#http://streaming-live-app.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
+#https://streaming-live-app.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="SICNoticias.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png",SIC Notícias
 #KODIPROP:inputstream=inputstream.adaptive
@@ -107,43 +107,43 @@ https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3
 
 #EXTINF:-1 group-title="TV" tvg-id="RTPMemoria.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Memória.png",RTP Memória
 #EXTVLCOPT:http-user-agent=IE
-http://streaming-live.rtp.pt/liverepeater/rtpmem.smil/playlist.m3u8
+https://streaming-live.rtp.pt/liverepeater/rtpmem.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RTPMemoria.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Memória.png",RTP Memória
 #EXTVLCOPT:http-user-agent=IE
-#http://streaming-live-app.rtp.pt/liverepeater/rtpmem.smil/playlist.m3u8
+#https://streaming-live-app.rtp.pt/liverepeater/rtpmem.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RTPAcores.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Açores.png",RTP Açores
 #EXTVLCOPT:http-user-agent=IE
-http://streaming-live.rtp.pt/liverepeater/rtpacoresHD.smil/playlist.m3u8
+https://streaming-live.rtp.pt/liverepeater/rtpacoresHD.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RTPAcores.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Açores.png",RTP Açores
 #EXTVLCOPT:http-user-agent=IE
-#http://streaming-live-app.rtp.pt/liverepeater/rtpacoresHD.smil/playlist.m3u8
+#https://streaming-live-app.rtp.pt/liverepeater/rtpacoresHD.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RTPMadeira.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Madeira.png",RTP Madeira
 #EXTVLCOPT:http-user-agent=IE
-http://streaming-live.rtp.pt/liverepeater/rtpmadeira.smil/playlist.m3u8
+https://streaming-live.rtp.pt/liverepeater/rtpmadeira.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RTPMadeira.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Madeira.png",RTP Madeira
 #EXTVLCOPT:http-user-agent=IE
-#http://streaming-live-app.rtp.pt/liverepeater/rtpmadeira.smil/playlist.m3u8
+#https://streaming-live-app.rtp.pt/liverepeater/rtpmadeira.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RTPAfrica.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-África.png",RTP África
 #EXTVLCOPT:http-user-agent=IE
-http://streaming-live.rtp.pt/liverepeater/rtpafrica.smil/playlist.m3u8
+https://streaming-live.rtp.pt/liverepeater/rtpafrica.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RTPAfrica.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-África.png",RTP África
 #EXTVLCOPT:http-user-agent=IE
-#http://streaming-live-app.rtp.pt/liverepeater/rtpafrica.smil/playlist.m3u8
+#https://streaming-live-app.rtp.pt/liverepeater/rtpafrica.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RTPInternacional.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Internacional.png",RTP Internacional
 #EXTVLCOPT:http-user-agent=IE
-http://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
+https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RTPInternacional.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Internacional.png",RTP Internacional
 #EXTVLCOPT:http-user-agent=IE
-#http://streaming-live-app.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
+#https://streaming-live-app.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="TVIInternacional.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",TVI Internacional
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2978,43 +2978,43 @@ https://cdn.jwplayer.com/manifests/6ipev8fs.m3u8
 # 📻 Radio stations
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/antena1.png",Rádio  Antena 1
-http://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8
+https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/antena2.png",Rádio  Antena 2
-http://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8
+https://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/antena3.png",Rádio  Antena 3
-http://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8
+https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/97-400719141305.png",Antena 1 Açores
-http://streaming-live.rtp.pt/liveradio/antena1acores80a/playlist.m3u8
+https://streaming-live.rtp.pt/liveradio/antena1acores80a/playlist.m3u8
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/98-590619141305.png",Antena 1 Madeira
-http://streaming-live.rtp.pt/liveradio/antena1madeira80a/playlist.m3u8
+https://streaming-live.rtp.pt/liveradio/antena1madeira80a/playlist.m3u8
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/rdpInternacional.png",Rádio RDP Internacional
-http://streaming-live.rtp.pt/liveradio/rdpint80a/playlist.m3u8
+https://streaming-live.rtp.pt/liveradio/rdpint80a/playlist.m3u8
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/rdpAfrica.png",Rádio RDP África
-http://streaming-live.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8
+https://streaming-live.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/antena1vida.png",Antena 1 Vida
-http://streaming-live.rtp.pt/liveradio/vida80a/playlist.m3u8
+https://streaming-live.rtp.pt/liveradio/vida80a/playlist.m3u8
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/antena1memoria.png",Antena 1 Memória
-http://streaming-live.rtp.pt/liveradio/antena1memoria80a/playlist.m3u8
+https://streaming-live.rtp.pt/liveradio/antena1memoria80a/playlist.m3u8
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/radiolusitania.png",Rádio Lusitânia
-http://streaming-live.rtp.pt/liveradio/lusitania80a/playlist.m3u8
+https://streaming-live.rtp.pt/liveradio/lusitania80a/playlist.m3u8
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/antena1fado.png",Antena 1 Fado
-http://streaming-live.rtp.pt/liveradio/antena1fado80a/playlist.m3u8
+https://streaming-live.rtp.pt/liveradio/antena1fado80a/playlist.m3u8
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/antena2jazzin.png",Antena 2 Jazzin'
-http://streaming-live.rtp.pt/liveradio/antena2jazzin80a/playlist.m3u8
+https://streaming-live.rtp.pt/liveradio/antena2jazzin80a/playlist.m3u8
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/antena2opera.png",Antena 2 Opera
-http://streaming-live.rtp.pt/liveradio/antena2opera80a/playlist.m3u8
+https://streaming-live.rtp.pt/liveradio/antena2opera80a/playlist.m3u8
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.amalia.fm/wp-content/uploads/2014/08/radioamalialogo.png",Rádio Amália
 http://link.radios.pt/amalia?1487014253471.mp3
@@ -3122,7 +3122,7 @@ https://stream-hls.bauermedia.pt/batidafm.aac/playlist.m3u8
 http://radiomiudos.out.airtime.pro:8000/radiomiudos_a
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://media.rtp.pt/refresca/wp-content/themes/refresca/includes/img/logo_RadioZigZag.png",Rádio Zig Zag
-http://streaming-live.rtp.pt/liveradio/zigzag80a/playlist.m3u8
+https://streaming-live.rtp.pt/liveradio/zigzag80a/playlist.m3u8
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2014/02/Radio-Cascais.jpg",Rádio Cascais
 http://5.9.14.150:9300/;
