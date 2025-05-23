@@ -10,7 +10,7 @@
 #EXTVLCOPT:http-origin=https://www.rtp.pt
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.drm_legacy=f80351a117ba3f17a26e0e8cd4dc00c4:a2226def4bc8f249de2daf36b7c12b1e
+#KODIPROP:inputstream.adaptive.license_key=f80351a117ba3f17a26e0e8cd4dc00c4:a2226def4bc8f249de2daf36b7c12b1e
 https://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/manifest.mpd
 
 #EXTINF:-1 group-title="TV" tvg-id="RTP2.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",RTP 2
@@ -366,7 +366,7 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 #EXTINF:-1 group-title="TV" tvg-id="NBCNewsNOW.us" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NBC-News-Now.png",NBC News Now
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.drm_legacy=52e6281b1d3c364c872497e8058977b1:11d6e9a2abb2e241804148713531f64d
+#KODIPROP:inputstream.adaptive.license_key=52e6281b1d3c364c872497e8058977b1:11d6e9a2abb2e241804148713531f64d
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(nnn)/master.mpd
 
 #EXTINF:-1 group-title="TV" tvg-id="NTD.com" tvg-logo="https://www.ntd.com/images/ENTD180.jpeg",NTD News
@@ -384,7 +384,7 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 #EXTINF:-1 group-title="TV" tvg-id="SkyNewsInternational.uk" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Sky-News.png",Sky News
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.drm_legacy=0045028c984fbbefcdae89b4338c4729:b08f10f5089048d11adb741080e00141
+#KODIPROP:inputstream.adaptive.license_key=0045028c984fbbefcdae89b4338c4729:b08f10f5089048d11adb741080e00141
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(skynews)/master.mpd?audio=all&subtitle=all&forcedNarrative=true
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Africa_news.png",Africa News
@@ -553,13 +553,13 @@ https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758
 #EXTINF:-1 group-title="TV" tvg-id="AnimaxAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png",Animax
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.drm_legacy={ "keys":[ { "kty":"oct", "k":"L1oxmbJum2k66IGvf/hkzw", "kid":"7fGnFd6XSGON0vrXWkGa8g" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L1oxmbJum2k66IGvf/hkzw", "kid":"7fGnFd6XSGON0vrXWkGa8g" } ], "type":"temporary" }
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 
 #EXTINF:-1 group-title="TV" tvg-id="oktolidays.sg" tvg-logo="https://i.imgur.com/Dt0kA7e.png",meWATCH oktolidays
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.drm_legacy=612eb711dfb444f7a194c5e20d7f7048:b6226449b9ed5066542e6d6ad5ecb346
+#KODIPROP:inputstream.adaptive.license_key=612eb711dfb444f7a194c5e20d7f7048:b6226449b9ed5066542e6d6ad5ecb346
 https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/On-FM.png",On FM Portugal
@@ -1209,42 +1209,42 @@ https://video-auth1.iol.pt/beachcam/bcpauldomar2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.drm_legacy=b57fd50083e83bfd85bbc31a32cf47e1:3d5f6bcf52c213ac76f5b896ee95be4e
+#KODIPROP:inputstream.adaptive.license_key=b57fd50083e83bfd85bbc31a32cf47e1:3d5f6bcf52c213ac76f5b896ee95be4e
 https://streaming-vod.rtp.pt/drm-dash/nas2.share,/pt/h264/512x384/p13613/p13613_20240703090016e001t9267.mp4,.urlset/manifest.mpd
 
 #EXTINF:-1 media="true" group-title="O Planeta Vivo" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/45929_73117_64439.jpg",O Planeta Vivo S01E02
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.drm_legacy=b57fd50083e83bfd85bbc31a32cf47e1:3d5f6bcf52c213ac76f5b896ee95be4e
+#KODIPROP:inputstream.adaptive.license_key=b57fd50083e83bfd85bbc31a32cf47e1:3d5f6bcf52c213ac76f5b896ee95be4e
 https://streaming-vod.rtp.pt/drm-dash/nas2.share,/pt/h264/512x384/p13613/p13613_1_20240710161003e002t6658d_lo.mp4,/pt/h264/512x384/p13613/p13613_1_20240710161003e002t6658d.mp4,.urlset/manifest.mpd
 
 #EXTINF:-1 media="true" group-title="O Planeta Vivo" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/45929_73117_64439.jpg",O Planeta Vivo S01E03
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.drm_legacy=b57fd50083e83bfd85bbc31a32cf47e1:3d5f6bcf52c213ac76f5b896ee95be4e
+#KODIPROP:inputstream.adaptive.license_key=b57fd50083e83bfd85bbc31a32cf47e1:3d5f6bcf52c213ac76f5b896ee95be4e
 https://streaming-vod.rtp.pt/drm-dash/nas2.share,/pt/h264/512x384/p13613/p13613_1_20240717161005e003t1334d_lo.mp4,/pt/h264/512x384/p13613/p13613_1_20240717161005e003t1334d.mp4,.urlset/manifest.mpd
 
 #EXTINF:-1 media="true" group-title="O Planeta Vivo" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/45929_73117_64439.jpg",O Planeta Vivo S01E04
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.drm_legacy=b57fd50083e83bfd85bbc31a32cf47e1:3d5f6bcf52c213ac76f5b896ee95be4e
+#KODIPROP:inputstream.adaptive.license_key=b57fd50083e83bfd85bbc31a32cf47e1:3d5f6bcf52c213ac76f5b896ee95be4e
 https://streaming-vod.rtp.pt/drm-dash/nas2.share,/pt/h264/512x384/p13613/p13613_1_20240717161005e003t1334d_lo.mp4,/pt/h264/512x384/p13613/p13613_1_20240717161005e003t1334d.mp4,.urlset/manifest.mpd
 
 #EXTINF:-1 media="true" group-title="O Planeta Vivo" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/45929_73117_64439.jpg",O Planeta Vivo S01E05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.drm_legacy=b57fd50083e83bfd85bbc31a32cf47e1:3d5f6bcf52c213ac76f5b896ee95be4e
+#KODIPROP:inputstream.adaptive.license_key=b57fd50083e83bfd85bbc31a32cf47e1:3d5f6bcf52c213ac76f5b896ee95be4e
 https://streaming-vod.rtp.pt/drm-dash/nas2.share,/pt/h264/512x384/p13613/p13613_1_20240717161005e003t1334d_lo.mp4,/pt/h264/512x384/p13613/p13613_1_20240717161005e003t1334d.mp4,.urlset/manifest.mpd
 
 #EXTINF:-1 media="true" group-title="O Planeta Vivo" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/45929_73117_64439.jpg",O Planeta Vivo S01E06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.drm_legacy=b57fd50083e83bfd85bbc31a32cf47e1:3d5f6bcf52c213ac76f5b896ee95be4e
+#KODIPROP:inputstream.adaptive.license_key=b57fd50083e83bfd85bbc31a32cf47e1:3d5f6bcf52c213ac76f5b896ee95be4e
 https://streaming-vod.rtp.pt/drm-dash/nas2.share,/pt/h264/512x384/p13613/p13613_1_20240717161005e003t1334d_lo.mp4,/pt/h264/512x384/p13613/p13613_1_20240717161005e003t1334d.mp4,.urlset/manifest.mpd
 
 
@@ -2691,96 +2691,96 @@ https://cdn.jwplayer.com/manifests/v8e6Ytdz.m3u8
 #EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S11E28 16-05-2025
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.drm_legacy=a08372b8e8a52762113fe57e1cb2fe3b:c41ffdd6a2224b178b4e2ce67e0007ef
+#KODIPROP:inputstream.adaptive.license_key=a08372b8e8a52762113fe57e1cb2fe3b:c41ffdd6a2224b178b4e2ce67e0007ef
 https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_3k78cks5/v/11/ev/14/flavorId/1_,qjeecn14,5rorz47p,e3fizcil,pch58j7m,fnsi1qq5,icrp38z3,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 #EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S11E27 15-05-2025
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.drm_legacy=1ddd66355cc62b454ff36632f1e7375b:ab6c86dcec92df769e889c37a3a6b90c
+#KODIPROP:inputstream.adaptive.license_key=1ddd66355cc62b454ff36632f1e7375b:ab6c86dcec92df769e889c37a3a6b90c
 https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_z4vwgmve/v/11/ev/14/flavorId/1_,4zp7hsdj,85dm1xtw,ircffabk,v5vlpxuy,igc0vmca,djdxv8ui,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S11E26 14-05-2025
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.drm_legacy=5a6b547247d993b5fc1025a634d65954:ec004d997005357181d6d178de047040
+#KODIPROP:inputstream.adaptive.license_key=5a6b547247d993b5fc1025a634d65954:ec004d997005357181d6d178de047040
 https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_hep5367y/v/11/ev/14/flavorId/1_,dejl7ifo,rkdd0ndc,v0jqt21k,hphznwaa,qw8ammoc,hhvfonbl,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 #EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S11E25 13-05-2025
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.drm_legacy=40cb08d48a21d4414f0cfda69a9ea1f7:568b0b634abf61dbb37d27ab3815cd3b
+#KODIPROP:inputstream.adaptive.license_key=40cb08d48a21d4414f0cfda69a9ea1f7:568b0b634abf61dbb37d27ab3815cd3b
 https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_nx0klilm/v/11/ev/14/flavorId/1_,kxwdvc1f,skm9ftg8,of6gbzca,0xgdk3hu,jrikfbz0,te42kz4i,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 #EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S11E24 12-05-2025
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.drm_legacy=92dd20459bebad9a686504d6ca7e53a5:9e32bd988799df1d29364f88e720ebee
+#KODIPROP:inputstream.adaptive.license_key=92dd20459bebad9a686504d6ca7e53a5:9e32bd988799df1d29364f88e720ebee
 https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_bd12ukqb/v/11/ev/14/flavorId/1_,cpmtlw58,tclflota,5cp8c9yf,39d1zl1o,8ju4dx0i,u7fd5rdq,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 #EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S11E23 11-05-2025
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.drm_legacy=0a7bac95bb3fec122acaaa1c29226475:718ed32ff5dbde4ba9d4a04a093f4190
+#KODIPROP:inputstream.adaptive.license_key=0a7bac95bb3fec122acaaa1c29226475:718ed32ff5dbde4ba9d4a04a093f4190
 https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_lihkwfz8/v/1/ev/7/flavorId/1_,9v4pwwip,ith7dwog,bpi96rvc,468agx8u,er8m7u75,k8r67nwo,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 #EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S11E22 09-05-2025
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.drm_legacy=e1a271998071cc3c1ce54ef4a3943273:cd02f696671d70d4891d1710c664763e
+#KODIPROP:inputstream.adaptive.license_key=e1a271998071cc3c1ce54ef4a3943273:cd02f696671d70d4891d1710c664763e
 https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_4m1h4elg/v/1/ev/7/flavorId/1_,0lcbt283,vl9qifw5,8r4g0uuk,9ltuyqo1,27i51c2e,fkp0x24y,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 #EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S11E21 08-05-2025
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.drm_legacy=1a05b700fa43b64f933d39fd06a46092:02ccc9caa984884ac62c81762da007af
+#KODIPROP:inputstream.adaptive.license_key=1a05b700fa43b64f933d39fd06a46092:02ccc9caa984884ac62c81762da007af
 https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_pkynspra/v/1/ev/7/flavorId/1_,30ek3aqz,s9ips9ii,ugaj6d9e,5zkrzq13,dof1yybn,g7kur4b7,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 #EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S11E20 07-05-2025
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.drm_legacy=943d884c956fc3a6aaa89b37d8a727e2:88f13c78fad86324d807b29dcc200f7c
+#KODIPROP:inputstream.adaptive.license_key=943d884c956fc3a6aaa89b37d8a727e2:88f13c78fad86324d807b29dcc200f7c
 https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_1vn5rrl1/v/11/ev/14/flavorId/1_,m8sa22cp,3ik0ac99,jsojlhzc,z06tgg3s,jtq2rjav,6yxfko1i,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 #EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S11E19 06-05-2025
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.drm_legacy=b0192aa67b49e09c12c667e234e77175:98e2d544c8c99471871819a949cc9d3c
+#KODIPROP:inputstream.adaptive.license_key=b0192aa67b49e09c12c667e234e77175:98e2d544c8c99471871819a949cc9d3c
 https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_xu2676h8/v/11/ev/14/flavorId/1_,nf8bks5i,8lqkxu39,9crhiqa3,9p91mqg4,5jat4iyj,igu3sfvc,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 #EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S11E18 05-05-2025
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.drm_legacy=39623d297616d819a1443ae6bd7c1f8c:0a4567dcda9f0d4a17a0ba5a2c0a45ad
+#KODIPROP:inputstream.adaptive.license_key=39623d297616d819a1443ae6bd7c1f8c:0a4567dcda9f0d4a17a0ba5a2c0a45ad
 https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_827l94w5/v/11/ev/14/flavorId/1_,mjqf10bs,zqp5hy1u,7foleqvu,rmla47j1,sge3ua0j,hmz1t81g,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 #EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S11E17 04-05-2025
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.drm_legacy=18b897a4feeca36616ae888abea3fcd0:cb05b3366b50094862b4604c3fb3bd72
+#KODIPROP:inputstream.adaptive.license_key=18b897a4feeca36616ae888abea3fcd0:cb05b3366b50094862b4604c3fb3bd72
 https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_c4ygkcxo/v/11/ev/13/flavorId/1_,vmq912nl,1i2lcdl1,zjiwh55b,qkeswq2z,uucscz73,x6tr4i8b,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 #EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S11E16 27-04-2025
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.drm_legacy=51d4aa45e0cf6802522f1428b9f40135:823b4e98964b189ad109c3173e6d574c
+#KODIPROP:inputstream.adaptive.license_key=51d4aa45e0cf6802522f1428b9f40135:823b4e98964b189ad109c3173e6d574c
 https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_ceea2ubc/v/1/ev/7/flavorId/1_,ktljd44j,jayhh225,ih6jkgqj,a0n6fhf7,fcleen9e,o09fxz5m,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 #EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S11E15 13-04-2025
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.drm_legacy=f9b1c8cca31b6c6b507a542e4ae6a6fc:8bd382192b7b4bddac580671049c734d
+#KODIPROP:inputstream.adaptive.license_key=f9b1c8cca31b6c6b507a542e4ae6a6fc:8bd382192b7b4bddac580671049c734d
 https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_cgav0m5k/v/11/ev/14/flavorId/1_,7islhxh6,4bjurmf5,32mjoydd,d4xihvtg,1adz6vl0,untxnfwc,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 #EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S11E14 06-04-2025
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.drm_legacy=470da075e9a9359a2ddd5bdcdf4b906c:561f579550d903c36af126cac82b4306
+#KODIPROP:inputstream.adaptive.license_key=470da075e9a9359a2ddd5bdcdf4b906c:561f579550d903c36af126cac82b4306
 https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_wswoyrg7/v/11/ev/14/flavorId/1_,5ue499v6,ia5ver6v,inmjlxvs,kzm0uwy5,ccer1n7s,sgyihhud,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 #EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S11E13 30-03-2025
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.drm_legacy=cd5506c34e70321cf31042cfd268cb81:3bf03fa25f512411d4ce48d63e8a8a1f
+#KODIPROP:inputstream.adaptive.license_key=cd5506c34e70321cf31042cfd268cb81:3bf03fa25f512411d4ce48d63e8a8a1f
 https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_vp0l1txp/v/11/ev/14/flavorId/1_,764revv9,johyrm2i,mh7ini7k,59txmoh9,yty7a0tv,n0uvl8el,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 
