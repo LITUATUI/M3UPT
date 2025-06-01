@@ -113,7 +113,7 @@ Para ter uma melhor experiência recomendo o uso de um dos seguintes leitores de
 
 ### 🏆 Sparkle TV
 
-Actualmente, este é o único leitor de IPTV que abre todos os canais RTP - os que estão encriptados com DRM e os que não estão.
+Este leitor de IPTV abre todos os canais RTP - os que estão encriptados com DRM e os que não estão.
 
 ![Sparkle TV screenshot](/images/Sparkle_TV.avif "Sparkle TV screenshot")
 
@@ -122,6 +122,20 @@ Actualmente, este é o único leitor de IPTV que abre todos os canais RTP - os q
 Configurações - Fontes - Tempo entre a sincronização - 3 horas
 
 [Google Play](https://play.google.com/store/apps/details?id=se.hedekonsult.sparkle)
+
+---
+
+### 🏆 TiviMate
+
+Este leitor de IPTV também abre todos os canais RTP - os que estão encriptados com DRM e os que não estão.
+
+![TiviMate screenshot](/images/TiviMate.avif "TiviMate screenshot")
+
+**Configurações recomendadas:**
+
+Configurações - Playlists - M3UPT - Intervale de actualização, horas - 2
+
+[Google Play](https://play.google.com/store/apps/details?id=ar.tvplayer.tv)
 
 ---
 
@@ -208,7 +222,7 @@ Este é o leitor recomendado para as restantes plataformas.
 
 ## 📓 Notas
 
-- Os canais da RTP não abrem em alguns leitores. Por enquanto utilize o Sparkle TV.
+- Os canais da RTP não abrem em alguns leitores. Por enquanto utilize o Sparkle TV ou TiviMate.
 - Alguns canais só funcionam com IP Português, quem vive fora de Portugal terá de usar uma [VPN](https://m3upt.com/vpn).
 - Alguns streams só funcionam no Kodi com o addon YouTube instalado.
 

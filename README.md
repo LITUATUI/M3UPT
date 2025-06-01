@@ -111,7 +111,7 @@ To get the best experience, I recommend to use one of the following IPTV players
 
 ### 🏆 Sparkle TV
 
-Currently, this is the only IPTV player that opens all RTP channels - the ones that are DRM encrypted and the ones that aren't.
+Currently, this IPTV player opens all RTP channels - the ones that are DRM encrypted and the ones that aren't.
 
 ![Sparkle TV screenshot](/images/Sparkle_TV.avif "Sparkle TV screenshot")
 
@@ -120,6 +120,20 @@ Currently, this is the only IPTV player that opens all RTP channels - the ones t
 Settings - Sources - Time between synchronization - 3 hours
 
 [Google Play](https://play.google.com/store/apps/details?id=se.hedekonsult.sparkle)
+
+---
+
+### 🏆 TiviMate
+
+Currently, this IPTV player also opens all RTP channels - the ones that are DRM encrypted and the ones that aren't.
+
+![TiviMate screenshot](/images/TiviMate.avif "TiviMate screenshot")
+
+**Recommended settings:**
+
+Settings - Playlists - M3UPT - Update interval, hours - 2
+
+[Google Play](https://play.google.com/store/apps/details?id=ar.tvplayer.tv)
 
 ---
 
@@ -202,7 +216,7 @@ This is the recommended player for the remaining platforms.
 
 ## 📓 Notes
 
-- RTP channels don't open in some players. For now use Sparkle TV.
+- RTP channels don't open in some players. For now use Sparkle TV or TiviMate.
 - Some channels only work with Portuguese IP, you need to use a [VPN](https://m3upt.com/vpn) if you live outside Portugal.
 - Some streams only work in Kodi with YouTube addon installed.
 
