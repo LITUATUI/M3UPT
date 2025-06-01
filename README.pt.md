@@ -133,7 +133,7 @@ Este leitor de IPTV também abre todos os canais RTP - os que estão encriptados
 
 **Configurações recomendadas:**
 
-Configurações - Playlists - M3UPT - Intervale de actualização, horas - 2
+Configurações - Playlists - M3UPT - Intervalo de actualização, horas - 2
 
 [Google Play](https://play.google.com/store/apps/details?id=ar.tvplayer.tv)
 
