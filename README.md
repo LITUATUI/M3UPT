@@ -174,8 +174,8 @@ This is another good player for Android.
 **Recommended settings:**
 
 - GUI - Show channels groups as folders ✅
-- Playback - Decoder: HW+
-- Playback - User-Agent: Firefox
+- Playback - Decoder: Hardware
+- Playback - User-Agent: IE
 
 [⬇️ Download](https://m3upt.com/perfectplayer)
 

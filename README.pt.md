@@ -180,8 +180,8 @@ Este é outro bom leitor para Android.
 **Configurações recomendadas:**
 
 - GUI - Mostrar grupos de canais como pastas ✅
-- Reprodução - Descodificador: HW+
-- Reprodução - User-Agent: Firefox
+- Reprodução - Descodificador: Hardware
+- Reprodução - User-Agent: IE
 
 [⬇️ Download](https://m3upt.com/perfectplayer)
 
