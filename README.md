@@ -109,9 +109,23 @@ To get the best experience, I recommend to use one of the following IPTV players
 
 ---
 
-### 🏆 Sparkle TV
+### 🏆 OTT TV or OTT Navigator IPTV (clones)
 
 Currently, this IPTV player opens all RTP channels - the ones that are DRM encrypted and the ones that aren't.
+
+![OTT Navigator IPTV screenshot](/images/OTT-Navigator-IPTV-M3UPT-playlist.avif "OTT Navigator IPTV screenshot")
+
+**Recommended settings:**
+
+- Restore this backup: qWa6f2 (password: 12345)
+
+[Google Play](https://play.google.com/store/apps/details?id=appnovatica.tv)
+
+---
+
+### 🥇 Sparkle TV
+
+Currently, this IPTV player also opens all RTP channels - the ones that are DRM encrypted and the ones that aren't.
 
 ![Sparkle TV screenshot](/images/Sparkle_TV.avif "Sparkle TV screenshot")
 
@@ -123,7 +137,7 @@ Settings - Sources - Time between synchronization - 3 hours
 
 ---
 
-### 🏆 TiviMate
+### 🥇 TiviMate
 
 Currently, this IPTV player also opens all RTP channels - the ones that are DRM encrypted and the ones that aren't.
 
@@ -137,23 +151,9 @@ Settings - Playlists - M3UPT - Update interval, hours - 2
 
 ---
 
-### 🥇 OTT TV or OTT Navigator IPTV (clones)
-
-This was the previous recommended player for Android, but currently doesn't open some RTP channels.
-
-![OTT Navigator IPTV screenshot](/images/OTT-Navigator-IPTV-M3UPT-playlist.avif "OTT Navigator IPTV screenshot")
-
-**Recommended settings:**
-
-- Restore this backup: qWa6f2 (password: 12345)
-
-[Google Play](https://play.google.com/store/apps/details?id=appnovatica.tv)
-
----
-
 ### 🥈ProgTV
 
-This is a good player for Android.
+This is a good player for Android, but doesn't open RTP 1 (DRM encrypted).
 
 ![ProgTV screenshot](/images/ProgTV-M3UPT-playlist.avif "ProgTV screenshot")
 
@@ -167,7 +167,7 @@ This is a good player for Android.
 
 ### 🥉 Perfect Player (discontinued)
 
-This is another good player for Android.
+This is another good player for Android, but doesn't open RTP 1 (DRM encrypted).
 
 ![Perfect Player screenshot](/images/Perfect-Player-M3UPT-playlist.avif "Perfect Player screenshot")
 
@@ -216,7 +216,7 @@ This is the recommended player for the remaining platforms.
 
 ## 📓 Notes
 
-- RTP channels don't open in some players. For now use Sparkle TV or TiviMate.
+- RTP channels don't open in some players.
 - Some channels only work with Portuguese IP, you need to use a [VPN](https://m3upt.com/vpn) if you live outside Portugal.
 - Some streams only work in Kodi with YouTube addon installed.
 

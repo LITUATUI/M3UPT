@@ -111,37 +111,9 @@ Para ter uma melhor experiência recomendo o uso de um dos seguintes leitores de
 
 ---
 
-### 🏆 Sparkle TV
+### 🏆 OTT TV ou OTT Navigator IPTV (clones)
 
 Este leitor de IPTV abre todos os canais RTP - os que estão encriptados com DRM e os que não estão.
-
-![Sparkle TV screenshot](/images/Sparkle_TV.avif "Sparkle TV screenshot")
-
-**Configurações recomendadas:**
-
-Configurações - Fontes - Tempo entre a sincronização - 3 horas
-
-[Google Play](https://play.google.com/store/apps/details?id=se.hedekonsult.sparkle)
-
----
-
-### 🏆 TiviMate
-
-Este leitor de IPTV também abre todos os canais RTP - os que estão encriptados com DRM e os que não estão.
-
-![TiviMate screenshot](/images/TiviMate.avif "TiviMate screenshot")
-
-**Configurações recomendadas:**
-
-Configurações - Playlists - M3UPT - Intervalo de actualização, horas - 2
-
-[Google Play](https://play.google.com/store/apps/details?id=ar.tvplayer.tv)
-
----
-
-### 🥇 OTT TV ou OTT Navigator IPTV (clones)
-
-Este era o leitor recomendado para Android, mas actualmente não abre todos os canais RTP.
 
 ![OTT Navigator IPTV screenshot](/images/OTT-Navigator-IPTV-M3UPT-playlist.avif "OTT Navigator IPTV screenshot")
 
@@ -157,9 +129,37 @@ Configurações > Configurações adicionais > Backup e Restauração > Restaura
 
 ---
 
+### 🥇 Sparkle TV
+
+Este leitor de IPTV também abre todos os canais RTP - os que estão encriptados com DRM e os que não estão.
+
+![Sparkle TV screenshot](/images/Sparkle_TV.avif "Sparkle TV screenshot")
+
+**Configurações recomendadas:**
+
+Configurações - Fontes - Tempo entre a sincronização - 3 horas
+
+[Google Play](https://play.google.com/store/apps/details?id=se.hedekonsult.sparkle)
+
+---
+
+### 🥇 TiviMate
+
+Este leitor de IPTV também abre todos os canais RTP - os que estão encriptados com DRM e os que não estão.
+
+![TiviMate screenshot](/images/TiviMate.avif "TiviMate screenshot")
+
+**Configurações recomendadas:**
+
+Configurações - Playlists - M3UPT - Intervalo de actualização, horas - 2
+
+[Google Play](https://play.google.com/store/apps/details?id=ar.tvplayer.tv)
+
+---
+
 ### 🥈 ProgTV
 
-Este é um bom leitor para Android.
+Este é um bom leitor para Android, mas não abre a RTP 1 (encriptada com DRM).
 
 ![ProgTV screenshot](/images/ProgTV-M3UPT-playlist.avif "ProgTV screenshot")
 
@@ -173,7 +173,7 @@ Este é um bom leitor para Android.
 
 ### 🥉 Perfect Player (descontinuado)
 
-Este é outro bom leitor para Android.
+Este é outro bom leitor para Android, mas não abre a RTP 1 (encriptada com DRM).
 
 ![Perfect Player screenshot](/images/Perfect-Player-M3UPT-playlist.avif "Perfect Player screenshot")
 
@@ -222,7 +222,7 @@ Este é o leitor recomendado para as restantes plataformas.
 
 ## 📓 Notas
 
-- Os canais da RTP não abrem em alguns leitores. Por enquanto utilize o Sparkle TV ou TiviMate.
+- Os canais da RTP não abrem em alguns leitores.
 - Alguns canais só funcionam com IP Português, quem vive fora de Portugal terá de usar uma [VPN](https://m3upt.com/vpn).
 - Alguns streams só funcionam no Kodi com o addon YouTube instalado.
 
