@@ -199,7 +199,7 @@ Este é o leitor recomendado para computadores GNU/Linux.
 
 - Main - Open previous channel on startup ✅
 - Video - Deinterlace ✅
-- Other - mpv options: hwdec=auto-safe --demuxer-lavf-o=cenc_decryption_key=a2226def4bc8f249de2daf36b7c12b1e 
+- Other - mpv options: --hwdec=auto --demuxer-lavf-o=cenc_decryption_key=a2226def4bc8f249de2daf36b7c12b1e
 - Debug - Automatic reconnection ✅
 
 [⬇️ Download](https://codeberg.org/liya/yuki-iptv)
