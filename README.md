@@ -117,7 +117,7 @@ Currently, this IPTV player opens all RTP channels - the ones that are DRM encry
 
 **Recommended settings:**
 
-- Restore this backup: qWa6f2 (password: 12345)
+- Restore this backup: TUwxbS (password: 12345)
 
 [Google Play](https://play.google.com/store/apps/details?id=appnovatica.tv)
 

@@ -119,7 +119,7 @@ Este leitor de IPTV abre todos os canais RTP - os que estão encriptados com DRM
 
 **Configurações recomendadas:**
 
-- Restaure este backup: qWa6f2 (senha: 12345)
+- Restaure este backup: TUwxbS (senha: 12345)
 
 Para aplicar o código de backup, siga os seguintes passos após instalar a aplicação OTT Navigator IPTV:
 
