@@ -256,6 +256,7 @@ This is an open source project.
 - Visit the project page at [GitHub](https://github.com/LITUATUI/M3UPT).
 - You can use the [Issues](https://github.com/LITUATUI/M3UPT/issues) section to report bugs or broken links and the [Discussions](https://github.com/LITUATUI/M3UPT/discussions) section for suggestions or general conversation.
 - On Telegram join the [public group](https://t.me/m3upt) to get updates and chat.
+- We also have a group on [Signal](https://m3upt.com/signal).
 - Support this project with the purchase of an already configured [TV Box](https://m3upt.com/tvbox) or with a [donation](https://m3upt.com/donativo). Your support encourages me to dedicate more time to this project and gives you access to the private Telegram group.
 
 ---
