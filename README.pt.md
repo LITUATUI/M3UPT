@@ -159,7 +159,7 @@ Configurações - Playlists - M3UPT - Intervalo de actualização, horas - 2
 
 ### 🥇 M3U IPTV
 
-Este leitor de IPTV também abre todos os canais RTP - os que estão encriptados com DRM e os que não estão.
+Este leitor de IPTV também abre todos os canais RTP - os que estão encriptados com DRM e os que não estão. Excelente experiência em dispositivos móveis.
 
 ![M3U IPTV screenshot](/images/M3U_IPTV.avif "M3U IPTV screenshot")
 

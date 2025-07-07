@@ -153,7 +153,7 @@ Settings - Playlists - M3UPT - Update interval, hours - 2
 
 ### 🥇 M3U IPTV
 
-Currently, this IPTV player also opens all RTP channels - the ones that are DRM encrypted and the ones that aren't.
+Currently, this IPTV player also opens all RTP channels - the ones that are DRM encrypted and the ones that aren't. Excellent experience on mobile devices.
 
 ![M3U IPTV screenshot](/images/M3U_IPTV.avif "M3U IPTV screenshot")
 
