@@ -226,7 +226,7 @@ This is the recommended player for the remaining platforms.
 
 For a good experience you need a device with decent SoC and enough RAM. As a general rule avoid SoCs made by Rockchip and Allwinner.
 
-- **SoC**: Amlogic S905W2, S905Y4, S905X4 or S928X (fast, energy efficient and supports the modern AV1 video codec)
+- **SoC**: Amlogic S905Y5, S905X5M or S905X5 (fast, energy efficient and supports the modern AV1 video codec)
 - **RAM**: 4 GB
 - **Firmware**: [slimBOXtv (ATV version)](https://slimboxtv.ru/)
 
