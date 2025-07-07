@@ -111,7 +111,7 @@ To get the best experience, I recommend to use one of the following IPTV players
 
 ### 🏆 OTT TV or OTT Navigator IPTV (clones)
 
-Currently, this IPTV player opens all RTP channels - the ones that are DRM encrypted and the ones that aren't.
+Currently, this is the most complete IPTV player and opens all RTP channels - the ones that are DRM encrypted and the ones that aren't.
 
 ![OTT Navigator IPTV screenshot](/images/OTT-Navigator-IPTV-M3UPT-playlist.avif "OTT Navigator IPTV screenshot")
 
@@ -148,6 +148,16 @@ Currently, this IPTV player also opens all RTP channels - the ones that are DRM 
 Settings - Playlists - M3UPT - Update interval, hours - 2
 
 [Google Play](https://play.google.com/store/apps/details?id=ar.tvplayer.tv)
+
+---
+
+### 🥇 M3U IPTV
+
+Currently, this IPTV player also opens all RTP channels - the ones that are DRM encrypted and the ones that aren't.
+
+![M3U IPTV screenshot](/images/M3U_IPTV.avif "M3U IPTV screenshot")
+
+[Download](https://m3u-ip.tv/)
 
 ---
 

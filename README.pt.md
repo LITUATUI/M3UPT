@@ -113,7 +113,7 @@ Para ter uma melhor experiência recomendo o uso de um dos seguintes leitores de
 
 ### 🏆 OTT TV ou OTT Navigator IPTV (clones)
 
-Este leitor de IPTV abre todos os canais RTP - os que estão encriptados com DRM e os que não estão.
+Este leitor de IPTV é o mais completo e abre todos os canais RTP - os que estão encriptados com DRM e os que não estão.
 
 ![OTT Navigator IPTV screenshot](/images/OTT-Navigator-IPTV-M3UPT-playlist.avif "OTT Navigator IPTV screenshot")
 
@@ -154,6 +154,16 @@ Este leitor de IPTV também abre todos os canais RTP - os que estão encriptados
 Configurações - Playlists - M3UPT - Intervalo de actualização, horas - 2
 
 [Google Play](https://play.google.com/store/apps/details?id=ar.tvplayer.tv)
+
+---
+
+### 🥇 M3U IPTV
+
+Este leitor de IPTV também abre todos os canais RTP - os que estão encriptados com DRM e os que não estão.
+
+![M3U IPTV screenshot](/images/M3U_IPTV.avif "M3U IPTV screenshot")
+
+[Download](https://m3u-ip.tv/)
 
 ---
 
