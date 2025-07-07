@@ -111,7 +111,7 @@ To get the best experience, I recommend to use one of the following IPTV players
 
 ### 🏆 OTT TV or OTT Navigator IPTV (clones)
 
-Currently, this is the most complete IPTV player and opens all RTP channels - the ones that are DRM encrypted and the ones that aren't.
+This is the most complete IPTV player and opens all RTP channels - the ones that are DRM encrypted and the ones that aren't.
 
 ![OTT Navigator IPTV screenshot](/images/OTT-Navigator-IPTV-M3UPT-playlist.avif "OTT Navigator IPTV screenshot")
 
@@ -125,7 +125,7 @@ Currently, this is the most complete IPTV player and opens all RTP channels - th
 
 ### 🥇 Sparkle TV
 
-Currently, this IPTV player also opens all RTP channels - the ones that are DRM encrypted and the ones that aren't.
+This IPTV player also opens all RTP channels - the ones that are DRM encrypted and the ones that aren't.
 
 ![Sparkle TV screenshot](/images/Sparkle_TV.avif "Sparkle TV screenshot")
 
@@ -139,7 +139,7 @@ Settings - Sources - Time between synchronization - 3 hours
 
 ### 🥇 TiviMate
 
-Currently, this IPTV player also opens all RTP channels - the ones that are DRM encrypted and the ones that aren't.
+This IPTV player also opens all RTP channels - the ones that are DRM encrypted and the ones that aren't.
 
 ![TiviMate screenshot](/images/TiviMate.avif "TiviMate screenshot")
 
@@ -153,7 +153,7 @@ Settings - Playlists - M3UPT - Update interval, hours - 2
 
 ### 🥇 M3U IPTV
 
-Currently, this IPTV player also opens all RTP channels - the ones that are DRM encrypted and the ones that aren't. Excellent experience on mobile devices.
+This simple IPTV player also opens all RTP channels - the ones that are DRM encrypted and the ones that aren't. Excellent experience on mobile devices.
 
 ![M3U IPTV screenshot](/images/M3U_IPTV.avif "M3U IPTV screenshot")
 
