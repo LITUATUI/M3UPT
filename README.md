@@ -232,7 +232,7 @@ For a good experience you need a device with decent SoC and enough RAM. As a gen
 
 Affordable Android TV boxes with Amlogic SoCs are usually much better supported than the ones powered by Rockchip or Allwinner.
 
-You can buy an excellent device for less than 40 euros on the recommended shopping websites.
+You can buy an [excellent device](https://m3upt.com/x88-pro-x5m) for less than 50 euros on the recommended shopping websites.
 
 If you prefer a TV Box already configured and ready to use, you can buy it [here](https://m3upt.com/tvbox).
 
