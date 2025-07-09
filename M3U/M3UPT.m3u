@@ -985,39 +985,60 @@ https://video-auth1.iol.pt/beachcam/bcfaja/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/bcpauldomar2/playlist.m3u8
 
 
+# 100 ou Mais
+
+#EXTINF:-1 media="true" group-title="100 ou Mais" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/44881_70945_50421.jpg?q=100&format=pjpg&auto=webp&v=3&w=900",100 ou Mais - S01E01
+#EXTVLCOPT:http-user-agent=IE
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b57fd50083e83bfd85bbc31a32cf47e1:3d5f6bcf52c213ac76f5b896ee95be4e
+https://streaming-vod.rtp.pt/drm-dash/nas2.share,/h264/512x384/p12607/p12607_1_20231226161005e001t6542d_lo.mp4,/h264/512x384/p12607/p12607_1_20231226161005e001t6542d.mp4,.urlset/manifest.mpd
+
+#EXTINF:-1 media="true" group-title="100 ou Mais" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/44881_70945_50421.jpg?q=100&format=pjpg&auto=webp&v=3&w=900",100 ou Mais - S01E02
+#EXTVLCOPT:http-user-agent=IE
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b57fd50083e83bfd85bbc31a32cf47e1:3d5f6bcf52c213ac76f5b896ee95be4e
+https://streaming-vod.rtp.pt/drm-dash/nas2.share,/h264/512x384/p12607/p12607_1_20231227161006e002t8470d_lo.mp4,/h264/512x384/p12607/p12607_1_20231227161006e002t8470d.mp4,.urlset/manifest.mpd
+
+#EXTINF:-1 media="true" group-title="100 ou Mais" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/44881_70945_50421.jpg?q=100&format=pjpg&auto=webp&v=3&w=900",100 ou Mais - S01E03
+#EXTVLCOPT:http-user-agent=IE
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b57fd50083e83bfd85bbc31a32cf47e1:3d5f6bcf52c213ac76f5b896ee95be4e
+https://streaming-vod.rtp.pt/drm-dash/nas2.share,/h264/512x384/p12607/p12607_1_20231228161006e003t8102d_lo.mp4,/h264/512x384/p12607/p12607_1_20231228161006e003t8102d.mp4,.urlset/manifest.mpd
+
+
 # O Planeta Vivo
 
-#EXTINF:-1 media="true" group-title="O Planeta Vivo" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/45929_73117_64439.jpg",O Planeta Vivo S01E01
+#EXTINF:-1 media="true" group-title="O Planeta Vivo" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/45929_73117_64439.jpg",O Planeta Vivo - S01E01
 #EXTVLCOPT:http-user-agent=IE
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b57fd50083e83bfd85bbc31a32cf47e1:3d5f6bcf52c213ac76f5b896ee95be4e
 https://streaming-vod.rtp.pt/drm-dash/nas2.share,/pt/h264/512x384/p13613/p13613_20240703090016e001t9267.mp4,.urlset/manifest.mpd
 
-#EXTINF:-1 media="true" group-title="O Planeta Vivo" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/45929_73117_64439.jpg",O Planeta Vivo S01E02
+#EXTINF:-1 media="true" group-title="O Planeta Vivo" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/45929_73117_64439.jpg",O Planeta Vivo - S01E02
 #EXTVLCOPT:http-user-agent=IE
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b57fd50083e83bfd85bbc31a32cf47e1:3d5f6bcf52c213ac76f5b896ee95be4e
 https://streaming-vod.rtp.pt/drm-dash/nas2.share,/pt/h264/512x384/p13613/p13613_1_20240710161003e002t6658d_lo.mp4,/pt/h264/512x384/p13613/p13613_1_20240710161003e002t6658d.mp4,.urlset/manifest.mpd
 
-#EXTINF:-1 media="true" group-title="O Planeta Vivo" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/45929_73117_64439.jpg",O Planeta Vivo S01E03
+#EXTINF:-1 media="true" group-title="O Planeta Vivo" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/45929_73117_64439.jpg",O Planeta Vivo - S01E03
 #EXTVLCOPT:http-user-agent=IE
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b57fd50083e83bfd85bbc31a32cf47e1:3d5f6bcf52c213ac76f5b896ee95be4e
 https://streaming-vod.rtp.pt/drm-dash/nas2.share,/pt/h264/512x384/p13613/p13613_1_20240717161005e003t1334d_lo.mp4,/pt/h264/512x384/p13613/p13613_1_20240717161005e003t1334d.mp4,.urlset/manifest.mpd
 
-#EXTINF:-1 media="true" group-title="O Planeta Vivo" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/45929_73117_64439.jpg",O Planeta Vivo S01E04
+#EXTINF:-1 media="true" group-title="O Planeta Vivo" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/45929_73117_64439.jpg",O Planeta Vivo - S01E04
 #EXTVLCOPT:http-user-agent=IE
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b57fd50083e83bfd85bbc31a32cf47e1:3d5f6bcf52c213ac76f5b896ee95be4e
 https://streaming-vod.rtp.pt/drm-dash/nas2.share,/pt/h264/512x384/p13613/p13613_1_20240717161005e003t1334d_lo.mp4,/pt/h264/512x384/p13613/p13613_1_20240717161005e003t1334d.mp4,.urlset/manifest.mpd
 
-#EXTINF:-1 media="true" group-title="O Planeta Vivo" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/45929_73117_64439.jpg",O Planeta Vivo S01E05
+#EXTINF:-1 media="true" group-title="O Planeta Vivo" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/45929_73117_64439.jpg",O Planeta Vivo - S01E05
 #EXTVLCOPT:http-user-agent=IE
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b57fd50083e83bfd85bbc31a32cf47e1:3d5f6bcf52c213ac76f5b896ee95be4e
 https://streaming-vod.rtp.pt/drm-dash/nas2.share,/pt/h264/512x384/p13613/p13613_1_20240717161005e003t1334d_lo.mp4,/pt/h264/512x384/p13613/p13613_1_20240717161005e003t1334d.mp4,.urlset/manifest.mpd
 
-#EXTINF:-1 media="true" group-title="O Planeta Vivo" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/45929_73117_64439.jpg",O Planeta Vivo S01E06
+#EXTINF:-1 media="true" group-title="O Planeta Vivo" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/45929_73117_64439.jpg",O Planeta Vivo - S01E06
 #EXTVLCOPT:http-user-agent=IE
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b57fd50083e83bfd85bbc31a32cf47e1:3d5f6bcf52c213ac76f5b896ee95be4e
