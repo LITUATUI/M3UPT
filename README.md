@@ -117,7 +117,7 @@ This is the most complete IPTV player and opens all RTP channels - the ones that
 
 **Recommended settings:**
 
-- Restore this backup: TUwxbS (password: 12345)
+- Restore this backup: gKAgkR (password: 12345)
 
 [Google Play](https://play.google.com/store/apps/details?id=appnovatica.tv)
 
