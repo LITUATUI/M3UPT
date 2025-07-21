@@ -119,7 +119,7 @@ Este leitor de IPTV é o mais completo e abre todos os canais RTP - os que estã
 
 **Configurações recomendadas:**
 
-- Restaure este backup: TUwxbS (senha: 12345)
+- Restaure este backup: gKAgkR (senha: 12345)
 
 Para aplicar o código de backup, siga os seguintes passos após instalar a aplicação OTT Navigator IPTV:
 
