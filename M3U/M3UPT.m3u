@@ -287,7 +287,8 @@ https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/arirang_1gch.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="KBSWorld.kr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/KBS-World.png",KBS World
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+http://mytv.dothome.co.kr/ch/catv/7.php
 
 #EXTINF:-1 group-title="TV" tvg-id="DWEnglish.de" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Deutsche-Welle.png",Deutsche Welle
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
