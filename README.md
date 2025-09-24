@@ -111,7 +111,7 @@ To get the best experience, I recommend to use one of the following IPTV players
 
 ### 🏆 OTT TV or OTT Navigator IPTV (clones)
 
-This is the most complete IPTV player and opens all RTP channels - the ones that are DRM encrypted and the ones that aren't.
+This is the most complete IPTV player and opens DRM encrypted streams.
 
 ![OTT Navigator IPTV screenshot](/images/OTT-Navigator-IPTV-M3UPT-playlist.avif "OTT Navigator IPTV screenshot")
 
@@ -125,7 +125,7 @@ This is the most complete IPTV player and opens all RTP channels - the ones that
 
 ### 🥇 Sparkle TV
 
-This IPTV player also opens all RTP channels - the ones that are DRM encrypted and the ones that aren't.
+This IPTV player also opens DRM encrypted streams.
 
 ![Sparkle TV screenshot](/images/Sparkle_TV.avif "Sparkle TV screenshot")
 
@@ -139,7 +139,7 @@ Settings - Sources - Time between synchronization - 3 hours
 
 ### 🥇 TiviMate
 
-This IPTV player also opens all RTP channels - the ones that are DRM encrypted and the ones that aren't.
+This IPTV player also opens DRM encrypted streams.
 
 ![TiviMate screenshot](/images/TiviMate.avif "TiviMate screenshot")
 
@@ -153,7 +153,7 @@ Settings - Playlists - M3UPT - Update interval, hours - 2
 
 ### 🥇 M3U IPTV
 
-This simple IPTV player also opens all RTP channels - the ones that are DRM encrypted and the ones that aren't. Excellent experience on mobile devices.
+This simple IPTV player also opens DRM encrypted streams. Excellent experience on mobile devices.
 
 ![M3U IPTV screenshot](/images/M3U_IPTV.avif "M3U IPTV screenshot")
 
@@ -163,7 +163,7 @@ This simple IPTV player also opens all RTP channels - the ones that are DRM encr
 
 ### 🥈ProgTV
 
-This is a good player for Android, but doesn't open RTP 1 (DRM encrypted).
+This is a good player for Android, but doesn't open DRM encrypted streams.
 
 ![ProgTV screenshot](/images/ProgTV-M3UPT-playlist.avif "ProgTV screenshot")
 
@@ -177,7 +177,7 @@ This is a good player for Android, but doesn't open RTP 1 (DRM encrypted).
 
 ### 🥉 Perfect Player (discontinued)
 
-This is another good player for Android, but doesn't open RTP 1 (DRM encrypted).
+This is another good player for Android, but doesn't open DRM encrypted streams.
 
 ![Perfect Player screenshot](/images/Perfect-Player-M3UPT-playlist.avif "Perfect Player screenshot")
 
@@ -226,7 +226,7 @@ This is the recommended player for the remaining platforms.
 
 ## 📓 Notes
 
-- RTP channels don't open in some players.
+- DRM encrypted streams don't open in some players.
 - Some channels only work with Portuguese IP, you need to use a [VPN](https://m3upt.com/vpn) if you live outside Portugal.
 - Some streams only work in Kodi with YouTube addon installed.
 

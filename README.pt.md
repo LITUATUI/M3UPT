@@ -113,7 +113,7 @@ Para ter uma melhor experiência recomendo o uso de um dos seguintes leitores de
 
 ### 🏆 OTT TV ou OTT Navigator IPTV (clones)
 
-Este leitor de IPTV é o mais completo e abre todos os canais RTP - os que estão encriptados com DRM e os que não estão.
+Este leitor de IPTV é o mais completo e abre streams encriptados com DRM.
 
 ![OTT Navigator IPTV screenshot](/images/OTT-Navigator-IPTV-M3UPT-playlist.avif "OTT Navigator IPTV screenshot")
 
@@ -131,7 +131,7 @@ Configurações > Configurações adicionais > Backup e Restauração > Restaura
 
 ### 🥇 Sparkle TV
 
-Este leitor de IPTV também abre todos os canais RTP - os que estão encriptados com DRM e os que não estão.
+Este leitor de IPTV também abre streams encriptados com DRM.
 
 ![Sparkle TV screenshot](/images/Sparkle_TV.avif "Sparkle TV screenshot")
 
@@ -145,7 +145,7 @@ Configurações - Fontes - Tempo entre a sincronização - 3 horas
 
 ### 🥇 TiviMate
 
-Este leitor de IPTV também abre todos os canais RTP - os que estão encriptados com DRM e os que não estão.
+Este leitor de IPTV também abre streams encriptados com DRM.
 
 ![TiviMate screenshot](/images/TiviMate.avif "TiviMate screenshot")
 
@@ -159,7 +159,7 @@ Configurações - Playlists - M3UPT - Intervalo de actualização, horas - 2
 
 ### 🥇 M3U IPTV
 
-Este leitor de IPTV simples também abre todos os canais RTP - os que estão encriptados com DRM e os que não estão. Excelente experiência em dispositivos móveis.
+Este leitor de IPTV simples também abre streams encriptados com DRM. Excelente experiência em dispositivos móveis.
 
 ![M3U IPTV screenshot](/images/M3U_IPTV.avif "M3U IPTV screenshot")
 
@@ -169,7 +169,7 @@ Este leitor de IPTV simples também abre todos os canais RTP - os que estão enc
 
 ### 🥈 ProgTV
 
-Este é um bom leitor para Android, mas não abre a RTP 1 (encriptada com DRM).
+Este é um bom leitor para Android, mas não abre streams encriptados com DRM.
 
 ![ProgTV screenshot](/images/ProgTV-M3UPT-playlist.avif "ProgTV screenshot")
 
@@ -183,7 +183,7 @@ Este é um bom leitor para Android, mas não abre a RTP 1 (encriptada com DRM).
 
 ### 🥉 Perfect Player (descontinuado)
 
-Este é outro bom leitor para Android, mas não abre a RTP 1 (encriptada com DRM).
+Este é outro bom leitor para Android, mas não abre streams encriptados com DRM.
 
 ![Perfect Player screenshot](/images/Perfect-Player-M3UPT-playlist.avif "Perfect Player screenshot")
 
@@ -232,7 +232,7 @@ Este é o leitor recomendado para as restantes plataformas.
 
 ## 📓 Notas
 
-- Os canais da RTP não abrem em alguns leitores.
+- Streams encriptados com DRM não abrem em alguns leitores.
 - Alguns canais só funcionam com IP Português, quem vive fora de Portugal terá de usar uma [VPN](https://m3upt.com/vpn).
 - Alguns streams só funcionam no Kodi com o addon YouTube instalado.
 
