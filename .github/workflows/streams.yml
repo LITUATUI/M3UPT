@@ -9,7 +9,7 @@ jobs:
     steps:
     
       - name: checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: update streams
         run: cd M3U && sh streams.sh

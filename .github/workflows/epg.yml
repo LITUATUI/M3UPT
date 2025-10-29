@@ -9,10 +9,10 @@ jobs:
     steps:
     
       - name: checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         
       - name: checkout iptv-org/epg repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
          repository: iptv-org/epg
          path: iptv-org-epg
