@@ -8,7 +8,7 @@ npm run grab --- --channels=../EPG/pt.channels.xml --output=../EPG/epg-pt.xml --
 
 # Meo EPG
 
-npm run grab --- --site=meo.pt --output=../EPG/epg-meo-pt.xml --days=10 --maxConnections=20
+npm run grab --- --site=meo.pt --output=../EPG/epg-meo-pt.xml --days=10 --maxConnections=10
 
 # Nos EPG
 
@@ -20,7 +20,7 @@ npm run grab --- --site=rtp.pt --output=../EPG/epg-rtp-pt.xml --days=10 --maxCon
 
 # Mi.tv EPG
 
-npm run grab --- --channels=sites/mi.tv/mi.tv_br.channels.xml --output=../EPG/epg-mitv-br.xml --days=10 --maxConnections=20
+npm run grab --- --channels=sites/mi.tv/mi.tv_br.channels.xml --output=../EPG/epg-mitv-br.xml --days=10 --maxConnections=10
 
 # Rytec EPG
 
