@@ -4,23 +4,23 @@ cd /home/runner/work/M3UPT/M3UPT/iptv-org-epg && npm install
 
 # PT EPG
 
-npm run grab --- --channels=../EPG/pt.channels.xml --output=../EPG/epg-pt.xml --days=10 --maxConnections=20
+npm run grab --- --channels=../EPG/pt.channels.xml --output=../EPG/epg-pt.xml --days=7 --maxConnections=20
 
 # Meo EPG
 
-npm run grab --- --site=meo.pt --output=../EPG/epg-meo-pt.xml --days=10 --maxConnections=10
+npm run grab --- --site=meo.pt --output=../EPG/epg-meo-pt.xml --days=7 --maxConnections=5
 
 # Nos EPG
 
-npm run grab --- --site=nostv.pt --output=../EPG/epg-nos-pt.xml --days=10 --maxConnections=20
+npm run grab --- --site=nostv.pt --output=../EPG/epg-nos-pt.xml --days=7 --maxConnections=20
 
 # RTP EPG
 
-npm run grab --- --site=rtp.pt --output=../EPG/epg-rtp-pt.xml --days=10 --maxConnections=20
+npm run grab --- --site=rtp.pt --output=../EPG/epg-rtp-pt.xml --days=7 --maxConnections=20
 
 # Mi.tv EPG
 
-npm run grab --- --channels=sites/mi.tv/mi.tv_br.channels.xml --output=../EPG/epg-mitv-br.xml --days=10 --maxConnections=10
+npm run grab --- --channels=sites/mi.tv/mi.tv_br.channels.xml --output=../EPG/epg-mitv-br.xml --days=7 --maxConnections=10
 
 # Rytec EPG
 
