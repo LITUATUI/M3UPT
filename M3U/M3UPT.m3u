@@ -26,7 +26,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="6" group-title="TV" tvg-id="SICNoticias.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png",SIC Notícias
 #EXTVLCOPT:http-user-agent=IE
-#EXTVLCOPT:http-referrer=https://sic.pt/
+#EXTVLCOPT:http-referrer=https://sicnoticias.pt
 https://sicnot.live.impresa.pt/sicnot.m3u8
 
 #EXTINF:-1 tvg-chno="7" group-title="TV" tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
