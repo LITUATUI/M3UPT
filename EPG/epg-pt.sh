@@ -18,6 +18,10 @@ npm run grab --- --site=tvi.iol.pt --output=../EPG/epg-tvi-pt.xml --days=7 --max
 
 npm run grab --- --site=sporttv.pt --output=../EPG/epg-sporttv-pt.xml --days=7 --maxConnections=20
 
+# Vodafone PT EPG
+
+npm run grab --- --site=vodafone.pt --output=../EPG/epg-vodafone-pt.xml --days=7 --maxConnections=20
+
 # Nos EPG
 
 npm run grab --- --site=nostv.pt --output=../EPG/epg-nos-pt.xml --days=7 --maxConnections=20
