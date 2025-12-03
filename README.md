@@ -250,7 +250,7 @@ If you prefer a TV Box already configured and ready to use, you can buy it [here
 
 ## 🛒 Recommended shopping websites
 
-- [AliExpress](https://m3upt.com/aliexpress)
+- [AliExpress](https://m3upt.com/ae)
 - [Amazon](https://m3upt.com/amazon)
 - [eBay](https://m3upt.com/ebay)
 - [Geekbuying](https://m3upt.com/geekbuying)
