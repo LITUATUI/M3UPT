@@ -248,7 +248,7 @@ Para uma boa experiência de utilização o seu aparelho deverá ter um bom proc
 
 Normalmente TV boxes Android com processadores Amlogic são melhores que aparelhos com processadores Rockchip ou Allwinner.
 
-Pode comprar um [excelente aparelho]((https://m3upt.com/x88-pro-x5m)) por menos de 50 euros nas lojas recomendadas.
+Pode comprar um [excelente aparelho]((https://m3upt.com/x88-pro-x5m)) nas lojas recomendadas.
 
 Se preferir uma TV Box já configurada e pronta a usar, pode comprar [aqui](https://m3upt.com/tvbox).
 
