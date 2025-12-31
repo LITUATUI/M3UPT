@@ -39,6 +39,8 @@
   <channel site="nostv.pt" lang="pt" xmltv_id="SICMulher.pt" site_id="420">SIC Mulher</channel>
   <channel site="nostv.pt" lang="pt" xmltv_id="SICCaras.pt" site_id="421">SIC Caras</channel>
   <channel site="nostv.pt" lang="pt" xmltv_id="SICNovelas.pt" site_id="709">SIC Novelas</channel>
+  <channel site="opto.sic.pt" site_id="549519c3-31fa-42de-a621-15e981082fd9" lang="pt" xmltv_id="SICAltaDefinicao.pt">SIC Alta Definição</channel>
+  <channel site="opto.sic.pt" site_id="d47400e0-19d9-4f71-94f4-2b4cfdc1a2ca" lang="pt" xmltv_id="SICReplay.pt">SIC Replay</channel>
   <channel site="nostv.pt" lang="pt" xmltv_id="VPlusTVI.pt" site_id="574">V+ TVI</channel>
   <channel site="nostv.pt" lang="pt" xmltv_id="TVIReality.pt" site_id="567">TVI Reality</channel>  
   <channel site="nostv.pt" lang="pt" xmltv_id="GloboPortugal.pt" site_id="447">Globo</channel>
@@ -48,9 +50,12 @@
   <channel site="nostv.pt" lang="pt" xmltv_id="RTPMemoria.pt" site_id="80">RTP Memória</channel>
   <channel site="nostv.pt" lang="pt" xmltv_id="RTPAcores.pt" site_id="106">RTP Açores</channel>
   <channel site="nostv.pt" lang="pt" xmltv_id="RTPMadeira.pt" site_id="107">RTP Madeira</channel>
-  <channel site="rtp.pt" lang="pt" xmltv_id="RTPInternacional.pt" site_id="lis#5">RTP Internacional</channel>
   <channel site="nostv.pt" lang="pt" xmltv_id="RTPAfrica.pt" site_id="27">RTP África</channel>
-  <channel site="zap.co.ao" lang="pt" xmltv_id="TVIInternacional.pt" site_id="2424">TVI Internacional</channel>
+  <channel site="rtp.pt" lang="pt" xmltv_id="RTPInternacional.pt" site_id="lis#5">RTP Internacional</channel>
+  <channel site="rtp.pt" lang="pt" xmltv_id="RTPiAmerica.pt" site_id="rja#5">RTP Internacional América</channel>
+  <channel site="rtp.pt" lang="pt" xmltv_id="RTPiAsia.pt" site_id="per#5">RTP Internacional Ásia</channel>
+  <channel site="tvi.iol.pt" site_id="tviafrica" lang="pt" xmltv_id="TVIAfrica.pt">TVI África</channel>
+  <channel site="tvi.iol.pt" site_id="tviinternacional" lang="pt" xmltv_id="TVIInternacional.pt">TVI Internacional</channel>
   <channel site="nostv.pt" lang="pt" xmltv_id="PortoCanal.pt" site_id="423">Porto Canal</channel>
   <channel site="nostv.pt" lang="pt" xmltv_id="LocalVisaoTV.pt" site_id="229">Localvisão TV</channel>
   <channel site="nostv.pt" lang="pt" xmltv_id="SICK.pt" site_id="553">SIC K</channel>
@@ -173,6 +178,4 @@
   <channel site="nostv.pt" lang="en" xmltv_id="WSport.za" site_id="701">W-Sport</channel>
   <channel site="nostv.pt" lang="pt" xmltv_id="ZapViva.ao" site_id="538">ZAP Viva</channel>
   <channel site="nostv.pt" lang="en" xmltv_id="ZeeTV.in" site_id="57">Zee TV</channel>
-  <channel site="rtp.pt" lang="pt" xmltv_id="RTPiAmerica.pt" site_id="rja#5">RTP Internacional América</channel>
-  <channel site="rtp.pt" lang="pt" xmltv_id="RTPiAsia.pt" site_id="per#5">RTP Internacional Ásia</channel>
 </channels>
