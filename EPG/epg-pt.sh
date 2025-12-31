@@ -2,6 +2,10 @@
 
 cd /home/runner/work/M3UPT/M3UPT/iptv-org-epg && npm install
 
+# PT EPG
+
+npm run grab --- --channels=../EPG/m3upt.channels.xml --output=../EPG/epg-m3upt.xml --days=7 --maxConnections=20
+
 # RTP EPG
 
 npm run grab --- --site=rtp.pt --output=../EPG/epg-rtp-pt.xml --days=7 --maxConnections=20
