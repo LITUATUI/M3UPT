@@ -489,10 +489,13 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/dubaisportshd.smil/index.m3u8
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/dubaisportshd5.smil/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="DubaiRacing.ae" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Dubai-Racing.png",Dubai Racing
-#https://dmisvthvll.cdn.mangomolo.com/events/events.smil/index.m3u8
+https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="TV"tvg-id="DubaiRacing2.ae" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Dubai-Racing.png",Dubai Racing 2
-#https://dmithrvll.cdn.mangomolo.com/dubairacing/dubairacing.smil/index.m3u8
+#EXTINF:-1 group-title="TV"tvg-id="DubaiRacing2.ae" tvg-logo="https://i.imgur.com/H2TTn7t.png",Dubai Racing 2
+https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="TV"tvg-id="DubaiRacing3.ae" tvg-logo="https://i.imgur.com/Vg4fxmc.png",Dubai Racing 3
+https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="FashionTVEurope.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Fashion-TV.png",Fashion TV
 https://amg01546-amg01546c1-rakuten-gb-9592.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01546-fashiontv-fashiontv-rakutengb/playlist.m3u8
@@ -504,7 +507,7 @@ https://www.youtube.com/watch?v=i646uhJwP5w
 https://cdn.wfc.tv/cdn/stream-eng.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="DubaiOne.ae" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Dubai-One.png",Dubai One
-#https://dminnvll.cdn.mangomolo.com/dubaione/dubaione.stream.smil/playlist.m3u8
+https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="ICITele.ca" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ICI-Television.png",ICI Television
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
