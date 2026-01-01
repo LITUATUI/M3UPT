@@ -2,7 +2,7 @@
 
 cd /home/runner/work/M3UPT/M3UPT/iptv-org-epg && npm install
 
-# PT EPG
+# M3UPT EPG
 
 npm run grab --- --channels=../EPG/m3upt.channels.xml --output=../EPG/epg-m3upt.xml --days=7 --maxConnections=20
 
@@ -38,25 +38,9 @@ npm run grab --- --site=meo.pt --output=../EPG/epg-meo-pt.xml --days=7 --maxConn
 
 npm run grab --- --channels=sites/mi.tv/mi.tv_br.channels.xml --output=../EPG/epg-mitv-br.xml --days=7 --maxConnections=20
 
-# Claro EPG
-
-npm run grab --- --site=claro.com.br --output=../EPG/epg-claro-br.xml --days=7 --maxConnections=20
-
 # Vivo Play EPG
 
 npm run grab --- --site=vivoplay.com.br --output=../EPG/epg-vivoplay-br.xml --days=7 --maxConnections=20
-
-# Zap EPG
-
-npm run grab --- --site=zap.co.ao --output=../EPG/epg-zap-ao.xml --days=7 --maxConnections=20
-
-# Movistar Plus+ EPG
-
-npm run grab --- --site=movistarplus.es --output=../EPG/epg-movistarplus-es.xml --days=7 --maxConnections=20
-
-# Orange EPG
-
-npm run grab --- --site=chaines-tv.orange.fr --output=../EPG/epg-orange-fr.xml --days=7 --maxConnections=20
 
 # Sky IT EPG
 
