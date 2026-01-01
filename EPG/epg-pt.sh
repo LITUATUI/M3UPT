@@ -32,7 +32,7 @@ npm run grab --- --site=nostv.pt --output=../EPG/epg-nos-pt.xml --days=7 --maxCo
 
 # Meo EPG
 
-npm run grab --- --site=meo.pt --output=../EPG/epg-meo-pt.xml --days=7 --maxConnections=5
+npm run grab --- --site=meo.pt --output=../EPG/epg-meo-pt.xml --days=7 --maxConnections=2
 
 # Mi.tv EPG
 
