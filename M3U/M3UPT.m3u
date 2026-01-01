@@ -355,19 +355,10 @@ https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="GaliciaTVEuropa.es" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVG.png",TV Galicia
 https://crtvg-europa.flumotion.cloud/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Telemadrid.es" tvg-logo="",TeleMadrid
-https://new-international-23-secure2.akamaized.net/index.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="TV3cat.es" tvg-logo="",TV3 Catalunya
-https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="Canal324.es" tvg-logo="",Canal 324
-https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="CanalMalaga.es" tvg-logo="",Canal Málaga
+#EXTINF:-1 group-title="TV" tvg-id="CanalMalagaRTV.es" tvg-logo="https://do8ct5f1tsfs2.cloudfront.net/clients_logos/7246ea51ef514a518a2e5b0b3fb871a3.webp",Canal Málaga
 http://canalmalaga-tv-live.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="AragonTV.es" tvg-logo="",Aragón TV
+#EXTINF:-1 group-title="TV" tvg-id="AragonTVInternacional.es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Arag%C3%B3n_Internacional.png/revision/latest/scale-to-width-down/512",Aragón TV Internacional
 http://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="ETB1.es" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ETB-1.png",ETB 1
