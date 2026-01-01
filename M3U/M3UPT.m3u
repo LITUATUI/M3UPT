@@ -147,7 +147,9 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="AgroBrasil TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/AgroBrasil-TV.png",AgroBrasil TV
-https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://live.agrobrasiltv.com.br/ao-vivo.html
+https://live.agrobrasiltv.com.br/memfs/0f1f8f3d-96cb-4792-babe-c2169f30a577_output_0.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="LotusTV.mo" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/macau_lotus_tv_mo.png",Lotus Macau
 #https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
