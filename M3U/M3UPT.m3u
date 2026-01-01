@@ -446,8 +446,8 @@ https://streamcdng5-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sM
 #EXTINF:-1 group-title="TV" tvg-id="4fun.pl" tvg-id="4fun.pl" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/4Fun-TV.png",4Fun.TV
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="KpopTVPlay.br" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Sexy-KPOP-TV.png",Sexy KPOP TV
-https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="KpopTVPlay.br" tvg-logo="https://i.imgur.com/Tf0vweF.png",KpopTV Play
+https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="VH1.it" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/VH1.png",VH1 Italia
 #https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
@@ -3073,13 +3073,13 @@ https://cdn.jwplayer.com/manifests/6ipev8fs.m3u8
 
 # 📻 Radio stations
 
-#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/antena1.png",Rádio  Antena 1
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/antena1.png",Rádio Antena 1
 https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8
 
-#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/antena2.png",Rádio  Antena 2
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/antena2.png",Rádio Antena 2
 https://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8
 
-#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/antena3.png",Rádio  Antena 3
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/antena3.png",Rádio Antena 3
 https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/97-400719141305.png",Antena 1 Açores
