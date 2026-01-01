@@ -126,10 +126,10 @@ https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f
 https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RFPtv.pt" tvg-logo="https://www.rfptv.pt/storage/479/config/MYvhCGImba3MPCwmRu2pZgGkFhy2L6tkTLsSO3LN.png",RFPtv
-https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8
+#https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="CamoesTV.ca" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CamoesTV.png",Camões TV
-https://live-ak.vimeocdn.com/exp=1764273626~acl=%2F77c278c8-94bf-43f5-b687-9943fc5fc114%2F%2A~hmac=8ebd12673e724774d8256a06016552feab106a2f6431fd800acd60fd61cc28c4/77c278c8-94bf-43f5-b687-9943fc5fc114/avc/hls.m3u8
+#https://live-ak.vimeocdn.com/exp=1764273626~acl=%2F77c278c8-94bf-43f5-b687-9943fc5fc114%2F%2A~hmac=8ebd12673e724774d8256a06016552feab106a2f6431fd800acd60fd61cc28c4/77c278c8-94bf-43f5-b687-9943fc5fc114/avc/hls.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RecordTVEuropa.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Record-TV.png",RecordTV Europa
 https://viamotionhsi.netplus.ch/live/eds/rederecordinternacional/browser-HLS8/rederecordinternacional.m3u8
