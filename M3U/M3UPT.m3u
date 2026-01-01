@@ -476,18 +476,11 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_
 #EXTINF:-1 group-title="TV" tvg-id="AbuDhabiSports2.ae" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Abu-Dhabi-Sports-2.png",Abu Dhabi Sports 2
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_2/abudhabi_sports_2_hls_nd/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="AbuDhabiSports3.ae" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Abu-Dhabi-Sports-3.png",Abu Dhabi Sports 3
-#https://admdn3.cdn.mangomolo.com/adsports3/adsports3.stream.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="AbuDhabiSports4.ae" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Abu-Dhabi-Sports-4.png",Abu Dhabi Sports 4
-#https://admdn4.cdn.mangomolo.com/adsports4/adsports4.stream.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="TV" tvg-id="YasTV.ae" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Yas-TV.png",Yas TV
 #https://admdn1.cdn.mangomolo.com/yastv/yastv.stream.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="DubaiSports1.ae" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Dubai-Sports.png",Dubai Sports
-#https://dmitnthvll.cdn.mangomolo.com/dubaisports/dubaisports.smil/index.m3u8
-https://dmitnthfrta.cdn.mgmlcdn.com/dubaisports/dubaisports.stream.smil/chunklist.m3u8
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="DubaiSports2.ae" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Dubai-Sports-2.png",Dubai Sports 2
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/dubaisportshd.smil/index.m3u8
