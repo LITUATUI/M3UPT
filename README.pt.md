@@ -119,7 +119,7 @@ Este leitor de IPTV é o mais completo e abre streams encriptados com DRM.
 
 **Configurações recomendadas:**
 
-- Restaure este backup: 3Ymw2G (senha: 12345)
+- Restaure este backup: dysnNe (senha: 12345)
 
 Para aplicar o código de backup, siga os seguintes passos após instalar a aplicação OTT Navigator IPTV:
 
