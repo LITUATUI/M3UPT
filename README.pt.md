@@ -242,7 +242,7 @@ Este é o leitor recomendado para as restantes plataformas.
 
 Para uma boa experiência de utilização o seu aparelho deverá ter um bom processador e memória RAM suficiente. Evite processadores da Rockchip e da Allwinner.
 
-- **SoC**: Amlogic S905Y5, S905X5M ou S905X5 (rápido, eficiente e suporta o moderno codec de vídeo AV1)
+- **SoC**: Amlogic S905Y5, S905A ou S905X5 (rápido, eficiente e suporta o moderno codec de vídeo AV1)
 - **RAM**: 4 GB
 - **Firmware**: [slimBOXtv (versão ATV)](https://slimboxtv.ru/)
 
