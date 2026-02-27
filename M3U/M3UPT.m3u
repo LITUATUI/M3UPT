@@ -1668,6 +1668,9 @@ https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p9780/p9780_1_20220411
 
 # Eixo do Mal
 
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 26/2/2026
+https://videos.impresa.pt/videos/hls/sicnot/2026/02/27/db3c2dfc-4443-4160-b2da-713ff6953c68/video.m3u8
+
 #EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 19/2/2026
 https://videos.impresa.pt/videos/hls/sicnot/2026/02/20/20249ee5-dae7-4b84-a254-0c15742793b8/video.m3u8
 
@@ -2759,6 +2762,13 @@ https://cdn.jwplayer.com/manifests/v8e6Ytdz.m3u8
 
 
 # Isto é Gozar com Quem Trabalha
+
+#EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S13E06 22-2-2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://opto.sic.pt/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=aed150fd3146418e16ab342daae5011e:40f848ee880b1f82ceb346baa1bb318b
+https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_udv6bsb2/v/11/ev/14/flavorId/1_,0gktpz1w,yyhqpfln,jd60vc5d,122r24uw,ssdpgnzw,1pnrmg6p,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 #EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S13E05 15-2-2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
