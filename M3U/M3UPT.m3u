@@ -466,6 +466,14 @@ http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="CaliforniaMusicChannel.us" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CMC.png",California Music Channel
 https://cmc-cmctv-cineverse.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="TV" tvg-id="FIFAPlus.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg",FIFA+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVLCOPT:http-origin=https://www.plus.fifa.com
+#EXTVLCOPT:http-referrer=https://www.plus.fifa.com
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ceaa50e1231b3f5b9d3737c2bda40217:11eb075d9936b268235e77e78b6f9aff
+https://d7pd9oqdl4d44.cloudfront.net/2026_03_16_09_38_33_c059f3da-0470-43b0-a430-27663b619d16/PROD_CMAF_CENC/index-dash.mpd
+
 #EXTINF:-1 group-title="TV" tvg-id="FUELTV.at" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Fuel-TV.png",Fuel TV BR
 #https://fueltv-fueltv-9-br.samsung.wurl.com/manifest/playlist.m3u8
 
