@@ -99,7 +99,7 @@ https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlis
 #https://github.com/LITUATUI/M3UPT/raw/refs/heads/main/M3U/TVI_Internacional.m3u
 
 #EXTINF:-1 group-title="TV" tvg-id="TVIAfrica.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI_África.png",TVI África
-https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
+#https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="VPlusTVI.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/vmaistvi.png",V+ TVI
 https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8
@@ -170,16 +170,16 @@ https://globallive.tdm.com.mo/ch1/ch1.live/playlist.m3u8
 https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="TVM.mz" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVM.png",TVM
-https://stream.tvm.co.mz/hls/tvm/playlist.m3u8
+#https://stream.tvm.co.mz/hls/tvm/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="TVMInternacional.mz" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVMI.png",TVM Internacional
-https://stream.tvm.co.mz/hls/tvmi/playlist.m3u8
+#https://stream.tvm.co.mz/hls/tvmi/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="MuzangalaTV.ao" tvg-logo="https://i.imgur.com/fBeaJoS.png",Muzangala TV
-https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
+#https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Darkflix.png",Darkflix
-https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
+#https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Cinemonde.png",Cinemonde
 https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
@@ -288,16 +288,16 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png",Fox News
-https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+#https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="LiveNOWfromFOX.us" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/LiveNOW_from_Fox.webp",LiveNOW from Fox
-https://d3tlzddkbbpp5n.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/LiveNOW_from_FOX.m3u8
+#https://d3tlzddkbbpp5n.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/LiveNOW_from_FOX.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="ABCNewsLive.us" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ABC-News.png",ABC News Live
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="CBSNews247.us" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CBSN.png",CBS News
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(nnn)/master.mpd
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="NBCNewsNOW.us" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NBC-News-Now.png",NBC News Now
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -497,22 +497,22 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_
 #https://admdn1.cdn.mangomolo.com/yastv/yastv.stream.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="DubaiSports1.ae" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Dubai-Sports.png",Dubai Sports
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+#https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="DubaiSports2.ae" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Dubai-Sports-2.png",Dubai Sports 2
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/dubaisportshd.smil/index.m3u8
+#https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/dubaisportshd.smil/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="DubaiSports3.ae" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Dubai-Sports-3.png",Dubai Sports 3
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/dubaisportshd5.smil/index.m3u8
+#http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/dubaisportshd5.smil/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="DubaiRacing.ae" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Dubai-Racing.png",Dubai Racing
-https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8
+#https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 group-title="TV"tvg-id="DubaiRacing2.ae" tvg-logo="https://i.imgur.com/H2TTn7t.png",Dubai Racing 2
-https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
+#https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
 
 #EXTINF:-1 group-title="TV"tvg-id="DubaiRacing3.ae" tvg-logo="https://i.imgur.com/Vg4fxmc.png",Dubai Racing 3
-https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8
+#https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="FashionTVEurope.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Fashion-TV.png",Fashion TV
 https://amg01546-amg01546c1-rakuten-gb-9592.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01546-fashiontv-fashiontv-rakutengb/playlist.m3u8
