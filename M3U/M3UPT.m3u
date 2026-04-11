@@ -1677,6 +1677,9 @@ https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p9780/p9780_1_20220411
 
 # Eixo do Mal
 
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 9/4/2026
+https://videos.impresa.pt/videos/hls/sicnot/2026/04/09/4e19f5f0-f308-46f4-9670-46e81a61a3b8/video.m3u8
+
 #EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 2/4/2026
 https://videos.impresa.pt/videos/hls/sicnot/2026/04/02/39cdb668-93ec-4739-8a81-a75b09fbfa7a/video.m3u8
 
@@ -2240,6 +2243,9 @@ https://content.jwplatform.com/manifests/jL3dl5uq.m3u8
 
 
 # Programa Cujo Nome Estamos Legalmente Impedidos de Dizer
+
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 10/4/2026
+https://videos.impresa.pt/videos/hls/sicnot/2026/04/10/412fc054-9622-409c-993b-9eea4f552627/video.m3u8
 
 #EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 3/4/2026
 https://videos.impresa.pt/videos/hls/sicnot/2026/04/03/f5979ecf-d4de-4107-bba4-9fff21cb6e17/video.m3u8
