@@ -1076,6 +1076,13 @@ https://streaming-vod.rtp.pt/drm-dash/nas2.share,/pt/h264/512x384/p13613/p13613_
 https://streaming-vod.rtp.pt/drm-dash/nas2.share,/pt/h264/512x384/p13613/p13613_1_20240717161005e003t1334d_lo.mp4,/pt/h264/512x384/p13613/p13613_1_20240717161005e003t1334d.mp4,.urlset/manifest.mpd
 
 
+# Debates
+
+#EXTINF:-1 media="true" group-title="Debates" tvg-logo="https://cnnportugal.iol.pt/img/logo.svg",Debate: Pacheco Pereira e Encantador de Burros
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0
+https://streaming-vod3.iol.pt/vod/_definst_/8/e/8/6/smil:69dd70230cf27f6588a68e86-L/playlist.m3u8
+
+
 # O Outro Lado
 
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/programa-o-outro-lado-logo-256x256.png",O Outro Lado - S10E28 28/7/2025
