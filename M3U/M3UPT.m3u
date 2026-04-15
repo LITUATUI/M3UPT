@@ -182,7 +182,7 @@ https://stream.tvm.co.mz/hls/tvmi/playlist.m3u8
 #https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Cinemonde.png",Cinemonde
-https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
+#https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="MyTimeMovieNetwork.br" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/My-Time-Movie-Network.png",MyTime Movie Network (BR)
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
@@ -558,6 +558,12 @@ https://w2.manasat.com/kmusic/kmusic.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="TVCancaoNova.pt" tvg-logo="https://tv.cancaonova.pt/wp-content/uploads/2016/01/logo_cn_radio.png",Canção Nova
 https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="TVMana1.pt" tvg-logo="https://i.imgur.com/6jNqpTP.png",TV Maná 1
+https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="TVMana2.pt" tvg-logo="https://i.imgur.com/6jNqpTP.png",TV Maná 2
+https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8
 
 
 # Beachcam
