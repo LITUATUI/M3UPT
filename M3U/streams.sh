@@ -26,6 +26,7 @@ sed -i "/live_tvi_reality/ c https://video-auth4.iol.pt/live_tvi_reality/live_tv
 
 sed -i "/live_tvi_internacional/ c https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=$(wget https://services.iol.pt/matrix?userId= -o /dev/null -O -)/" M3UPT.m3u
 
+
 # Method 2
 
 # TVI - update the stream URL of TVI
