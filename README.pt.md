@@ -222,6 +222,8 @@ Este é o leitor recomendado para iPhone, iPad e Mac.
 
 [App Store](https://apps.apple.com/app/djubi-player-iptv-m3u/id6763816344)
 
+![Captura de ecrã Djubi multiview](/images/djubi-multiview-pt.png)
+
 ---
 
 ### 🥇 Kodi com PVR IPTV Simple Client
