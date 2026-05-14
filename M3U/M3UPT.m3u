@@ -4,20 +4,6 @@
 
 # 📺 TV
 
-#EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S13E16 10-5-2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0
-#EXTVLCOPT:http-referrer=https://opto.sic.pt/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8d8ba0d225aa77e1cea52ab6cd3a56bc:6a118f85383143f63dd3f38ad8d4c14a
-https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_xz5gtxg0/v/11/ev/14/flavorId/1_,icpcdz4a,c51y4a5q,ywcwvw5b,u0lj8vn4,n8yn06rt,044gvjdo,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
-
-#EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S13E15 3-5-2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0
-#EXTVLCOPT:http-referrer=https://opto.sic.pt/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8d8ba0d225aa77e1cea52ab6cd3a56bc:6a118f85383143f63dd3f38ad8d4c14a
-https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_wznhe8p9/v/11/ev/13/flavorId/1_,vmcka1bl,zamw6hzk,nbf15mck,s0q7rs7z,38pv0o56,eglg97ow,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
-
 #EXTINF:-1 group-title="TV" tvg-id="RTP1.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png",RTP 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0
 #EXTVLCOPT:http-origin=https://www.rtp.pt
@@ -2874,6 +2860,20 @@ https://cdn.jwplayer.com/manifests/v8e6Ytdz.m3u8
 
 
 # Isto é Gozar com Quem Trabalha
+
+#EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S13E16 10-5-2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0
+#EXTVLCOPT:http-referrer=https://opto.sic.pt/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b87fb46d26510b2fc863b6a8d135fc18:ee31c1d6e4ef7783d5b2c0d35665c7b9
+https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_xz5gtxg0/v/11/ev/14/flavorId/1_,icpcdz4a,c51y4a5q,ywcwvw5b,u0lj8vn4,n8yn06rt,044gvjdo,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+
+#EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S13E15 3-5-2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0
+#EXTVLCOPT:http-referrer=https://opto.sic.pt/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d8ba0d225aa77e1cea52ab6cd3a56bc:6a118f85383143f63dd3f38ad8d4c14a
+https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_wznhe8p9/v/11/ev/13/flavorId/1_,vmcka1bl,zamw6hzk,nbf15mck,s0q7rs7z,38pv0o56,eglg97ow,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 #EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S13E14 26-4-2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0
