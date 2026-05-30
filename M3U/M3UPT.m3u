@@ -2286,6 +2286,9 @@ https://content.jwplatform.com/manifests/jL3dl5uq.m3u8
 
 # Programa Cujo Nome Estamos Legalmente Impedidos de Dizer
 
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 29/5/2026
+https://videos.impresa.pt/videos/hls/sicnot/2026/05/29/11b7bccd-87e9-4b03-9011-271adb94b086/video.m3u8
+
 #EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 22/5/2026
 https://videos.impresa.pt/videos/hls/sicnot/2026/05/22/51fa2959-ec6b-40ec-b0d1-e9b48f275c33/video.m3u8
 
@@ -2870,6 +2873,13 @@ https://cdn.jwplayer.com/manifests/v8e6Ytdz.m3u8
 
 
 # Isto é Gozar com Quem Trabalha
+
+#EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S13E18 24-5-2026
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTVLCOPT:http-referrer=https://opto.sic.pt/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b87fb46d26510b2fc863b6a8d135fc18:ee31c1d6e4ef7783d5b2c0d35665c7b9
+https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_tljoa803/v/11/ev/11/flavorId/1_,ysrdalim,a7hx76bx,xq9cxdea,rilwdqxx,7g9smwgb,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
 #EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S13E17 17-5-2026
 #EXTVLCOPT:http-user-agent=Firefox
