@@ -1089,6 +1089,9 @@ https://streaming-vod3.iol.pt/vod/_definst_/8/e/8/6/smil:69dd70230cf27f6588a68e8
 
 # O Outro Lado
 
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 5/6/2026
+https://videos.impresa.pt/videos/hls/sicnot/2026/06/05/eb4ce219-5f34-44d3-8f81-0e8ce56a73a8/video.m3u8
+
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/programa-o-outro-lado-logo-256x256.png",O Outro Lado - S10E28 28/7/2025
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-vod.rtp.pt/hls/nas2.share,/h264/512x384/p14403/p14403_1_20250728000000e028t3500.mp4,.urlset/master.m3u8
