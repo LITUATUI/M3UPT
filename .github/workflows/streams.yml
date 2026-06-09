@@ -17,11 +17,11 @@ jobs:
       - name: setup git config
         run: |
           git config user.name "🚀 HAL 9000"
-          git config user.email "<>"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
       - name: commit
         run: |
-          git pull
-          cd M3U && git add *.m3u8
+          git pull --rebase origin main
+          git add M3U/*.m3u8
           git commit -m "Update streams"
           git push origin main

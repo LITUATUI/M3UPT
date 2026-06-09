@@ -23,11 +23,11 @@ jobs:
       - name: setup git config
         run: |
           git config user.name "🤖 R2-D2"
-          git config user.email "<>"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
       - name: commit
         run: |
-          git pull
-          cd EPG && git add .
+          git pull --rebase origin main
+          git EPG/add .
           git commit -m "Update EPG"
           git push origin main
