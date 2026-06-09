@@ -22,6 +22,6 @@ jobs:
       - name: commit
         run: |
           git pull --rebase origin main
-          git add M3U/*.m3u8
+          git add M3U/
           git commit -m "Update streams"
           git push origin main
