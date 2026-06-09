@@ -22,6 +22,6 @@ jobs:
       - name: commit
         run: |
           git pull
-          cd EPG && git add .
+          cd EPG && git add -A
           git commit -m "Update streams"
           git push origin main
