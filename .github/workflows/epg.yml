@@ -27,7 +27,7 @@ jobs:
 
       - name: commit
         run: |
-          git pull --rebase origin main
+          git pull origin main
           git add EPG/
           git commit -m "Update EPG"
           git push origin main
