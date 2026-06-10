@@ -16,7 +16,6 @@ jobs:
 
       - name: setup git config
         run: |
-          git config user.name "🚀 HAL 9000"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
       - name: commit
