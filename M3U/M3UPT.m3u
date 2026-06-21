@@ -379,6 +379,12 @@ https://multimedia.eitb.eus/live-content/etbbasqueeus-hls/master.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="CanalExtremaduraSatelite.es" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal-Extremadura.png",Canal Extremadura Sat
 https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist_dvr.m3u8
 
+#EXTINF:-1 group-title="TV" tvg-id="TV3CAT.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/960px-TV3CAT.svg.png",3Cat
+https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="3CatInfo.es" tvg-logo="https://statics.3cat.cat/img/logos/3CatInfo_negre.svg",3Cat Info
+https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
+
 #EXTINF:-1 group-title="TV" tvg-id="CubavisionInternacional.cu" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Cubavisión-Internacional.png",Cubavisión Internacional
 #EXTVLCOPT:http-referrer=https://teveo.cu/
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
@@ -388,6 +394,24 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RaiNews24.it" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Rai-News-24.png",Rai News 24
 https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="EBSEnglish.kr" tvg-logo="https://i.imgur.com/5wLJzb0.png",EBS English
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="EBS1TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/960px-EBS_1TV_Logo.svg.png",EBS 1
+https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="EBS2TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/960px-EBS_2TV_Logo.svg.png",EBS 2
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="EBSPlus1.kr" tvg-logo="https://i.imgur.com/aCeuhon.png",EBS Plus 1
+https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="EBSPlus2.kr" tvg-logo="https://i.imgur.com/aCeuhon.png",EBS Plus 2
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="EBSKids.kr" tvg-logo="https://i.imgur.com/62oo8Bx.png",EBS Kids
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RakutenTVFamilyMovies.es" tvg-logo="https://i.imgur.com/Meew6eX.png",Rakuten TV Family Movies
 https://48faa1daf24549fab34594bc5bdd99f2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6213/master.m3u8
