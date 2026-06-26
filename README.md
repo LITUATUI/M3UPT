@@ -210,6 +210,16 @@ This is the recommended player for GNU/Linux computers.
 
 ---
 
+### 🥇 Djubi Player
+
+This is the recommended player for iPhone, iPad and Mac.
+
+[App Store](https://apps.apple.com/app/djubi-player-iptv-m3u/id6763816344)
+
+![Djubi channels screenshot](/images/djubi-channels-en.png)
+
+---
+
 ### 🥇 Kodi with PVR IPTV Simple Client
 
 This is the recommended player for the remaining platforms.
