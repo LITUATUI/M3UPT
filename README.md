@@ -109,7 +109,11 @@ To get the best experience, I recommend to use one of the following IPTV players
 
 ---
 
-### 🏆 OTT TV or OTT Navigator IPTV (clones)
+### 🏆 OTT TV or OTT Navigator I⏰27/6/2026
+
+📣Novo código com SIC a funcionar com IP estrangeiro.
+
+https://t.me/m3upt/7101/10145PTV (clones)
 
 This is the most complete IPTV player and opens DRM encrypted streams.
 
@@ -117,7 +121,7 @@ This is the most complete IPTV player and opens DRM encrypted streams.
 
 **Recommended settings:**
 
-- Restore this backup: JxmPPU (password: 12345)
+- Restore this backup: YPfr2t (password: 12345)
 
 [Google Play](https://play.google.com/store/apps/details?id=appnovatica.tv)
 
