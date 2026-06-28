@@ -440,13 +440,16 @@ https://lon.rtsp.me/r3ZnG6WN2HIRxPARhAirIQ/1713628621/hls/9QdykDAy.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="TraceUrban.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TRACE-Urban.png",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="TraceBrazuca.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Trace_Brasil.png",Trace Brasil
+#EXTINF:-1 group-title="TV" tvg-id="TraceToca.fr" tvg-logo="https://i.imgur.com/6SpWnBR.png",Trace Toca
+https://channels.trace.plus/Traceprod/TOCA_hd/index.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="TraceBrasil.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Trace_Brasil.png",Trace Brasil
 https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="TraceLatina.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TRACE-Latina.png",Trace Latina
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="TraceUK.uk" tvg-logo="https://a.jsrdn.com/hls/23073/trace-uk/logo_20240627_183320_70.png",Trace UK
+#EXTINF:-1 group-title="TV" tvg-id="TraceUK.uk" tvg-logo="https://logos.fandom.com/wiki/Trace_UK?file=Trace-Uk.png",Trace UK
 https://channels.trace.plus/Traceprod/UK_FAST_hd/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="XITE.nl" tvg-logo="https://i.imgur.com/jxuwGRi.png",XITE
