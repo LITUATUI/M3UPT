@@ -3574,7 +3574,7 @@ https://cdn.jwplayer.com/manifests/cZo2e5yC.m3u8
 https://cdn.jwplayer.com/manifests/6ipev8fs.m3u8
 
 
-# 📻 Radio stations
+# 📻 Radio Stations
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/antena1.png",Rádio RTP Antena 1
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0"
@@ -3753,19 +3753,16 @@ http://radiomiudos.out.airtime.pro:8000/radiomiudos_a
 https://streaming-live.rtp.pt/liveradio/zigzag80a/playlist.m3u8
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj76VV_pUw_LEbQcA4TcNqiiI3LZXS1MijJhx8NUaaLKp3NR9gEY21fUyRidOlDiZDQuTGynD5aGgjb8-lOQzy9XzDSeZnafrSSrxcUJjicT6veTLyi0n05ouBfup0DzU7OGZZH533p6z5BWDi4nfIHYdvQR2lVeRYiBQqSFY83R7CbVzQ3NG215gxa2sU=s294",Rádio Quinta do Conde
-https://sp0.redeaudio.com/8100/stream
+https://sp0.redeaudio.com:8100
 
-#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2014/02/Radio-Cascais.jpg",Rádio Cascais
-http://5.9.14.150:9300/;
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://www.1054cascais.com/img/logo.png",Rádio Cascais
+https://play.radioregional.pt:8220/stream/2/;/stream.mp3
 
-#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.radiocastelobranco.pt/css/site/img/logo.png",Rádio Castelo Branco
-http://centova.radio.com.pt:9462/;
-
-#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.radioclube-penafiel.pt/i/logo_radioclubepenafiel.png",Rádio Clube Penafiel
-http://centova.radios.pt:9476/;
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://www.radioclube-penafiel.pt/wp-content/uploads/2022/01/logo-rcpenafiel-vector-retina-400x283.png",Rádio Clube Penafiel
+https://centova.radios.com.pt/proxy/476?mp=/stream
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.jm-madeira.pt/dist/images/JM_logo-01.png",JM Madeira
-http://194.38.136.130:8000/?type=http
+https://radios2.justweb.pt/8046/stream
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.hiper.fm/images/hiper_logo_red.png",Hiper FM
 http://85.25.73.243:10460/;stream/1
