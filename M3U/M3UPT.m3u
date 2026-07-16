@@ -1438,6 +1438,9 @@ https://video-auth1.iol.pt/beachcam/madeirajardimdomar/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Beachcam",Madeira | Jardim do Mar
 https://video-auth1.iol.pt/beachcam/jardimdomardois/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Beachcam",Açores - Ribeira Grande
+https://video-auth1.iol.pt/beachcam/bcribeiragrande/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Beachcam",Praia das Rocas
 https://video-auth1.iol.pt/beachcam/praiadasrocas/playlist.m3u8
 
@@ -3682,20 +3685,20 @@ https://videos.impresa.pt/videos/hls/sicnot/2023/07/18/2508c237-6248-4696-ad68-5
 #EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 12/7/2023
 https://videos.impresa.pt/videos/hls/sicnot/2023/07/11/5b447183-34d7-4672-acf2-dca22c8f385a/Sem-Moderacao.m3u8
 
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 4/7/2023
-https://videos.impresa.pt/videos/hls/sicnot/2023/07/05/5f49f540-080a-43e6-aebb-00583aedd74a/Sem-Moderacao-0407.m3u8
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2007/07/logo_megafm_new.png",Rádio Mega Hits
+https://29023.live.streamtheworld.com/MEGA_HITS_SC
 
 #EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 28/6/2023
 https://videos.impresa.pt/videos/hls/sicnot/2023/06/27/5b44128d-986d-4dc3-9b26-d82ff62c5fc1/video.m3u8
 
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 21/6/2023
-https://videos.impresa.pt/videos/hls/sicnot/2023/06/20/576b7390-ebaa-4a85-842b-30e6b01ace4d/video.m3u8
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.radiot.fi/img/channel-logos/radio-nostalgia.png",Rádio Nostalgia
+https://azura.abcorp.es:8040/live
 
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 13/6/2023
-https://videos.impresa.pt/videos/hls/sicnot/2023/06/13/2ada8efe-f98f-4f9c-865d-2d7774bb9f52/sem-moderacao.m3u8
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.radionovaera.pt/wp-content/uploads/2015/12/logo.png",Rádio Nova Era
+http://centova.radios.pt:9478
 
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 7/6/2023
-https://videos.impresa.pt/videos/hls/sicnot/2023/06/06/40ba8cd4-e88b-47ab-bf5b-881e9ec3796e/video.m3u8
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://www.radionova.fm/wp-content/uploads/2023/05/cropped-favicon-180x180.png",Rádio Nova 98.9 FM - Porto
+http://centova.radio.com.pt:9528
 
 #EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 31/5/2023
 https://videos.impresa.pt/videos/hls/sicnot/2023/05/30/b5dbb518-16ee-4bc1-9e0c-b45d6c71dc9d/video.m3u8
@@ -3742,8 +3745,8 @@ https://videos.impresa.pt/videos/hls/sicnot/2023/03/01/c9e9fe49-f080-4340-a180-e
 #EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 21/2/2023
 https://videos.impresa.pt/videos/hls/sicnot/2023/02/22/8d2a0ae4-953a-46fa-8ed4-01997036ad02/video.m3u8
 
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 15/2/2023
-https://videos.impresa.pt/videos/hls/sicnot/2023/02/15/e1a66262-ec62-4caf-b7e6-e355e0c8b89b/video.m3u8
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.radiomiudos.pt/img/logo2.png",Rádio Miúdos
+https://s5.radio.co/s9c516a065/listen
 
 #EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 8/2/2023
 https://videos.impresa.pt/videos/hls/sicnot/2023/02/08/bcdcac21-8139-4969-869a-bf294f25f17a/video.m3u8
@@ -3751,14 +3754,14 @@ https://videos.impresa.pt/videos/hls/sicnot/2023/02/08/bcdcac21-8139-4969-869a-b
 #EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 1/2/2023
 https://videos.impresa.pt/videos/hls/sicnot/2023/02/01/ababf0fc-7936-4950-bcd1-6219ebba901a/video.m3u8
 
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 25/1/2023
-https://videos.impresa.pt/videos/hls/sicnot/2023/01/25/afd61efe-04e3-4d46-8bb2-d7acd1e4f55c/video.m3u8
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2014/02/Radio-Cascais.jpg",Rádio Cascais
+https://play.radioregional.pt:8220/stream/2/;/stream.mp3
 
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 18/1/2023
-https://videos.impresa.pt/videos/hls/sicnot/2023/01/18/9315fb1e-7a91-4356-85aa-a11d669b2196/video.m3u8
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.radiocastelobranco.pt/css/site/img/logo.png",Rádio Castelo Branco
+http://centova.radio.com.pt:9462
 
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 11/1/2023
-https://videos.impresa.pt/videos/hls/sicnot/2023/01/11/294ab240-3ccf-44a1-b8f6-9b0b7068611f/video.m3u8
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.radioclube-penafiel.pt/i/logo_radioclubepenafiel.png",Rádio Clube Penafiel
+http://centova.radios.pt:9476
 
 #EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 4/1/2023
 https://videos.impresa.pt/videos/hls/sicnot/2023/01/04/9b16a437-7166-4010-b772-f0762e02434d/sem-moderacao.1.m3u8
@@ -3769,8 +3772,8 @@ https://videos.impresa.pt/videos/hls/sicnot/2022/12/28/5a86ccb1-e945-4a7a-a70a-9
 #EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 21/12/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/12/21/17402050-c4cc-429f-98a5-da614fc823b4/sem-moderacao.m3u8
 
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 30/11/2022
-https://videos.impresa.pt/videos/hls/sicnot/2022/11/30/5af5b5df-c1d0-45a3-838b-b3f230542337/sem-moderacao.m3u8
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.radiolinear.pt/img/logo.png",Rádio Linear
+https://nl.digitalrm.pt:8184/stream
 
 #EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 23/11/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/11/23/1dd21f00-347b-45ae-b10f-c7647526cfda/sem-moderacao.m3u8
@@ -3784,38 +3787,38 @@ https://videos.impresa.pt/videos/hls/sicnot/2022/10/25/c905f244-5a32-48a2-a9da-2
 #EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 19/10/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/10/18/3df38bb9-fef4-430d-8ac2-fd2899f751fe/sem-moderacao.6.m3u8
 
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 12/10/2022
-https://videos.impresa.pt/videos/hls/sicnot/2022/10/11/d96c6ae9-b8bd-4bb6-af1a-fa731be03a16/sem-moderacao.5.m3u8
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://nove3cinco.pt/sv/wp-content/uploads/2015/05/Nove3Cinco-Menu-Logo.png",Nove3Cinco
+http://centova.radios.pt:9522
 
 #EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 5/10/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/10/04/5fc7f845-03e9-45df-b963-444381a0f420/sem-moderacao.4.m3u8
 
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 28/9/2022
-https://videos.impresa.pt/videos/hls/sicnot/2022/09/27/954b7c1e-814d-4c45-97a4-65f489209c87/sem-moderacao.3.m3u8
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://radioportuense.com/wp-content/uploads/2017/01/oie_dUXe4SR8xHI0.png",Rádio Portuense
+https://sp0.redeaudio.com:10905/stream
 
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 21/9/2022
-https://videos.impresa.pt/videos/hls/sicnot/2022/09/20/b8841d55-b224-4282-8be3-5fbcd009ae04/sem-moderacao.2.m3u8
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://i.imgur.com/0vmzhdz.png",Rádio Regional
+http://streaming.radioregional.pt:8002
 
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 14/9/2022
-https://videos.impresa.pt/videos/hls/sicnot/2022/09/13/c26ca26f-b0c6-4a5f-8e59-dbafda57235a/sem-moderacao.1.m3u8
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://i.imgur.com/0vmzhdz.png",Rádio Regional [Alternativa]
+http://streaming.radioregional.pt:8000
 
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 7/9/2022
-https://videos.impresa.pt/videos/hls/sicnot/2022/09/06/79e245c8-6a4b-4512-a13a-a92b4cb78d83/sem-moderacao.m3u8
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://i.imgur.com/tKrKYOR.png",Rádio Regional Rock
+http://streaming.radioregional.pt:8046
 
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 27/7/2022
-https://videos.impresa.pt/videos/hls/sicnot/2022/07/26/39857ab1-c026-412d-9662-4827b504b7b3/sem-moderacao.m3u8
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://i.imgur.com/hUrEKgu.png",Rádio Regional Dance & DJS
+http://streaming.radioregional.pt:8064
 
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 20/7/2022
-https://videos.impresa.pt/videos/hls/sicnot/2022/07/19/b3781633-dd29-46f0-a003-e6273d730bb0/sem-moderacao-pgm-1907_22hv00316274.m3u8
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://i.imgur.com/aPZ5joL.png",Rádio Regional Love Songs
+http://streaming.radioregional.pt:8058
 
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 6/7/2022
-https://videos.impresa.pt/videos/hls/sicnot/2022/07/06/73b8e62b-9889-48e9-9ed6-4772d13a818b/sem-moderacao.1.m3u8
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://i.imgur.com/1zntJ9S.png",Rádio Regional Oldies
+http://streaming.radioregional.pt:8052
 
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 29/6/2022
-https://videos.impresa.pt/videos/hls/sicnot/2022/06/29/3d4a27ad-5321-409a-a026-acafffbc4c92/sem-moderacao.m3u8
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://i.imgur.com/x48qEMX.png",Rádio Regional Portuguesa
+http://streaming.radioregional.pt:8040
 
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 22/6/2022
-https://videos.impresa.pt/videos/hls/sicnot/2022/06/22/3cd6e32d-74f1-45f4-89ac-9c7fddb415d7/sem-moderacao.m3u8
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.radioregionaldearouca.com/site/wp-content/uploads/2015/06/logo-radio1.png",Rádio Regional Arouca
+http://centova.radio.com.pt:8485/stream
 
 #EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 15/6/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/06/15/dc6b2cc1-910c-404f-9cbd-a1202cda7236/sem-moderacao.m3u8
@@ -3829,11 +3832,11 @@ https://cdn.jwplayer.com/manifests/xO1sxiyG.m3u8
 #EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 25/5/2022
 https://cdn.jwplayer.com/manifests/kUTFZ84l.m3u8
 
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 18/5/2022
-https://cdn.jwplayer.com/manifests/BjlBpNLO.m3u8
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://cdn-radiotime-logos.tunein.com/s3095d.png",Rádio Universitária do Minho
+https://centova.radio.com.pt/proxy/558
 
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 11/5/2022
-https://cdn.jwplayer.com/manifests/wvICIGMt.m3u8
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.radiovaledominho.com/wp-content/uploads/2017/09/logo_rvm-01.png",Rádio Vale do Minho
+http://centova.radio.com.pt:9434
 
 #EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 4/5/2022
 https://cdn.jwplayer.com/manifests/w1ivoJC5.m3u8
