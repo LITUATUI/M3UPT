@@ -378,7 +378,7 @@ https://crtvg-europa.flumotion.cloud/playlist.m3u8
 http://canalmalaga-tv-live.flumotion.com/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="AragonTVInternacional.es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Arag%C3%B3n_Internacional.png/revision/latest/scale-to-width-down/512",Aragón TV Internacional
-http://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+#http://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="ETB1.es" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ETB-1.png",ETB 1
 #EXTVLCOPT:http-referrer=https://www.eitb.eus/
