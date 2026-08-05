@@ -18,7 +18,8 @@ def convert_m3u():
     converted_lines = []
     
     current_headers = []
-    current_kodiprops = []
+    has_clearkey = False
+    clearkey_props = []
 
     for line in lines:
         line_str = line.strip()
@@ -33,6 +34,7 @@ def convert_m3u():
                 ref = opt.split("=", 1)[1].strip('"\'')
                 current_headers.append(f"Referer={ref}")
             elif opt.startswith("clearkey="):
+                has_clearkey = True
                 key_pair = opt.split("=", 1)[1].strip('"\'')
                 if ":" in key_pair:
                     key_id_hex, key_hex = key_pair.split(":", 1)
@@ -49,28 +51,38 @@ def convert_m3u():
                         "type": "temporary"
                     }
                     
-                    current_kodiprops.append("#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey")
-                    current_kodiprops.append(f"#KODIPROP:inputstream.adaptive.license_key={json.dumps(json_clearkey)}")
+                    clearkey_props.append("#KODIPROP:inputstream=inputstream.adaptive")
+                    clearkey_props.append("#KODIPROP:inputstream.adaptive.manifest_type=hls")
+                    clearkey_props.append("#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey")
+                    clearkey_props.append(f"#KODIPROP:inputstream.adaptive.license_key={json.dumps(json_clearkey)}")
 
         elif line_str.startswith("#EXTINF"):
             converted_lines.append(line_str)
 
         elif line_str.startswith("http://") or line_str.startswith("https://"):
-            # If headers or DRM exist, explicitly force inputstream.adaptive
-            if current_headers or current_kodiprops:
-                converted_lines.append("#KODIPROP:inputstream=inputstream.adaptive")
-                converted_lines.append("#KODIPROP:inputstream.adaptive.manifest_type=hls")
+            if has_clearkey:
+                # 1. DRM Stream: Use #KODIPROP syntax
+                for prop in clearkey_props:
+                    converted_lines.append(prop)
+                
+                if current_headers:
+                    header_str = "&".join(current_headers)
+                    converted_lines.append(f"#KODIPROP:inputstream.adaptive.stream_headers={header_str}")
+                
+                converted_lines.append(line_str)
+            else:
+                # 2. Non-DRM Stream (e.g. RTP, SIC): Append headers using Kodi Pipe syntax "|"
+                if current_headers:
+                    pipe_headers = "&".join(current_headers)
+                    converted_lines.append(f"{line_str}|{pipe_headers}")
+                else:
+                    converted_lines.append(line_str)
 
-            if current_headers:
-                header_str = "&".join(current_headers)
-                converted_lines.append(f"#KODIPROP:inputstream.adaptive.stream_headers={header_str}")
-                current_headers = []
+            # Reset variables for the next stream
+            current_headers = []
+            clearkey_props = []
+            has_clearkey = False
 
-            for prop in current_kodiprops:
-                converted_lines.append(prop)
-            current_kodiprops = []
-
-            converted_lines.append(line_str)
         else:
             if line_str and not line_str.startswith("#EXTVLCOPT"):
                 converted_lines.append(line_str)
