@@ -1,8 +1,14 @@
-import re
+import base64
+import json
 import urllib.request
 
 M3U_URL = "https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/M3U/M3UPT.m3u"
 OUTPUT_FILE = "M3UPT_Kodi.m3u"
+
+def hex_to_base64url(hex_str):
+    """Converts a hex string to a base64url-encoded string without padding."""
+    raw_bytes = bytes.fromhex(hex_str)
+    return base64.urlsafe_b64encode(raw_bytes).decode('utf-8').rstrip('=')
 
 def convert_m3u():
     req = urllib.request.Request(M3U_URL, headers={'User-Agent': 'Mozilla/5.0'})
@@ -21,18 +27,32 @@ def convert_m3u():
             opt = line_str.replace("#EXTVLCOPT:", "")
             
             if opt.startswith("http-user-agent="):
-                # Split value and clean off any leading/trailing quotes
                 ua = opt.split("=", 1)[1].strip('"\'')
                 current_headers.append(f"User-Agent={ua}")
             elif opt.startswith("http-referrer="):
-                # Split value and clean off any leading/trailing quotes
                 ref = opt.split("=", 1)[1].strip('"\'')
                 current_headers.append(f"Referer={ref}")
             elif opt.startswith("clearkey="):
-                key = opt.split("=", 1)[1].strip('"\'')
-                current_kodiprops.append("#KODIPROP:inputstream=inputstream.adaptive")
-                current_kodiprops.append("#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey")
-                current_kodiprops.append(f"#KODIPROP:inputstream.adaptive.license_key={key}")
+                key_pair = opt.split("=", 1)[1].strip('"\'')
+                if ":" in key_pair:
+                    key_id_hex, key_hex = key_pair.split(":", 1)
+                    
+                    # Convert Hex to Base64URL for Kodi JSON format
+                    kid_b64 = hex_to_base64url(key_id_hex)
+                    k_b64 = hex_to_base64url(key_hex)
+                    
+                    json_clearkey = {
+                        "keys": [{
+                            "kty": "oct",
+                            "kid": kid_b64,
+                            "k": k_b64
+                        }],
+                        "type": "temporary"
+                    }
+                    
+                    current_kodiprops.append("#KODIPROP:inputstream=inputstream.adaptive")
+                    current_kodiprops.append("#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey")
+                    current_kodiprops.append(f"#KODIPROP:inputstream.adaptive.license_key={json.dumps(json_clearkey)}")
 
         elif line_str.startswith("#EXTINF"):
             converted_lines.append(line_str)
