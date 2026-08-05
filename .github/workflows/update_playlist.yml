@@ -1,0 +1,38 @@
+name: Update Kodi Playlist
+
+on:
+  schedule:
+    # Runs daily at 04:00 UTC (Adjust time if needed)
+    - cron: '0 4 * * *'
+  # Allows you to trigger the workflow manually from the GitHub Actions tab
+  workflow_dispatch:
+
+jobs:
+  update-m3u:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write  # Gives permission to commit back to the repo
+
+    steps:
+      # Step 1: Check out the repository
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Step 2: Set up Python environment
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      # Step 3: Run the conversion script
+      - name: Run convert.py
+        run: python convert.py
+
+      # Step 4: Commit and push changes back to the repo
+      - name: Commit updated playlist
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add M3UPT_Kodi.m3u
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update Kodi M3U playlist" && git push)
