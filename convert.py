@@ -37,7 +37,6 @@ def convert_m3u():
                 if ":" in key_pair:
                     key_id_hex, key_hex = key_pair.split(":", 1)
                     
-                    # Convert Hex to Base64URL for Kodi JSON format
                     kid_b64 = hex_to_base64url(key_id_hex)
                     k_b64 = hex_to_base64url(key_hex)
                     
@@ -50,7 +49,6 @@ def convert_m3u():
                         "type": "temporary"
                     }
                     
-                    current_kodiprops.append("#KODIPROP:inputstream=inputstream.adaptive")
                     current_kodiprops.append("#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey")
                     current_kodiprops.append(f"#KODIPROP:inputstream.adaptive.license_key={json.dumps(json_clearkey)}")
 
@@ -58,6 +56,11 @@ def convert_m3u():
             converted_lines.append(line_str)
 
         elif line_str.startswith("http://") or line_str.startswith("https://"):
+            # If headers or DRM exist, explicitly force inputstream.adaptive
+            if current_headers or current_kodiprops:
+                converted_lines.append("#KODIPROP:inputstream=inputstream.adaptive")
+                converted_lines.append("#KODIPROP:inputstream.adaptive.manifest_type=hls")
+
             if current_headers:
                 header_str = "&".join(current_headers)
                 converted_lines.append(f"#KODIPROP:inputstream.adaptive.stream_headers={header_str}")
