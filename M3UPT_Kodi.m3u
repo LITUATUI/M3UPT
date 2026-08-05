@@ -2,24 +2,38 @@
 # M3UPT.com - IPTV playlist in M3U format with TV and radio stations in Portuguese. Public and official streams only.
 # 📺 TV
 #EXTINF:-1 group-title="TV" tvg-id="RTP1.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png",RTP 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.rtp.pt/play/direto/rtp1
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="RTP2.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",RTP 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.rtp.pt/play/direto/rtp2
 https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="SIC.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png",SIC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://sic.pt/
 https://sic.live.impresa.pt/sic1080p.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="TVI.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://tviplayer.iol.pt
 https://github.com/LITUATUI/M3UPT/raw/main/M3U/TVI.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="RTPNoticias.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Notícias.png",RTP Notícias
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.rtp.pt/play/direto/rtp3
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="SICNoticias.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png",SIC Notícias
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://sicnoticias.pt/
 https://sicnot.live.impresa.pt/sicnot.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://tviplayer.iol.pt
 https://github.com/LITUATUI/M3UPT/raw/main/M3U/CNN_Portugal.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="CNNBrasil.br" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Brasil.png",CNN Brasil
@@ -29,38 +43,60 @@ https://6e52fb8b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheH
 #EXTINF:-1 group-title="TV" tvg-id="ARTV.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ARTV.png",ARTV
 https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="RTPMemoria.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Memória.png",RTP Memória
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.rtp.pt/play/direto/rtpmemoria
 https://streaming-live.rtp.pt/liverepeater/rtpmem.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="RTPAcores.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Açores.png",RTP Açores
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.rtp.pt/play/direto/rtpacores
 https://streaming-live.rtp.pt/liverepeater/rtpacoresHD.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="RTPMadeira.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Madeira.png",RTP Madeira
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.rtp.pt/play/direto/rtmadeira
 https://streaming-live.rtp.pt/liverepeater/rtpmadeira.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="RTPAfrica.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-África.png",RTP África
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.rtp.pt/play/direto/rtpafrica
 https://streaming-live.rtp.pt/liverepeater/rtpafrica.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="RTPInternacional.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Mundo.png",RTP Mundo
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.rtp.pt/play/direto/rtpinternacional
 https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="TVIInternacional.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",TVI Internacional
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://tviplayer.iol.pt
 https://github.com/LITUATUI/M3UPT/raw/main/M3U/TVI_Internacional.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="TVIAfrica.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI_África.png",TVI África
 #https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="VPlusTVI.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/vmaistvi.png",V+ TVI
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://tviplayer.iol.pt&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://tviplayer.iol.pt
 https://github.com/LITUATUI/M3UPT/raw/main/M3U/Vmais_TVI.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="TVIFiccao.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Ficção.png",TVI Ficção
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://tviplayer.iol.pt
 https://github.com/LITUATUI/M3UPT/raw/main/M3U/TVI_Ficcao.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="TVIReality.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://tviplayer.iol.pt
 https://github.com/LITUATUI/M3UPT/raw/main/M3U/TVI_Reality.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="SICReplay.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Replay.png",SIC Replay
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://opto.sic.pt/
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="SICAltaDefinicao.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Alta-Definição.png",SIC Alta Definição
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://opto.sic.pt/
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="PortoCanal.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Porto-Canal.png",Porto Canal
@@ -86,6 +122,8 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="TVCultura.br" tvg-logo="https://i.ibb.co/nm0jXMM/cultura-3x.png",TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="AgroBrasil TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/AgroBrasil-TV.png",AgroBrasil TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://live.agrobrasiltv.com.br/ao-vivo.html
 https://live.agrobrasiltv.com.br/memfs/0f1f8f3d-96cb-4792-babe-c2169f30a577_output_0.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="ForaTedioTV.br" tvg-logo="https://www.foratedio.com/img/icon_foratediotv-192x192.png",Fora Tedio TV
@@ -234,12 +272,18 @@ http://canalmalaga-tv-live.flumotion.com/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="AragonTVInternacional.es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Arag%C3%B3n_Internacional.png/revision/latest/scale-to-width-down/512",Aragón TV Internacional
 #http://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="ETB1.es" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ETB-1.png",ETB 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.eitb.eus/
 https://multimedia.eitb.eus/live-content/etb1eus-hls/master.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="ETB2.es" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ETB-2.png",ETB 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.eitb.eus/
 https://multimedia.eitb.eus/live-content/etb2eus-hls/master.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="ETBBasque.es" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/EITB-EUS.png",EITB Basque
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.eitb.eus/
 https://multimedia.eitb.eus/live-content/etbbasqueeus-hls/master.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="CanalExtremadura.es" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal-Extremadura.png",Canal Extremadura TV
@@ -249,6 +293,8 @@ https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="3CatInfo.es" tvg-logo="https://statics.3cat.cat/img/logos/3CatInfo_negre.svg",3Cat Info
 https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="CubavisionInternacional.cu" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Cubavisión-Internacional.png",Cubavisión Internacional
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://teveo.cu/
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png",Azteca Internacional
@@ -400,42 +446,68 @@ https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
 https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8
 # 📻 Radio stations
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/antena1.png",Rádio RTP Antena 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0
 https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/antena2.png",Rádio RTP Antena 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0
 https://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/antena3.png",Rádio RTP Antena 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0
 https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Antena1-Açores.png",RTP Antena 1 Açores
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0
 https://streaming-live.rtp.pt/liveradio/antena1acores80a/playlist.m3u8
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Antena1-Madeira.png",RTP Antena 1 Madeira
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0
 https://streaming-live.rtp.pt/liveradio/antena1madeira80a/playlist.m3u8
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Antena3-Madeira.png",RTP Antena 3 Madeira
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0
 https://streaming-live.rtp.pt/liveradio/antena3madeira80a/playlist.m3u8
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Mundo.png",Rádio RTP Mundo
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0
 https://streaming-live.rtp.pt/liveradio/rdpint80a/playlist.m3u8
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-África.png",Rádio RTP África
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0
 https://streaming-live.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/antena1vida.png",Rádio RTP Vida
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0
 https://streaming-live.rtp.pt/liveradio/vida80a/playlist.m3u8
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/radiolusitania.png",Rádio RTP Lusitânia
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0
 https://streaming-live.rtp.pt/liveradio/lusitania80a/playlist.m3u8
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/antena1fado.png",Rádio RTP Fado
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0
 https://streaming-live.rtp.pt/liveradio/antena1fado80a/playlist.m3u8
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/antena2jazzin.png",Rádio RTP Jazzin'
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0
 https://streaming-live.rtp.pt/liveradio/antena2jazzin80a/playlist.m3u8
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/antena2opera.png",Rádio RTP Ópera
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0
 https://streaming-live.rtp.pt/liveradio/antena2opera80a/playlist.m3u8
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.amalia.fm/wp-content/uploads/2014/08/radioamalialogo.png",Rádio Amália
@@ -1787,131 +1859,183 @@ https://cdn.jwplayer.com/manifests/v8e6Ytdz.m3u8
 #EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S13E19 31-5-2026
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=45dc9fcf4327f30ee9bce3571860df61:09ebc1b668bf9d7d50a4af14f2fa0300
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://opto.sic.pt/
 https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_zg3ni5ov/v/11/ev/14/flavorId/1_,7i8rds9b,rzjqsjvc,bbj2uovw,k81qelbh,n3zaq5ue,il5pcpbs,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S13E18 24-5-2026
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8d4de2019c2b1398f43bf51e0561795:89334f826f49fb254b0e77512889f823
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://opto.sic.pt/
 https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_tljoa803/v/11/ev/11/flavorId/1_,ysrdalim,a7hx76bx,xq9cxdea,rilwdqxx,7g9smwgb,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S13E17 17-5-2026
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=19b4a21305568acba4f5907166f474ca:b7bf900b9d55232fbc83e92fd3e067ad
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://opto.sic.pt/
 https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_cbeugy13/v/1/ev/7/flavorId/1_,9cbuoho4,s2wj8169,29lbqnox,f5wbsi7n,za6czhcw,6l0gzgqh,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S13E16 10-5-2026
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b87fb46d26510b2fc863b6a8d135fc18:ee31c1d6e4ef7783d5b2c0d35665c7b9
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://opto.sic.pt/
 https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_xz5gtxg0/v/11/ev/14/flavorId/1_,icpcdz4a,c51y4a5q,ywcwvw5b,u0lj8vn4,n8yn06rt,044gvjdo,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S13E15 3-5-2026
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8d8ba0d225aa77e1cea52ab6cd3a56bc:6a118f85383143f63dd3f38ad8d4c14a
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://opto.sic.pt/
 https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_wznhe8p9/v/11/ev/13/flavorId/1_,vmcka1bl,zamw6hzk,nbf15mck,s0q7rs7z,38pv0o56,eglg97ow,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S13E14 26-4-2026
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=690e23ab0a339de4d0a3e3c154e3321f:4b0c309a2abf40142239baf17238e604
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://opto.sic.pt/
 https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_q3nuggiz/v/1/ev/7/flavorId/1_,i674ezdl,lw6zqalx,hn7c38jp,uz0sbv0f,27ip7w5k,4r5s2rdd,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S13E13 19-4-2026
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0fff853dfa2614822ecac7dac33cf57e:b3f3cc0e1839df6a37c73d02e0cddb24
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://opto.sic.pt/
 https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_tb2pmrcn/v/11/ev/14/flavorId/1_,kbhm91vr,kwg995jp,7m4j06rz,ll197k8o,2odpdqwe,uiclrflf,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S13E12 12-4-2026
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b735d3d9cbb892a03697d9aedb4d1fb4:290173f932d96a8d78609de1d71867dc
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://opto.sic.pt/
 https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_qvzrncv9/v/1/ev/7/flavorId/1_,sn0csjk2,qnszdz0k,nmylolad,cw9lcn2k,m64095f5,1yih6hbd,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S13E11 29-3-2026
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7fb66c6ce6bc7910bdff5b0ace612c94:7a5064dbce7edac55b48a16164178ac0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://opto.sic.pt/
 https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_p5ul8ngb/v/11/ev/14/flavorId/1_,omfh1qdl,tjunpfud,pdv9q250,239d30ic,uwnfp6pm,3cs657d5,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S13E10 22-3-2026
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=43352e40edd9019a6d7cc2f89d4c2350:9b7bc768e5583a024b01961b801b7e5e
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://opto.sic.pt/
 https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_bed4qvw9/v/11/ev/14/flavorId/1_,o5wgu7sy,nge0amja,1iwlg1oe,etb4y1wc,gf86jddz,0y65su8n,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S13E09 15-3-2026
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1c46303db8c04044ec5fbcbb38530695:89f1e3e74c4db263b042fd22eecbcae9
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://opto.sic.pt/
 https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_kze2icxe/v/11/ev/14/flavorId/1_,8rqth76h,yt7db9q4,v2pvh2gr,lhtxfgi1,0rbbe3q9,75eziz26,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S13E08 8-3-2026
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8538fc9169d1120f9d643f30b09499bd:c61929176383a41b4927996917540c3c
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://opto.sic.pt/
 https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_7cayc0ol/v/11/ev/14/flavorId/1_,isvvgcrq,oj6iye0u,3t6t6896,d276w3dn,75zznyto,c684davo,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S13E07 1-3-2026
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e2e093921b1544d6d95bd42a0af23e3a:d744afa5a9326fee0da3bb1b09af7b09
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://opto.sic.pt/
 https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_c90nt6co/v/11/ev/13/flavorId/1_,eiizcwt7,f85663tf,td01rwfr,qgw8yit2,m6a74151,ss5ofutp,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S13E06 22-2-2026
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=aed150fd3146418e16ab342daae5011e:40f848ee880b1f82ceb346baa1bb318b
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://opto.sic.pt/
 https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_udv6bsb2/v/11/ev/14/flavorId/1_,0gktpz1w,yyhqpfln,jd60vc5d,122r24uw,ssdpgnzw,1pnrmg6p,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S13E05 15-2-2026
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eec11313eddcc954a571d86a302f55eb:38ab68a684db37cea20d55a0e6211e6f
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://opto.sic.pt/
 https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_s1yr2k2o/v/1/ev/7/flavorId/1_,maf9jz2s,frhf96yd,8d03tpcx,9g93haw0,e7ymmm6p,04vice9p,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S13E04 1-2-2026
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2f854621745fece448721386724f91f8:e0710f56fa1553a132de4503725ca890
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://opto.sic.pt/
 https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_171ofhmy/v/11/ev/13/flavorId/1_,nemvgqeu,dkdo6vbk,st03d3ez,uga8tsyv,j884kbq1,jute3b8m,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S13E03 25-1-2026
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82822207652b7e1c4314f9980741faab:04ab06fc952256f25538bc42a794fcda
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://opto.sic.pt/
 https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_3okkvzwr/v/11/ev/14/flavorId/1_,a7z7as7m,zmsneh6t,ab7wbrer,hzkfum26,9he4c5hn,ba50d8rp,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S13E02 11-1-2026
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1413020081eea7b12978557c0c600042:ea1e9f1defe45e225b423f27924be246
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://opto.sic.pt/
 https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_f6bff0lj/v/31/ev/26/flavorId/1_,v7buam0k,ow8owuaf,ff47yqvr,3hyv8j65,xk3r413u,12nra5ff,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S13E01 4-1-2026
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ba8228f7911253f30c6800230866a35b:17aadac94b81aede9b18b8eda97939f6
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://opto.sic.pt/
 https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_w5b38of7/v/11/ev/13/flavorId/1_,ph3kwv28,35pu5ga7,477sgf86,nsxmee00,e4ht0cf8,5yyjybdi,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S12E13 14-12-2025
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8771f4d53766e19d495b41d3ac926ffc:9e5bc2ab7646fc7c232a4c718a7ba28f
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://opto.sic.pt/
 https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_m0wbbuop/v/1/ev/7/flavorId/1_,9cxle0ug,y36rr50y,ww6pqp85,8thvsl1a,gk1mlgvq,t8x58sy2,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S12E12 07-12-2025
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9b7a861a00295b332a443e056bc56b63:7f1f3236bcfe95855ad2694a5ebec351
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://opto.sic.pt/
 https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_id2m2fkc/v/1/ev/7/flavorId/1_,sa1z8rsl,gg7gjrdr,h2kfx2t0,fngq1kg0,9eaknuiq,py4hfxai,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S12E11 30-11-2025
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f62456857990114c97abcbabe99fde72:17716571fa201c2fa51ac9627b7231a1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://opto.sic.pt/
 https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_u2o68n1f/v/1/ev/7/flavorId/1_,6zg7roui,f4goi1wu,3xyv4rx8,bsnisdbp,jvb9y4a9,a5bd8vz7,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S12E10 23-11-2025
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=acad65607cb28a5a0014c898266716bf:61a54887189855181ddd75894cb7bfd2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://opto.sic.pt/
 https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_22u3mfd7/v/1/ev/7/flavorId/1_,ru2uv7xs,4em5d4hc,ipa25dji,witmv73s,d3peereb,4b6ybj7m,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S12E09 16-11-2025
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a0d5fbfbb928d5826952759ba1720864:fbf4f67d7fcca7f48daafdf1202b00ce
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://opto.sic.pt/
 https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_my88lrse/v/11/ev/14/flavorId/1_,mvy1fgdu,xv0udc5l,fxq6fb4w,2jxrg4be,88hfqz0g,d3enz20g,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S12E08 09-11-2025
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=23b51f4a44667af7866ee591cc6cbea6:8eb32aae897419a5ddbfaba27c341132
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://opto.sic.pt/
 https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_kgt4vfln/v/11/ev/14/flavorId/1_,dkps5x70,ia8frapk,c4gf10zn,4lr7so3s,gvocmlos,6nclf593,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S12E07 02-11-2025
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d40638daa9e3a55357ca626766c2c344:ab15600d033088698529a9fddd1abf8a
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://opto.sic.pt/
 https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_talrji96/v/11/ev/13/flavorId/1_,bszvlvk0,9wyafjj5,r1pr77dy,92wvlhic,1roznwlf,pu5tm9c8,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 #EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S12E06 26-10-2025
@@ -2010,46 +2134,64 @@ https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_vp0
 #EXTINF:-1 media="true" group-title="100 ou Mais" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/44881_70945_50421.jpg?q=100&format=pjpg&auto=webp&v=3&w=900",100 ou Mais - S01E01
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b57fd50083e83bfd85bbc31a32cf47e1:3d5f6bcf52c213ac76f5b896ee95be4e
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0
 https://streaming-vod.rtp.pt/drm-dash/nas2.share,/h264/512x384/p12607/p12607_1_20231226161005e001t6542d_lo.mp4,/h264/512x384/p12607/p12607_1_20231226161005e001t6542d.mp4,.urlset/manifest.mpd
 #EXTINF:-1 media="true" group-title="100 ou Mais" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/44881_70945_50421.jpg?q=100&format=pjpg&auto=webp&v=3&w=900",100 ou Mais - S01E02
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b57fd50083e83bfd85bbc31a32cf47e1:3d5f6bcf52c213ac76f5b896ee95be4e
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0
 https://streaming-vod.rtp.pt/drm-dash/nas2.share,/h264/512x384/p12607/p12607_1_20231227161006e002t8470d_lo.mp4,/h264/512x384/p12607/p12607_1_20231227161006e002t8470d.mp4,.urlset/manifest.mpd
 #EXTINF:-1 media="true" group-title="100 ou Mais" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/44881_70945_50421.jpg?q=100&format=pjpg&auto=webp&v=3&w=900",100 ou Mais - S01E03
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b57fd50083e83bfd85bbc31a32cf47e1:3d5f6bcf52c213ac76f5b896ee95be4e
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0
 https://streaming-vod.rtp.pt/drm-dash/nas2.share,/h264/512x384/p12607/p12607_1_20231228161006e003t8102d_lo.mp4,/h264/512x384/p12607/p12607_1_20231228161006e003t8102d.mp4,.urlset/manifest.mpd
 # O Planeta Vivo
 #EXTINF:-1 media="true" group-title="O Planeta Vivo" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/45929_73117_64439.jpg",O Planeta Vivo - S01E01
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b57fd50083e83bfd85bbc31a32cf47e1:3d5f6bcf52c213ac76f5b896ee95be4e
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0
 https://streaming-vod.rtp.pt/drm-dash/nas2.share,/pt/h264/512x384/p13613/p13613_20240703090016e001t9267.mp4,.urlset/manifest.mpd
 #EXTINF:-1 media="true" group-title="O Planeta Vivo" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/45929_73117_64439.jpg",O Planeta Vivo - S01E02
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b57fd50083e83bfd85bbc31a32cf47e1:3d5f6bcf52c213ac76f5b896ee95be4e
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0
 https://streaming-vod.rtp.pt/drm-dash/nas2.share,/pt/h264/512x384/p13613/p13613_1_20240710161003e002t6658d_lo.mp4,/pt/h264/512x384/p13613/p13613_1_20240710161003e002t6658d.mp4,.urlset/manifest.mpd
 #EXTINF:-1 media="true" group-title="O Planeta Vivo" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/45929_73117_64439.jpg",O Planeta Vivo - S01E03
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b57fd50083e83bfd85bbc31a32cf47e1:3d5f6bcf52c213ac76f5b896ee95be4e
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0
 https://streaming-vod.rtp.pt/drm-dash/nas2.share,/pt/h264/512x384/p13613/p13613_1_20240717161005e003t1334d_lo.mp4,/pt/h264/512x384/p13613/p13613_1_20240717161005e003t1334d.mp4,.urlset/manifest.mpd
 #EXTINF:-1 media="true" group-title="O Planeta Vivo" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/45929_73117_64439.jpg",O Planeta Vivo - S01E04
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b57fd50083e83bfd85bbc31a32cf47e1:3d5f6bcf52c213ac76f5b896ee95be4e
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0
 https://streaming-vod.rtp.pt/drm-dash/nas2.share,/pt/h264/512x384/p13613/p13613_1_20240717161005e003t1334d_lo.mp4,/pt/h264/512x384/p13613/p13613_1_20240717161005e003t1334d.mp4,.urlset/manifest.mpd
 #EXTINF:-1 media="true" group-title="O Planeta Vivo" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/45929_73117_64439.jpg",O Planeta Vivo - S01E05
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b57fd50083e83bfd85bbc31a32cf47e1:3d5f6bcf52c213ac76f5b896ee95be4e
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0
 https://streaming-vod.rtp.pt/drm-dash/nas2.share,/pt/h264/512x384/p13613/p13613_1_20240717161005e003t1334d_lo.mp4,/pt/h264/512x384/p13613/p13613_1_20240717161005e003t1334d.mp4,.urlset/manifest.mpd
 #EXTINF:-1 media="true" group-title="O Planeta Vivo" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/45929_73117_64439.jpg",O Planeta Vivo - S01E06
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b57fd50083e83bfd85bbc31a32cf47e1:3d5f6bcf52c213ac76f5b896ee95be4e
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0
 https://streaming-vod.rtp.pt/drm-dash/nas2.share,/pt/h264/512x384/p13613/p13613_1_20240717161005e003t1334d_lo.mp4,/pt/h264/512x384/p13613/p13613_1_20240717161005e003t1334d.mp4,.urlset/manifest.mpd
