@@ -21,13 +21,15 @@ def convert_m3u():
             opt = line_str.replace("#EXTVLCOPT:", "")
             
             if opt.startswith("http-user-agent="):
-                ua = opt.split("=", 1)[1]
+                # Split value and clean off any leading/trailing quotes
+                ua = opt.split("=", 1)[1].strip('"\'')
                 current_headers.append(f"User-Agent={ua}")
             elif opt.startswith("http-referrer="):
-                ref = opt.split("=", 1)[1]
+                # Split value and clean off any leading/trailing quotes
+                ref = opt.split("=", 1)[1].strip('"\'')
                 current_headers.append(f"Referer={ref}")
             elif opt.startswith("clearkey="):
-                key = opt.split("=", 1)[1]
+                key = opt.split("=", 1)[1].strip('"\'')
                 current_kodiprops.append("#KODIPROP:inputstream=inputstream.adaptive")
                 current_kodiprops.append("#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey")
                 current_kodiprops.append(f"#KODIPROP:inputstream.adaptive.license_key={key}")
