@@ -36,7 +36,6 @@ def convert_m3u():
             converted_lines.append(line_str)
 
         elif line_str.startswith("http://") or line_str.startswith("https://"):
-            # Insert converted KODIPROP tags before the stream URL
             if current_headers:
                 header_str = "&".join(current_headers)
                 converted_lines.append(f"#KODIPROP:inputstream.adaptive.stream_headers={header_str}")
