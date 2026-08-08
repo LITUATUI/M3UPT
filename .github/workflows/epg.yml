@@ -18,7 +18,7 @@ jobs:
          path: iptv-org-epg
 
       - name: update EPG
-        run: bash EPG/epg-pt.sh
+        run: bash EPG/EPG.sh
 
       - name: setup git config
         run: |
