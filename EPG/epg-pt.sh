@@ -56,7 +56,7 @@ npm run grab --- --sites=freeview.co.uk --output=../EPG/epg-freeview-uk.xml --da
 
 # Sky DE EPG
 
-npm run grab --- --sites=sky.de --output=../EPG/epg-sky-de.xml --days=7 --maxConnections=20
+# npm run grab --- --sites=sky.de --output=../EPG/epg-sky-de.xml --days=7 --maxConnections=20
 
 # Rytec EPG
 

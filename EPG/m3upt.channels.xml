@@ -1,194 +1,192 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
-  <channel site="nostv.pt" lang="pt" xmltv_id="RTP1.pt" site_id="139">RTP 1</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="RTP2.pt" site_id="554">RTP 2</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="SIC.pt" site_id="418">SIC</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="TVI.pt" site_id="555">TVI</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="RTPNoticias.pt" site_id="556">RTP Notícias</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="SICNoticias.pt" site_id="419">SIC Notícias</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="CNNPortugal.pt" site_id="557">CNN Portugal</channel>
+  <channel site="nostv.pt" site_id="139" lang="pt" xmltv_id="RTP1.pt">RTP 1</channel>
+  <channel site="nostv.pt" site_id="554" lang="pt" xmltv_id="RTP2.pt">RTP 2</channel>
+  <channel site="nostv.pt" site_id="418" lang="pt" xmltv_id="SIC.pt">SIC</channel>
+  <channel site="nostv.pt" site_id="555" lang="pt" xmltv_id="TVI.pt">TVI</channel>
+  <channel site="nostv.pt" site_id="556" lang="pt" xmltv_id="RTPNoticias.pt">RTP Notícias</channel>
+  <channel site="nostv.pt" site_id="419" lang="pt" xmltv_id="SICNoticias.pt">SIC Notícias</channel>
+  <channel site="nostv.pt" site_id="557" lang="pt" xmltv_id="CNNPortugal.pt">CNN Portugal</channel>
   <channel site="mi.tv" site_id="br#cnn-brasil" lang="pt" xmltv_id="CNNBrasil.br">CNN Brasil</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="NewsNow.pt" site_id="705">Now</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="CMTV.pt" site_id="425">CMTV</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="EuronewsPortuguese.fr" site_id="25">Euronews PT</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="ARTV.pt" site_id="49">ARTV</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="SPlus.pt" site_id="510">S+</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="Odisseia.pt" site_id="441">Odisseia</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="Historia.pt" site_id="544">Canal História</channel>
+  <channel site="nostv.pt" site_id="705" lang="pt" xmltv_id="NewsNow.pt">NewsNOW</channel>
+  <channel site="nostv.pt" site_id="425" lang="pt" xmltv_id="CMTV.pt">CMTV</channel>
+  <channel site="nostv.pt" site_id="25" lang="pt" xmltv_id="EuronewsPortuguese.fr">Euronews</channel>
+  <channel site="nostv.pt" site_id="49" lang="pt" xmltv_id="ARTV.pt">ARTV</channel>
+  <channel site="nostv.pt" site_id="510" lang="pt" xmltv_id="SPlus.pt">S+</channel>
+  <channel site="nostv.pt" site_id="441" lang="pt" xmltv_id="Odisseia.pt">Odisseia</channel>
+  <channel site="nostv.pt" site_id="544" lang="pt" xmltv_id="Historia.pt">Canal História</channel>
   <channel site="vodafone.pt" site_id="2934" lang="pt" xmltv_id="DocuBox.nl">DocuBox</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="DiscoveryChannel.pt" site_id="561">Discovery Channel</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="NationalGeographic.pt" site_id="134">National Geographic</channel>
-  <channel site="nostv.pt" lang="en" xmltv_id="NationalGeographicWild.pt" site_id="83">National Geographic Wild</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="TVCineTop.pt" site_id="141">TVCine TOP</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="TVCineEdition.pt" site_id="74">TVCine Edition</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="TVCineEmotion.pt" site_id="223">TVCine Emotion</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="TVCineAction.pt" site_id="224">TVCine Action</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="NosStudios.pt" site_id="547">NOS Studios</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="CanalHollywood.pt" site_id="14">Canal Hollywood</channel>
+  <channel site="nostv.pt" site_id="561" lang="pt" xmltv_id="DiscoveryChannel.pt">Discovery channel</channel>
+  <channel site="nostv.pt" site_id="134" lang="pt" xmltv_id="NationalGeographic.pt">National Geographic</channel>
+  <channel site="nostv.pt" site_id="83" lang="en" xmltv_id="NationalGeographicWild.pt">National Geographic WILD</channel>
+  <channel site="nostv.pt" site_id="141" lang="pt" xmltv_id="TVCineTop.pt">TVCine TOP</channel>
+  <channel site="nostv.pt" site_id="74" lang="pt" xmltv_id="TVCineEdition.pt">TVCine Edition</channel>
+  <channel site="nostv.pt" site_id="223" lang="pt" xmltv_id="TVCineEmotion.pt">TVCine Emotion</channel>
+  <channel site="nostv.pt" site_id="224" lang="pt" xmltv_id="TVCineAction.pt">TVCine Action</channel>
+  <channel site="nostv.pt" site_id="547" lang="pt" xmltv_id="NosStudios.pt">NOS Studios</channel>
+  <channel site="nostv.pt" site_id="14" lang="pt" xmltv_id="CanalHollywood.pt">Canal Hollywood</channel>
   <channel site="meo.pt" site_id="CINEHD" lang="pt" xmltv_id="CineMundo.pt">CineMundo</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="AMC.pt" site_id="415">AMC</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="AXNMovies.pt" site_id="194">AXN Movies</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="STARMovies.pt" site_id="242">STAR Movies</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="STARChannel.pt" site_id="174">STAR Channel</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="STARComedy.pt" site_id="113">STAR Comedy</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="STARLife.pt" site_id="175">STAR Life</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="STARCrime.pt" site_id="244">STAR Crime</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="AXN.pt" site_id="161">AXN</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="AXNWhite.pt" site_id="75">AXN White</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="Syfy.pt" site_id="201">Syfy</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="CanalQ.pt" site_id="235">Canal Q</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="SICRadical.pt" site_id="422">SIC Radical</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="SICMulher.pt" site_id="420">SIC Mulher</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="SICCaras.pt" site_id="421">SIC Caras</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="SICNovelas.pt" site_id="709">SIC Novelas</channel>
+  <channel site="nostv.pt" site_id="415" lang="pt" xmltv_id="AMC.pt">AMC</channel>
+  <channel site="nostv.pt" site_id="194" lang="pt" xmltv_id="AXNMovies.pt">AXN Movies</channel>
+  <channel site="nostv.pt" site_id="242" lang="pt" xmltv_id="StarMovies.pt">Star Movies</channel>
+  <channel site="nostv.pt" site_id="174" lang="pt" xmltv_id="StarChannel.pt">Star Channel</channel>
+  <channel site="nostv.pt" site_id="113" lang="pt" xmltv_id="StarComedy.pt">Star Comedy</channel>
+  <channel site="nostv.pt" site_id="175" lang="pt" xmltv_id="StarLife.pt">Star Life</channel>
+  <channel site="nostv.pt" site_id="244" lang="pt" xmltv_id="StarCrime.pt">Star Crime</channel>
+  <channel site="nostv.pt" site_id="161" lang="pt" xmltv_id="AXN.pt">AXN</channel>
+  <channel site="nostv.pt" site_id="75" lang="pt" xmltv_id="AXNWhite.pt">AXN White</channel>
+  <channel site="nostv.pt" site_id="201" lang="pt" xmltv_id="Syfy.pt">Syfy</channel>
+  <channel site="nostv.pt" site_id="235" lang="pt" xmltv_id="CanalQ.pt">Canal Q</channel>
+  <channel site="nostv.pt" site_id="422" lang="pt" xmltv_id="SICRadical.pt">SIC Radical</channel>
+  <channel site="nostv.pt" site_id="420" lang="pt" xmltv_id="SICMulher.pt">SIC Mulher</channel>
+  <channel site="nostv.pt" site_id="421" lang="pt" xmltv_id="SICCaras.pt">SIC Caras</channel>
+  <channel site="nostv.pt" site_id="709" lang="pt" xmltv_id="SICNovelas.pt">SIC Novelas</channel>
   <channel site="opto.sic.pt" site_id="549519c3-31fa-42de-a621-15e981082fd9" lang="pt" xmltv_id="SICAltaDefinicao.pt">SIC Alta Definição</channel>
   <channel site="opto.sic.pt" site_id="d47400e0-19d9-4f71-94f4-2b4cfdc1a2ca" lang="pt" xmltv_id="SICReplay.pt">SIC Replay</channel>
   <channel site="tvi.iol.pt" site_id="tvificcao" lang="pt" xmltv_id="TVIFiccao.pt">TVI Ficção</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="VPlusTVI.pt" site_id="574">V+ TVI</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="TVIReality.pt" site_id="567">TVI Reality</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="GloboPortugal.pt" site_id="447">Globo</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="24Kitchen.pt" site_id="243">24Kitchen</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="AMCCrime.pt" site_id="545">AMC Crime</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="AMCBreak.pt" site_id="509">AMC Break</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="RTPMemoria.pt" site_id="80">RTP Memória</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="RTPAcores.pt" site_id="106">RTP Açores</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="RTPMadeira.pt" site_id="107">RTP Madeira</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="RTPAfrica.pt" site_id="27">RTP África</channel>
-  <channel site="rtp.pt" lang="pt" xmltv_id="RTPInternacional.pt" site_id="lis#5">RTP Internacional</channel>
-  <channel site="rtp.pt" lang="pt" xmltv_id="RTPiAmerica.pt" site_id="rja#5">RTP Internacional América</channel>
-  <channel site="rtp.pt" lang="pt" xmltv_id="RTPiAsia.pt" site_id="per#5">RTP Internacional Ásia</channel>
+  <channel site="nostv.pt" site_id="574" lang="pt" xmltv_id="VPlusTVI.pt">V+TVI</channel>
+  <channel site="nostv.pt" site_id="567" lang="pt" xmltv_id="TVIReality.pt">TVI Reality</channel>
+  <channel site="nostv.pt" site_id="447" lang="pt" xmltv_id="Globo.pt">Globo</channel>
+  <channel site="nostv.pt" site_id="243" lang="pt" xmltv_id="24Kitchen.pt">24Kitchen</channel>
+  <channel site="nostv.pt" site_id="545" lang="pt" xmltv_id="AMCCrime.pt">AMC Crime</channel>
+  <channel site="nostv.pt" site_id="509" lang="pt" xmltv_id="AMCBreak.pt">AMC Break</channel>
+  <channel site="nostv.pt" site_id="176" lang="pt" xmltv_id="VinTV.pt">VinTV</channel>
+  <channel site="nostv.pt" site_id="80" lang="pt" xmltv_id="RTPMemoria.pt">RTP Memória</channel>
+  <channel site="nostv.pt" site_id="106" lang="pt" xmltv_id="RTPAcores.pt">RTP Açores</channel>
+  <channel site="nostv.pt" site_id="107" lang="pt" xmltv_id="RTPMadeira.pt">RTP Madeira</channel>
+  <channel site="nostv.pt" site_id="27" lang="pt" xmltv_id="RTPAfrica.pt">RTP África</channel>
+  <channel site="rtp.pt" site_id="rja#5" lang="pt" xmltv_id="RTPmAmerica.pt">RTP Mundo América</channel>
+  <channel site="rtp.pt" site_id="per#5" lang="pt" xmltv_id="RTPmAsia.pt">RTP Mundo Ásia</channel>
+  <channel site="rtp.pt" site_id="lis#5" lang="pt" xmltv_id="RTPMundo.pt">RTP Mundo</channel>
   <channel site="vivoplay.com.br" site_id="lch2172" lang="pt" xmltv_id="SICInternacional.pt">SIC Internacional</channel>
   <channel site="tvi.iol.pt" site_id="tviafrica" lang="pt" xmltv_id="TVIAfrica.pt">TVI África</channel>
   <channel site="tvi.iol.pt" site_id="tviinternacional" lang="pt" xmltv_id="TVIInternacional.pt">TVI Internacional</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="PortoCanal.pt" site_id="423">Porto Canal</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="LocalVisaoTV.pt" site_id="229">Localvisão TV</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="SICK.pt" site_id="553">SIC K</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="DisneyChannel.pt" site_id="594">Disney Channel</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="CartoonNetwork.pt" site_id="252">Cartoon Network</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="Cartoonito.pt" site_id="713">Cartoonito</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="Nickelodeon.pt" site_id="94">Nickelodeon</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="CanalPanda.pt" site_id="593">Canal Panda</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="VinTV.pt" site_id="176">VinTV</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="PandaKids.pt" site_id="597">Panda KIDS</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="NickJr.pt" site_id="444">Nick Jr.</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="DisneyJunior.pt" site_id="673">Disney Junior</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="BabyTV.uk" site_id="448">Baby TV</channel>
+  <channel site="nostv.pt" site_id="423" lang="pt" xmltv_id="PortoCanal.pt">Porto Canal</channel>
+  <channel site="nostv.pt" site_id="229" lang="pt" xmltv_id="LocalVisaoTV.pt">Localvisão TV</channel>
+  <channel site="nostv.pt" site_id="553" lang="pt" xmltv_id="SICK.pt">SIC K</channel>
+  <channel site="nostv.pt" site_id="594" lang="pt" xmltv_id="DisneyChannel.pt">Disney Channel</channel>
+  <channel site="nostv.pt" site_id="252" lang="pt" xmltv_id="CartoonNetwork.pt">Cartoon Network</channel>
+  <channel site="nostv.pt" site_id="713" lang="pt" xmltv_id="Cartoonito.pt">Cartoonito</channel>
+  <channel site="nostv.pt" site_id="94" lang="pt" xmltv_id="Nickelodeon.pt">Nickelodeon</channel>
+  <channel site="nostv.pt" site_id="593" lang="pt" xmltv_id="CanalPanda.pt">Canal Panda</channel>
+  <channel site="nostv.pt" site_id="597" lang="pt" xmltv_id="PandaKids.pt">Panda Kids</channel>
+  <channel site="nostv.pt" site_id="444" lang="pt" xmltv_id="NickJr.pt">Nick Jr.</channel>
+  <channel site="nostv.pt" site_id="673" lang="pt" xmltv_id="DisneyJunior.pt">Disney Junior</channel>
+  <channel site="nostv.pt" site_id="448" lang="pt" xmltv_id="BabyTV.pt">Baby TV</channel>
   <channel site="tv.sfr.fr" site_id="482" lang="fr" xmltv_id="Gulli.fr">Gulli</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="SportTV1.pt" site_id="137">Sport TV 1</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="SportTV2.pt" site_id="187">Sport TV 2</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="SportTV3.pt" site_id="188">Sport TV 3</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="SportTV4.pt" site_id="247">Sport TV 4</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="SportTV5.pt" site_id="180">Sport TV 5</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="SportTV6.pt" site_id="610">Sport TV 6</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="SportTV7.pt" site_id="706">Sport TV 7</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="DAZN1.pt" site_id="518">DAZN 1</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="DAZN2.pt" site_id="519">DAZN 2</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="DAZN3.pt" site_id="513">DAZN 3</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="DAZN4.pt" site_id="514">DAZN 4</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="DAZN5.pt" site_id="515">DAZN 5</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="SportingTV.pt" site_id="352">Sporting TV</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="BenficaTV.pt" site_id="245">BTV</channel>
+  <channel site="nostv.pt" site_id="352" lang="pt" xmltv_id="SportingTV.pt">Sporting TV</channel>
+  <channel site="nostv.pt" site_id="245" lang="pt" xmltv_id="BenficaTV.pt">BTV</channel>
+  <channel site="nostv.pt" site_id="417" lang="pt" xmltv_id="SportTVPlus.pt">Sport TV+</channel>
+  <channel site="nostv.pt" site_id="137" lang="pt" xmltv_id="SportTV1.pt">Sport TV 1</channel>
+  <channel site="nostv.pt" site_id="187" lang="pt" xmltv_id="SportTV2.pt">Sport TV 2</channel>
+  <channel site="nostv.pt" site_id="188" lang="pt" xmltv_id="SportTV3.pt">Sport TV 3</channel>
+  <channel site="nostv.pt" site_id="247" lang="pt" xmltv_id="SportTV4.pt">Sport TV 4</channel>
+  <channel site="nostv.pt" site_id="180" lang="pt" xmltv_id="SportTV5.pt">Sport TV 5</channel>
+  <channel site="nostv.pt" site_id="610" lang="pt" xmltv_id="SportTV6.pt">Sport TV 6</channel>
+  <channel site="nostv.pt" site_id="706" lang="pt" xmltv_id="SportTV7.pt">Sport TV 7</channel>
+  <channel site="nostv.pt" site_id="518" lang="pt" xmltv_id="DAZN1.pt">DAZN 1</channel>
+  <channel site="nostv.pt" site_id="519" lang="pt" xmltv_id="DAZN2.pt">DAZN 2</channel>
+  <channel site="nostv.pt" site_id="513" lang="pt" xmltv_id="DAZN3.pt">DAZN 3</channel>
+  <channel site="nostv.pt" site_id="514" lang="pt" xmltv_id="DAZN4.pt">DAZN 4</channel>
+  <channel site="nostv.pt" site_id="515" lang="pt" xmltv_id="DAZN5.pt">DAZN 5</channel>
   <channel site="meo.pt" site_id="EUROS4K" lang="pt" xmltv_id="Eurosport4K.pt">Eurosport 4K</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="Eurosport1.fr" site_id="145">Eurosport</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="Eurosport2.fr" site_id="563">Eurosport 2</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="Canal11.pt" site_id="565">Canal 11</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="PFC.br" site_id="112">PFC</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="ABolaTV.pt" site_id="719">A Bola TV</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="SportTVPlus.pt" site_id="417">SPORT TV+</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="SportTVNBA.pt" site_id="449">Sport TV NBA</channel>
-  <channel site="nostv.pt" lang="en" xmltv_id="FightNetwork.ca" site_id="236">Fight Network</channel>
+  <channel site="nostv.pt" site_id="145" lang="pt" xmltv_id="Eurosport1.pt">Eurosport 1</channel>
+  <channel site="nostv.pt" site_id="563" lang="pt" xmltv_id="Eurosport2.pt">Eurosport 2</channel>
+  <channel site="nostv.pt" site_id="565" lang="pt" xmltv_id="Canal11.pt">Canal 11</channel>
+  <channel site="nostv.pt" site_id="719" lang="pt" xmltv_id="ABolaTV.pt">A Bola TV</channel>
+  <channel site="nostv.pt" site_id="236" lang="en" xmltv_id="FightNetwork.ca">Fight Network</channel>
   <channel site="vodafone.pt" site_id="2720" lang="pt" xmltv_id="FightBox.nl">FightBox</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="FUELTV.at" site_id="72">Fuel TV</channel>
+  <channel site="nostv.pt" site_id="72" lang="pt" xmltv_id="FUELTV.pt">Fuel TV</channel>
   <channel site="meo.pt" site_id="GAMET" lang="pt" xmltv_id="Gametoon.nl">GameToon</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="Motorvision.de" site_id="354">Motorvision</channel>
-  <channel site="nostv.pt" lang="en" xmltv_id="WSport.za" site_id="701">W-Sport</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="Telesur.ve" site_id="33">TeleSUR</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="RT.ru" site_id="165">Russia Today</channel>
-  <channel site="nostv.pt" lang="en" xmltv_id="CGTNEurope.cn" site_id="312">CGTN</channel>
+  <channel site="nostv.pt" site_id="354" lang="pt" xmltv_id="Motorvision.de">Motorvision</channel>
+  <channel site="nostv.pt" site_id="701" lang="en" xmltv_id="WSport.za">W-Sport</channel>
+  <channel site="nostv.pt" site_id="33" lang="pt" xmltv_id="Telesur.ve">TeleSUR</channel>
+  <channel site="nostv.pt" site_id="165" lang="pt" xmltv_id="RT.ru">Russia Today</channel>
+  <channel site="nostv.pt" site_id="312" lang="en" xmltv_id="CGTN.cn">CGTN</channel>
   <channel site="sky.co.nz" site_id="309" lang="en" xmltv_id="CGTNDocumentary.cn">CGTN Documentary</channel>
-  <channel site="nostv.pt" lang="en" xmltv_id="AlJazeera.qa" site_id="108">Al Jazeera</channel>
-  <channel site="nostv.pt" lang="en" xmltv_id="SkyNewsInternational.uk" site_id="39">Sky News</channel>
-  <channel site="nostv.pt" lang="en" xmltv_id="CNNInternationalEurope.us" site_id="26">CNN</channel>
+  <channel site="nostv.pt" site_id="108" lang="en" xmltv_id="AlJazeera.qa">Al Jazeera</channel>
+  <channel site="nostv.pt" site_id="39" lang="en" xmltv_id="SkyNewsInternational.uk">Sky News</channel>
+  <channel site="nostv.pt" site_id="26" lang="en" xmltv_id="CNNInternational.us">CNN</channel>
   <channel site="sky.com" site_id="5237" lang="en" xmltv_id="TRTWorld.tr">TRT World</channel>
-  <channel site="nostv.pt" lang="en" xmltv_id="BloombergTVEurope.uk" site_id="44">Bloomberg</channel>
-  <channel site="nostv.pt" lang="en" xmltv_id="NHKWorldJapan.jp" site_id="46">NHK World TV</channel>
+  <channel site="nostv.pt" site_id="44" lang="en" xmltv_id="BloombergTV.us">Bloomberg</channel>
+  <channel site="nostv.pt" site_id="46" lang="en" xmltv_id="NHKWorldJapan.jp">NHK World TV</channel>
   <channel site="meo.pt" site_id="ARIRANG" lang="pt" xmltv_id="ArirangTV.kr">Arirang</channel>
-  <channel site="nostv.pt" lang="en" xmltv_id="KBSWorld.kr" site_id="234">KBS World</channel>
+  <channel site="nostv.pt" site_id="234" lang="en" xmltv_id="KBSWorld.kr">KBS World</channel>
   <channel site="meo.pt" site_id="RAINEWS" lang="pt" xmltv_id="RaiNews24.it">Rai News</channel>
-  <channel site="nostv.pt" lang="en" xmltv_id="France24English.fr" site_id="109">France 24 English</channel>
-  <channel site="nostv.pt" lang="fr" xmltv_id="France24French.fr" site_id="132">France 24 Français</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="TVE24h.pt" site_id="172">TVE 24h</channel>
+  <channel site="nostv.pt" site_id="109" lang="en" xmltv_id="France24English.fr">France 24 English</channel>
+  <channel site="nostv.pt" site_id="132" lang="fr" xmltv_id="France24French.fr">France 24 Français</channel>
+  <channel site="nostv.pt" site_id="172" lang="pt" xmltv_id="TVE24h.pt">TVE 24h</channel>
   <channel site="nostv.pt" site_id="121" lang="pt" xmltv_id="CubavisionInternacional.cu">Cubavisión Internacional</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="Mezzo.fr" site_id="50">Mezzo</channel>
-  <channel site="nostv.pt" lang="en" xmltv_id="StingrayiConcerts.ca" site_id="42">Stingray iConcerts</channel>
+  <channel site="nostv.pt" site_id="50" lang="pt" xmltv_id="Mezzo.fr">Mezzo</channel>
+  <channel site="nostv.pt" site_id="42" lang="en" xmltv_id="StingrayiConcerts.ca">Stingray iConcerts</channel>
   <channel site="tv.post.lu" site_id="c686df60-9ab4-11ea-84f1-15e394418217" lang="pt" xmltv_id="AlmaLusa.pt">Alma Lusa</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="MTV.pt" site_id="377">MTV Portugal</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="MTV00s.uk" site_id="35">MTV 00s</channel>
-  <channel site="nostv.pt" lang="en" xmltv_id="MTVLive.uk" site_id="560">MTV Live</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="AfroMusicChannel.pt" site_id="272">Afro Music Channel</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="MCMPop.fr" site_id="368">MCM Pop</channel>
-  <channel site="nostv.pt" lang="en" xmltv_id="MCMTop.fr" site_id="34">MCM Top</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="TraceUrban.fr" site_id="65">Trace Urban</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="TraceToca.fr" site_id="543">Trace Toca</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="TraceBrazuca.fr" site_id="704">Trace Brasil</channel>
+  <channel site="nostv.pt" site_id="377" lang="pt" xmltv_id="MTV.pt">MTV Portugal</channel>
+  <channel site="nostv.pt" site_id="35" lang="pt" xmltv_id="MTV00s.uk">MTV 00s</channel>
+  <channel site="nostv.pt" site_id="560" lang="en" xmltv_id="MTVLive.uk">MTV Live</channel>
+  <channel site="nostv.pt" site_id="272" lang="pt" xmltv_id="AfroMusicChannel.pt">Afro Music Channel</channel>
+  <channel site="nostv.pt" site_id="368" lang="pt" xmltv_id="MCMPop.fr">MCM Pop</channel>
+  <channel site="nostv.pt" site_id="34" lang="en" xmltv_id="MCMTop.fr">MCM Top</channel>
+  <channel site="nostv.pt" site_id="65" lang="pt" xmltv_id="TraceUrban.fr">Trace Urban</channel>
+  <channel site="nostv.pt" site_id="543" lang="pt" xmltv_id="TraceToca.fr">Trace Toca</channel>
+  <channel site="nostv.pt" site_id="704" lang="pt" xmltv_id="TraceBrazuca.fr">Trace Brasil</channel>
   <channel site="orangetv.orange.es" site_id="11106" lang="es" xmltv_id="TraceLatina.fr">Trace Latina</channel>
   <channel site="tv.post.lu" site_id="0fbaef00-7004-11e9-a762-3be38d7f533c" lang="fr" xmltv_id="ClubbingTV.us">Clubbing TV</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="FashionTVEurope.fr" site_id="47">FTV</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="GaliciaTVEuropa.es" site_id="54">TV Galicia</channel>
-  <channel site="nostv.pt" lang="en" xmltv_id="DWEnglish.de" site_id="115">Deutsche Welle</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="DWDeutsch.de" site_id="541">Deutsche Welle Deutsch</channel>
-  <channel site="nostv.pt" lang="fr" xmltv_id="TV5MondeEurope.fr" site_id="53">TV5 Monde</channel>
+  <channel site="nostv.pt" site_id="47" lang="pt" xmltv_id="FashionTVEurope.fr">FTV</channel>
+  <channel site="nostv.pt" site_id="54 lang="pt" xmltv_id="GaliciaTVEuropa.es"">TV Galicia</channel>
+  <channel site="nostv.pt" site_id="115" lang="en" xmltv_id="DWEnglish.de">Deutsche Welle</channel>
+  <channel site="nostv.pt" site_id="541" lang="pt" xmltv_id="DWDeutsch.de">Deutsche Welle Deutsch</channel>
+  <channel site="nostv.pt" site_id="53" lang="fr" xmltv_id="TV5MondeEurope.fr">TV5 Monde</channel>
   <channel site="tv.sfr.fr" site_id="481" lang="fr" xmltv_id="BFMTV.fr">BFM TV</channel>
   <channel site="tv.sfr.fr" site_id="1073" lang="fr" xmltv_id="BFMBusiness.fr">BFM Business</channel>
   <channel site="web.magentatv.de" site_id="373" lang="de" xmltv_id="DasErste.de">ARD</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="RaiItalia.it" site_id="55">Rai Italia</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="Canal180.pt" site_id="58">Canal 180</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="BNT4.bg" site_id="124">BNT 4</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="TPANoticias.ao" site_id="138">TPA Notícias</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="STVNoticias.mz" site_id="343">STV Notícias</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="NewBrasil.br" site_id="697">New Brasil</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="TimelessDiziChannel.ro" site_id="702">Dizi</channel>
-  <channel site="nostv.pt" lang="en" xmltv_id="1Plus1International.ua" site_id="24">1+1</channel>
-  <channel site="nostv.pt" lang="fr" xmltv_id="arte.fr" site_id="41">ARTE</channel>
-  <channel site="nostv.pt" lang="nl" xmltv_id="BVN.nl" site_id="28">BVN</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="Canalnostv.pt" site_id="408">Canal NOS</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="CasaeCozinha.pt" site_id="572">Casa e Cozinha</channel>
-  <channel site="nostv.pt" lang="en" xmltv_id="CCTV4Europe.cn" site_id="316">CCTV 4</channel>
-  <channel site="nostv.pt" lang="en" xmltv_id="CNBCEurope.uk" site_id="52">CNBC</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="DogTV.us" site_id="371">DOGTV</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="E.fr" site_id="202">E! Entertainment</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="FoodNetworkEMEA.us" site_id="62">Food Network</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="GloboNow.pt" site_id="111">Globo News</channel>
-  <channel site="nostv.pt" lang="en" xmltv_id="HorseTVHD.it" site_id="680">Horse TV</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="InvestigationDiscoveryEurope.us" site_id="530">ID Investigation Discovery</channel>
-  <channel site="nostv.pt" lang="fr" xmltv_id="M6.fr" site_id="37">M6</channel>
-  <channel site="nostv.pt" lang="en" xmltv_id="MyZenTV.fr" site_id="167">MyZen TV</channel>
-  <channel site="nostv.pt" lang="en" xmltv_id="NauticalChannel.it" site_id="679">Nautical Channel</channel>
-  <channel site="nostv.pt" lang="en" xmltv_id="PhoenixCNEChannel.hk" site_id="119">Phoenix CNE</channel>
-  <channel site="nostv.pt" lang="en" xmltv_id="PhoenixInfoNewsChannel.hk" site_id="120">Phoenix Infonews</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="RecordNews.br" site_id="30">Record News</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="RecordTVEuropa.pt" site_id="350">Record TV</channel>
-  <channel site="nostv.pt" lang="de" xmltv_id="RTL.hr" site_id="40">RTL</channel>
-  <channel site="nostv.pt" lang="de" xmltv_id="RTLSuper.de" site_id="200">Super RTL</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="RTRPlanetaEurope.ru" site_id="117">RTR Planeta</channel>
-  <channel site="nostv.pt" lang="en" xmltv_id="SonyEntertainmentTelevisionAsia.in" site_id="144">SET Asia</channel>
-  <channel site="nostv.pt" lang="en" xmltv_id="SonyMax.uk" site_id="143">MAX</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="TCVInternacional.cv" site_id="237">TCV Internacional</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="TLC.pt" site_id="23">TLC</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="TravelChannel.us" site_id="70">Travel Channel</channel>
-  <channel site="nostv.pt" lang="es" xmltv_id="TVEInternacionalEuropeAsia.es" site_id="48">TVEi</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="TVRInternational.ro" site_id="123">TVR Internacional</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="ZapViva.ao" site_id="538">ZAP Viva</channel>
-  <channel site="nostv.pt" lang="en" xmltv_id="ZeeTV.in" site_id="57">Zee TV</channel>
+  <channel site="nostv.pt" site_id="55" lang="pt" xmltv_id="RaiItalia.it">Rai Italia</channel>
+  <channel site="nostv.pt" site_id="58" lang="pt" xmltv_id="Canal180.pt">Canal 180</channel>
+  <channel site="nostv.pt" site_id="124" lang="pt" xmltv_id="BNT4.bg">BNT 4</channel>
+  <channel site="nostv.pt" site_id="138" lang="pt" xmltv_id="TPANoticias.ao">TPA Notícias</channel>
+  <channel site="nostv.pt" site_id="343" lang="pt" xmltv_id="STVNoticias.mz">STV Notícias</channel>
+  <channel site="nostv.pt" site_id="697" lang="pt" xmltv_id="NewBrasil.br">New Brasil</channel>
+  <channel site="nostv.pt" site_id="702" lang="pt" xmltv_id="TimelessDiziChannel.ro">Dizi</channel>
+  <channel site="nostv.pt" site_id="24" lang="en" xmltv_id="1Plus1International.ua">1+1</channel>
+  <channel site="nostv.pt" site_id="41" lang="fr" xmltv_id="arte.fr">ARTE</channel>
+  <channel site="nostv.pt" site_id="28" lang="nl" xmltv_id="BVN.nl">BVN</channel>
+  <channel site="nostv.pt" site_id="408" lang="pt" xmltv_id="Canalnostv.pt">Canal NOS</channel>
+  <channel site="nostv.pt" site_id="572" lang="pt" xmltv_id="CasaeCozinha.pt">Casa e Cozinha</channel>
+  <channel site="nostv.pt" site_id="316" lang="en" xmltv_id="CCTV4Europe.cn">CCTV 4</channel>
+  <channel site="nostv.pt" site_id="52" lang="en" xmltv_id="CNBCEurope.uk">CNBC</channel>
+  <channel site="nostv.pt" site_id="371" lang="pt" xmltv_id="DogTV.us">DOGTV</channel>
+  <channel site="nostv.pt" site_id="202" lang="pt" xmltv_id="E.fr">E! Entertainment</channel>
+  <channel site="nostv.pt" site_id="62" lang="pt" xmltv_id="FoodNetworkEMEA.us">Food Network</channel>
+  <channel site="nostv.pt" site_id="111" lang="pt" xmltv_id="GloboNow.pt">Globo News</channel>
+  <channel site="nostv.pt" site_id="680" lang="en" xmltv_id="HorseTVHD.it">Horse TV</channel>
+  <channel site="nostv.pt" site_id="530" lang="pt" xmltv_id="InvestigationDiscoveryEurope.us">ID Investigation Discovery</channel>
+  <channel site="nostv.pt" site_id="37" lang="fr" xmltv_id="M6.fr">M6</channel>
+  <channel site="nostv.pt" site_id="167" lang="en" xmltv_id="MyZenTV.fr">MyZen TV</channel>
+  <channel site="nostv.pt" site_id="679" lang="en" xmltv_id="NauticalChannel.it">Nautical Channel</channel>
+  <channel site="nostv.pt" site_id="119" lang="en" xmltv_id="PhoenixCNEChannel.hk">Phoenix CNE</channel>
+  <channel site="nostv.pt" site_id="120" lang="en" xmltv_id="PhoenixInfoNewsChannel.hk">Phoenix Infonews</channel>
+  <channel site="nostv.pt" site_id="30" lang="pt" xmltv_id="RecordNews.br">Record News</channel>
+  <channel site="nostv.pt" site_id="350" lang="pt" xmltv_id="RecordTVEuropa.pt">Record TV</channel>
+  <channel site="nostv.pt" site_id="40" lang="de" xmltv_id="RTL.hr">RTL</channel>
+  <channel site="nostv.pt" site_id="200" lang="de" xmltv_id="RTLSuper.de">Super RTL</channel>
+  <channel site="nostv.pt" site_id="117" lang="pt" xmltv_id="RTRPlanetaEurope.ru">RTR Planeta</channel>
+  <channel site="nostv.pt" site_id="144" lang="en" xmltv_id="SonyEntertainmentTelevisionAsia.in">SET Asia</channel>
+  <channel site="nostv.pt" site_id="143" lang="en" xmltv_id="SonyMax.uk">MAX</channel>
+  <channel site="nostv.pt" site_id="237" lang="pt" xmltv_id="TCVInternacional.cv">TCV Internacional</channel>
+  <channel site="nostv.pt" site_id="23" lang="pt" xmltv_id="TLC.pt">TLC</channel>
+  <channel site="nostv.pt" site_id="70" lang="pt" xmltv_id="TravelChannel.us">Travel Channel</channel>
+  <channel site="nostv.pt" site_id="48" lang="es" xmltv_id="TVEInternacionalEuropeAsia.es">TVEi</channel>
+  <channel site="nostv.pt" site_id="123" lang="pt" xmltv_id="TVRInternational.ro">TVR Internacional</channel>
+  <channel site="nostv.pt" site_id="538" lang="pt" xmltv_id="ZapViva.ao">ZAP Viva</channel>
+  <channel site="nostv.pt" site_id="57" lang="en" xmltv_id="ZeeTV.in">Zee TV</channel>
   <channel site="mi.tv" site_id="br#tv-camara" lang="pt" xmltv_id="TVCamara.br">TV Câmara</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="CanalGaleria.pt" site_id="588">Canal Galeria</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="KuriakosTV.pt" site_id="426">Kuriakos TV</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="UnifeTV.pt" site_id="689">Unifé TV</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="TVCancaoNova.pt" site_id="142">Canção Nova</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="OneToroTV.es" site_id="694">OneToro TV</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="CazayPesca.es" site_id="129">Caça e Pesca</channel>
+  <channel site="nostv.pt" site_id="588" lang="pt" xmltv_id="CanalGaleria.pt">Canal Galeria</channel>
+  <channel site="nostv.pt" site_id="426" lang="pt" xmltv_id="KuriakosTV.pt">Kuriakos TV</channel>
+  <channel site="nostv.pt" site_id="689" lang="pt" xmltv_id="UnifeTV.pt">Unifé TV</channel>
+  <channel site="nostv.pt" site_id="142" lang="pt" xmltv_id="TVCancaoNova.pt">Canção Nova</channel>
+  <channel site="nostv.pt" site_id="694" lang="pt" xmltv_id="OneToroTV.es">OneToro TV</channel>
+  <channel site="nostv.pt" site_id="129" lang="pt" xmltv_id="CazayPesca.es">Caça e Pesca</channel>
   <channel site="pluto.tv" site_id="646cce4d1593940008a33f09" lang="es" xmltv_id="AztecaInternacional.mx">Azteca Internacional</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="TVZimbo.ao" site_id="708">TV Zimbo</channel>
+  <channel site="nostv.pt" site_id="708" lang="pt" xmltv_id="TVZimbo.ao">TV Zimbo</channel>
   <channel site="horizon.tv" site_id="10200" lang="en" xmltv_id="360TuneBox.nl">360 TuneBox</channel>
   <channel site="mi.tv" site_id="br#cultura" lang="pt" xmltv_id="TVCultura.br">TV Cultura</channel>
   <channel site="dstv.com" site_id="nam#417" lang="en" xmltv_id="AfricanewsEnglish.fr">Africanews</channel>
@@ -249,6 +247,6 @@
   <channel site="mi.tv" site_id="br#telecine-cult" lang="pt" xmltv_id="TelecineCult.br">Telecine Cult</channel>
   <channel site="mi.tv" site_id="br#tv-brasil" lang="pt" xmltv_id="TVBrasil.br">TV Brasil</channel>
   <channel site="vodafone.pt" site_id="2721" lang="pt" xmltv_id="FunBoxUHD.nl">FunBox UHD</channel>
-  <channel site="sky.de" site_id="1032" lang="de" xmltv_id="SportdigitalFUSSBALL.de">SPORTDIGITAL FUSSBALL</channel>
+  <channel site="sky.com" site_id="DE#4300" lang="de" xmltv_id="SportdigitalFUSSBALL.de">SPORTDIGITAL FUSSBALL</channel>
   <channel site="mi.tv" site_id="br#curta" lang="pt" xmltv_id="Curta.br">Curta!</channel>
 </channels>
