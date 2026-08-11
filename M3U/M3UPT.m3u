@@ -605,10 +605,10 @@ https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="Akaku55.us" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Akaku-TV-3.png",Akaku TV 3
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="KuriakosTV.pt" tvg-logo="https://kuriakos-tv.com/wp-content/uploads/2025/05/kuriakos_TV_v2.png,Kuriakos TV
+#EXTINF:-1 group-title="TV" tvg-id="KuriakosTV.pt" tvg-logo="https://kuriakos-tv.com/wp-content/uploads/2025/05/kuriakos_TV_v2.png",Kuriakos TV
 https://w1.manasat.com/ktv/ktv.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="KuriakosCine.pt" tvg-logo="https://kuriakos-cine.com/wp-content/uploads/2026/05/CineKuriakos_Curvas-01-1092x1536.png,Kuriakos Cine
+#EXTINF:-1 group-title="TV" tvg-id="KuriakosCine.pt" tvg-logo="https://kuriakos-cine.com/wp-content/uploads/2026/05/CineKuriakos_Curvas-01.png",Kuriakos Cine
 https://w2.manasat.com/kcine/kcine.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="KuriakosKids.pt" tvg-logo="https://kuriakos-kids.com/wp-content/uploads/2026/05/KuriakosKids_curvas-removebg-preview.png",Kuriakos Kids
@@ -901,7 +901,7 @@ http://centova.radio.com.pt:9434
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://www.radio.pt/images/broadcasts/c5/77/38212/1/c300.png",Rádio Quântica
 https://libretime.radioquantica.com/main.mp3
 
-#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://radioavfm.net/wp-content/uploads/2017/06/avfm-logo-horizontal.png,AVFM
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://radioavfm.net/wp-content/uploads/2017/06/avfm-logo-horizontal.png",AVFM
 https://uk2.streamingpulse.com/ssl/radioavfm
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://cdn-profiles.tunein.com/s95144/images/logod.png",Venice Classic Radio - Auditorium
