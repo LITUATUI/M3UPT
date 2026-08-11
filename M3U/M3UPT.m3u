@@ -151,6 +151,7 @@ https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="BraziTV.us" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BraziTV.png",BraziTV
 https://cbtvnow.com:5866/hls/livest2024.m3u8
 
+#EXTINF: -1 group-title="TV" tvg-id="RedeTVBrasil.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/Rede_Brasil_%282023%29.png/revision/latest/scale-to-width-down/200?cb=20230414214102",Rede Brasil TV
 #EXTINF:-1 group-title="TV" tvg-id="TVCamara.br" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TV-camara.png",TV Câmara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
@@ -170,6 +171,9 @@ https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="LotusTV.mo" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/macau_lotus_tv_mo.png",Lotus Macau
 #https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
+
+#EXTINF:-1 tvg-id="RedeTV+.br" tvg-name="RedeTV! Mais" tvg-logo="https://portalredetvmais.com.br/wp-content/uploads/2023/09/LOGO-RED.png" group-title="Brasil",RedeTV! Mais
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/chunklist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="CanalMacau.mo" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TDM-Teledifusão_de_Macau.png",TDM - Teledifusão de Macau (PT)
 https://globallive.tdm.com.mo/ch2/ch2.live/playlist.m3u8
