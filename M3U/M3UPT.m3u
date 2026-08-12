@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-m3upt.xml.xz"
+#EXTM3U url-tvg="https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-m3upt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-locomotion.xml.xz"
 
 # M3UPT.com - IPTV playlist in M3U format with TV and radio stations in Portuguese. Public and official streams only.
 
@@ -448,11 +448,11 @@ https://48faa1daf24549fab34594bc5bdd99f2.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="TV" tvg-id="Geekdot.br" tvg-logo="https://i.imgur.com/jML1u4O.png",Geekdot
 https://stream.ichibansys.com:3764/hybrid/play.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="LocomotionTV.do" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Locomotion.png",Locomotion
-#http://146.19.49.197:81/live/loco_hi/index.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="Locomotion" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Locomotion.png",Locomotion
+http://146.19.49.197:81/live/loco_hi/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Gulli.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Gulli.png",Gulli
-http://99.27.51.147:8080/Gulli/index.m3u8
+#http://99.27.51.147:8080/Gulli/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/On-FM.png",On FM Portugal
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8

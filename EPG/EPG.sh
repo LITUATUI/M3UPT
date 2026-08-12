@@ -62,6 +62,10 @@ npm run grab --- -s freeview.co.uk -o ../EPG/epg-freeview-uk.xml --days=7 --maxC
 
 cd ../EPG && wget -O epg-rytec-pt.xml.xz "http://www.xmltvepg.nl/rytecPT.xz"
 
+# Locomotion EPG
+
+wget -O epg-locomotion.xml http://epg.locomotiontv.com/guia.xml
+
 # Compress EPG xml files
 
 xz -k -f -9 epg*.xml && gzip -k -f -9 epg-m3upt.xml
