@@ -212,7 +212,7 @@ Este é o leitor recomendado para computadores GNU/Linux.
 - Other - mpv options: --hwdec=auto --demuxer-lavf-o=cenc_decryption_key=a2226def4bc8f249de2daf36b7c12b1e
 - Debug - Automatic reconnection ✅
 
-[⬇️ Download](https://snapcraft.io/yuki-iptv-unofficial)
+[⬇️ Download]([⬇️ Download](https://github.com/itachi-re/yuki-iptv)
 
 ---
 
