@@ -136,6 +136,9 @@ https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="ConecTVAlgarve.pt" tvg-logo="https://i.imgur.com/dhWE9Gy.jpeg",ConecTV Algarve
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 
+#EXTINF:-1 group-title="TV" tvg-id="NMTTV.pt" tvg-logo="https://www.naminhaterra.com/assets/images/Logo-1802x716.png",NMT TV
+https://rtmp.w2.stream-sx.com/live4/lseyJP9j/index.m3u8
+
 #EXTINF:-1 group-title="TV" tvg-id="RFPtv.pt" tvg-logo="https://rfptv.pt/uploads/img_6a48101830d423.07827183.png",RFPtv
 https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8
 
@@ -148,7 +151,7 @@ https://video04.logicahost.com.br/assimeportugal/assimeportugal/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="RecordTVEuropa.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Record-TV.png",RecordTV Europa
 #https://viamotionhsi.netplus.ch/live/eds/rederecordinternacional/browser-HLS8/rederecordinternacional.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="TVBrasil.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/TV_Brasil_logo_2023.svg",TV Brasil
+#EXTINF:-1 group-title="TV" tvg-id="TVBrasilInternacional.br" tvg-logo="https://tvbrasilinternacional.ebc.com.br/++plone++ebc.tvbrasilinternacional/tvBrasil_internacional_negativo.png",TV Brasil Internacional
 https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="BraziTV.us" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BraziTV.png",BraziTV
