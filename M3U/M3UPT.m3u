@@ -140,7 +140,7 @@ https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 https://load-balancer.azotosolutions.com/cdnedge36/canale5/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="NMTTV.pt" tvg-logo="https://www.naminhaterra.com/assets/images/Logo-1802x716.png",NMT TV
-https://rtmp.w2.stream-sx.com/live4/lseyJP9j/index.m3u8
+https://rtmp.w2.stream-sx.com/live/K6Ole9wB/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RFPtv.pt" tvg-logo="https://rfptv.pt/uploads/img_6a48101830d423.07827183.png",RFPtv
 https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8
@@ -906,6 +906,9 @@ https://centova.radio.com.pt/proxy/558
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.radiovaledominho.com/wp-content/uploads/2017/09/logo_rvm-01.png",Rádio Vale do Minho
 http://centova.radio.com.pt:9434
+
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://rfptv.pt/uploads/img_6a48101830d423.07827183.png",RFPtv - Rádio só Folclore de Portugal tv
+https://sonic.servsonic.com:8012/stream
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://www.radio.pt/images/broadcasts/c5/77/38212/1/c300.png",Rádio Quântica
 https://libretime.radioquantica.com/main.mp3
