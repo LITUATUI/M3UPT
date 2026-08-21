@@ -3103,11 +3103,14 @@ https://streaming-vod.rtp.pt/drm-dash/nas2.share,/pt/h264/512x384/p13613/p13613_
 
 # Espaço reservado para testes
 
-#EXTINF:-1 group-title="Teste" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TRT_World.svg",Logotipo em SVG (AV1/Opus)
+#EXTINF:-1 group-title="Teste" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TRT_World.svg",Logo SVG - stream AV1/Opus
 https://storage.googleapis.com/bitmovin-demos/av1/stream.mpd
 
-#EXTINF:-1 group-title="Teste" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Free-Speech-TV.webp",Logotipo em WebP (AV1/Opus)
+#EXTINF:-1 group-title="Teste" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Free-Speech-TV.webp",Logo WebP - stream AV1/Opus
 https://storage.googleapis.com/bitmovin-demos/av1/stream.mpd
 
-#EXTINF:-1 group-title="Teste" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Novelas.avif",Logotipo em AVIF (AV1/Opus)
+#EXTINF:-1 group-title="Teste" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Novelas.avif",Logo AVIF 10-bit - stream AV1/Opus
+https://storage.googleapis.com/bitmovin-demos/av1/stream.mpd
+
+#EXTINF:-1 group-title="Teste" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RFPtv.avif",Logo AVIF 8-bit - stream AV1/Opus
 https://storage.googleapis.com/bitmovin-demos/av1/stream.mpd
