@@ -614,13 +614,13 @@ https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="DasErste.de" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Das-Erste.png",Das Erste
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Akaku53.us" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Akaku-TV-1.png",Akaku TV 1
+#EXTINF:-1 group-title="TV" tvg-id="Akaku53.us" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Akaku-53.png",Akaku 53
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch1/video.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Akaku54.us" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Akaku-TV-2.png",Akaku TV 2
+#EXTINF:-1 group-title="TV" tvg-id="Akaku54.us" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Akaku-54.png",Akaku 54
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Akaku55.us" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Akaku-TV-3.png",Akaku TV 3
+#EXTINF:-1 group-title="TV" tvg-id="Akaku55.us" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Akaku-55.png",Akaku 55
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="KuriakosTV.pt" tvg-logo="https://kuriakos-tv.com/wp-content/uploads/2025/05/kuriakos_TV_v2.png",Kuriakos TV
@@ -3116,4 +3116,10 @@ https://storage.googleapis.com/bitmovin-demos/av1/stream.mpd
 https://storage.googleapis.com/bitmovin-demos/av1/stream.mpd
 
 #EXTINF:-1 group-title="Teste" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RFPtv.avif",Logo AVIF 8-bit - stream AV1/Opus
+https://storage.googleapis.com/bitmovin-demos/av1/stream.mpd
+
+#EXTINF:-1 group-title="Teste" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC_Novelas_8-bit.jxl",Logo JXL 8-bit - stream AV1/Opus
+https://storage.googleapis.com/bitmovin-demos/av1/stream.mpd
+
+#EXTINF:-1 group-title="Teste" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC_Novelas_16-bit.jxl",Logo JXL 16-bit - stream AV1/Opus
 https://storage.googleapis.com/bitmovin-demos/av1/stream.mpd
