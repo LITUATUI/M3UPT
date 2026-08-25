@@ -271,4 +271,4 @@ This is an open source project.
 
 ## ⭐ GitHub stars
 
-[![Stargazers over time](https://starchart.cc/LITUATUI/M3UPT.svg?variant=adaptive)](https://github.com/LITUATUI/M3UPT)
+[![Star History Chart](https://star-history.dera.page/svg?repos=LITUATUI/M3UPT&type=date&legend=top-left)](https://star-history.dera.page/#LITUATUI/M3UPT&type=date&legend=top-left)
