@@ -277,4 +277,4 @@ Este é um projecto de código aberto.
 
 ## ⭐ Estrelas no GitHub
 
-[![Stargazers over time](https://starchart.cc/LITUATUI/M3UPT.svg?variant=adaptive)](https://github.com/LITUATUI/M3UPT)
+[![Star History Chart](https://star-history.dera.page/svg?repos=LITUATUI/M3UPT&type=date&legend=top-left)](https://star-history.dera.page/#LITUATUI/M3UPT&type=date&legend=top-left)
