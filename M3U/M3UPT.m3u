@@ -730,9 +730,6 @@ https://stream-hls.bauermedia.pt/cidhiphop.aac/playlist.m3u8
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/logo_Radio_Cidade_Latina_256x256.avif",Rádio Cidade Latina
 https://stream-hls.bauermedia.pt/cidlatina.aac/playlist.m3u8
 
-#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://www.rclamego.com/upload/design/5f68f7d3962619.43822648.png",Rádio Clube de Lamego
-https://stream.zeno.fm/9prct7k8h0hvv
-
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://radiocomercial.iol.pt/images/logo_big.png",Rádio Comercial
 https://stream-hls.bauermedia.pt/comercial.aac/playlist.m3u8
 
@@ -834,6 +831,9 @@ https://streaming-live.rtp.pt/liveradio/zigzag80a/playlist.m3u8
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj76VV_pUw_LEbQcA4TcNqiiI3LZXS1MijJhx8NUaaLKp3NR9gEY21fUyRidOlDiZDQuTGynD5aGgjb8-lOQzy9XzDSeZnafrSSrxcUJjicT6veTLyi0n05ouBfup0DzU7OGZZH533p6z5BWDi4nfIHYdvQR2lVeRYiBQqSFY83R7CbVzQ3NG215gxa2sU=s294",Rádio Quinta do Conde
 https://sp0.redeaudio.com/8100/stream
+
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://www.rclamego.com/upload/design/5f68f7d3962619.43822648.png",Rádio Clube de Lamego
+https://stream.zeno.fm/9prct7k8h0hvv
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2014/02/Radio-Cascais.jpg",Rádio Cascais
 https://play.radioregional.pt:8220/stream/2/;/stream.mp3
