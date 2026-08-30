@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-m3upt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-locomotion.xml.xz"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/EPG/epg-m3upt.xml.xz,https://raw.githubusercontent.com/LITUATUI/M3UPT/main/EPG/epg-locomotion.xml.xz"
 
 # M3UPT.com - IPTV playlist in M3U format with TV and radio stations in Portuguese. Public and official streams only.
 
@@ -145,7 +145,7 @@ https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="RFPtv.pt" tvg-logo="https://i.imgur.com/I60nQuR.png",RFPtv
 https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://play-lh.googleusercontent.com/rnnVZVyOfwYPfnz14aDWUpvnFnQB119XG9nAjKQl__-qPdqzOQYK6glwXg-gofz_p6QKvKiMnMeQhKFj93BxQA=w480-h960",Assim é Portugal
+#EXTINF:-1 group-title="TV" tvg-id="AssimePortugal.pt" tvg-logo="https://play-lh.googleusercontent.com/rnnVZVyOfwYPfnz14aDWUpvnFnQB119XG9nAjKQl__-qPdqzOQYK6glwXg-gofz_p6QKvKiMnMeQhKFj93BxQA=w480-h960",Assim é Portugal
 https://video04.logicahost.com.br/assimeportugal/assimeportugal/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="CamoesTV.ca" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CamoesTV.png",Camões TV
@@ -218,6 +218,9 @@ https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 group-title="TV" tvg-id="ShemarooBollywood.us" tvg-logo="https://i.imgur.com/TFxLj80.png",shemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="Travelxp.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png",Travelxp
+https://b3cc72d0160f4e168712e880c78c4dcc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pt_TravelXP/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RealWild.us" tvg-logo="https://i.imgur.com/T9HHmAO.png",Real Wild
 https://lds-realwild-vizio.amagi.tv/playlist.m3u8
@@ -460,7 +463,7 @@ http://146.19.49.197:81/live/loco_hi/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="Gulli.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Gulli.png",Gulli
 #http://99.27.51.147:8080/Gulli/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/On-FM.png",On FM Portugal
+#EXTINF:-1 group-title="TV" tvg-id="ONFM.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/On-FM.png",On FM Portugal
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RadioSines.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Rádio-Sines.png",Rádio Sines
@@ -533,6 +536,9 @@ http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="CaliforniaMusicChannel.us" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CMC.png",California Music Channel
 https://cmc-cmctv-cineverse.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="TV" tvg-id="Canal11.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal-11.png",Canal 11 Internacional
+https://dy4isoelz3s0x.cloudfront.net/0_hd.m3u8
+
 #EXTINF:-1 group-title="TV" tvg-id="FIFAPlus.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg",FIFA+
 https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
 
@@ -543,7 +549,13 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #https://fueltv-fueltv-9-br.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="FUELTV.at" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Fuel-TV.png",Fuel TV
-#https://fueltv-fueltv-1.samsung.wurl.com/manifest/playlist.m3u8
+https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="NauticalChannel.it" tvg-logo="https://i.imgur.com/2ByDyzL.png",Nautical Channel
+https://streams2.sofast.tv/vglive-sk-231198/index.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="NauticalChannel.it" tvg-logo="https://i.imgur.com/2ByDyzL.png",Nautical Channel
+#https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RedBullTV.at" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Red-Bull-TV.png",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
@@ -602,13 +614,13 @@ https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="DasErste.de" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Das-Erste.png",Das Erste
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Akaku53.us" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Akaku-TV-1.png",Akaku TV 1
+#EXTINF:-1 group-title="TV" tvg-id="Akaku53.us" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Akaku-53.png",Akaku 53
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch1/video.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Akaku54.us" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Akaku-TV-2.png",Akaku TV 2
+#EXTINF:-1 group-title="TV" tvg-id="Akaku54.us" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Akaku-54.png",Akaku 54
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Akaku55.us" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Akaku-TV-3.png",Akaku TV 3
+#EXTINF:-1 group-title="TV" tvg-id="Akaku55.us" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Akaku-55.png",Akaku 55
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="KuriakosTV.pt" tvg-logo="https://kuriakos-tv.com/wp-content/uploads/2025/05/kuriakos_TV_v2.png",Kuriakos TV
@@ -709,13 +721,13 @@ https://streaming-live.rtp.pt/liveradio/antena2opera80a/playlist.m3u8
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.amalia.fm/wp-content/uploads/2014/08/radioamalialogo.png",Rádio Amália
 http://link.radios.pt/amalia?1487014253471.mp3
 
-#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://cidade.iol.pt/images/logo_CIDADE_2020.png",Rádio Cidade FM
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/logo_Radio_Cidade_FM_256x256.avif",Rádio Cidade FM
 https://stream-hls.bauermedia.pt/cidade.aac/playlist.m3u8
 
-#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://cidade.iol.pt/images/logo_CIDADE_2020.png",Rádio Cidade Hip Hop
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/logo_Radio_Cidade_Hip_Hop_256x256.avif",Rádio Cidade Hip Hop
 https://stream-hls.bauermedia.pt/cidhiphop.aac/playlist.m3u8
 
-#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://cidade.iol.pt/images/logo_CIDADE_2020.png",Rádio Cidade Latina
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/logo_Radio_Cidade_Latina_256x256.avif",Rádio Cidade Latina
 https://stream-hls.bauermedia.pt/cidlatina.aac/playlist.m3u8
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://radiocomercial.iol.pt/images/logo_big.png",Rádio Comercial
@@ -820,6 +832,9 @@ https://streaming-live.rtp.pt/liveradio/zigzag80a/playlist.m3u8
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj76VV_pUw_LEbQcA4TcNqiiI3LZXS1MijJhx8NUaaLKp3NR9gEY21fUyRidOlDiZDQuTGynD5aGgjb8-lOQzy9XzDSeZnafrSSrxcUJjicT6veTLyi0n05ouBfup0DzU7OGZZH533p6z5BWDi4nfIHYdvQR2lVeRYiBQqSFY83R7CbVzQ3NG215gxa2sU=s294",Rádio Quinta do Conde
 https://sp0.redeaudio.com/8100/stream
 
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://www.rclamego.com/upload/design/5f68f7d3962619.43822648.png",Rádio Clube de Lamego
+https://stream.zeno.fm/9prct7k8h0hvv
+
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2014/02/Radio-Cascais.jpg",Rádio Cascais
 https://play.radioregional.pt:8220/stream/2/;/stream.mp3
 
@@ -903,6 +918,9 @@ https://centova.radio.com.pt/proxy/558
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.radiovaledominho.com/wp-content/uploads/2017/09/logo_rvm-01.png",Rádio Vale do Minho
 http://centova.radio.com.pt:9434
+
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://rfptv.pt/uploads/img_6a48101830d423.07827183.png",RFPtv - Rádio só Folclore de Portugal tv
+https://sonic.servsonic.com:8012/stream
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://www.radio.pt/images/broadcasts/c5/77/38212/1/c300.png",Rádio Quântica
 https://libretime.radioquantica.com/main.mp3
@@ -3087,3 +3105,24 @@ https://streaming-vod.rtp.pt/drm-dash/nas2.share,/pt/h264/512x384/p13613/p13613_
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b57fd50083e83bfd85bbc31a32cf47e1:3d5f6bcf52c213ac76f5b896ee95be4e
 https://streaming-vod.rtp.pt/drm-dash/nas2.share,/pt/h264/512x384/p13613/p13613_1_20240717161005e003t1334d_lo.mp4,/pt/h264/512x384/p13613/p13613_1_20240717161005e003t1334d.mp4,.urlset/manifest.mpd
+
+
+# Espaço reservado para testes
+
+#EXTINF:-1 group-title="Teste" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TRT_World.svg",Logo SVG - stream AV1/Opus
+https://storage.googleapis.com/bitmovin-demos/av1/stream.mpd
+
+#EXTINF:-1 group-title="Teste" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Free-Speech-TV.webp",Logo WebP - stream AV1/Opus
+https://storage.googleapis.com/bitmovin-demos/av1/stream.mpd
+
+#EXTINF:-1 group-title="Teste" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RFPtv.avif",Logo AVIF 8-bit - stream AV1/Opus
+https://storage.googleapis.com/bitmovin-demos/av1/stream.mpd
+
+#EXTINF:-1 group-title="Teste" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Novelas.avif",Logo AVIF 10-bit - stream AV1/Opus
+https://storage.googleapis.com/bitmovin-demos/av1/stream.mpd
+
+#EXTINF:-1 group-title="Teste" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC_Novelas_8-bit.jxl",Logo JXL 8-bit - stream AV1/Opus
+https://storage.googleapis.com/bitmovin-demos/av1/stream.mpd
+
+#EXTINF:-1 group-title="Teste" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC_Novelas_16-bit.jxl",Logo JXL 16-bit - stream AV1/Opus
+https://storage.googleapis.com/bitmovin-demos/av1/stream.mpd
