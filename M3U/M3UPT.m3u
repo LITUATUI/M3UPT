@@ -137,10 +137,10 @@ https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="TDS.pt" tvg-logo="https://televisaodosul.pt/wp-content/uploads/2019/10/TDS-LOGO-2-400x327.png",TDS
-https://load-balancer.azotosolutions.com/cdnedge36/canale5/playlist.m3u8
+#https://load-balancer.azotosolutions.com/cdnedge36/canale5/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="NMTTV.pt" tvg-logo="https://www.naminhaterra.com/assets/images/Logo-1802x716.png",NMT TV
-https://rtmp.w2.stream-sx.com/live/K6Ole9wB/index.m3u8
+https://rtmp.w2.stream-sx.com/live4/lseyJP9j/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RFPtv.pt" tvg-logo="https://i.imgur.com/I60nQuR.png",RFPtv
 https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8
@@ -271,10 +271,10 @@ https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/playli
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="CGTNEspanol.cn" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CGTN-Español.png",CGTN Español
-https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="CGTNFrancais.cn" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CGTN-Français.png",CGTN Français
-https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
+https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-rakuten/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="CGTNDocumentary.cn" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CGTN-Documentary.png",CGTN Documentary
 https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
