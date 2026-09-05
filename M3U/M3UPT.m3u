@@ -520,7 +520,7 @@ http://tv.nrg91.gr:1935/onweb/live/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="myDeejay.it" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DeeJay-TV.png",DeeJay TV
 https://streamcdng5-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="4fun.pl" tvg-id="4fun.pl" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/4Fun-TV.png",4Fun.TV
+#EXTINF:-1 group-title="TV" tvg-id="4fun.pl" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/4Fun-TV.png",4Fun.TV
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="KpopTVPlay.br" tvg-logo="https://i.imgur.com/Tf0vweF.png",KpopTV Play
@@ -555,10 +555,8 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="NauticalChannel.it" tvg-logo="https://i.imgur.com/2ByDyzL.png",Nautical Channel
-https://streams2.sofast.tv/vglive-sk-231198/index.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="NauticalChannel.it" tvg-logo="https://i.imgur.com/2ByDyzL.png",Nautical Channel
 #https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
+https://streams2.sofast.tv/vglive-sk-231198/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RedBullTV.at" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Red-Bull-TV.png",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
@@ -1865,9 +1863,6 @@ https://videos.impresa.pt/videos/hls/sicnot/2024/04/04/e21dd287-bfc1-43f8-9c48-a
 https://videos.impresa.pt/videos/hls/sicnot/2024/03/29/e5d7cbe0-312a-406e-aa5c-b7101e34678d/video.m3u8
 
 #EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 21/3/2024
-https://videos.impresa.pt/videos/hls/sicnot/2024/03/29/e5d7cbe0-312a-406e-aa5c-b7101e34678d/video.m3u8
-
-#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 21/3/2024
 https://videos.impresa.pt/videos/hls/sicnot/2024/03/21/573c147d-010d-476a-9fee-459fff4d23c6/video.m3u8
 
 #EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 7/3/2024
@@ -3075,39 +3070,27 @@ https://streaming-vod.rtp.pt/drm-dash/nas2.share,/h264/512x384/p12607/p12607_1_2
 
 #EXTINF:-1 media="true" group-title="O Planeta Vivo" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/45929_73117_64439.jpg",O Planeta Vivo - S01E01
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0"
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b57fd50083e83bfd85bbc31a32cf47e1:3d5f6bcf52c213ac76f5b896ee95be4e
-https://streaming-vod.rtp.pt/drm-dash/nas2.share,/pt/h264/512x384/p13613/p13613_20240703090016e001t9267.mp4,.urlset/manifest.mpd
+https://streaming-vod.rtp.pt/hls/nas2.share,/pt/h264/512x384/p13613/p13613_20240703090016e001t9267.mp4,.urlset/index-v1-a1.m3u8
 
 #EXTINF:-1 media="true" group-title="O Planeta Vivo" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/45929_73117_64439.jpg",O Planeta Vivo - S01E02
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0"
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b57fd50083e83bfd85bbc31a32cf47e1:3d5f6bcf52c213ac76f5b896ee95be4e
-https://streaming-vod.rtp.pt/drm-dash/nas2.share,/pt/h264/512x384/p13613/p13613_1_20240710161003e002t6658d_lo.mp4,/pt/h264/512x384/p13613/p13613_1_20240710161003e002t6658d.mp4,.urlset/manifest.mpd
+https://streaming-vod.rtp.pt/hls/nas2.share,/pt/h264/512x384/p13613/p13613_1_20240710161003e002t6658d_hi.mp4,/pt/h264/512x384/p13613/p13613_1_20240710161003e002t6658d_lo.mp4,/pt/h264/512x384/p13613/p13613_1_20240710161003e002t6658d.mp4,.urlset/index-f3-v1-a1.m3u8
 
 #EXTINF:-1 media="true" group-title="O Planeta Vivo" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/45929_73117_64439.jpg",O Planeta Vivo - S01E03
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0"
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b57fd50083e83bfd85bbc31a32cf47e1:3d5f6bcf52c213ac76f5b896ee95be4e
-https://streaming-vod.rtp.pt/drm-dash/nas2.share,/pt/h264/512x384/p13613/p13613_1_20240717161005e003t1334d_lo.mp4,/pt/h264/512x384/p13613/p13613_1_20240717161005e003t1334d.mp4,.urlset/manifest.mpd
+https://streaming-vod.rtp.pt/hls/nas2.share,/pt/h264/512x384/p13613/p13613_1_20240717161005e003t1334d_hi.mp4,/pt/h264/512x384/p13613/p13613_1_20240717161005e003t1334d_lo.mp4,/pt/h264/512x384/p13613/p13613_1_20240717161005e003t1334d.mp4,.urlset/index-f3-v1-a1.m3u8
 
 #EXTINF:-1 media="true" group-title="O Planeta Vivo" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/45929_73117_64439.jpg",O Planeta Vivo - S01E04
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0"
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b57fd50083e83bfd85bbc31a32cf47e1:3d5f6bcf52c213ac76f5b896ee95be4e
-https://streaming-vod.rtp.pt/drm-dash/nas2.share,/pt/h264/512x384/p13613/p13613_1_20240717161005e003t1334d_lo.mp4,/pt/h264/512x384/p13613/p13613_1_20240717161005e003t1334d.mp4,.urlset/manifest.mpd
+https://streaming-vod.rtp.pt/hls/nas2.share,/pt/h264/512x384/p13613/p13613_1_20240724161004e004t5563d_hi.mp4,/pt/h264/512x384/p13613/p13613_1_20240724161004e004t5563d_lo.mp4,/pt/h264/512x384/p13613/p13613_1_20240724161004e004t5563d.mp4,.urlset/index-f3-v1-a1.m3u8
 
 #EXTINF:-1 media="true" group-title="O Planeta Vivo" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/45929_73117_64439.jpg",O Planeta Vivo - S01E05
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0"
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b57fd50083e83bfd85bbc31a32cf47e1:3d5f6bcf52c213ac76f5b896ee95be4e
-https://streaming-vod.rtp.pt/drm-dash/nas2.share,/pt/h264/512x384/p13613/p13613_1_20240717161005e003t1334d_lo.mp4,/pt/h264/512x384/p13613/p13613_1_20240717161005e003t1334d.mp4,.urlset/manifest.mpd
+https://streaming-vod.rtp.pt/hls/nas2.share,/pt/h264/512x384/p13613/p13613_1_20240731161003e005t4181d_hi.mp4,/pt/h264/512x384/p13613/p13613_1_20240731161003e005t4181d_lo.mp4,/pt/h264/512x384/p13613/p13613_1_20240731161003e005t4181d.mp4,.urlset/index-f3-v1-a1.m3u8
 
 #EXTINF:-1 media="true" group-title="O Planeta Vivo" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/45929_73117_64439.jpg",O Planeta Vivo - S01E06
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0"
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b57fd50083e83bfd85bbc31a32cf47e1:3d5f6bcf52c213ac76f5b896ee95be4e
-https://streaming-vod.rtp.pt/drm-dash/nas2.share,/pt/h264/512x384/p13613/p13613_1_20240717161005e003t1334d_lo.mp4,/pt/h264/512x384/p13613/p13613_1_20240717161005e003t1334d.mp4,.urlset/manifest.mpd
+https://streaming-vod.rtp.pt/hls/nas2.share,/pt/h264/512x384/p13613/p13613_1_20240807161003e006t0948d_hi.mp4,/pt/h264/512x384/p13613/p13613_1_20240807161003e006t0948d_lo.mp4,/pt/h264/512x384/p13613/p13613_1_20240807161003e006t0948d.mp4,.urlset/index-f3-v1-a1.m3u8
 
 
 # Espaço reservado para testes
