@@ -520,7 +520,7 @@ http://tv.nrg91.gr:1935/onweb/live/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="myDeejay.it" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DeeJay-TV.png",DeeJay TV
 https://streamcdng5-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="4fun.pl" tvg-id="4fun.pl" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/4Fun-TV.png",4Fun.TV
+#EXTINF:-1 group-title="TV" tvg-id="4fun.pl" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/4Fun-TV.png",4Fun.TV
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="KpopTVPlay.br" tvg-logo="https://i.imgur.com/Tf0vweF.png",KpopTV Play
@@ -556,9 +556,6 @@ https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_r
 
 #EXTINF:-1 group-title="TV" tvg-id="NauticalChannel.it" tvg-logo="https://i.imgur.com/2ByDyzL.png",Nautical Channel
 https://streams2.sofast.tv/vglive-sk-231198/index.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="NauticalChannel.it" tvg-logo="https://i.imgur.com/2ByDyzL.png",Nautical Channel
-#https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RedBullTV.at" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Red-Bull-TV.png",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
@@ -1862,9 +1859,6 @@ https://videos.impresa.pt/videos/hls/sicnot/2024/04/11/5b91dada-c630-4712-a718-a
 https://videos.impresa.pt/videos/hls/sicnot/2024/04/04/e21dd287-bfc1-43f8-9c48-a5e753e91675/video.m3u8
 
 #EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 28/3/2024
-https://videos.impresa.pt/videos/hls/sicnot/2024/03/29/e5d7cbe0-312a-406e-aa5c-b7101e34678d/video.m3u8
-
-#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 21/3/2024
 https://videos.impresa.pt/videos/hls/sicnot/2024/03/29/e5d7cbe0-312a-406e-aa5c-b7101e34678d/video.m3u8
 
 #EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 21/3/2024
