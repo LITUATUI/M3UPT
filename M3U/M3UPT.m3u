@@ -256,10 +256,20 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="HispanTV.ir" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/HispanTV.png",HispanTV
-https://live.presstv.ir/hls/hispantv.m3u8
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0"
+#EXTVLCOPT:http-origin=https://odysee.com/
+#EXTVLCOPT:http-referrer=https://odysee.com/
+#https://live.presstv.ir/hls/hispantv.m3u8
+#https://live.presstv.co.uk/hls/hispantv.m3u8
+https://cloud.odysee.live/content/df0a443c1e8e53babc41fede14548c9b5fd1a6d2/live.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="PressTV.ir" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Press-TV.png",Press TV
-https://live.presstv.ir/hls/presstv.m3u8
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0"
+#EXTVLCOPT:http-origin=https://odysee.com/
+#EXTVLCOPT:http-referrer=https://odysee.com/
+#https://live.presstv.ir/hls/presstv.m3u8
+#https://live.presstv.co.uk/hls/presstv.m3u8
+https://cloud.odysee.live/content/26bcbcc342a5b143578f27dbfaf000201f06e417/live.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="FreeSpeechTV.us" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Free-Speech-TV.webp",Free Speech TV
 https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
