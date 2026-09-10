@@ -161,6 +161,14 @@ This simple IPTV player also opens DRM encrypted streams. Excellent experience o
 
 ---
 
+### 🥇 Free IPTV Player
+
+[Free IPTV Player](https://freeiptvplayer.net/iptv-player/) is a free web-based IPTV player: paste an M3U URL or upload an M3U playlist file to play channels directly in the browser, with no app installation required.
+
+[Open the web player](https://freeiptvplayer.net/iptv-player/)
+
+---
+
 ### 🥈ProgTV
 
 This is a good player for Android, but doesn't open DRM encrypted streams. Curiously this player can bypass geo-blocking of SIC channels.
