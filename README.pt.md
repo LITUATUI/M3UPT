@@ -167,6 +167,14 @@ Este leitor de IPTV simples também abre streams encriptados com DRM. Excelente 
 
 ---
 
+### 🥇 Free IPTV Player
+
+O [Free IPTV Player](https://freeiptvplayer.net/iptv-player/) é um leitor de IPTV baseado na web e gratuito: cole um URL M3U ou carregue um ficheiro de playlist M3U para reproduzir canais directamente no navegador, sem necessidade de instalar aplicações.
+
+[Abrir o leitor web](https://freeiptvplayer.net/iptv-player/)
+
+---
+
 ### 🥈 ProgTV
 
 Este é um bom leitor para Android, mas não abre streams encriptados com DRM. Curiosamente, este leitor consegue contornar o bloqueio geográfico dos canais SIC.
