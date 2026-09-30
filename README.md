@@ -187,9 +187,7 @@ This is another good player for Android, but doesn't open DRM encrypted streams.
 - Playback - Decoder: Hardware
 - Playback - User-Agent: IE
 
-[⬇️ Download](https://m3upt.com/perfectplayer)
-
-[🔑 Downloader](https://play.google.com/store/apps/details?id=com.esaba.downloader): 721579
+[🔑 Downloader](https://play.google.com/store/apps/details?id=com.esaba.downloader): 7609389
 
 ---
 
