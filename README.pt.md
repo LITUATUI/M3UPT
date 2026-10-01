@@ -68,6 +68,7 @@ Não é fácil para falantes de português a viver no estrangeiro manter contact
 - La 2
 - Gulli
 - Trace Urban
+- Canal 11 Internacional
 - Fuel TV
 - Red Bull TV
 - Fashion TV

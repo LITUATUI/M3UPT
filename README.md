@@ -66,6 +66,7 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 - La 2
 - Gulli
 - Trace Urban
+- Canal 11 Internacional
 - Fuel TV
 - Red Bull TV
 - Fashion TV
@@ -147,7 +148,7 @@ This IPTV player also opens DRM encrypted streams.
 
 Settings - Playlists - M3UPT - Update interval, hours - 2
 
-[Google Play](https://snapcraft.io/yuki-iptv-unofficial)
+[Google Play](https://play.google.com/store/apps/details?id=ar.tvplayer.tv)
 
 ---
 
