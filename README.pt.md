@@ -68,6 +68,7 @@ Não é fácil para falantes de português a viver no estrangeiro manter contact
 - La 2
 - Gulli
 - Trace Urban
+- Canal 11 Internacional
 - Fuel TV
 - Red Bull TV
 - Fashion TV
@@ -119,7 +120,7 @@ Este leitor de IPTV é o mais completo e abre streams encriptados com DRM.
 
 **Configurações recomendadas:**
 
-- Restaure este backup: C2YLXU (senha: 12345)
+- Restaure este backup: HAVBxx (senha: 12345)
 
 Para aplicar o código de backup, siga os seguintes passos após instalar a aplicação OTT Navigator IPTV:
 
@@ -193,9 +194,7 @@ Este é outro bom leitor para Android, mas não abre streams encriptados com DRM
 - Reprodução - Descodificador: Hardware
 - Reprodução - User-Agent: IE
 
-[⬇️ Download](https://m3upt.com/perfectplayer)
-
-[🔑 Downloader](https://play.google.com/store/apps/details?id=com.esaba.downloader): 721579
+[🔑 Downloader](https://play.google.com/store/apps/details?id=com.esaba.downloader): 7609389
 
 ---
 

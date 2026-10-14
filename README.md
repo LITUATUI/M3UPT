@@ -66,6 +66,7 @@ It's not easy for Portuguese speakers living abroad stay in touch with their cul
 - La 2
 - Gulli
 - Trace Urban
+- Canal 11 Internacional
 - Fuel TV
 - Red Bull TV
 - Fashion TV
@@ -117,7 +118,7 @@ This is the most complete IPTV player and opens DRM encrypted streams.
 
 **Recommended settings:**
 
-- Restore this backup: C2YLXU (password: 12345)
+- Restore this backup: HAVBxx (password: 12345)
 
 [Google Play](https://play.google.com/store/apps/details?id=appnovatica.tv)
 
@@ -147,7 +148,7 @@ This IPTV player also opens DRM encrypted streams.
 
 Settings - Playlists - M3UPT - Update interval, hours - 2
 
-[Google Play](https://snapcraft.io/yuki-iptv-unofficial)
+[Google Play](https://play.google.com/store/apps/details?id=ar.tvplayer.tv)
 
 ---
 
@@ -187,9 +188,7 @@ This is another good player for Android, but doesn't open DRM encrypted streams.
 - Playback - Decoder: Hardware
 - Playback - User-Agent: IE
 
-[⬇️ Download](https://m3upt.com/perfectplayer)
-
-[🔑 Downloader](https://play.google.com/store/apps/details?id=com.esaba.downloader): 721579
+[🔑 Downloader](https://play.google.com/store/apps/details?id=com.esaba.downloader): 7609389
 
 ---
 
