@@ -421,11 +421,6 @@ https://multimedia.eitb.eus/live-content/etb1eus-hls/master.m3u8
 #EXTVLCOPT:http-referrer=https://www.eitb.eus/
 https://multimedia.eitb.eus/live-content/etb2eus-hls/master.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="ETBBasque.es" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ETBBasque.es.png",EITB Basque
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0"
-#EXTVLCOPT:http-referrer=https://www.eitb.eus/
-https://multimedia.eitb.eus/live-content/etbbasqueeus-hls/master.m3u8
-
 #EXTINF:-1 group-title="TV" tvg-id="CanalExtremaduraSatelite.es" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CanalExtremaduraSatelite.es.png",Canal Extremadura TV
 https://d2ymuyhevki1a1.cloudfront.net/wct-ddd2992e-86fc-4611-a491-7f392259e9ba/continuous/9be76611-d2cd-474d-bf19-ef702ba31b02/index.m3u8
 
