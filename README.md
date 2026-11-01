@@ -118,7 +118,7 @@ This is the most complete IPTV player and opens DRM encrypted streams.
 
 **Recommended settings:**
 
-- Restore this backup: HAVBxx (password: 12345)
+- Restore this backup: ZMQCBB (password: 12345)
 
 [Google Play](https://play.google.com/store/apps/details?id=appnovatica.tv)
 
