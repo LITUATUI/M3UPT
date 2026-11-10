@@ -6,11 +6,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Website](https://img.shields.io/badge/Website-m3upt.com-blue?logo=google-chrome&logoColor=white)](https://m3upt.com)
 [![Telegram](https://img.shields.io/badge/Telegram-Group-26A5E4?logo=telegram&logoColor=white)](https://t.me/m3upt)
-![Made in Portugal](https://img.shields.io/badge/Made%20in-Portugal-green?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MDAgNDAwIj48cmVjdCB3aWR0aD0iNjAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iIzAwNjYwMCIvPjxyZWN0IHdpZHRoPSIyNDAi)
 
 <p align="center">
   [<a href="docs/README.pt.md">Português</a>] | [<a href="docs/README.md">English</a>] 
 </p>
+
 # M3UPT
 
 Free and legal IPTV playlist in M3U format with TV and radio stations in Portuguese. Public and official streams only.
