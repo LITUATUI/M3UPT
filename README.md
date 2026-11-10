@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="#raw-steps-to-build">Build</a> •
+  <a href="#how-to-build-with-docker">Docker</a> •
+  <a href="#file-structure">Structure</a> •
+  <a href="#screenshots">Screenshots</a><br>  [<a href="docs/README.pt.md">Português</a>] | [<a href="docs/README.md">English</a>] 
+</p>
 # M3UPT
 
 Free and legal IPTV playlist in M3U format with TV and radio stations in Portuguese. Public and official streams only.
