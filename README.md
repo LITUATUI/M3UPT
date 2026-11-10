@@ -8,7 +8,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-Group-26A5E4?logo=telegram&logoColor=white)](https://t.me/m3upt)
 
 <p align="center">
-  [<a href="docs/README.pt.md">Português</a>] | [<a href="docs/README.md">English</a>] 
+  [<a href="README.pt.md">Português</a>] | [<a href="README.md">English</a>] 
 </p>
 
 # M3UPT
