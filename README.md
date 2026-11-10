@@ -3,7 +3,6 @@
 [![GitHub watchers](https://img.shields.io/github/watchers/LITUATUI/M3UPT?style=flat&logo=github)](https://github.com/LITUATUI/M3UPT/watchers)
 [![GitHub last commit](https://img.shields.io/github/last-commit/LITUATUI/M3UPT?style=flat)](https://github.com/LITUATUI/M3UPT/commits/main)
 [![GitHub commits](https://img.shields.io/github/commit-activity/t/LITUATUI/M3UPT?style=flat)](https://github.com/LITUATUI/M3UPT/commits/main)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Website](https://img.shields.io/badge/Website-m3upt.com-blue?logo=google-chrome&logoColor=white)](https://m3upt.com)
 [![Telegram](https://img.shields.io/badge/Telegram-Group-26A5E4?logo=telegram&logoColor=white)](https://t.me/m3upt)
 
