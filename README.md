@@ -1,8 +1,15 @@
+[![GitHub stars](https://img.shields.io/github/stars/LITUATUI/M3UPT?style=flat&logo=github&color=yellow)](https://github.com/LITUATUI/M3UPT/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/LITUATUI/M3UPT?style=flat&logo=github)](https://github.com/LITUATUI/M3UPT/network/members)
+[![GitHub watchers](https://img.shields.io/github/watchers/LITUATUI/M3UPT?style=flat&logo=github)](https://github.com/LITUATUI/M3UPT/watchers)
+[![GitHub last commit](https://img.shields.io/github/last-commit/LITUATUI/M3UPT?style=flat)](https://github.com/LITUATUI/M3UPT/commits/main)
+[![GitHub commits](https://img.shields.io/github/commit-activity/t/LITUATUI/M3UPT?style=flat)](https://github.com/LITUATUI/M3UPT/commits/main)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Website](https://img.shields.io/badge/Website-m3upt.com-blue?logo=google-chrome&logoColor=white)](https://m3upt.com)
+[![Telegram](https://img.shields.io/badge/Telegram-Group-26A5E4?logo=telegram&logoColor=white)](https://t.me/m3upt)
+![Made in Portugal](https://img.shields.io/badge/Made%20in-Portugal-green?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MDAgNDAwIj48cmVjdCB3aWR0aD0iNjAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iIzAwNjYwMCIvPjxyZWN0IHdpZHRoPSIyNDAi)
+
 <p align="center">
-  <a href="#raw-steps-to-build">Build</a> •
-  <a href="#how-to-build-with-docker">Docker</a> •
-  <a href="#file-structure">Structure</a> •
-  <a href="#screenshots">Screenshots</a><br>  [<a href="docs/README.pt.md">Português</a>] | [<a href="docs/README.md">English</a>] 
+  [<a href="docs/README.pt.md">Português</a>] | [<a href="docs/README.md">English</a>] 
 </p>
 # M3UPT
 
