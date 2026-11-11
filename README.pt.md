@@ -1,3 +1,15 @@
+[![GitHub stars](https://img.shields.io/github/stars/LITUATUI/M3UPT?style=flat&logo=github&color=yellow)](https://github.com/LITUATUI/M3UPT/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/LITUATUI/M3UPT?style=flat&logo=github)](https://github.com/LITUATUI/M3UPT/network/members)
+[![GitHub watchers](https://img.shields.io/github/watchers/LITUATUI/M3UPT?style=flat&logo=github)](https://github.com/LITUATUI/M3UPT/watchers)
+[![GitHub last commit](https://img.shields.io/github/last-commit/LITUATUI/M3UPT?style=flat)](https://github.com/LITUATUI/M3UPT/commits/main)
+[![GitHub commits](https://img.shields.io/github/commit-activity/t/LITUATUI/M3UPT?style=flat)](https://github.com/LITUATUI/M3UPT/commits/main)
+[![Website](https://img.shields.io/badge/Website-m3upt.com-blue?logo=google-chrome&logoColor=white)](https://m3upt.com)
+[![Telegram](https://img.shields.io/badge/Telegram-Group-26A5E4?logo=telegram&logoColor=white)](https://t.me/m3upt)
+
+<p align="center">
+  [<a href="README.md">English</a>] 
+</p>
+
 # M3UPT
 
 Lista de IPTV gratuita e legal em formato M3U com estações de TV e rádio em português. Apenas com streams públicos e oficiais.
