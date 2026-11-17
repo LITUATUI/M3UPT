@@ -283,7 +283,13 @@ https://cloud.odysee.live/content/26bcbcc342a5b143578f27dbfaf000201f06e417/live.
 https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RT.ru" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RT.ru.png",RT News
-https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/playlist.m3u8
+https://rumble.com/live-hls-dvr/K1qPNn6FJUg/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="RTenEspanol.ru" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RT.ru.png",RT en español
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="RTFrance.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/960px-RT-France-logo.svg.png",RT en français
+https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="CGTN.cn" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CGTN.cn.png",CGTN
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
@@ -2808,7 +2814,7 @@ https://cdn.jwplayer.com/manifests/v8e6Ytdz.m3u8
 
 # Isto é Gozar com Quem Trabalha
 
-#EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/IEGCQT.png",IEGCQT S14E10 8-11-2026
+#EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/IEGCQT.png",IEGCQT S14E11 15-11-2026
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:159.0) Gecko/20100101 Firefox/159.0"
 #EXTVLCOPT:http-referrer=https://opto.sic.pt/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
