@@ -1515,6 +1515,12 @@ https://video-auth1.iol.pt/beachcam/murtosa/playlist.m3u8
 
 # Eixo do Mal
 
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo_do_Mal.png",Eixo do Mal - 19/11/2026
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:159.0) Gecko/20100101 Firefox/159.0"
+#EXTVLCOPT:http-origin=https://sicnoticias.pt
+#EXTVLCOPT:http-referrer=https://sicnoticias.pt
+https://videos.impresa.pt/videos/hls/sicnot/2026/11/19/8649a5d5-df06-4947-abf3-fe907adbc84a/video.m3u8
+
 #EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo_do_Mal.png",Eixo do Mal - 12/11/2026
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:159.0) Gecko/20100101 Firefox/159.0"
 #EXTVLCOPT:http-origin=https://sicnoticias.pt
