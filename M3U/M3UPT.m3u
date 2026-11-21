@@ -2166,6 +2166,12 @@ https://content.jwplatform.com/manifests/jL3dl5uq.m3u8
 
 # Programa Cujo Nome Estamos Legalmente Impedidos de Dizer
 
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.png",PCNELID - 20/11/2026
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:159.0) Gecko/20100101 Firefox/159.0"
+#EXTVLCOPT:http-origin=https://sicnoticias.pt
+#EXTVLCOPT:http-referrer=https://sicnoticias.pt
+https://videos.impresa.pt/videos/hls/sicnot/2026/11/21/d4c77fd8-3135-4396-8f4c-f87ddac3400a/video.m3u8
+
 #EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.png",PCNELID - 13/11/2026
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:159.0) Gecko/20100101 Firefox/159.0"
 #EXTVLCOPT:http-origin=https://sicnoticias.pt
