@@ -5,28 +5,34 @@
 # 📺 TV
 
 #EXTINF:-1 group-title="TV" tvg-id="RTP1.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.pt.png",RTP 1
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:159.0) Gecko/20100101 Firefox/159.0"
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0"
 #EXTVLCOPT:http-origin=https://www.rtp.pt
 #EXTVLCOPT:http-referrer=https://www.rtp.pt/play/direto/rtp1
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f80351a117ba3f17a26e0e8cd4dc00c4:a2226def4bc8f249de2daf36b7c12b1e
+https://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/manifest.mpd
 
 #EXTINF:-1 group-title="TV" tvg-id="RTP2.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.pt.png",RTP 2
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:159.0) Gecko/20100101 Firefox/159.0"
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0"
 #EXTVLCOPT:http-origin=https://www.rtp.pt
 #EXTVLCOPT:http-referrer=https://www.rtp.pt/play/direto/rtp2
-https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=761e7af421a4386e82eaa861a49b3d73:f1eb56955a79e555b1f8b96aec3afa25
+https://streaming-live.rtp.pt/liverepeater/rtpClean2HD.smil/manifest.mpd
 
 #EXTINF:-1 group-title="TV" tvg-id="SIC.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.pt.png",SIC
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:159.0) Gecko/20100101 Firefox/159.0"
-#EXTVLCOPT:http-origin=https://sic.pt
-#EXTVLCOPT:http-referrer=https://sic.pt/
-https://sic.live.impresa.pt/sic1080p.m3u8
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0"
+#EXTVLCOPT:http-origin=https://opto.sic.pt/
+#EXTVLCOPT:http-referrer=https://opto.sic.pt/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e4cce7421f2843fe94915343372ba185:a55effc1eb5ccf1af1c4f09abbb1cd39
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/5e99aa024db04f4a877d37ad9512ef24/index.mpd
 
 #EXTINF:-1 group-title="TV" tvg-id="TVI.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.pt.png",TVI
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:159.0) Gecko/20100101 Firefox/159.0"
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0"
 #EXTVLCOPT:http-origin=https://tviplayer.iol.pt
 #EXTVLCOPT:http-referrer=https://tviplayer.iol.pt
-https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/TVI.m3u8
+https://d28hnoqioi2jsa.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RTPNoticias.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTPNoticias.pt.png",RTP Notícias
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:159.0) Gecko/20100101 Firefox/159.0"
