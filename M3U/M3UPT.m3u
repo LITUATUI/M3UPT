@@ -449,6 +449,9 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="RaiNews24.it" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RaiNews24.it.png",Rai News 24
 https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 
+#EXTINF:-1 group-title="TV" tvg-id="savoir.ca" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Savoir_media.png", Canal Savoir
+https://hls.savoir.media/live/stream.m3u8
+
 #EXTINF:-1 group-title="TV" tvg-id="EBSEnglish.kr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/EBSEnglish.kr.png",EBS English
 https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 
@@ -544,7 +547,7 @@ https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="KpopTVPlay.br" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/KpopTVPlay.br.png",KpopTV Play
 #https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
-https://183.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
+#https://183.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="VH1.it" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/VH1.it.png",VH1 Italia
 #https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
