@@ -2831,6 +2831,12 @@ https://cdn.jwplayer.com/manifests/v8e6Ytdz.m3u8
 
 # Isto é Gozar com Quem Trabalha
 
+#EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/IEGCQT.png",IEGCQT S14E12 22-11-2026
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:159.0) Gecko/20100101 Firefox/159.0"
+#EXTVLCOPT:http-referrer=https://opto.sic.pt/
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|9cb4ff0c6b151be45ea5810c785e0182:e5e19518519e3f297007773311165b21
+https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_hbjg0j1v/v/11/ev/14/flavorId/1_,1lhat51h,doew1c86,t5w2pj4s,4n9vcbb0,28l66wdn,4w1ugydh,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+
 #EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/IEGCQT.png",IEGCQT S14E11 15-11-2026
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:159.0) Gecko/20100101 Firefox/159.0"
 #EXTVLCOPT:http-referrer=https://opto.sic.pt/
@@ -3208,7 +3214,6 @@ https://streaming-vod.rtp.pt/hls/nas2.share,/pt/h264/512x384/p13613/p13613_1_202
 #EXTVLCOPT:http-origin=https://www.rtp.pt
 #EXTVLCOPT:http-referrer=https://www.rtp.pt/play/direto/rtp1
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f80351a117ba3f17a26e0e8cd4dc00c4:a2226def4bc8f249de2daf36b7c12b1e
-#KODIPROP:inputstream.adaptive.drm={"org.w3.clearkey":{"keyids": { "f80351a117ba3f17a26e0e8cd4dc00c4": "a2226def4bc8f249de2daf36b7c12b1e" }
 https://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/manifest.mpd
 
 #EXTINF:-1 group-title="Teste" tvg-id="RTP1.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.pt.png",RTP 1 (DRM new)
