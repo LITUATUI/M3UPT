@@ -3231,21 +3231,21 @@ https://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.drm={"org.w3.clearkey":{"keyids":{"f80351a117ba3f17a26e0e8cd4dc00c4":"a2226def4bc8f249de2daf36b7c12b1e"}}}
 https://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/manifest.mpd
 
-#EXTINF:-1 group-title="TV" tvg-id="RTP2.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.pt.png",RTP 2 (DRM legacy)
+#EXTINF:-1 group-title="Teste" tvg-id="RTP2.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.pt.png",RTP 2 (DRM legacy)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:160.0) Gecko/20100101 Firefox/160.0"
 #EXTVLCOPT:http-origin=https://www.rtp.pt
 #EXTVLCOPT:http-referrer=https://www.rtp.pt/play/direto/rtp2
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|761e7af421a4386e82eaa861a49b3d73:f1eb56955a79e555b1f8b96aec3afa25
 https://streaming-live.rtp.pt/liverepeater/rtpClean2HD.smil/manifest.mpd
 
-#EXTINF:-1 group-title="TV" tvg-id="RTP2.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.pt.png",RTP 2 (DRM new)
+#EXTINF:-1 group-title="Teste" tvg-id="RTP2.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.pt.png",RTP 2 (DRM new)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:160.0) Gecko/20100101 Firefox/160.0"
 #EXTVLCOPT:http-origin=https://www.rtp.pt
 #EXTVLCOPT:http-referrer=https://www.rtp.pt/play/direto/rtp2
 #KODIPROP:inputstream.adaptive.drm={"org.w3.clearkey":{"keyids":{"761e7af421a4386e82eaa861a49b3d73":"f1eb56955a79e555b1f8b96aec3afa25"}}}
 https://streaming-live.rtp.pt/liverepeater/rtpClean2HD.smil/manifest.mpd
 
-#EXTINF:-1 group-title="TV" tvg-id="RTP2.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.pt.png",RTP 2 (DRM both)
+#EXTINF:-1 group-title="Teste" tvg-id="RTP2.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.pt.png",RTP 2 (DRM both)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:160.0) Gecko/20100101 Firefox/160.0"
 #EXTVLCOPT:http-origin=https://www.rtp.pt
 #EXTVLCOPT:http-referrer=https://www.rtp.pt/play/direto/rtp2
@@ -3253,21 +3253,21 @@ https://streaming-live.rtp.pt/liverepeater/rtpClean2HD.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.drm={"org.w3.clearkey":{"keyids":{"761e7af421a4386e82eaa861a49b3d73":"f1eb56955a79e555b1f8b96aec3afa25"}}}
 https://streaming-live.rtp.pt/liverepeater/rtpClean2HD.smil/manifest.mpd
 
-#EXTINF:-1 group-title="TV" tvg-id="SIC.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.pt.png",SIC (DRM legacy)
+#EXTINF:-1 group-title="Teste" tvg-id="SIC.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.pt.png",SIC (DRM legacy)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:160.0) Gecko/20100101 Firefox/160.0"
 #EXTVLCOPT:http-origin=https://opto.sic.pt/
 #EXTVLCOPT:http-referrer=https://opto.sic.pt/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e4cce7421f2843fe94915343372ba185:a55effc1eb5ccf1af1c4f09abbb1cd39
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/5e99aa024db04f4a877d37ad9512ef24/index.mpd
 
-#EXTINF:-1 group-title="TV" tvg-id="SIC.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.pt.png",SIC (DRM new)
+#EXTINF:-1 group-title="Teste" tvg-id="SIC.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.pt.png",SIC (DRM new)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:160.0) Gecko/20100101 Firefox/160.0"
 #EXTVLCOPT:http-origin=https://opto.sic.pt/
 #EXTVLCOPT:http-referrer=https://opto.sic.pt/
 #KODIPROP:inputstream.adaptive.drm={"org.w3.clearkey":{"keyids":{"e4cce7421f2843fe94915343372ba185":"a55effc1eb5ccf1af1c4f09abbb1cd39"}}}
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/5e99aa024db04f4a877d37ad9512ef24/index.mpd
 
-#EXTINF:-1 group-title="TV" tvg-id="SIC.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.pt.png",SIC (DRM both)
+#EXTINF:-1 group-title="Teste" tvg-id="SIC.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.pt.png",SIC (DRM both)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:160.0) Gecko/20100101 Firefox/160.0"
 #EXTVLCOPT:http-origin=https://opto.sic.pt/
 #EXTVLCOPT:http-referrer=https://opto.sic.pt/
