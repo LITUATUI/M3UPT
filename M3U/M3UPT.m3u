@@ -3157,7 +3157,6 @@ https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_vp0
 #EXTINF:-1 media="true" group-title="100 ou Mais" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/100_ou_Mais.png",100 ou Mais - S01E01
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:160.0) Gecko/20100101 Firefox/160.0"
 #EXTVLCOPT:http-origin=https://www.rtp.pt
-#EXTVLCOPT:http-referrer=https://www.rtp.pt/play/p12607/e737328/100-ou-mais
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|b57fd50083e83bfd85bbc31a32cf47e1:3d5f6bcf52c213ac76f5b896ee95be4e
 https://streaming-vod.rtp.pt/drm-dash/nas2.share,/h264/512x384/p12607/p12607_1_20231226161005e001t6542d_lo.mp4,/h264/512x384/p12607/p12607_1_20231226161005e001t6542d.mp4,.urlset/manifest.mpd
 
@@ -3207,44 +3206,48 @@ https://streaming-vod.rtp.pt/hls/nas2.share,/pt/h264/512x384/p13613/p13613_1_202
 https://streaming-vod.rtp.pt/hls/nas2.share,/pt/h264/512x384/p13613/p13613_1_20240807161003e006t0948d_hi.mp4,/pt/h264/512x384/p13613/p13613_1_20240807161003e006t0948d_lo.mp4,/pt/h264/512x384/p13613/p13613_1_20240807161003e006t0948d.mp4,.urlset/index-f3-v1-a1.m3u8
 
 
-# DRM test - https://github.com/xbmc/inputstream.adaptive/wiki/Integration-DRM
+# DRM test for IPTV devs - https://github.com/xbmc/inputstream.adaptive/wiki/Integration-DRM
+#
+# DRM OK: Kodi (v22), VesperTV
+# DRM Legacy OK: Kodi (v21.3), VesperTV, IPTVnator, OTT Navigator
+#
 
-#EXTINF:-1 group-title="Teste" tvg-id="RTP1.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.pt.png",RTP 1 (DRM)
+#EXTINF:-1 group-title="DRM test" tvg-id="RTP1.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.pt.png",RTP 1 (DRM)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:160.0) Gecko/20100101 Firefox/160.0"
 #EXTVLCOPT:http-origin=https://www.rtp.pt
 #EXTVLCOPT:http-referrer=https://www.rtp.pt/play/direto/rtp1
 #KODIPROP:inputstream.adaptive.drm={"org.w3.clearkey":{"license":{"keyids":{"f80351a117ba3f17a26e0e8cd4dc00c4":"a2226def4bc8f249de2daf36b7c12b1e"}}}}
 https://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/manifest.mpd
 
-#EXTINF:-1 group-title="Teste" tvg-id="RTP1.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.pt.png",RTP 1 (DRM legacy)
+#EXTINF:-1 group-title="DRM test" tvg-id="RTP1.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.pt.png",RTP 1 (DRM legacy)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:160.0) Gecko/20100101 Firefox/160.0"
 #EXTVLCOPT:http-origin=https://www.rtp.pt
 #EXTVLCOPT:http-referrer=https://www.rtp.pt/play/direto/rtp1
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f80351a117ba3f17a26e0e8cd4dc00c4:a2226def4bc8f249de2daf36b7c12b1e
 https://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/manifest.mpd
 
-#EXTINF:-1 group-title="Teste" tvg-id="RTP2.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.pt.png",RTP 2 (DRM)
+#EXTINF:-1 group-title="DRM test" tvg-id="RTP2.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.pt.png",RTP 2 (DRM)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:160.0) Gecko/20100101 Firefox/160.0"
 #EXTVLCOPT:http-origin=https://www.rtp.pt
 #EXTVLCOPT:http-referrer=https://www.rtp.pt/play/direto/rtp2
 #KODIPROP:inputstream.adaptive.drm={"org.w3.clearkey":{"license":{"keyids":{"761e7af421a4386e82eaa861a49b3d73":"f1eb56955a79e555b1f8b96aec3afa25"}}}}
 https://streaming-live.rtp.pt/liverepeater/rtpClean2HD.smil/manifest.mpd
 
-#EXTINF:-1 group-title="Teste" tvg-id="RTP2.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.pt.png",RTP 2 (DRM legacy)
+#EXTINF:-1 group-title="DRM test" tvg-id="RTP2.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.pt.png",RTP 2 (DRM legacy)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:160.0) Gecko/20100101 Firefox/160.0"
 #EXTVLCOPT:http-origin=https://www.rtp.pt
 #EXTVLCOPT:http-referrer=https://www.rtp.pt/play/direto/rtp2
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|761e7af421a4386e82eaa861a49b3d73:f1eb56955a79e555b1f8b96aec3afa25
 https://streaming-live.rtp.pt/liverepeater/rtpClean2HD.smil/manifest.mpd
 
-#EXTINF:-1 group-title="Teste" tvg-id="SIC.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.pt.png",SIC (DRM)
+#EXTINF:-1 group-title="DRM test" tvg-id="SIC.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.pt.png",SIC (DRM)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:160.0) Gecko/20100101 Firefox/160.0"
 #EXTVLCOPT:http-origin=https://opto.sic.pt/
 #EXTVLCOPT:http-referrer=https://opto.sic.pt/
 #KODIPROP:inputstream.adaptive.drm={"org.w3.clearkey":{"license":{"keyids":{"e4cce7421f2843fe94915343372ba185":"a55effc1eb5ccf1af1c4f09abbb1cd39"}}}}
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/5e99aa024db04f4a877d37ad9512ef24/index.mpd
 
-#EXTINF:-1 group-title="Teste" tvg-id="SIC.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.pt.png",SIC (DRM legacy)
+#EXTINF:-1 group-title="DRM test" tvg-id="SIC.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.pt.png",SIC (DRM legacy)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:160.0) Gecko/20100101 Firefox/160.0"
 #EXTVLCOPT:http-origin=https://opto.sic.pt/
 #EXTVLCOPT:http-referrer=https://opto.sic.pt/
